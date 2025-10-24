@@ -1,0 +1,11 @@
+{
+  "name": "troubleshooting-mcp-server",
+  "version": "1.0.1",
+  "summary": "A Model Context Protocol server for system troubleshooting and diagnostics",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/troubleshooting-mcp-server",
+  "download_filename": "troubleshooting_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-10-24T10:51:55.767947",
+  "package_url": "https://pypi.org/project/troubleshooting-mcp-server/"
+}

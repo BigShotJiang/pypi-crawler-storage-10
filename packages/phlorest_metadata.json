@@ -1,0 +1,11 @@
+{
+  "name": "phlorest",
+  "version": "1.7.0",
+  "summary": "A cldfbench plugin to curate language phylogenies",
+  "author": "Simon Greenhill and Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/phlorest/phlorest",
+  "download_filename": "phlorest-1.7.0.tar.gz",
+  "download_time": "2025-10-24T10:52:18.994349",
+  "package_url": "https://pypi.org/project/phlorest/"
+}
