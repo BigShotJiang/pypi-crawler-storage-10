@@ -1,0 +1,11 @@
+{
+  "name": "MISPSight",
+  "version": "1.1.0",
+  "summary": "A client that retrieves vulnerability observations from a MISP server and pushes them to a Vulnerability-Lookup instance.",
+  "author": "Cédric Bonhomme",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mispsight-1.1.0.tar.gz",
+  "download_time": "2025-10-24T17:14:59.558094",
+  "package_url": "https://pypi.org/project/MISPSight/"
+}

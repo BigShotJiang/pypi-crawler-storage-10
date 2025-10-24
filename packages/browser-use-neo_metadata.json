@@ -1,0 +1,11 @@
+{
+  "name": "browser-use-neo",
+  "version": "0.0.5",
+  "summary": "This fork adds robust Azure OpenAI support, including AD token authentication, default Azure model/version, and improved environment variable handling for seamless LLM configuration.",
+  "author": "Konstantin Ganz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "browser_use_neo-0.0.5.tar.gz",
+  "download_time": "2025-10-24T17:15:12.701322",
+  "package_url": "https://pypi.org/project/browser-use-neo/"
+}

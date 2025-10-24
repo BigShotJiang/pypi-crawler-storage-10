@@ -1,11 +1,11 @@
 {
   "name": "selfw",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Un framework Selenium para automatizar pruebas de forma simple",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "selfw-0.2.1.tar.gz",
-  "download_time": "2025-10-24T16:47:23.137774",
+  "download_filename": "selfw-0.2.2.tar.gz",
+  "download_time": "2025-10-24T17:15:20.756130",
   "package_url": "https://pypi.org/project/selfw/"
 }

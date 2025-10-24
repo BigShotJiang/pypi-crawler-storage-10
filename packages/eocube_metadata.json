@@ -1,0 +1,11 @@
+{
+  "name": "eocube",
+  "version": "0.1.0",
+  "summary": "Support tool and library for EOCube.Ro",
+  "author": "Marian Neagul",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eocube-0.1.0.tar.gz",
+  "download_time": "2025-10-24T17:15:03.716932",
+  "package_url": "https://pypi.org/project/eocube/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-eflo-controller20221215",
+  "version": "2.8.0",
+  "summary": "Alibaba Cloud eflo-controller (20221215) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_eflo_controller20221215-2.8.0-py3-none-any.whl",
+  "download_time": "2025-10-24T17:14:49.323020",
+  "package_url": "https://pypi.org/project/alibabacloud-eflo-controller20221215/"
+}
