@@ -1,11 +1,11 @@
 {
   "name": "distry-py",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Distributed task execution framework",
   "author": "Carlo Moro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "distry_py-0.1.1.tar.gz",
-  "download_time": "2025-10-24T23:29:59.183760",
+  "download_filename": "distry_py-0.2.1.tar.gz",
+  "download_time": "2025-10-24T23:50:05.905703",
   "package_url": "https://pypi.org/project/distry-py/"
 }

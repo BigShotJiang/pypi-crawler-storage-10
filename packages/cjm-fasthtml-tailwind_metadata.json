@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-tailwind",
+  "version": "0.0.43",
+  "summary": "Python-native Tailwind CSS v4 utility builder providing dynamic class generation with full abstraction for FastHTML projects.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-tailwind",
+  "download_filename": "cjm_fasthtml_tailwind-0.0.43.tar.gz",
+  "download_time": "2025-10-24T23:50:08.100453",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-tailwind/"
+}
