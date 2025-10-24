@@ -1,0 +1,11 @@
+{
+  "name": "django-decide-host",
+  "version": "0.3.11",
+  "summary": "A Django-based database for trials and events in the decide operant control system",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "django_decide_host-0.3.11.tar.gz",
+  "download_time": "2025-10-24T18:23:31.183570",
+  "package_url": "https://pypi.org/project/django-decide-host/"
+}

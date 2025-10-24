@@ -1,0 +1,11 @@
+{
+  "name": "FlexibleDate",
+  "version": "1.0.9",
+  "summary": "This is a library used to make fuzzy date comparisons.",
+  "author": "Record Linking Lab",
+  "license": null,
+  "home_page": "https://github.com/byuawsfhtl/FlexibleDate.git",
+  "download_filename": "flexibledate-1.0.9.tar.gz",
+  "download_time": "2025-10-24T18:23:14.669581",
+  "package_url": "https://pypi.org/project/FlexibleDate/"
+}

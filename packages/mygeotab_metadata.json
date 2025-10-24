@@ -1,0 +1,11 @@
+{
+  "name": "mygeotab",
+  "version": "0.9.4",
+  "summary": "A Python client for the MyGeotab SDK",
+  "author": "Geotab Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/geotab/mygeotab-python",
+  "download_filename": "mygeotab-0.9.4.tar.gz",
+  "download_time": "2025-10-24T18:23:22.869904",
+  "package_url": "https://pypi.org/project/mygeotab/"
+}

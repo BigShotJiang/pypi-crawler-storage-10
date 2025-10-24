@@ -1,0 +1,11 @@
+{
+  "name": "aiconfigurator",
+  "version": "0.3.0",
+  "summary": "aiconfigurator: automatic disaggregated serving offline configuration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiconfigurator-0.3.0-py3-none-any.whl",
+  "download_time": "2025-10-24T18:23:40.665096",
+  "package_url": "https://pypi.org/project/aiconfigurator/"
+}

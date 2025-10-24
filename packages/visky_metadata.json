@@ -1,0 +1,11 @@
+{
+  "name": "visky",
+  "version": "0.0.0",
+  "summary": "Given an earth location, plot lines of constant hour angle and declination on an azimuth-elevation grid",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "visky-0.0.0.tar.gz",
+  "download_time": "2025-10-24T18:23:21.836559",
+  "package_url": "https://pypi.org/project/visky/"
+}

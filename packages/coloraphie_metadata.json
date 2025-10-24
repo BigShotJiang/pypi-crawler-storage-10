@@ -1,0 +1,11 @@
+{
+  "name": "coloraphie",
+  "version": "1.0.0",
+  "summary": "Простая библиотека для цветного текста в консоли",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coloraphie-1.0.0.tar.gz",
+  "download_time": "2025-10-24T18:23:27.522129",
+  "package_url": "https://pypi.org/project/coloraphie/"
+}

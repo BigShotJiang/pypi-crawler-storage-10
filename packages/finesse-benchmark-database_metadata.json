@@ -1,0 +1,11 @@
+{
+  "name": "finesse-benchmark-database",
+  "version": "0.1.1",
+  "summary": "Data generation factory for atomic probes in Finesse benchmark. Generates probes_atomic.jsonl from Wikimedia Wikipedia.",
+  "author": "winter.sci.dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finesse_benchmark_database-0.1.1.tar.gz",
+  "download_time": "2025-10-24T18:23:10.560183",
+  "package_url": "https://pypi.org/project/finesse-benchmark-database/"
+}

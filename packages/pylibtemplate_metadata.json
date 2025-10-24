@@ -1,0 +1,11 @@
+{
+  "name": "pylibtemplate",
+  "version": "0.0.7",
+  "summary": "A Python library that generates `git` repository templates for building Python libraries that are suitable for publication on PyPI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylibtemplate-0.0.7.tar.gz",
+  "download_time": "2025-10-24T18:23:46.333883",
+  "package_url": "https://pypi.org/project/pylibtemplate/"
+}
