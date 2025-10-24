@@ -1,11 +1,11 @@
 {
   "name": "email-signature-detector",
-  "version": "0.1.11",
+  "version": "0.1.10",
   "summary": "A library to predict email signatures using an ONNX model.",
   "author": "Numeo AI Team",
   "license": null,
   "home_page": "https://github.com/numeo-ai/email-signature-detector",
-  "download_filename": "email_signature_detector-0.1.11.tar.gz",
-  "download_time": "2025-10-24T18:46:51.525077",
+  "download_filename": "email_signature_detector-0.1.10.tar.gz",
+  "download_time": "2025-10-24T19:13:44.841098",
   "package_url": "https://pypi.org/project/email-signature-detector/"
 }

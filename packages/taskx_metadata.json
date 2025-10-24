@@ -1,0 +1,11 @@
+{
+  "name": "taskx",
+  "version": "0.2.1",
+  "summary": "Modern Python task runner - npm scripts for Python",
+  "author": "taskx Project",
+  "license": "Proprietary - See LICENSE file",
+  "home_page": null,
+  "download_filename": "taskx-0.2.1.tar.gz",
+  "download_time": "2025-10-24T19:13:34.944233",
+  "package_url": "https://pypi.org/project/taskx/"
+}

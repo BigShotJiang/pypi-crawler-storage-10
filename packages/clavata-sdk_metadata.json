@@ -1,0 +1,11 @@
+{
+  "name": "clavata-sdk",
+  "version": "1.0.2",
+  "summary": "Clavata SDK for Python",
+  "author": "Brett Levenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clavata_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-24T19:13:20.188357",
+  "package_url": "https://pypi.org/project/clavata-sdk/"
+}

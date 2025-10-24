@@ -1,0 +1,11 @@
+{
+  "name": "gcmd",
+  "version": "0.1.0",
+  "summary": "Command-line utilities for Google services (Drive, Docs, Sheets, and more)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gcmd-0.1.0.tar.gz",
+  "download_time": "2025-10-24T19:13:22.061573",
+  "package_url": "https://pypi.org/project/gcmd/"
+}

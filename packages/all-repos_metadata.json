@@ -1,0 +1,11 @@
+{
+  "name": "all-repos",
+  "version": "1.31.0",
+  "summary": "Clone all your repositories and apply sweeping changes.",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/all-repos",
+  "download_filename": "all_repos-1.31.0.tar.gz",
+  "download_time": "2025-10-24T19:13:31.059411",
+  "package_url": "https://pypi.org/project/all-repos/"
+}
