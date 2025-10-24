@@ -1,0 +1,11 @@
+{
+  "name": "h5pywrappers",
+  "version": "0.0.5",
+  "summary": "Contains several functions used to facilitate loading data from and saving data to HDF5 files. These functions are wrappers that call functions from the library ``h5py``.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h5pywrappers-0.0.5.tar.gz",
+  "download_time": "2025-10-24T23:15:02.201561",
+  "package_url": "https://pypi.org/project/h5pywrappers/"
+}

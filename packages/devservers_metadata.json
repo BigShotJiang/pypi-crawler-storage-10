@@ -1,0 +1,11 @@
+{
+  "name": "devservers",
+  "version": "0.0.1",
+  "summary": "A Kubernetes operator for dev servers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devservers-0.0.1-py3-none-any.whl",
+  "download_time": "2025-10-24T23:15:23.866281",
+  "package_url": "https://pypi.org/project/devservers/"
+}

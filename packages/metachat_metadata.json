@@ -1,0 +1,11 @@
+{
+  "name": "metachat",
+  "version": "0.0.6",
+  "summary": "Spatial metabolic communication flow of cells.",
+  "author": "Songhao Luo",
+  "license": "MIT License",
+  "home_page": "https://https://github.com/SonghaoLuo/metachat",
+  "download_filename": "metachat-0.0.6.tar.gz",
+  "download_time": "2025-10-24T23:15:14.917846",
+  "package_url": "https://pypi.org/project/metachat/"
+}

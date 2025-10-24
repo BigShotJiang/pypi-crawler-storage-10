@@ -1,0 +1,11 @@
+{
+  "name": "caniscrape",
+  "version": "0.3.0",
+  "summary": "Analyze website anti-bot protections before you scrape",
+  "author": "Zaid Ahmed",
+  "license": "MIT",
+  "home_page": "https://github.com/ZA1815/caniscrape",
+  "download_filename": "caniscrape-0.3.0.tar.gz",
+  "download_time": "2025-10-24T23:15:01.127074",
+  "package_url": "https://pypi.org/project/caniscrape/"
+}

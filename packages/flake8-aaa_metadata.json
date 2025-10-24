@@ -1,0 +1,11 @@
+{
+  "name": "flake8-aaa",
+  "version": "0.17.1",
+  "summary": "A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern",
+  "author": "James Cooke",
+  "license": "MIT",
+  "home_page": "https://github.com/jamescooke/flake8-aaa",
+  "download_filename": "flake8_aaa-0.17.1.tar.gz",
+  "download_time": "2025-10-24T23:15:15.455511",
+  "package_url": "https://pypi.org/project/flake8-aaa/"
+}

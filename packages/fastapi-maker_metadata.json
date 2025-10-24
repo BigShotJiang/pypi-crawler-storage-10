@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-maker",
+  "version": "0.0.1",
+  "summary": "A CLI tool to scaffold FastAPI projects and modules (work in progress).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_maker-0.0.1.tar.gz",
+  "download_time": "2025-10-24T23:15:07.541393",
+  "package_url": "https://pypi.org/project/fastapi-maker/"
+}

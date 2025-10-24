@@ -1,11 +1,11 @@
 {
   "name": "lsbible",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "LSBible API client - structured, type-safe Bible SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lsbible-0.1.0.tar.gz",
-  "download_time": "2025-10-24T18:23:32.717719",
+  "download_filename": "lsbible-0.2.0.tar.gz",
+  "download_time": "2025-10-24T23:15:04.849489",
   "package_url": "https://pypi.org/project/lsbible/"
 }
