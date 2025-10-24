@@ -1,0 +1,11 @@
+{
+  "name": "ProtoLLM",
+  "version": "0.1.6",
+  "summary": "A library with which to prototype LLM-based applications quickly and easily.",
+  "author": "aimclub",
+  "license": null,
+  "home_page": "https://github.com/aimclub/ProtoLLM",
+  "download_filename": "protollm-0.1.6.tar.gz",
+  "download_time": "2025-10-24T12:36:07.441848",
+  "package_url": "https://pypi.org/project/ProtoLLM/"
+}

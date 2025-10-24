@@ -1,0 +1,11 @@
+{
+  "name": "bloodhound-ce",
+  "version": "1.9.1",
+  "summary": "Python based ingestor for BloodHound Community Edition",
+  "author": "Dirk-jan Mollema, Edwin van Vliet, Matthijs Gielen",
+  "license": "MIT",
+  "home_page": "https://github.com/dirkjanm/bloodhound.py",
+  "download_filename": "bloodhound_ce-1.9.1.tar.gz",
+  "download_time": "2025-10-24T12:35:51.776855",
+  "package_url": "https://pypi.org/project/bloodhound-ce/"
+}

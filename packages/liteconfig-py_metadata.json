@@ -1,0 +1,11 @@
+{
+  "name": "liteconfig-py",
+  "version": "0.2.0",
+  "summary": "A minimal, flexible Python configuration loader with environment variable support",
+  "author": "TickTockBent",
+  "license": "MIT",
+  "home_page": "https://github.com/TickTockBent/liteconfig_py",
+  "download_filename": "liteconfig_py-0.2.0.tar.gz",
+  "download_time": "2025-10-24T12:35:47.089950",
+  "package_url": "https://pypi.org/project/liteconfig-py/"
+}

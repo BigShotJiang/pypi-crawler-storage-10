@@ -1,0 +1,11 @@
+{
+  "name": "pyuftp",
+  "version": "1.0.5",
+  "summary": "UFTP (UNICORE FTP) commandline client",
+  "author": "Bernd Schuller",
+  "license": "License :: OSI Approved :: BSD",
+  "home_page": "https://github.com/UNICORE-EU/pyuftp",
+  "download_filename": "pyuftp-1.0.5.tar.gz",
+  "download_time": "2025-10-24T12:36:21.021035",
+  "package_url": "https://pypi.org/project/pyuftp/"
+}

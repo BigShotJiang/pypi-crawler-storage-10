@@ -1,0 +1,11 @@
+{
+  "name": "hstrat",
+  "version": "1.20.16",
+  "summary": "hstrat enables phylogenetic inference on distributed digital evolution populations",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "hstrat-1.20.16.tar.gz",
+  "download_time": "2025-10-24T12:35:55.941891",
+  "package_url": "https://pypi.org/project/hstrat/"
+}

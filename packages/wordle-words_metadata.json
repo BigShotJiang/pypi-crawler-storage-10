@@ -1,0 +1,11 @@
+{
+  "name": "wordle-words",
+  "version": "0.1.0",
+  "summary": "Package for generating Wordle words",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wordle_words-0.1.0.tar.gz",
+  "download_time": "2025-10-24T12:36:13.701090",
+  "package_url": "https://pypi.org/project/wordle-words/"
+}

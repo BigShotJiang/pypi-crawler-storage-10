@@ -1,0 +1,11 @@
+{
+  "name": "pysbf2",
+  "version": "1.0.2",
+  "summary": "SBF protocol parser and generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysbf2-1.0.2.tar.gz",
+  "download_time": "2025-10-24T12:35:55.410181",
+  "package_url": "https://pypi.org/project/pysbf2/"
+}

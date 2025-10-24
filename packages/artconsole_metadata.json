@@ -1,0 +1,11 @@
+{
+  "name": "artconsole",
+  "version": "1.0.7",
+  "summary": "This is a simple library for outputting to the console or receiving simple ASCII art as a string.",
+  "author": "Dima M. Shirokov",
+  "license": null,
+  "home_page": "https://github.com/1123581321345589144233377610/artconsole",
+  "download_filename": "artconsole-1.0.7.tar.gz",
+  "download_time": "2025-10-24T12:35:56.462520",
+  "package_url": "https://pypi.org/project/artconsole/"
+}

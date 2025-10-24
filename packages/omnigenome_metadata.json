@@ -1,0 +1,11 @@
+{
+  "name": "omnigenome",
+  "version": "0.3.22a0",
+  "summary": "OmniGenome: A comprehensive toolkit for genome analysis.",
+  "author": "Yang, Heng",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yangheng95/OmniGenBench",
+  "download_filename": "omnigenome-0.3.22a0.tar.gz",
+  "download_time": "2025-10-24T12:36:23.618984",
+  "package_url": "https://pypi.org/project/omnigenome/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tf-kan-latest",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "summary": "A Keras-native implementation of Kolmogorov-Arnold Networks (KANs) for TensorFlow.",
   "author": "Sathyasubrahmanya v S",
   "license": null,
   "home_page": "https://github.com/sathyasubrahmanya/tf-kan",
-  "download_filename": "tf_kan_latest-1.0.5.tar.gz",
-  "download_time": "2025-10-24T11:29:44.214384",
+  "download_filename": "tf_kan_latest-1.0.9.tar.gz",
+  "download_time": "2025-10-24T12:35:54.889110",
   "package_url": "https://pypi.org/project/tf-kan-latest/"
 }

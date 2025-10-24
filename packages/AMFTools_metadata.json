@@ -1,0 +1,11 @@
+{
+  "name": "AMFTools",
+  "version": "0.1.10",
+  "summary": "AMF Tools is a python package to control Advanced Microfluics SA devices",
+  "author": "Advanced_Microfluidics_SA",
+  "license": "proprietary license (Advanced Microfluidics SA)",
+  "home_page": "https://amf.ch",
+  "download_filename": "amftools-0.1.10.tar.gz",
+  "download_time": "2025-10-24T12:35:52.294941",
+  "package_url": "https://pypi.org/project/AMFTools/"
+}
