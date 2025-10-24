@@ -1,0 +1,11 @@
+{
+  "name": "lychrel",
+  "version": "0.8.0",
+  "summary": "A collection of functions to play with Lychrel numbers and other funny mathematical problems",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/alesanfra/lychrel",
+  "download_filename": "lychrel-0.8.0.tar.gz",
+  "download_time": "2025-10-24T19:37:54.328536",
+  "package_url": "https://pypi.org/project/lychrel/"
+}

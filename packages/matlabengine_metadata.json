@@ -1,0 +1,11 @@
+{
+  "name": "matlabengine",
+  "version": "26.1.1",
+  "summary": "A module to call MATLAB from Python",
+  "author": "MathWorks",
+  "license": "LICENSE.txt, located in this repository",
+  "home_page": "https://github.com/mathworks/matlab-engine-for-python/",
+  "download_filename": "matlabengine-26.1.1.tar.gz",
+  "download_time": "2025-10-24T19:38:00.577479",
+  "package_url": "https://pypi.org/project/matlabengine/"
+}
