@@ -1,0 +1,11 @@
+{
+  "name": "ncempy",
+  "version": "1.14",
+  "summary": "openNCEM's Python Package",
+  "author": "P. Ercius, F. Niekiel, C. Ophus, T. Pekin, Z. Gainsforth",
+  "license": "GPLv3+, MIT",
+  "home_page": "https://github.com/ercius/openNCEM",
+  "download_filename": "ncempy-1.14.tar.gz",
+  "download_time": "2025-10-24T17:49:53.746469",
+  "package_url": "https://pypi.org/project/ncempy/"
+}

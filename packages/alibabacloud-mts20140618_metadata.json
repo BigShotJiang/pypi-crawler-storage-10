@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-mts20140618",
+  "version": "6.0.1",
+  "summary": "Alibaba Cloud ApsaraVideo for Media Processing (20140618) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_mts20140618-6.0.1.tar.gz",
+  "download_time": "2025-10-24T17:49:51.582747",
+  "package_url": "https://pypi.org/project/alibabacloud-mts20140618/"
+}

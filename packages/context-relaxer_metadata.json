@@ -1,0 +1,11 @@
+{
+  "name": "context-relaxer",
+  "version": "0.1.0",
+  "summary": "Relax python default SSL Context verification flags",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "context_relaxer-0.1.0.tar.gz",
+  "download_time": "2025-10-24T17:49:52.677815",
+  "package_url": "https://pypi.org/project/context-relaxer/"
+}

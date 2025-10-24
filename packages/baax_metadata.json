@@ -1,0 +1,11 @@
+{
+  "name": "baax",
+  "version": "1.0.0",
+  "summary": "A backend accelerator CLI tool for Python frameworks like Flask, Django, FastAPI.",
+  "author": "Nagaraj Neelam",
+  "license": null,
+  "home_page": "https://github.com/BaaxCli/baax",
+  "download_filename": "baax-1.0.0.tar.gz",
+  "download_time": "2025-10-24T17:49:32.606838",
+  "package_url": "https://pypi.org/project/baax/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "system-metrics-easy",
+  "version": "1.2.0",
+  "summary": "A comprehensive server monitoring tool that collects and sends system metrics to a Socket.IO server",
+  "author": "Moonsys",
+  "license": "MIT",
+  "home_page": "https://github.com/hamzaig/system-metrics-easy",
+  "download_filename": "system_metrics_easy-1.2.0.tar.gz",
+  "download_time": "2025-10-24T17:49:42.361928",
+  "package_url": "https://pypi.org/project/system-metrics-easy/"
+}

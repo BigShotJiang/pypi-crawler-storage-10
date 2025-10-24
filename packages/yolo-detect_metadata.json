@@ -1,0 +1,11 @@
+{
+  "name": "yolo-detect",
+  "version": "0.0.1",
+  "summary": "Yolo detection toolkit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yolo_detect-0.0.1.tar.gz",
+  "download_time": "2025-10-24T17:49:17.711923",
+  "package_url": "https://pypi.org/project/yolo-detect/"
+}

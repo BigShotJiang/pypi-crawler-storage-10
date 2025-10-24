@@ -1,0 +1,11 @@
+{
+  "name": "score_loader",
+  "version": "0.0.4",
+  "summary": "Python implementation of the score.dev specification, allowing to load workload definition and applying a first pass of evaluation for ${metadata...} placeholders.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "score_loader-0.0.4.tar.gz",
+  "download_time": "2025-10-24T17:49:45.060595",
+  "package_url": "https://pypi.org/project/score_loader/"
+}

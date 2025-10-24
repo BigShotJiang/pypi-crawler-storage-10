@@ -1,0 +1,11 @@
+{
+  "name": "notte-sdk",
+  "version": "1.7.9",
+  "summary": "The SDK for Notte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notte_sdk-1.7.9.tar.gz",
+  "download_time": "2025-10-24T17:49:22.684040",
+  "package_url": "https://pypi.org/project/notte-sdk/"
+}
