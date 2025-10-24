@@ -1,0 +1,11 @@
+{
+  "name": "garbage-classifier",
+  "version": "1.0.0",
+  "summary": "Finetunned ResNet18 for garbage image classification",
+  "author": "Melchor Lafuente, Iker Jauregui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "garbage_classifier-1.0.0.tar.gz",
+  "download_time": "2025-10-24T11:30:20.830757",
+  "package_url": "https://pypi.org/project/garbage-classifier/"
+}

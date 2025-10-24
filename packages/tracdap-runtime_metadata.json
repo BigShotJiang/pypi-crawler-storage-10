@@ -1,0 +1,11 @@
+{
+  "name": "tracdap-runtime",
+  "version": "0.9.3",
+  "summary": "Portable, production-grade models in Python",
+  "author": "Martin Traverse",
+  "license": "Apache-2.0",
+  "home_page": "https://www.fintrac.co.uk/",
+  "download_filename": "tracdap_runtime-0.9.3.tar.gz",
+  "download_time": "2025-10-24T11:30:25.023483",
+  "package_url": "https://pypi.org/project/tracdap-runtime/"
+}

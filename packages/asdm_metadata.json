@@ -1,0 +1,11 @@
+{
+  "name": "asdm",
+  "version": "0.6.1",
+  "summary": "A Python package for System Dynamics Modeling",
+  "author": "Matt Stammers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asdm-0.6.1.tar.gz",
+  "download_time": "2025-10-24T11:30:18.755417",
+  "package_url": "https://pypi.org/project/asdm/"
+}

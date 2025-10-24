@@ -1,0 +1,11 @@
+{
+  "name": "yappi",
+  "version": "1.7.3",
+  "summary": "Yet Another Python Profiler",
+  "author": "Sümer Cip",
+  "license": "MIT",
+  "home_page": "https://github.com/sumerc/yappi",
+  "download_filename": "yappi-1.7.3.tar.gz",
+  "download_time": "2025-10-24T11:29:57.852031",
+  "package_url": "https://pypi.org/project/yappi/"
+}

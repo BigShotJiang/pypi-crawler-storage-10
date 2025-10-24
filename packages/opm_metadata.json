@@ -1,0 +1,11 @@
+{
+  "name": "opm",
+  "version": "2025.10",
+  "summary": "OPM-Common Python bindings",
+  "author": "The Open Porous Media Project",
+  "license": "GPL-3.0-or-later",
+  "home_page": "http://www.opm-project.org",
+  "download_filename": "opm-2025.10-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-24T11:30:05.731877",
+  "package_url": "https://pypi.org/project/opm/"
+}

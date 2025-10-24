@@ -1,0 +1,11 @@
+{
+  "name": "pywargame",
+  "version": "0.5.4",
+  "summary": "Python library to manipulate wargame modules",
+  "author": "Christian Holm Christensen",
+  "license": "CC-BY-SA-4.0",
+  "home_page": "https://wargames_tex.gitlab.io/pywargame/",
+  "download_filename": "pywargame-0.5.4.tar.gz",
+  "download_time": "2025-10-24T11:30:12.498251",
+  "package_url": "https://pypi.org/project/pywargame/"
+}

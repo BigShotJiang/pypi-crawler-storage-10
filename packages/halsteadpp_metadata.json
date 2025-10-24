@@ -1,0 +1,11 @@
+{
+  "name": "halsteadpp",
+  "version": "0.1.1",
+  "summary": "A Python tool for analyzing C code complexity using Halstead and Cyclomatic metrics.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "halsteadpp-0.1.1.tar.gz",
+  "download_time": "2025-10-24T11:30:09.894516",
+  "package_url": "https://pypi.org/project/halsteadpp/"
+}
