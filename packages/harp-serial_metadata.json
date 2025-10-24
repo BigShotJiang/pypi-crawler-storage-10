@@ -1,0 +1,11 @@
+{
+  "name": "harp-serial",
+  "version": "0.4.0",
+  "summary": "Library for data acquisition and control of devices implementing the Harp protocol.",
+  "author": "Hardware and Software Platform, Champalimaud Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "harp_serial-0.4.0.tar.gz",
+  "download_time": "2025-10-24T14:43:36.282586",
+  "package_url": "https://pypi.org/project/harp-serial/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tigerodm",
+  "version": "0.0.0a1",
+  "summary": "Placeholder package to reserve the 'tigerodm' name. Official releases coming soon.",
+  "author": "TigerODM authors",
+  "license": "MIT",
+  "home_page": "https://example.com/tigerodm",
+  "download_filename": "tigerodm-0.0.0a1.tar.gz",
+  "download_time": "2025-10-24T14:43:49.353598",
+  "package_url": "https://pypi.org/project/tigerodm/"
+}

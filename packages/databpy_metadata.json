@@ -1,0 +1,11 @@
+{
+  "name": "databpy",
+  "version": "0.4.2",
+  "summary": "A data-oriented wrapper library for the Blender Python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databpy-0.4.2.tar.gz",
+  "download_time": "2025-10-24T14:44:17.681060",
+  "package_url": "https://pypi.org/project/databpy/"
+}

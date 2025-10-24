@@ -1,0 +1,11 @@
+{
+  "name": "s1ncipher",
+  "version": "0.3.2",
+  "summary": "A simple cipher keeps original order and can be search partly by encode 1 byte data to many bytes.",
+  "author": "rRR0VrFP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "s1ncipher-0.3.2.tar.gz",
+  "download_time": "2025-10-24T14:43:41.059924",
+  "package_url": "https://pypi.org/project/s1ncipher/"
+}

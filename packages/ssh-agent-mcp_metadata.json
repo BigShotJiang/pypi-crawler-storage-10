@@ -1,11 +1,11 @@
 {
   "name": "ssh-agent-mcp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "SSH Agent MCP服务 - 通过命令行参数或JSON配置文件管理SSH连接的MCP服务器",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/sshagent",
-  "download_filename": "ssh_agent_mcp-0.2.2.tar.gz",
-  "download_time": "2025-10-24T14:17:01.573828",
+  "download_filename": "ssh_agent_mcp-0.2.3.tar.gz",
+  "download_time": "2025-10-24T14:43:59.733005",
   "package_url": "https://pypi.org/project/ssh-agent-mcp/"
 }

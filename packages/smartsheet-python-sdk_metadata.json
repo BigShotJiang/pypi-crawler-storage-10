@@ -1,0 +1,11 @@
+{
+  "name": "smartsheet-python-sdk",
+  "version": "3.5.0",
+  "summary": "Library that uses Python to connect to Smartsheet services (using API 2.0).",
+  "author": "Smartsheet",
+  "license": "Apache-2.0",
+  "home_page": "http://smartsheet-platform.github.io/api-docs/",
+  "download_filename": "smartsheet_python_sdk-3.5.0-py2.py3-none-any.whl",
+  "download_time": "2025-10-24T14:43:50.960249",
+  "package_url": "https://pypi.org/project/smartsheet-python-sdk/"
+}

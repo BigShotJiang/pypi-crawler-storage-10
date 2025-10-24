@@ -1,0 +1,11 @@
+{
+  "name": "pythaiidcard",
+  "version": "0.3.0",
+  "summary": "Python library for reading Thai national ID cards using smartcard readers",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "pythaiidcard-0.3.0-py3-none-any.whl",
+  "download_time": "2025-10-24T14:43:32.941532",
+  "package_url": "https://pypi.org/project/pythaiidcard/"
+}

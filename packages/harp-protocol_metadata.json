@@ -1,0 +1,11 @@
+{
+  "name": "harp-protocol",
+  "version": "0.4.0",
+  "summary": "Library with the base types for Harp protocol usage.",
+  "author": "Hardware and Software Platform, Champalimaud Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "harp_protocol-0.4.0.tar.gz",
+  "download_time": "2025-10-24T14:43:37.332222",
+  "package_url": "https://pypi.org/project/harp-protocol/"
+}

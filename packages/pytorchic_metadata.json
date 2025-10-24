@@ -1,0 +1,11 @@
+{
+  "name": "pytorchic",
+  "version": "5.0.0",
+  "summary": "A framework for instantly building flexible PyTorch models.",
+  "author": "Mattia Matteini",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytorchic-5.0.0.tar.gz",
+  "download_time": "2025-10-24T14:43:39.474760",
+  "package_url": "https://pypi.org/project/pytorchic/"
+}

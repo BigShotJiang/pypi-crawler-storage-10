@@ -1,11 +1,11 @@
 {
   "name": "dnnets",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Running multilayer perceptrons on the CPU",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dnnets-0.2.0.tar.gz",
-  "download_time": "2025-10-24T12:36:06.404043",
+  "download_filename": "dnnets-0.2.1.tar.gz",
+  "download_time": "2025-10-24T14:43:56.954864",
   "package_url": "https://pypi.org/project/dnnets/"
 }
