@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T11:42:00.566535
-- **Total Packages**: 82
-- **Total Size**: 4.25 MB
+- **Download Time**: 2025-10-24T11:51:40.463421
+- **Total Packages**: 88
+- **Total Size**: 15.51 MB
 
 ## Packages List
+- qtoggleserver-paradox
+- qtoggleserver-raspigpio
+- qtoggleserver-mqtt
+- qtoggleserver-mppsolar
+- qtoggleserver-modbus
+- mongo-charms-single-kernel
+- qtoggleserver-generic-http
+- qtoggleserver-eq3bt
+- qtoggleserver-cmdline
+- vibego
+- wujihandpy
+- apkpatcher
+- mkdocs-minify-html-plugin
+- stuzha
+- pyrudof
+- strapi-client
+- arcturus-buildkit
+- cryspy
+- streamlit-launcher
+- cognite-toolkit
+- bapao
+- abtk
+- agentkernel
+- geospace
+- pyindicators
 - silmused
 - linux_macrorecorder
 - pexams
@@ -26,7 +51,6 @@
 - saplexer
 - user-agents-man
 - sysstra
-- agentkernel
 - materia-epd
 - llumo
 - wayspiritmcp-weather
@@ -70,21 +94,3 @@
 - py-wlcommands
 - spx-sdk
 - nustattools
-- jpmml-evaluator
-- opm
-- arcturus-buildkit
-- yellowdog-python-examples
-- booktest
-- toadr3
-- yta-editor-nodes-gpu
-- antchain
-- fairsharing-client
-- halsteadpp
-- flt
-- tm-tc-code-generator
-- imandra
-- apolo-app-types
-- pywargame
-- beanis
-- langchain-ydb
-- huscy.project-design

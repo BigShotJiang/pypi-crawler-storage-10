@@ -1,0 +1,11 @@
+{
+  "name": "cryspy",
+  "version": "0.9.1",
+  "summary": "PNPD data analysis",
+  "author": "Iurii Kibalin",
+  "license": "MIT License",
+  "home_page": "https://github.com/ikibalin/cryspy",
+  "download_filename": "cryspy-0.9.1.tar.gz",
+  "download_time": "2025-10-24T11:51:03.063521",
+  "package_url": "https://pypi.org/project/cryspy/"
+}

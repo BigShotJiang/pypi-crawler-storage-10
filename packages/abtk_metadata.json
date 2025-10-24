@@ -1,0 +1,11 @@
+{
+  "name": "abtk",
+  "version": "0.4.0",
+  "summary": "A/B Testing Toolkit - Statistical analysis library for A/B tests",
+  "author": "Alexei Veselov",
+  "license": "MIT",
+  "home_page": "https://github.com/alexeiveselov92/abtk",
+  "download_filename": "abtk-0.4.0.tar.gz",
+  "download_time": "2025-10-24T11:51:05.199256",
+  "package_url": "https://pypi.org/project/abtk/"
+}
