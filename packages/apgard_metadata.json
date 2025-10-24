@@ -1,11 +1,11 @@
 {
   "name": "apgard",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "SDK for safeguarding AI chatbots and minors",
   "author": "Ariel Colon",
   "license": null,
   "home_page": "https://github.com/ariel-colon/apgard.git",
-  "download_filename": "apgard-0.1.7.tar.gz",
-  "download_time": "2025-10-24T23:15:10.216072",
+  "download_filename": "apgard-0.1.8.tar.gz",
+  "download_time": "2025-10-24T23:29:59.721006",
   "package_url": "https://pypi.org/project/apgard/"
 }
