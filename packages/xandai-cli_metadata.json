@@ -1,11 +1,11 @@
 {
   "name": "xandai-cli",
-  "version": "2.1.8",
+  "version": "2.1.9",
   "summary": "XandAI - Multi-Provider AI Terminal Assistant with Interactive Code Execution",
   "author": "XandAI-project",
   "license": "MIT",
   "home_page": "https://github.com/XandAI-project/Xandai-CLI",
-  "download_filename": "xandai_cli-2.1.8.tar.gz",
-  "download_time": "2025-10-24T19:50:26.064001",
+  "download_filename": "xandai_cli-2.1.9.tar.gz",
+  "download_time": "2025-10-24T20:41:13.784312",
   "package_url": "https://pypi.org/project/xandai-cli/"
 }

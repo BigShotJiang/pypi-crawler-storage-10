@@ -1,0 +1,11 @@
+{
+  "name": "rokuvim",
+  "version": "1.5.2",
+  "summary": "Keyboard-driven Roku remote for the terminal",
+  "author": "heheoppsy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rokuvim-1.5.2.tar.gz",
+  "download_time": "2025-10-24T20:41:02.378155",
+  "package_url": "https://pypi.org/project/rokuvim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "168x-cua",
+  "version": "0.1.12",
+  "summary": "Computer Use Automation (CUA) client for remote function execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "168x_cua-0.1.12.tar.gz",
+  "download_time": "2025-10-24T20:40:55.961401",
+  "package_url": "https://pypi.org/project/168x-cua/"
+}

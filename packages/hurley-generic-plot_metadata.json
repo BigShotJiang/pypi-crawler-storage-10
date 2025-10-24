@@ -1,11 +1,11 @@
 {
   "name": "hurley-generic-plot",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Just some generic functions to make plots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hurley_generic_plot-0.1.9.tar.gz",
-  "download_time": "2025-10-24T19:50:01.641484",
+  "download_filename": "hurley_generic_plot-0.1.10.tar.gz",
+  "download_time": "2025-10-24T20:41:15.537687",
   "package_url": "https://pypi.org/project/hurley-generic-plot/"
 }

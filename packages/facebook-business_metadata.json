@@ -1,0 +1,11 @@
+{
+  "name": "facebook-business",
+  "version": "24.0.0",
+  "summary": "Facebook Business SDK",
+  "author": "Facebook",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/facebook/facebook-python-business-sdk",
+  "download_filename": "facebook_business-24.0.0.tar.gz",
+  "download_time": "2025-10-24T20:40:56.627146",
+  "package_url": "https://pypi.org/project/facebook-business/"
+}
