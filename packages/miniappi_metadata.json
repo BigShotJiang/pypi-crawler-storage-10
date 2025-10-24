@@ -1,0 +1,11 @@
+{
+  "name": "miniappi",
+  "version": "0.1.4",
+  "summary": "Miniappi app launcher library",
+  "author": "Mikael Koli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "miniappi-0.1.4.tar.gz",
+  "download_time": "2025-10-24T21:50:02.131817",
+  "package_url": "https://pypi.org/project/miniappi/"
+}

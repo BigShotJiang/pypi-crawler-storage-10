@@ -1,0 +1,11 @@
+{
+  "name": "overture-to-arcgis",
+  "version": "0.2.0.dev2",
+  "summary": "Utility for easily getting data from Overture into ArcGIS Pro.",
+  "author": "Joel McCune (https://github.com/knu2xs)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "overture_to_arcgis-0.2.0.dev2-py3-none-any.whl",
+  "download_time": "2025-10-24T21:50:11.480538",
+  "package_url": "https://pypi.org/project/overture-to-arcgis/"
+}

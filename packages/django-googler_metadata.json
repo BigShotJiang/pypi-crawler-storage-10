@@ -1,0 +1,11 @@
+{
+  "name": "django-googler",
+  "version": "0.0.18",
+  "summary": "Django Googler is a simple way to integrate Google Auth Platform with your Django project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_googler-0.0.18.tar.gz",
+  "download_time": "2025-10-24T21:50:02.644920",
+  "package_url": "https://pypi.org/project/django-googler/"
+}

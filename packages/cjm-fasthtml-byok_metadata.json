@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-byok",
+  "version": "0.0.3",
+  "summary": "Secure API key management for FastHTML applications with encrypted storage, session/database persistence, and built-in UI components.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-byok",
+  "download_filename": "cjm_fasthtml_byok-0.0.3.tar.gz",
+  "download_time": "2025-10-24T21:50:00.596820",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-byok/"
+}

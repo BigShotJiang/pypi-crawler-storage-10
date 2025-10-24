@@ -1,0 +1,11 @@
+{
+  "name": "amplpy",
+  "version": "0.15.2",
+  "summary": "Python API for AMPL",
+  "author": "AMPL Optimization Inc.",
+  "license": "BSD-3",
+  "home_page": "http://ampl.com/",
+  "download_filename": "amplpy-0.15.2.tar.gz",
+  "download_time": "2025-10-24T21:50:05.821463",
+  "package_url": "https://pypi.org/project/amplpy/"
+}
