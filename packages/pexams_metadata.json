@@ -1,11 +1,11 @@
 {
   "name": "pexams",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library for generating and correcting exams using Playwright and OpenCV.",
-  "author": "AutoTestIA",
+  "author": "Oscar J. Pellicer-Valero",
   "license": null,
   "home_page": null,
-  "download_filename": "pexams-0.1.0.tar.gz",
-  "download_time": "2025-10-24T11:30:13.542121",
+  "download_filename": "pexams-0.2.0.tar.gz",
+  "download_time": "2025-10-24T11:41:18.064824",
   "package_url": "https://pypi.org/project/pexams/"
 }

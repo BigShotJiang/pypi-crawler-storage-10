@@ -1,0 +1,11 @@
+{
+  "name": "awsdac-mcp-server",
+  "version": "0.1.0",
+  "summary": "An MCP server for awsdac mcp server operations and management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "awsdac_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-24T11:41:24.330705",
+  "package_url": "https://pypi.org/project/awsdac-mcp-server/"
+}
