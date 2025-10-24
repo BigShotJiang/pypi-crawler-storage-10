@@ -1,0 +1,11 @@
+{
+  "name": "kapipy",
+  "version": "0.4.1",
+  "summary": "A python client for accessing and querying geospatial open data portals.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kapipy-0.4.1.tar.gz",
+  "download_time": "2025-10-24T16:20:28.580848",
+  "package_url": "https://pypi.org/project/kapipy/"
+}

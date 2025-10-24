@@ -1,0 +1,11 @@
+{
+  "name": "concave-sandbox",
+  "version": "0.5.2",
+  "summary": "Python SDK for Concave - secure isolated code execution",
+  "author": "Concave",
+  "license": null,
+  "home_page": null,
+  "download_filename": "concave_sandbox-0.5.2.tar.gz",
+  "download_time": "2025-10-24T16:20:55.752680",
+  "package_url": "https://pypi.org/project/concave-sandbox/"
+}

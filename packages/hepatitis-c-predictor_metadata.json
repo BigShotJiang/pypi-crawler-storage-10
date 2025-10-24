@@ -1,0 +1,11 @@
+{
+  "name": "hepatitis-c-predictor",
+  "version": "0.1.9",
+  "summary": "Interactive ML application for Hepatitis C classification using PyTorch with Streamlit interface",
+  "author": "Endika, Igor, Wassim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hepatitis_c_predictor-0.1.9.tar.gz",
+  "download_time": "2025-10-24T16:20:30.133104",
+  "package_url": "https://pypi.org/project/hepatitis-c-predictor/"
+}

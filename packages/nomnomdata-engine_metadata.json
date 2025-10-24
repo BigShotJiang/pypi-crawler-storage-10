@@ -1,0 +1,11 @@
+{
+  "name": "nomnomdata-engine",
+  "version": "2.0.29",
+  "summary": "Package containing tooling for developing nominode engines",
+  "author": "Nom Nom Data Inc",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://gitlab.com/nomnomdata/tools/nomnomdata-engine",
+  "download_filename": "nomnomdata_engine-2.0.29.tar.gz",
+  "download_time": "2025-10-24T16:20:53.631537",
+  "package_url": "https://pypi.org/project/nomnomdata-engine/"
+}

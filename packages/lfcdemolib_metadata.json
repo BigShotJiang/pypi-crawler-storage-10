@@ -1,11 +1,11 @@
 {
   "name": "lfcdemolib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Lakeflow Connect Demo Library",
   "author": "Databricks Labs",
   "license": "Databricks Labs License",
   "home_page": "https://github.com/databricks-labs/lfcdemolib",
-  "download_filename": "lfcdemolib-0.0.2.tar.gz",
-  "download_time": "2025-10-24T15:17:29.293260",
+  "download_filename": "lfcdemolib-0.0.3.tar.gz",
+  "download_time": "2025-10-24T16:20:54.142451",
   "package_url": "https://pypi.org/project/lfcdemolib/"
 }

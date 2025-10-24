@@ -1,0 +1,11 @@
+{
+  "name": "sbkube",
+  "version": "0.4.7",
+  "summary": "k3s용 헬름+yaml+git 배포 자동화 CLI 도구",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbkube-0.4.7.tar.gz",
+  "download_time": "2025-10-24T16:20:17.065224",
+  "package_url": "https://pypi.org/project/sbkube/"
+}

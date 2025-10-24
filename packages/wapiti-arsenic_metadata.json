@@ -1,0 +1,11 @@
+{
+  "name": "wapiti-arsenic",
+  "version": "28.4",
+  "summary": "Asynchronous WebDriver client",
+  "author": "Jonas Obrist",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/wapiti-scanner/arsenic/",
+  "download_filename": "wapiti_arsenic-28.4.tar.gz",
+  "download_time": "2025-10-24T16:20:21.760065",
+  "package_url": "https://pypi.org/project/wapiti-arsenic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-telemetry",
+  "version": "0.2.3",
+  "summary": "Telemetry and observability helpers for aiogram 3 bots.",
+  "author": "aiogram-telemetry maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_telemetry-0.2.3.tar.gz",
+  "download_time": "2025-10-24T16:20:21.248003",
+  "package_url": "https://pypi.org/project/aiogram-telemetry/"
+}

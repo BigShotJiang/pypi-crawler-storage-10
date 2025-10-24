@@ -1,0 +1,11 @@
+{
+  "name": "rhubarb",
+  "version": "0.3.0",
+  "summary": "Avoid running multiple instances of the same celery task concurrently",
+  "author": "Adrian Torres, Red Hat Product Security",
+  "license": "MIT",
+  "home_page": "https://github.com/RedHatProductSecurity/rhubarb/",
+  "download_filename": "rhubarb-0.3.0.tar.gz",
+  "download_time": "2025-10-24T16:20:59.343098",
+  "package_url": "https://pypi.org/project/rhubarb/"
+}
