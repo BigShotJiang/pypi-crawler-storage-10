@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T15:41:51.734531
-- **Total Packages**: 97
-- **Total Size**: 53.23 MB
+- **Download Time**: 2025-10-24T15:52:31.495055
+- **Total Packages**: 94
+- **Total Size**: 13.74 MB
 
 ## Packages List
+- ucon
+- hnn-core
+- python-docs-theme
+- servicepytan
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- riveter
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- kailash-nexus
+- airbyte-cdk
+- orjson
+- kailash
+- smithery
+- pysdic
+- moteus-gui
+- moteus
+- shannot
+- django-choices-field
+- security-verifiers-utils
+- servicex
+- assemblyline-core
+- assemblyline
+- assemblyline-v4-service
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- he-kit
+- MyTube-dlp
+- tortoise-serializer
+- dtpyfw
+- datalinks
+- wagtail-seotoolkit
+- slimformers
+- wayspiritmcp-weather
+- nidx-binding
 - localstack-py-avro-schema
 - anymap
 - fast-vindex
@@ -21,10 +59,7 @@
 - rsyncx
 - yostlabs
 - onf-parser
-- pysdic
-- datalinks
 - EEmiLib
-- riveter
 - curies
 - bitbucket-code-reviewer
 - pipeline-eds
@@ -57,7 +92,6 @@
 - raybender
 - opensr-srgan
 - osonbot
-- wayspiritmcp-weather
 - sde-py-lib
 - SmartSpider
 - matchbox-db
@@ -66,40 +100,3 @@
 - hopeit-agents.mcp-server
 - hopeit-agents.model-client
 - hopeit-agents.agent-toolkit
-- magbox
-- syqlorix
-- wass2s
-- sage-lib
-- django-ixp-tracker
-- automagik-hive
-- pulumi-aws
-- tooppy
-- pytorchic
-- ozonapi-async
-- kbc-clustering
-- pyliwc
-- iatoolkit
-- nonebot-plugin-value
-- perplexityai
-- pycoro
-- openatlas
-- stablepy
-- roboherd
-- digitalhub-runtime-flower
-- recodex-cli
-- Faker
-- digitalhub-runtime-container
-- triggerflow
-- membrowse
-- assemblyline-core
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- fuzzfetch
-- assemblyline-service-server
-- assemblyline-service-client
-- digitalhub-runtime-python
-- iflow-cli-sdk
-- business-use-core
-- fusesell
-- konokenj.cdk-api-mcp-server

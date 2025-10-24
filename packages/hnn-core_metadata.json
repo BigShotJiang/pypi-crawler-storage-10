@@ -1,0 +1,11 @@
+{
+  "name": "hnn-core",
+  "version": "0.5.0",
+  "summary": "Code for biophysical simulation of a cortical column using Neuron",
+  "author": null,
+  "license": "BSD (3-clause)",
+  "home_page": null,
+  "download_filename": "hnn_core-0.5.0.tar.gz",
+  "download_time": "2025-10-24T15:51:41.605445",
+  "package_url": "https://pypi.org/project/hnn-core/"
+}

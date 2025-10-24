@@ -1,0 +1,11 @@
+{
+  "name": "django-choices-field",
+  "version": "3.1.1",
+  "summary": "Django field that set/get django's new TextChoices/IntegerChoices enum.",
+  "author": "Thiago Bellini Ribeiro",
+  "license": "MIT",
+  "home_page": "https://github.com/bellini666/django-choices-field",
+  "download_filename": "django_choices_field-3.1.1.tar.gz",
+  "download_time": "2025-10-24T15:51:52.998891",
+  "package_url": "https://pypi.org/project/django-choices-field/"
+}
