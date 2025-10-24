@@ -1,0 +1,11 @@
+{
+  "name": "calcli",
+  "version": "1.0.0",
+  "summary": "A simple, elegant terminal calculator with interactive mode",
+  "author": "Tola Oyelola",
+  "license": null,
+  "home_page": "https://github.com/tolaoyelola/calcli",
+  "download_filename": "calcli-1.0.0.tar.gz",
+  "download_time": "2025-10-24T19:50:21.955293",
+  "package_url": "https://pypi.org/project/calcli/"
+}

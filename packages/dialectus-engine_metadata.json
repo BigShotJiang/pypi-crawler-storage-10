@@ -1,0 +1,11 @@
+{
+  "name": "dialectus-engine",
+  "version": "0.4.1",
+  "summary": "Dialectus AI debate engine framework",
+  "author": "Dialectus AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dialectus_engine-0.4.1.tar.gz",
+  "download_time": "2025-10-24T19:50:22.601683",
+  "package_url": "https://pypi.org/project/dialectus-engine/"
+}

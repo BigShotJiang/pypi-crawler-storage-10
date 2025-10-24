@@ -1,11 +1,11 @@
 {
   "name": "flashpack",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Load ML models fast",
   "author": "fal-ai-community",
   "license": null,
   "home_page": null,
-  "download_filename": "flashpack-0.1.1.tar.gz",
-  "download_time": "2025-10-24T16:47:25.505812",
+  "download_filename": "flashpack-0.1.2.tar.gz",
+  "download_time": "2025-10-24T19:50:20.643115",
   "package_url": "https://pypi.org/project/flashpack/"
 }

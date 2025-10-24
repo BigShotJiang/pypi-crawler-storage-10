@@ -1,0 +1,11 @@
+{
+  "name": "rpa-toolkit",
+  "version": "0.1.1",
+  "summary": "A Python toolkit for Robotic Process Automation (RPA) with enhanced processing and solutions to common automation challenges.",
+  "author": "fnxL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpa_toolkit-0.1.1.tar.gz",
+  "download_time": "2025-10-24T19:50:17.837668",
+  "package_url": "https://pypi.org/project/rpa-toolkit/"
+}
