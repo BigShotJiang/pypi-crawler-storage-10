@@ -1,0 +1,11 @@
+{
+  "name": "astrora",
+  "version": "0.1.1",
+  "summary": "Astrora - Rust-backed astrodynamics library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "astrora-0.1.1.tar.gz",
+  "download_time": "2025-10-24T14:17:27.338224",
+  "package_url": "https://pypi.org/project/astrora/"
+}

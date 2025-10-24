@@ -1,0 +1,11 @@
+{
+  "name": "AGlib",
+  "version": "0.2.3",
+  "summary": "Library for helper functions I often use",
+  "author": "Artur Glavic",
+  "license": "MIT",
+  "home_page": "https://github.com/aglavic/aglib",
+  "download_filename": "aglib-0.2.3.tar.gz",
+  "download_time": "2025-10-24T14:17:34.724112",
+  "package_url": "https://pypi.org/project/AGlib/"
+}

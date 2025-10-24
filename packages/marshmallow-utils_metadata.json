@@ -1,0 +1,11 @@
+{
+  "name": "marshmallow-utils",
+  "version": "0.13.1",
+  "summary": "Extras and utilities for Marshmallow.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/marshmallow-utils",
+  "download_filename": "marshmallow_utils-0.13.1.tar.gz",
+  "download_time": "2025-10-24T14:17:37.471494",
+  "package_url": "https://pypi.org/project/marshmallow-utils/"
+}

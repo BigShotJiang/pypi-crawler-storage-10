@@ -1,0 +1,11 @@
+{
+  "name": "plover-vim",
+  "version": "0.13.0",
+  "summary": "(mostly) single stroke vim commands",
+  "author": "Josiah Tan",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/Josiah-tan/plover-vim",
+  "download_filename": "plover_vim-0.13.0.tar.gz",
+  "download_time": "2025-10-24T14:16:57.936988",
+  "package_url": "https://pypi.org/project/plover-vim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codetracer-python-recorder",
+  "version": "0.2.0",
+  "summary": "Low-level Rust-backed Python module for CodeTracer recording (PyO3)",
+  "author": "Metacraft Labs Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codetracer_python_recorder-0.2.0.tar.gz",
+  "download_time": "2025-10-24T14:16:52.463118",
+  "package_url": "https://pypi.org/project/codetracer-python-recorder/"
+}

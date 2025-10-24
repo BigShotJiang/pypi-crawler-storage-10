@@ -1,0 +1,11 @@
+{
+  "name": "aicaller",
+  "version": "1.1.4",
+  "summary": "Package for using API models. It is designed mainly for experimenting with various models. It allows to easily process Hugging Face datasets, or JSONL/CSV datasets, and send requests to Ollama and OpenAI compatibles APIs with just using simple configuration files.",
+  "author": "Martin Dočekal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aicaller-1.1.4.tar.gz",
+  "download_time": "2025-10-24T14:17:31.534299",
+  "package_url": "https://pypi.org/project/aicaller/"
+}
