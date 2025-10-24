@@ -1,66 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T10:52:42.020472
-- **Total Packages**: 93
-- **Total Size**: 60.03 MB
+- **Download Time**: 2025-10-24T11:15:18.102602
+- **Total Packages**: 95
+- **Total Size**: 18.58 MB
 
 ## Packages List
-- comproscanner
-- rsyncx
-- tf-kan-latest
-- alita-sdk
-- colibri-stateless
-- agentkernel
-- mplang-nightly
-- py5canvas
-- pbaesa
-- mineru
-- konduktor-nightly
-- netbox-librenms-plugin
-- troubleshooting-mcp-server
-- DLMS-SPODES-client
-- gorunn
-- trainy-policy-nightly
-- omniopt2
-- matrice-compute
-- aigroup-quant-mcp
-- SlenderQL
-- arcturus-buildkit
-- earthkit-geo
-- pycountryinfo
 - odoo-plugin-manager
-- pymobiledevice3
-- launchdarkly-api
-- async-node
-- aioairzone
-- mcp-server-excel-sql
-- letta-nightly
-- entari-plugin-hyw
-- pytest-ipywidgets
-- ssb-nudb-config
-- solara-server
-- solara-ui
-- fastcodedog
-- cligame
-- solara-enterprise
-- solara
-- VeraGridServer
-- VeraGrid
-- imgif
-- VeraGridEngine
-- data-retrieval-monitor
-- ucam-faas
-- achatbot
-- hallelujah
-- seabirdfilehandler
-- ynab-converter
-- PetTag
-- dialnexa
-- dbpoint
-- phlorest
-- mesures
-- marinerg-backend
 - sklearn2pmml
 - DLMS-SPODES-communications
 - langgraph-checkpoint-firestore
@@ -99,3 +45,59 @@
 - nvidia-nat-agno
 - odoo-addon-stock-exception
 - vaiz-sdk
+- optimum-rbln
+- nvidia-nat-opentelemetry
+- PetTag
+- OldIsoSpecPy
+- nvidia-nat-ragaai
+- kcho-linguistic-toolkit
+- nvidia-nat-profiling
+- django-ixp-tracker
+- nvidia-nat-data-flywheel
+- theglobalfuel-sdk
+- nsys2prv
+- nvidia-nat-langchain
+- bonchcli
+- aiqtoolkit-semantic-kernel
+- iatoolkit
+- datarobot-genai
+- aiqtoolkit-weave
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- alpacon-mcp
+- aiqtoolkit-mem0ai
+- aiqtoolkit-test
+- vibego
+- aiqtoolkit-llama-index
+- entari-plugin-hyw
+- odoo-addon-fastapi-auth-api-key
+- odoo-addon-fastapi
+- aiqtoolkit
+- aiqtoolkit-langchain
+- aiqtoolkit-crewai
+- ttrsscli
+- aiqtoolkit-zep-cloud
+- birdgame
+- aiqtoolkit-agno
+- abs-nosql-repository-core
+- tf-keras-nightly
+- fastgrpcio
+- openwisp-ipam
+- datapizza-ai-embedders-fastembedder
+- maleo-metadata-client
+- very-nb-api
+- datapizza-ai-vectorstores-qdrant
+- znsocket
+- sphericart
+- sphericart-torch
+- datapizza-ai-core
+- napari-matplotlib
+- sphericart-jax
+- lightwheel-sdk
+- nvfuser-cu126
+- nvfuser-cu128
+- ai-edge-torch-nightly
+- eflips-depot
+- nvfuser-cu130
+- aiemailautomationutility
+- webtoolkit

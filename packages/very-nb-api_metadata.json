@@ -1,0 +1,11 @@
+{
+  "name": "very-nb-api",
+  "version": "0.7",
+  "summary": "基于 FastAPI + Pydantic v2 + SQLModel 的自动 CRUD 路由生成框架",
+  "author": "NB API Team",
+  "license": null,
+  "home_page": "https://github.com/your-username/nb_api",
+  "download_filename": "very_nb_api-0.7.tar.gz",
+  "download_time": "2025-10-24T11:15:08.863374",
+  "package_url": "https://pypi.org/project/very-nb-api/"
+}

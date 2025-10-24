@@ -1,0 +1,11 @@
+{
+  "name": "sphericart",
+  "version": "1.0.4",
+  "summary": "Fast calculation of spherical harmonics",
+  "author": "Filippo Bigi, Guillaume Fraux, Nicholas Browning, Michele Ceriotti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphericart-1.0.4.tar.gz",
+  "download_time": "2025-10-24T11:15:10.615530",
+  "package_url": "https://pypi.org/project/sphericart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alpacon-mcp",
+  "version": "0.4.3",
+  "summary": "AI-Powered Server Management - Connect Claude, Cursor, and other AI tools directly to your Alpacon infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alpacon_mcp-0.4.3.tar.gz",
+  "download_time": "2025-10-24T11:14:56.015552",
+  "package_url": "https://pypi.org/project/alpacon-mcp/"
+}

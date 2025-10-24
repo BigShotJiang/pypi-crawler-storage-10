@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-ipam",
+  "version": "1.2.post1",
+  "summary": "IP address space administration module of OpenWISP.",
+  "author": "OpenWISP",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/openwisp/openwisp-ipam",
+  "download_filename": "openwisp_ipam-1.2.post1.tar.gz",
+  "download_time": "2025-10-24T11:15:07.063642",
+  "package_url": "https://pypi.org/project/openwisp-ipam/"
+}

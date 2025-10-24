@@ -1,0 +1,11 @@
+{
+  "name": "napari-matplotlib",
+  "version": "3.0.1",
+  "summary": "A plugin to use Matplotlib with napari",
+  "author": "David Stansby",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/matplotlib/napari-matplotlib",
+  "download_filename": "napari_matplotlib-3.0.1.tar.gz",
+  "download_time": "2025-10-24T11:15:12.418953",
+  "package_url": "https://pypi.org/project/napari-matplotlib/"
+}

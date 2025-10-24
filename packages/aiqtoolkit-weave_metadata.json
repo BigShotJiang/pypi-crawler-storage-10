@@ -1,0 +1,11 @@
+{
+  "name": "aiqtoolkit-weave",
+  "version": "1.2.1",
+  "summary": "Transitional package for nvidia-nat-weave, this package is deprecated and will be removed in the future.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiqtoolkit_weave-1.2.1-py3-none-any.whl",
+  "download_time": "2025-10-24T11:14:54.266731",
+  "package_url": "https://pypi.org/project/aiqtoolkit-weave/"
+}
