@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T23:30:40.124639
-- **Total Packages**: 80
-- **Total Size**: 8.07 MB
+- **Download Time**: 2025-10-24T23:41:18.429384
+- **Total Packages**: 81
+- **Total Size**: 19.79 MB
 
 ## Packages List
+- vislearnlabpy
+- jaxion
+- pycodemark
+- letta-client
+- he-kit
+- yt-dlp
+- wandelbots-api-client
+- nv-ingest
+- fastmcp
+- nv-ingest-client
+- nv-ingest-api
+- flowno
+- igs-slm
 - lime-stable
 - docs2markdown
 - fast-agent-mcp
@@ -19,7 +32,6 @@
 - minchin.pelican.plugins.cname
 - bja-utils
 - pyright
-- vislearnlabpy
 - noctua
 - byte-ai-cli
 - WS-API
@@ -34,11 +46,9 @@
 - gac
 - pygar-client
 - flwr-nightly
-- he-kit
 - fastapi-maker
 - pydtree
 - groundx
-- pycodemark
 - omniopt2
 - arize
 - assign-uprn
@@ -77,12 +87,3 @@
 - sphinx-breeze-theme
 - cartographer3d-plugin
 - cjm-fasthtml-sysmon
-- pyEdge-package-name-reservation-1
-- qapytest
-- robotframework-doctestlibrary
-- gocam
-- segmentation-skeleton-metrics
-- timm
-- vestacrystparser
-- catpic
-- harlequin
