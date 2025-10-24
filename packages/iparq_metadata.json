@@ -1,0 +1,11 @@
+{
+  "name": "iparq",
+  "version": "0.4.1",
+  "summary": "Display version compression and bloom filter information about a parquet file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iparq-0.4.1.tar.gz",
+  "download_time": "2025-10-24T21:15:00.527179",
+  "package_url": "https://pypi.org/project/iparq/"
+}

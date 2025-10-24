@@ -1,11 +1,11 @@
 {
   "name": "traceforest",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "High-performance Python profiler that generates interactive call tree visualizations to identify execution bottlenecks.",
   "author": "sandro.meireles",
   "license": null,
   "home_page": null,
-  "download_filename": "traceforest-0.1.6.tar.gz",
-  "download_time": "2025-10-24T20:41:14.943897",
+  "download_filename": "traceforest-0.1.7.tar.gz",
+  "download_time": "2025-10-24T21:14:42.861420",
   "package_url": "https://pypi.org/project/traceforest/"
 }

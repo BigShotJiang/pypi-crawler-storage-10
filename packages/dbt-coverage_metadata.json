@@ -1,0 +1,11 @@
+{
+  "name": "dbt-coverage",
+  "version": "0.4.1",
+  "summary": "One-stop-shop for docs and test coverage of dbt projects",
+  "author": "Andrej Švec",
+  "license": "MIT",
+  "home_page": "https://github.com/slidoapp/dbt-coverage",
+  "download_filename": "dbt_coverage-0.4.1.tar.gz",
+  "download_time": "2025-10-24T21:14:21.131031",
+  "package_url": "https://pypi.org/project/dbt-coverage/"
+}
