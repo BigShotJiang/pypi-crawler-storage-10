@@ -1,11 +1,11 @@
 {
   "name": "arcturus-buildkit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Lightweight NLP and supervised ML chatbot framework in pure Python",
   "author": "FlameZI0",
   "license": null,
   "home_page": null,
-  "download_filename": "arcturus_buildkit-0.1.2-py3-none-any.whl",
-  "download_time": "2025-10-24T11:51:02.527443",
+  "download_filename": "arcturus_buildkit-0.1.3-py3-none-any.whl",
+  "download_time": "2025-10-24T13:47:02.194337",
   "package_url": "https://pypi.org/project/arcturus-buildkit/"
 }
