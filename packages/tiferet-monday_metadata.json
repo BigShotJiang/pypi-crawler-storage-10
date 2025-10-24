@@ -1,0 +1,11 @@
+{
+  "name": "tiferet-monday",
+  "version": "0.1.2",
+  "summary": "A client library for interacting with the Monday.com API using Tiferet.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tiferet_monday-0.1.2.tar.gz",
+  "download_time": "2025-10-24T21:30:38.872876",
+  "package_url": "https://pypi.org/project/tiferet-monday/"
+}

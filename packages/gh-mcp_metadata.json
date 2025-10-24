@@ -1,0 +1,11 @@
+{
+  "name": "gh-mcp",
+  "version": "0.2.2",
+  "summary": "Refined MCP server for GitHub GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gh_mcp-0.2.2-py3-none-any.whl",
+  "download_time": "2025-10-24T21:30:35.142862",
+  "package_url": "https://pypi.org/project/gh-mcp/"
+}

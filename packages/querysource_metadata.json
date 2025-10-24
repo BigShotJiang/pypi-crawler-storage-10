@@ -1,0 +1,11 @@
+{
+  "name": "querysource",
+  "version": "3.17.4",
+  "summary": "Aiohttp web service for querying several databases easily",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "querysource-3.17.4-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-10-24T21:30:29.312464",
+  "package_url": "https://pypi.org/project/querysource/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instructionkit",
+  "version": "0.2.0",
+  "summary": "CLI tool for managing AI coding tool instructions",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "instructionkit-0.2.0.tar.gz",
+  "download_time": "2025-10-24T21:30:32.956871",
+  "package_url": "https://pypi.org/project/instructionkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pixigpt",
+  "version": "0.1.5",
+  "summary": "Production-grade Python client for the PixiGPT API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pixigpt-0.1.5.tar.gz",
+  "download_time": "2025-10-24T21:30:29.824218",
+  "package_url": "https://pypi.org/project/pixigpt/"
+}
