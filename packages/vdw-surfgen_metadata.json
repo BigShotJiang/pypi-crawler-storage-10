@@ -1,0 +1,11 @@
+{
+  "name": "vdw-surfgen",
+  "version": "0.5.3",
+  "summary": "Generate van der Waals surface points from XYZ files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vdw_surfgen-0.5.3.tar.gz",
+  "download_time": "2025-10-24T14:53:49.708535",
+  "package_url": "https://pypi.org/project/vdw-surfgen/"
+}

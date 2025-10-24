@@ -1,0 +1,11 @@
+{
+  "name": "ejkernel",
+  "version": "0.0.6",
+  "summary": "Accelerate, Optimize performance with streamlined training and serving options with JAX.",
+  "author": "Erfan Zare Chavoshi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ejkernel-0.0.6.tar.gz",
+  "download_time": "2025-10-24T14:53:53.231877",
+  "package_url": "https://pypi.org/project/ejkernel/"
+}

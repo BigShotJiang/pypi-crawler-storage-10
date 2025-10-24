@@ -1,0 +1,11 @@
+{
+  "name": "minify-html",
+  "version": "0.18.0",
+  "summary": "Extremely fast and smart HTML + JS + CSS minifier",
+  "author": "Wilson Lin <code@wilsonl.in>",
+  "license": "MIT",
+  "home_page": "https://github.com/wilsonzlin/minify-html",
+  "download_filename": "minify_html-0.18.0.tar.gz",
+  "download_time": "2025-10-24T14:53:49.130134",
+  "package_url": "https://pypi.org/project/minify-html/"
+}
