@@ -1,11 +1,11 @@
 {
   "name": "lrparse",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Left/right substring extraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lrparse-0.1.7.tar.gz",
-  "download_time": "2025-10-24T19:50:30.331883",
+  "download_filename": "lrparse-0.1.8.tar.gz",
+  "download_time": "2025-10-24T20:18:22.711743",
   "package_url": "https://pypi.org/project/lrparse/"
 }

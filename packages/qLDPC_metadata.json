@@ -1,0 +1,11 @@
+{
+  "name": "qLDPC",
+  "version": "0.2.6",
+  "summary": "Tools for constructing and analyzing quantum low density parity check (qLDPC) codes.",
+  "author": "Michael A. Perlin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/qLDPCOrg/qLDPC",
+  "download_filename": "qldpc-0.2.6.tar.gz",
+  "download_time": "2025-10-24T20:18:50.075879",
+  "package_url": "https://pypi.org/project/qLDPC/"
+}

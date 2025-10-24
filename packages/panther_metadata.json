@@ -1,0 +1,11 @@
+{
+  "name": "panther",
+  "version": "5.2.0",
+  "summary": "Fast & Friendly, Web Framework For Building Async APIs",
+  "author": "Ali RajabNezhad",
+  "license": "BSD-3-Clause license",
+  "home_page": "https://github.com/alirn76/panther",
+  "download_filename": "panther-5.2.0.tar.gz",
+  "download_time": "2025-10-24T20:18:56.994363",
+  "package_url": "https://pypi.org/project/panther/"
+}

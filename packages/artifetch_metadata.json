@@ -1,0 +1,11 @@
+{
+  "name": "artifetch",
+  "version": "0.0.7",
+  "summary": "Universal artifact fetcher for Artifactory, GitLab, and Git.",
+  "author": "Gemma Mcgee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "artifetch-0.0.7.tar.gz",
+  "download_time": "2025-10-24T20:18:41.682229",
+  "package_url": "https://pypi.org/project/artifetch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "perceptra-storage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Unified storage adapter interface for multi-cloud storage backends",
   "author": "Perceptra Team",
   "license": "MIT",
   "home_page": "https://github.com/perceptra/perceptra-storage",
-  "download_filename": "perceptra_storage-0.1.1.tar.gz",
-  "download_time": "2025-10-24T19:37:53.814422",
+  "download_filename": "perceptra_storage-0.1.2.tar.gz",
+  "download_time": "2025-10-24T20:18:47.446820",
   "package_url": "https://pypi.org/project/perceptra-storage/"
 }
