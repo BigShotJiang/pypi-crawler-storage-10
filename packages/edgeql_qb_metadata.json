@@ -1,0 +1,11 @@
+{
+  "name": "edgeql_qb",
+  "version": "0.4.7",
+  "summary": "EdgeQL Query Builder",
+  "author": "Ivan Larin",
+  "license": "MIT",
+  "home_page": "https://github.com/Pentusha/edgeql-qb",
+  "download_filename": "edgeql_qb-0.4.7.tar.gz",
+  "download_time": "2025-10-24T17:31:58.060664",
+  "package_url": "https://pypi.org/project/edgeql_qb/"
+}
