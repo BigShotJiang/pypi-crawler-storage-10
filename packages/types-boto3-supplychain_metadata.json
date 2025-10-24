@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-supplychain",
+  "version": "1.40.59",
+  "summary": "Type annotations for boto3 SupplyChain 1.40.59 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_supplychain-1.40.59.tar.gz",
+  "download_time": "2025-10-24T19:30:36.180581",
+  "package_url": "https://pypi.org/project/types-boto3-supplychain/"
+}
