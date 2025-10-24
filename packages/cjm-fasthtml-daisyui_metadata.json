@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-daisyui",
+  "version": "0.0.13",
+  "summary": "Python-native daisyUI v5 component and utility class builder providing dynamic class generation with full abstraction for FastHTML projects.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-daisyui",
+  "download_filename": "cjm_fasthtml_daisyui-0.0.13.tar.gz",
+  "download_time": "2025-10-24T22:15:47.917041",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-daisyui/"
+}

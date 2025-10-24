@@ -1,0 +1,11 @@
+{
+  "name": "xarray-beam",
+  "version": "0.11.2",
+  "summary": "Distributed Xarray with Apache Beam",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarray_beam-0.11.2.tar.gz",
+  "download_time": "2025-10-24T22:16:03.686528",
+  "package_url": "https://pypi.org/project/xarray-beam/"
+}

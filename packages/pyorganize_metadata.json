@@ -1,0 +1,11 @@
+{
+  "name": "pyorganize",
+  "version": "1.0.0",
+  "summary": "A simple file organizer that sorts files into folders by type.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pyorganize-1.0.0.tar.gz",
+  "download_time": "2025-10-24T22:16:00.551319",
+  "package_url": "https://pypi.org/project/pyorganize/"
+}

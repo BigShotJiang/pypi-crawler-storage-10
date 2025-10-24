@@ -1,11 +1,11 @@
 {
   "name": "roman-snpit-snappl",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "summary": "General, database, and photometry utilities for the Roman SNPIT",
   "author": "Roman Supernova Project Infrastructure Team",
   "license": null,
   "home_page": null,
-  "download_filename": "roman_snpit_snappl-0.19.0.tar.gz",
-  "download_time": "2025-10-24T15:17:19.066150",
+  "download_filename": "roman_snpit_snappl-0.20.0.tar.gz",
+  "download_time": "2025-10-24T22:16:23.634044",
   "package_url": "https://pypi.org/project/roman-snpit-snappl/"
 }

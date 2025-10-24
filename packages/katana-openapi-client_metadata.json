@@ -1,11 +1,11 @@
 {
   "name": "katana-openapi-client",
-  "version": "0.23.0",
+  "version": "0.25.0",
   "summary": "A modern, pythonic Katana Manufacturing ERP API client with automatic retries, rate limiting, and smart pagination",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "katana_openapi_client-0.23.0.tar.gz",
-  "download_time": "2025-10-24T17:15:29.800143",
+  "download_filename": "katana_openapi_client-0.25.0.tar.gz",
+  "download_time": "2025-10-24T22:16:02.123613",
   "package_url": "https://pypi.org/project/katana-openapi-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "calapy",
-  "version": "0.2.0.3",
+  "version": "0.2.0.4",
   "summary": "Personal Package",
-  "author": "Carmelo Calafiore",
+  "author": null,
   "license": null,
-  "home_page": "https://pypi.org/project/calapy",
-  "download_filename": "calapy-0.2.0.3.tar.gz",
-  "download_time": "2025-10-24T21:14:50.036171",
+  "home_page": null,
+  "download_filename": "calapy-0.2.0.4.tar.gz",
+  "download_time": "2025-10-24T22:15:41.022002",
   "package_url": "https://pypi.org/project/calapy/"
 }

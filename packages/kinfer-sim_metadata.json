@@ -1,0 +1,11 @@
+{
+  "name": "kinfer-sim",
+  "version": "0.0.93",
+  "summary": "The kinfer-sim project",
+  "author": "K-Scale Labs",
+  "license": null,
+  "home_page": "https://github.com/kscalelabs/kinfer-sim",
+  "download_filename": "kinfer_sim-0.0.93.tar.gz",
+  "download_time": "2025-10-24T22:16:21.011728",
+  "package_url": "https://pypi.org/project/kinfer-sim/"
+}

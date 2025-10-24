@@ -1,11 +1,11 @@
 {
   "name": "weni-commons",
-  "version": "0.0.1a2",
+  "version": "1.0.0",
   "summary": "Weni's common utilities for Python backends",
   "author": "Kallil Souza dos Santos",
   "license": null,
   "home_page": null,
-  "download_filename": "weni_commons-0.0.1a2.tar.gz",
-  "download_time": "2025-10-24T21:30:31.928792",
+  "download_filename": "weni_commons-1.0.0.tar.gz",
+  "download_time": "2025-10-24T22:15:44.247189",
   "package_url": "https://pypi.org/project/weni-commons/"
 }

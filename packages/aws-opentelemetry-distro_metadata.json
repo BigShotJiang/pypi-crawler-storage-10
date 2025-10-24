@@ -1,0 +1,11 @@
+{
+  "name": "aws-opentelemetry-distro",
+  "version": "0.12.2",
+  "summary": "AWS OpenTelemetry Python Distro",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_opentelemetry_distro-0.12.2-py3-none-any.whl",
+  "download_time": "2025-10-24T22:16:07.918654",
+  "package_url": "https://pypi.org/project/aws-opentelemetry-distro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "svy-io",
-  "version": "0.0.2a0",
+  "version": "0.0.3a0",
   "summary": "SAS/SPSS/Stata I/O with Polars, powered by ReadStat + PyO3",
   "author": "Samplics LLC",
   "license": null,
   "home_page": "https://svylab.com/docs/svy-io",
-  "download_filename": "svy_io-0.0.2a0.tar.gz",
-  "download_time": "2025-10-24T21:50:15.614475",
+  "download_filename": "svy_io-0.0.3a0.tar.gz",
+  "download_time": "2025-10-24T22:15:38.808358",
   "package_url": "https://pypi.org/project/svy-io/"
 }

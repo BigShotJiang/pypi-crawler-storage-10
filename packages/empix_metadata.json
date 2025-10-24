@@ -1,0 +1,11 @@
+{
+  "name": "empix",
+  "version": "0.0.9",
+  "summary": "Contains tools for analyzing electron microscopy data that are not available in ``hyperspy``.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "empix-0.0.9.tar.gz",
+  "download_time": "2025-10-24T22:16:24.695239",
+  "package_url": "https://pypi.org/project/empix/"
+}
