@@ -1,11 +1,11 @@
 {
   "name": "e2b",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "E2B SDK that give agents cloud environments",
   "author": "e2b",
   "license": "MIT",
   "home_page": "https://e2b.dev/",
-  "download_filename": "e2b-2.4.1.tar.gz",
-  "download_time": "2025-10-24T21:50:09.935580",
+  "download_filename": "e2b-2.4.2.tar.gz",
+  "download_time": "2025-10-24T22:49:26.771960",
   "package_url": "https://pypi.org/project/e2b/"
 }
