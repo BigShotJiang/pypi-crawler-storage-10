@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-nextcloud",
+  "version": "0.0.1b0",
+  "summary": "balderhub-nextcloud: BalderHub project that provides different bindings to NextCloud Apps",
+  "author": "Max Stahlschmidt",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/nextcloud",
+  "download_filename": "balderhub_nextcloud-0.0.1b0.tar.gz",
+  "download_time": "2025-10-24T18:47:04.303175",
+  "package_url": "https://pypi.org/project/balderhub-nextcloud/"
+}

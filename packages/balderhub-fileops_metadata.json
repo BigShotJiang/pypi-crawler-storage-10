@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-fileops",
+  "version": "0.0.1b0",
+  "summary": "balderhub-fileops: BalderHub Project that provides features and scenarios to test file operations",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/fileops",
+  "download_filename": "balderhub_fileops-0.0.1b0.tar.gz",
+  "download_time": "2025-10-24T18:47:02.919507",
+  "package_url": "https://pypi.org/project/balderhub-fileops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "web-base",
+  "version": "0.1.1",
+  "summary": "Base para manipulação web com selenium.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "web_base-0.1.1.tar.gz",
+  "download_time": "2025-10-24T18:46:58.283314",
+  "package_url": "https://pypi.org/project/web-base/"
+}

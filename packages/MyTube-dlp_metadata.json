@@ -1,11 +1,11 @@
 {
   "name": "MyTube-dlp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Python YouTube Downloader",
   "author": "Super_Zombi",
   "license": null,
   "home_page": "https://github.com/SuperZombi/MyTube",
-  "download_filename": "mytube_dlp-2.0.0.tar.gz",
-  "download_time": "2025-10-24T15:51:58.307284",
+  "download_filename": "mytube_dlp-2.0.1.tar.gz",
+  "download_time": "2025-10-24T18:47:01.375873",
   "package_url": "https://pypi.org/project/MyTube-dlp/"
 }
