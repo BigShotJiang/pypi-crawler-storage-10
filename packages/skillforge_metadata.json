@@ -1,11 +1,11 @@
 {
   "name": "skillforge",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Meta-programming framework for Claude Code skills",
   "author": "Omar Pioselli",
   "license": "MIT",
   "home_page": "https://github.com/omarpioselli/SkillForge",
-  "download_filename": "skillforge-1.0.6.tar.gz",
-  "download_time": "2025-10-24T14:44:14.448003",
+  "download_filename": "skillforge-1.0.7.tar.gz",
+  "download_time": "2025-10-24T15:17:24.141190",
   "package_url": "https://pypi.org/project/skillforge/"
 }

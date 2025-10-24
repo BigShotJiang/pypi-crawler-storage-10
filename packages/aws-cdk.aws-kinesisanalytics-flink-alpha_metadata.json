@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.aws-kinesisanalytics-flink-alpha",
+  "version": "2.221.0a0",
+  "summary": "A CDK Construct Library for Kinesis Analytics Flink applications",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_aws_kinesisanalytics_flink_alpha-2.221.0a0.tar.gz",
+  "download_time": "2025-10-24T15:18:08.153050",
+  "package_url": "https://pypi.org/project/aws-cdk.aws-kinesisanalytics-flink-alpha/"
+}

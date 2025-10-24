@@ -1,0 +1,11 @@
+{
+  "name": "pragma-sdk",
+  "version": "2.10.1",
+  "summary": "Core package for rollup-native Pragma Oracle",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pragma_sdk-2.10.1.tar.gz",
+  "download_time": "2025-10-24T15:17:29.811708",
+  "package_url": "https://pypi.org/project/pragma-sdk/"
+}

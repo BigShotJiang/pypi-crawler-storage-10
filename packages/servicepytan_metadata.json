@@ -1,0 +1,11 @@
+{
+  "name": "servicepytan",
+  "version": "0.4.1",
+  "summary": "Python Library to make it easier to interact with the ServiceTitan API v2",
+  "author": "Elliot Palmer",
+  "license": "MIT license",
+  "home_page": "https://github.com/elliotpalmer/servicepytan",
+  "download_filename": "servicepytan-0.4.1-py2.py3-none-any.whl",
+  "download_time": "2025-10-24T15:17:39.114410",
+  "package_url": "https://pypi.org/project/servicepytan/"
+}

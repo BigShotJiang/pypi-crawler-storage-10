@@ -1,11 +1,11 @@
 {
   "name": "bapao",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Developer Environment Sync Engine - Make your entire development environment portable",
   "author": "BAPAO Team",
   "license": "Proprietary",
   "home_page": "https://gitlab.com/bapao/bapao-sync",
-  "download_filename": "bapao-0.0.6.tar.gz",
-  "download_time": "2025-10-24T12:36:07.971926",
+  "download_filename": "bapao-0.0.8.tar.gz",
+  "download_time": "2025-10-24T15:17:26.188055",
   "package_url": "https://pypi.org/project/bapao/"
 }

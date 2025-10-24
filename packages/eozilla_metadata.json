@@ -1,0 +1,11 @@
+{
+  "name": "eozilla",
+  "version": "0.0.7",
+  "summary": "Comprises all packages of the Eozilla suite",
+  "author": "Norman Fomferra (Brockmann Consult GmbH), Tejas Morbagal Harish (Brockmann Consult GmbH)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eozilla-0.0.7.tar.gz",
+  "download_time": "2025-10-24T15:17:42.590235",
+  "package_url": "https://pypi.org/project/eozilla/"
+}

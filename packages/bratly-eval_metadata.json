@@ -1,0 +1,11 @@
+{
+  "name": "bratly-eval",
+  "version": "0.1.4",
+  "summary": "an extension of bratly with evaluation tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bratly_eval-0.1.4.tar.gz",
+  "download_time": "2025-10-24T15:17:33.461364",
+  "package_url": "https://pypi.org/project/bratly-eval/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exif-stripper",
+  "version": "1.2.0",
+  "summary": "An easy-to-use tool to ensure image EXIF metadata is removed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exif_stripper-1.2.0.tar.gz",
+  "download_time": "2025-10-24T15:17:25.163879",
+  "package_url": "https://pypi.org/project/exif-stripper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "procodile",
+  "version": "0.0.7",
+  "summary": "A light-weight processor development framework",
+  "author": "Norman Fomferra (Brockmann Consult GmbH), Tejas Morbagal Harish (Brockmann Consult GmbH)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "procodile-0.0.7.tar.gz",
+  "download_time": "2025-10-24T15:17:40.870568",
+  "package_url": "https://pypi.org/project/procodile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jabs-postprocess",
+  "version": "0.5.1",
+  "summary": "A python library for JABS postprocessing utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jabs_postprocess-0.5.1.tar.gz",
+  "download_time": "2025-10-24T15:17:48.965841",
+  "package_url": "https://pypi.org/project/jabs-postprocess/"
+}

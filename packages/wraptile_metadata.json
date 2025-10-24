@@ -1,0 +1,11 @@
+{
+  "name": "wraptile",
+  "version": "0.0.7",
+  "summary": "FastAPI server that implements the OGC API - Processes",
+  "author": "Norman Fomferra (Brockmann Consult GmbH), Tejas Morbagal Harish (Brockmann Consult GmbH)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wraptile-0.0.7.tar.gz",
+  "download_time": "2025-10-24T15:17:40.284580",
+  "package_url": "https://pypi.org/project/wraptile/"
+}

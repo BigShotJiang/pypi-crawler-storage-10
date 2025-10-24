@@ -1,0 +1,11 @@
+{
+  "name": "data-tamer",
+  "version": "0.1.4",
+  "summary": "Python port of data-tamer using LiteLLM for structured outputs and batching",
+  "author": "Sebastian Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_tamer-0.1.4.tar.gz",
+  "download_time": "2025-10-24T15:17:22.578403",
+  "package_url": "https://pypi.org/project/data-tamer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "covalent-cloud",
+  "version": "1.4.1",
+  "summary": "Covalent Cloud SDK",
+  "author": "Agnostiq",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/datarobot/covalent-cloud-sdk",
+  "download_filename": "covalent_cloud-1.4.1.tar.gz",
+  "download_time": "2025-10-24T15:17:36.527676",
+  "package_url": "https://pypi.org/project/covalent-cloud/"
+}
