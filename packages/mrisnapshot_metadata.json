@@ -1,0 +1,11 @@
+{
+  "name": "mrisnapshot",
+  "version": "0.0.5.dev0",
+  "summary": "QC tool for verification of datasets with MRI images and derived maps",
+  "author": "Guray Erus",
+  "license": "MIT",
+  "home_page": "https://github.com/CBICA/MRISnapshot",
+  "download_filename": "mrisnapshot-0.0.5.dev0.tar.gz",
+  "download_time": "2025-10-24T15:41:10.816900",
+  "package_url": "https://pypi.org/project/mrisnapshot/"
+}

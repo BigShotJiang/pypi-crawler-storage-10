@@ -1,0 +1,11 @@
+{
+  "name": "tooppy",
+  "version": "2.8.3",
+  "summary": "A topological optimization library for python 3",
+  "author": "Shengzhi Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tooppy-2.8.3.tar.gz",
+  "download_time": "2025-10-24T15:41:35.653876",
+  "package_url": "https://pypi.org/project/tooppy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hopeit-agents.mcp-server",
+  "version": "0.1.0b2",
+  "summary": "Hopeit Agents: Model Context Protocol server",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "hopeit_agents_mcp_server-0.1.0b2.tar.gz",
+  "download_time": "2025-10-24T15:41:30.176601",
+  "package_url": "https://pypi.org/project/hopeit-agents.mcp-server/"
+}

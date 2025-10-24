@@ -1,11 +1,11 @@
 {
   "name": "automagik-hive",
-  "version": "0.2.0rc35",
+  "version": "0.2.0rc36",
   "summary": "Automagik Hive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automagik_hive-0.2.0rc35.tar.gz",
-  "download_time": "2025-10-24T14:43:34.098794",
+  "download_filename": "automagik_hive-0.2.0rc36.tar.gz",
+  "download_time": "2025-10-24T15:41:34.481952",
   "package_url": "https://pypi.org/project/automagik-hive/"
 }

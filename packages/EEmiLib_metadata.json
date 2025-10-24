@@ -1,0 +1,11 @@
+{
+  "name": "EEmiLib",
+  "version": "0.0.15",
+  "summary": "Fit various Electron EMIssion models on experimental data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eemilib-0.0.15.tar.gz",
+  "download_time": "2025-10-24T15:41:06.921546",
+  "package_url": "https://pypi.org/project/EEmiLib/"
+}

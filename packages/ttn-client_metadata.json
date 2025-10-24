@@ -1,0 +1,11 @@
+{
+  "name": "ttn-client",
+  "version": "1.2.2",
+  "summary": "A python client to fetch/receive and parse uplink messages from The Thinks Network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttn_client-1.2.2.tar.gz",
+  "download_time": "2025-10-24T15:41:19.738918",
+  "package_url": "https://pypi.org/project/ttn-client/"
+}

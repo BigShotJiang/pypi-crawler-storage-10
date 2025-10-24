@@ -1,0 +1,11 @@
+{
+  "name": "stablepy",
+  "version": "0.6.5",
+  "summary": "A tool for easy use of stable diffusion",
+  "author": "Roger Condori(R3gm)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stablepy-0.6.5.tar.gz",
+  "download_time": "2025-10-24T15:41:41.069707",
+  "package_url": "https://pypi.org/project/stablepy/"
+}

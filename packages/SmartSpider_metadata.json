@@ -1,0 +1,11 @@
+{
+  "name": "SmartSpider",
+  "version": "0.0.2",
+  "summary": "A modular adaptive web crawler framework with incremental, continuous, and scope-limited crawling support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartspider-0.0.2.tar.gz",
+  "download_time": "2025-10-24T15:41:27.903294",
+  "package_url": "https://pypi.org/project/SmartSpider/"
+}

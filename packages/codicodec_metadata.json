@@ -1,0 +1,11 @@
+{
+  "name": "codicodec",
+  "version": "0.1.1",
+  "summary": "Encode and decode audio samples to/from continuous and discrete compressed representations!",
+  "author": "Sony Computer Science Laboratories Paris",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/SonyCSLParis/codicodec",
+  "download_filename": "codicodec-0.1.1.tar.gz",
+  "download_time": "2025-10-24T15:41:03.546301",
+  "package_url": "https://pypi.org/project/codicodec/"
+}
