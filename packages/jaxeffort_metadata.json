@@ -1,11 +1,11 @@
 {
   "name": "jaxeffort",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "JAX-based emulator for galaxy power spectra with bias modeling",
   "author": "marcobonici",
   "license": null,
   "home_page": null,
-  "download_filename": "jaxeffort-0.2.1.tar.gz",
-  "download_time": "2025-10-24T21:50:18.213911",
+  "download_filename": "jaxeffort-0.2.2.tar.gz",
+  "download_time": "2025-10-24T22:40:06.178901",
   "package_url": "https://pypi.org/project/jaxeffort/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-meili",
+  "version": "0.0.12",
+  "summary": "Custom Django integration for MeiliSearch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_meili-0.0.12.tar.gz",
+  "download_time": "2025-10-24T22:40:01.944149",
+  "package_url": "https://pypi.org/project/django-meili/"
+}

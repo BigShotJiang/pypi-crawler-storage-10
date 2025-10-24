@@ -1,0 +1,11 @@
+{
+  "name": "django-jstocks",
+  "version": "0.4.10",
+  "summary": "Library for managing shares issuance",
+  "author": "Jani Kajala",
+  "license": "Copyright (C) Jani Kajala. All rights reserved",
+  "home_page": "https://github.com/kajala/django-jstocks",
+  "download_filename": "django_jstocks-0.4.10.tar.gz",
+  "download_time": "2025-10-24T22:39:56.442317",
+  "package_url": "https://pypi.org/project/django-jstocks/"
+}

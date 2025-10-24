@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-jsonschema",
+  "version": "0.0.6",
+  "summary": "Library for generating FastHTML user interfaces from JSON Schema configurations.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-jsonschema",
+  "download_filename": "cjm_fasthtml_jsonschema-0.0.6.tar.gz",
+  "download_time": "2025-10-24T22:40:08.304876",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-jsonschema/"
+}
