@@ -1,0 +1,11 @@
+{
+  "name": "pydroplet",
+  "version": "2.3.4",
+  "summary": "Package to connect to a Droplet device.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydroplet-2.3.4.tar.gz",
+  "download_time": "2025-10-24T16:47:28.095180",
+  "package_url": "https://pypi.org/project/pydroplet/"
+}

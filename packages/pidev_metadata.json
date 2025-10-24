@@ -1,0 +1,11 @@
+{
+  "name": "pidev",
+  "version": "1.0",
+  "summary": "DPEA helper tool for developing Python projects with Kivy UIs",
+  "author": "Cesar Hapaz, Lyle Harlow, Wade Varisio, Doug Whetter, Sean Wirtz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pidev-1.0.tar.gz",
+  "download_time": "2025-10-24T16:47:17.359170",
+  "package_url": "https://pypi.org/project/pidev/"
+}

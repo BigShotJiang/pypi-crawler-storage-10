@@ -1,11 +1,11 @@
 {
   "name": "antchain",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "一个函数式编程风格的数据流式处理管道库，支持流式数据的多种处理操作",
   "author": "tumingjian",
   "license": "MIT",
   "home_page": "https://github.com/chinese-code/antchain",
-  "download_filename": "antchain-0.0.4.tar.gz",
-  "download_time": "2025-10-24T13:47:04.766257",
+  "download_filename": "antchain-0.0.5.tar.gz",
+  "download_time": "2025-10-24T16:47:52.175723",
   "package_url": "https://pypi.org/project/antchain/"
 }

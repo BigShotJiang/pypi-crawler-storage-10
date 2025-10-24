@@ -1,0 +1,11 @@
+{
+  "name": "dqn-ale-spaceinvaders",
+  "version": "0.1.0",
+  "summary": "A Deep Q-Network (DQN) implementation for Atari Space Invaders using Gymnasium and PyTorch.",
+  "author": "Giansimone Perrino",
+  "license": "MIT",
+  "home_page": "https://github.com/giansimone/dqn-ale-spaceinvaders",
+  "download_filename": "dqn_ale_spaceinvaders-0.1.0.tar.gz",
+  "download_time": "2025-10-24T16:47:40.553667",
+  "package_url": "https://pypi.org/project/dqn-ale-spaceinvaders/"
+}

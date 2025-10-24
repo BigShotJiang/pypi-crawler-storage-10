@@ -1,0 +1,11 @@
+{
+  "name": "raiplaysound",
+  "version": "0.7.0",
+  "summary": "Podcast generator for RaiPlay Sound",
+  "author": "Timendum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "raiplaysound-0.7.0.tar.gz",
+  "download_time": "2025-10-24T16:47:21.604254",
+  "package_url": "https://pypi.org/project/raiplaysound/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mi-pdf-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A PDF text extraction system that can accurately extract text from pdfs. Implemented using a structured word grouping algorithm thta calculates distance between words to reconstruct proper text flow",
   "author": "Mohit Inamdar",
   "license": "MIT",
   "home_page": "https://github.com/2005MohitInamdar/pdf_Text_Extraction",
-  "download_filename": "mi_pdf_extractor-1.0.0-py3-none-any.whl",
-  "download_time": "2025-10-24T16:20:11.883412",
+  "download_filename": "mi_pdf_extractor-1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-24T16:47:47.490728",
   "package_url": "https://pypi.org/project/mi-pdf-extractor/"
 }

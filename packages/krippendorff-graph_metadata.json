@@ -1,0 +1,11 @@
+{
+  "name": "krippendorff-graph",
+  "version": "0.1.4",
+  "summary": "A Python package for computing krippendorffs alpha for graph (modified from https://github.com/grrrr/krippendorff-alpha/blob/master/krippendorff_alpha.py)",
+  "author": "anonymous author",
+  "license": "Apache 2 License",
+  "home_page": "https://anonymous.4open.science/r/BE2B/",
+  "download_filename": "krippendorff_graph-0.1.4.tar.gz",
+  "download_time": "2025-10-24T16:47:16.847883",
+  "package_url": "https://pypi.org/project/krippendorff-graph/"
+}

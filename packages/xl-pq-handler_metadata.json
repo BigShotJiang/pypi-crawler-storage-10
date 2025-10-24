@@ -1,11 +1,11 @@
 {
   "name": "xl-pq-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Pythonic Power Query (.pq) File Manager for Excel & Power BI Automation",
   "author": "tks18",
   "license": null,
   "home_page": null,
-  "download_filename": "xl_pq_handler-1.0.3.tar.gz",
-  "download_time": "2025-10-24T16:20:28.053512",
+  "download_filename": "xl_pq_handler-1.0.4.tar.gz",
+  "download_time": "2025-10-24T16:47:18.968513",
   "package_url": "https://pypi.org/project/xl-pq-handler/"
 }
