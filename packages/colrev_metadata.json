@@ -1,0 +1,11 @@
+{
+  "name": "colrev",
+  "version": "0.15.0",
+  "summary": "CoLRev: An open-source environment for collaborative reviews",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colrev-0.15.0-py3-none-any.whl",
+  "download_time": "2025-10-24T13:20:16.117439",
+  "package_url": "https://pypi.org/project/colrev/"
+}

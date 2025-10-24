@@ -1,0 +1,11 @@
+{
+  "name": "sparv-sbx-emotions-kb-emoclass",
+  "version": "0.1.0",
+  "summary": "A sparv plugin for classificating emotions in Swedish text.",
+  "author": "Språkbanken Text",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparv_sbx_emotions_kb_emoclass-0.1.0.tar.gz",
+  "download_time": "2025-10-24T13:19:42.905158",
+  "package_url": "https://pypi.org/project/sparv-sbx-emotions-kb-emoclass/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "PetTag",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "PetTag is a Python package designed for automated disease coding of veterinary clinical texts using either a pre-trained model.",
   "author": "Sean Farrell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pettag-0.0.3.tar.gz",
-  "download_time": "2025-10-24T12:35:41.250394",
+  "download_filename": "pettag-0.0.4.tar.gz",
+  "download_time": "2025-10-24T13:19:53.641156",
   "package_url": "https://pypi.org/project/PetTag/"
 }

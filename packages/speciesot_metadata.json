@@ -1,0 +1,11 @@
+{
+  "name": "speciesot",
+  "version": "0.2.2",
+  "summary": "Geometric inference of cross-species transcriptome correspondence using Gromov–Wasserstein optimal transport.",
+  "author": "Yuya Tokuta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "speciesot-0.2.2.tar.gz",
+  "download_time": "2025-10-24T13:19:43.514794",
+  "package_url": "https://pypi.org/project/speciesot/"
+}

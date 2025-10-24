@@ -1,0 +1,11 @@
+{
+  "name": "maxwell-demon",
+  "version": "0.1.0",
+  "summary": "Semantic workflow automation for codebases and documents - CLI-first tool for content analysis, search, and code quality.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maxwell_demon-0.1.0.tar.gz",
+  "download_time": "2025-10-24T13:20:00.763720",
+  "package_url": "https://pypi.org/project/maxwell-demon/"
+}

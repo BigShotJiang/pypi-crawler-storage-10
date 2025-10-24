@@ -1,0 +1,11 @@
+{
+  "name": "ckan-pilot",
+  "version": "1.1.2",
+  "summary": "Manage CKAN project development, operations and maintenance with a state-of-the-art command-line interface (CLI) and modern toolset.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ckan_pilot-1.1.2.tar.gz",
+  "download_time": "2025-10-24T13:19:54.761623",
+  "package_url": "https://pypi.org/project/ckan-pilot/"
+}

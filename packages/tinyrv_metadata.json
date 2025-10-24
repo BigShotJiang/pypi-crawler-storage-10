@@ -1,0 +1,11 @@
+{
+  "name": "tinyrv",
+  "version": "0.1.0",
+  "summary": "A tiny RISC-V instruction set simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyrv-0.1.0.tar.gz",
+  "download_time": "2025-10-24T13:20:14.959678",
+  "package_url": "https://pypi.org/project/tinyrv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grabit-md",
+  "version": "1.0.0",
+  "summary": "Grabit is a library that allows you to download web pages, extract their readable content, convert it to Markdown, and save it locally.",
+  "author": "Vlad Iliescu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grabit_md-1.0.0.tar.gz",
+  "download_time": "2025-10-24T13:20:27.098711",
+  "package_url": "https://pypi.org/project/grabit-md/"
+}
