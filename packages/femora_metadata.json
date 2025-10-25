@@ -1,0 +1,11 @@
+{
+  "name": "femora",
+  "version": "0.1.0.7",
+  "summary": "Fast Efficient Meshing for OpenSees-based Resilience Analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "femora-0.1.0.7-py3-none-any.whl",
+  "download_time": "2025-10-25T23:50:14.042148",
+  "package_url": "https://pypi.org/project/femora/"
+}

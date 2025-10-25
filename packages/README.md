@@ -1,15 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T23:40:04.419264
-- **Total Packages**: 77
-- **Total Size**: 9.23 MB
+- **Download Time**: 2025-10-25T23:50:47.808820
+- **Total Packages**: 73
+- **Total Size**: 1.89 MB
 
 ## Packages List
+- blossy
+- cat-llm
+- winipedia-utils
+- ws-frappe-cli
+- Eporner-API
+- beads-mcp
+- artifetch
+- pumaz
+- femora
+- rxai-sdg
+- praisonaiwp
+- kabukit
+- eaf-base-api
+- pi-ragbox
+- fastpubsub
+- epicpydevicelib
+- TableGUI
 - chuk-tool-processor
 - bohra
 - kash-shell
-- rxai-sdg
 - multiqc
 - ipynb-scrubber
 - fractal-attention-analysis
@@ -17,17 +33,12 @@
 - nv-ingest
 - nv-ingest-client
 - nv-ingest-api
-- blossy
 - ultimate-gemini-mcp
 - asyncproxy
-- winipedia-utils
-- ws-frappe-cli
 - spotcrates
 - func-to-web
-- praisonaiwp
 - puffmatic
 - post-ap
-- pi-ragbox
 - dioxide
 - classroom-pilot
 - lt-tensor
@@ -39,7 +50,6 @@
 - pypomes-iam
 - harvest-utils
 - brs-kb
-- artifetch
 - conciliate
 - wthisj
 - guardcoreapi
@@ -53,7 +63,6 @@
 - marearts-road-objects
 - bluepyll
 - aware-release
-- pumaz
 - iam-policy-validator
 - rxfoundry.clients.swifty_oauth_api
 - rxfoundry.clients.swifty_api
@@ -62,7 +71,6 @@
 - django-minha-lib
 - PR2MD
 - xian-py
-- cat-llm
 - bowtie-json-schema
 - imdb-watchlist-to-sonarr
 - rinexmod
@@ -71,15 +79,3 @@
 - molalchemy
 - bible-xml-parser
 - colorgradient
-- llm-provider-factory
-- ScriptCollection
-- maybankforme
-- mcp-toolz
-- jetpytools
-- CliSelf
-- market-data-ibkr
-- napistu-torch
-- fastpubsub
-- horde-sdk
-- tnnt-templates
-- dirshot
