@@ -1,11 +1,11 @@
 {
   "name": "leksara",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Library pemrosesan teks Bahasa Indonesia untuk domain e-commerce (cleaning, PII masking, review mining, pipeline).",
   "author": "Rhendy Saragih",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "leksara-0.2.1.tar.gz",
-  "download_time": "2025-10-25T03:49:02.847964",
+  "download_filename": "leksara-0.2.2.tar.gz",
+  "download_time": "2025-10-25T05:33:14.188244",
   "package_url": "https://pypi.org/project/leksara/"
 }

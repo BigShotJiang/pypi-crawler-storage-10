@@ -1,12 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T05:16:04.608100
-- **Total Packages**: 85
-- **Total Size**: 15.85 MB
+- **Download Time**: 2025-10-25T05:33:49.676306
+- **Total Packages**: 83
+- **Total Size**: 9.51 MB
 
 ## Packages List
+- cat-llm
+- statemachine-engine
+- django-inngest
+- square-authentication-helper
+- square-file-store-helper
+- square-database-helper
+- airobo
 - PythonToSW
+- aibrix-kvcache
+- roboquant
+- siture
+- opendp
+- insyt-secure
+- llmcc
+- django-cfg
+- mcp-sqlite
+- pyrsult
+- leksara
+- minchin.text
+- critiplot
+- ozi-core
+- onvif-python
 - pydoclint
 - aigroup-econ-mcp
 - mariax
@@ -35,7 +56,6 @@
 - speclike
 - cloudsh
 - dagnostics
-- insyt-secure
 - syosetumaster
 - eggviron
 - distoptica
@@ -51,7 +71,6 @@
 - shandy-sqlfmt
 - PaiEngine
 - petrosa-data-manager-client
-- django-cfg
 - molcraft
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -70,24 +89,3 @@
 - mmaing-aesop
 - odoo-addon-stock-reserve
 - aegis-vision
-- odoo-addon-stock-dock
-- odoo-addon-shipment-advice
-- lt-tensor
-- pqbit
-- keybird
-- odoo-addon-stock-release-channel
-- moyopy
-- python-roborock
-- agentsilex
-- plom-client
-- market-data-orchestrator
-- market-data-store
-- market-data-pipeline
-- beekeeper-core
-- market-data-core
-- py-get-sequence-api-client
-- modelswrkpi
-- odoo-addons-oca-server-tools
-- vldb-toolkits
-- statsapi
-- django-nativemojo
