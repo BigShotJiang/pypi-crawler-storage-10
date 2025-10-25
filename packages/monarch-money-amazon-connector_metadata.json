@@ -1,11 +1,11 @@
 {
   "name": "monarch-money-amazon-connector",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "summary": "A simple package to automate the annotation of Amazon order transactions within Monarch Money with the purchased items.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "monarch_money_amazon_connector-2.3.2.tar.gz",
-  "download_time": "2025-10-25T21:38:40.637548",
+  "download_filename": "monarch_money_amazon_connector-2.3.3.tar.gz",
+  "download_time": "2025-10-25T21:49:40.027893",
   "package_url": "https://pypi.org/project/monarch-money-amazon-connector/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fuzzy-json-repair",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Fix typos in JSON keys using fuzzy matching with RapidFuzz",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fuzzy_json_repair-0.1.2.tar.gz",
-  "download_time": "2025-10-25T21:14:11.912029",
+  "download_filename": "fuzzy_json_repair-0.1.3.tar.gz",
+  "download_time": "2025-10-25T21:49:39.515581",
   "package_url": "https://pypi.org/project/fuzzy-json-repair/"
 }

@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T21:39:12.199726
-- **Total Packages**: 71
-- **Total Size**: 7.59 MB
+- **Download Time**: 2025-10-25T21:50:08.632941
+- **Total Packages**: 68
+- **Total Size**: 11.26 MB
 
 ## Packages List
+- marcel
+- multiqc-xenium-extra
+- rulify
+- kaggle-environments
+- minddict
+- kardocore
+- lumarr
+- py-potok
+- fastmongo
+- atlan-application-sdk
+- OASYS2-SRW
+- fuzzy-json-repair
+- monarch-money-amazon-connector
+- cool-open-client
+- ntnput
 - pycuda-gml
 - the-convergence
 - odoo-env
@@ -17,11 +32,9 @@
 - flet-charts
 - ariadne-router
 - pywa
-- monarch-money-amazon-connector
 - andrews
 - coregtor
 - tn-slack-py-module
-- lumarr
 - zeroproofml
 - flask-supabase
 - mar-eval
@@ -37,7 +50,6 @@
 - simplebooks
 - cipipeline
 - soia-client
-- ntnput
 - bygg
 - crawler.dev
 - dnscrypt-proxy-logs-analyzer
@@ -46,7 +58,6 @@
 - birdie
 - cat-llm
 - OASYS2-SHADOW4
-- kardocore
 - oasys2
 - cerelink
 - skypilot-nightly
@@ -57,23 +68,9 @@
 - graphics-braille
 - yanga
 - PyHiveLMS
-- marcel
 - rlrom
 - openhands-workspace
 - openhands-tools
 - openhands-sdk
 - openhands-agent-server
 - oilspillsim
-- bbot
-- headson
-- django-flowbite
-- FabOMatic
-- Pytdbot
-- pyairahome
-- gamdl
-- antchain
-- coffeepot-http
-- fuzzy-json-repair
-- qstream
-- fedinesia
-- coralsnake
