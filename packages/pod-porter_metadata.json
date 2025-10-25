@@ -1,0 +1,11 @@
+{
+  "name": "pod-porter",
+  "version": "0.2.3",
+  "summary": "Like Helm but for Container Compose Files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pod_porter-0.2.3.tar.gz",
+  "download_time": "2025-10-25T20:17:23.540125",
+  "package_url": "https://pypi.org/project/pod-porter/"
+}

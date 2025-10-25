@@ -1,0 +1,11 @@
+{
+  "name": "optionsconfig",
+  "version": "0.1.0",
+  "summary": "Unified configuration management for environment variables, CLI arguments, and documentation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optionsconfig-0.1.0.tar.gz",
+  "download_time": "2025-10-25T20:17:10.435557",
+  "package_url": "https://pypi.org/project/optionsconfig/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cat-llm",
-  "version": "0.0.90",
+  "version": "0.0.91",
   "summary": "A tool for categorizing text data and images using LLMs and vision models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cat_llm-0.0.90.tar.gz",
-  "download_time": "2025-10-25T19:24:45.192307",
+  "download_filename": "cat_llm-0.0.91.tar.gz",
+  "download_time": "2025-10-25T20:17:14.639750",
   "package_url": "https://pypi.org/project/cat-llm/"
 }

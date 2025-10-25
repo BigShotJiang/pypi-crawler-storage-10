@@ -1,0 +1,11 @@
+{
+  "name": "buildpost",
+  "version": "0.1.1",
+  "summary": "Turn your git commits into social media posts using AI",
+  "author": "BuildPost Team",
+  "license": null,
+  "home_page": "https://github.com/Chukwuebuka-2003/buildpost",
+  "download_filename": "buildpost-0.1.1.tar.gz",
+  "download_time": "2025-10-25T20:17:10.946439",
+  "package_url": "https://pypi.org/project/buildpost/"
+}

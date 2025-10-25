@@ -1,11 +1,11 @@
 {
   "name": "snakia",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Modern python framework",
   "author": "rus07tam",
   "license": null,
   "home_page": null,
-  "download_filename": "snakia-0.2.1.tar.gz",
-  "download_time": "2025-10-25T18:54:01.443470",
+  "download_filename": "snakia-0.3.0.tar.gz",
+  "download_time": "2025-10-25T20:17:24.602371",
   "package_url": "https://pypi.org/project/snakia/"
 }

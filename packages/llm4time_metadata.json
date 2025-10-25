@@ -1,0 +1,11 @@
+{
+  "name": "llm4time",
+  "version": "0.5.0",
+  "summary": "Um pacote para previsão de séries temporais usando modelos de linguagem.",
+  "author": "Zairo Bastos",
+  "license": "MIT License",
+  "home_page": "https://github.com/zairobastos/LLM4Time",
+  "download_filename": "llm4time-0.5.0.tar.gz",
+  "download_time": "2025-10-25T20:17:18.326847",
+  "package_url": "https://pypi.org/project/llm4time/"
+}
