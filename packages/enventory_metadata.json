@@ -1,0 +1,11 @@
+{
+  "name": "enventory",
+  "version": "0.0.3",
+  "summary": "A lightweight Python utility for loading and retrieving environment variables",
+  "author": "Bec",
+  "license": "MIT",
+  "home_page": "https://github.com/becurrie/enventory",
+  "download_filename": "enventory-0.0.3.tar.gz",
+  "download_time": "2025-10-25T13:32:02.554888",
+  "package_url": "https://pypi.org/project/enventory/"
+}

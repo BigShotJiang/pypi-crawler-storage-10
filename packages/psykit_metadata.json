@@ -1,0 +1,11 @@
+{
+  "name": "psykit",
+  "version": "1.2.9",
+  "summary": "A PsychoPy extension for stereoscopic display and more.",
+  "author": "herrlich10",
+  "license": null,
+  "home_page": "https://github.com/herrlich10/psykit",
+  "download_filename": "psykit-1.2.9.tar.gz",
+  "download_time": "2025-10-25T13:32:01.399428",
+  "package_url": "https://pypi.org/project/psykit/"
+}

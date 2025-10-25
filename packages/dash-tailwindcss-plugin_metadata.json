@@ -1,0 +1,11 @@
+{
+  "name": "dash-tailwindcss-plugin",
+  "version": "0.1.0",
+  "summary": "A Dash plugin for integrating TailwindCSS using Dash 3.x hooks",
+  "author": "insistence <3055204202@qq.com>",
+  "license": null,
+  "home_page": "https://github.com/insistence/dash-tailwindcss-plugin",
+  "download_filename": "dash_tailwindcss_plugin-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-25T13:32:05.831201",
+  "package_url": "https://pypi.org/project/dash-tailwindcss-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "symphra-cache",
+  "version": "0.1.0",
+  "summary": "生产级 Python 异步缓存库，支持内存、文件（热重载）、Redis 后端",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symphra_cache-0.1.0.tar.gz",
+  "download_time": "2025-10-25T13:32:00.804430",
+  "package_url": "https://pypi.org/project/symphra-cache/"
+}

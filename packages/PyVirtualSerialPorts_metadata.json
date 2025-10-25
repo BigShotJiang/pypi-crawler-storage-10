@@ -1,0 +1,11 @@
+{
+  "name": "PyVirtualSerialPorts",
+  "version": "2.0.0",
+  "summary": "Python library and script to create temporary virtual serial ports",
+  "author": "Ezra Morris",
+  "license": null,
+  "home_page": "https://github.com/ezramorris/PyVirtualSerialPorts",
+  "download_filename": "pyvirtualserialports-2.0.0.tar.gz",
+  "download_time": "2025-10-25T13:31:40.640820",
+  "package_url": "https://pypi.org/project/PyVirtualSerialPorts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "remixtree",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "remake scratch's remix tree feature #BringBackRemixTrees",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remixtree-0.1.6.tar.gz",
-  "download_time": "2025-10-25T10:15:37.149870",
+  "download_filename": "remixtree-0.1.7.tar.gz",
+  "download_time": "2025-10-25T13:31:43.941460",
   "package_url": "https://pypi.org/project/remixtree/"
 }
