@@ -1,0 +1,11 @@
+{
+  "name": "otdrparser",
+  "version": "0.2.1",
+  "summary": "Python library for parsing OTDR files in Telcordia SR-4731 Version 2 format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otdrparser-0.2.1.tar.gz",
+  "download_time": "2025-10-25T01:13:29.593754",
+  "package_url": "https://pypi.org/project/otdrparser/"
+}

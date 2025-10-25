@@ -1,0 +1,11 @@
+{
+  "name": "youporn-api",
+  "version": "1.2",
+  "summary": "A Python API for the Porn Site youporn.com",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "youporn_api-1.2.tar.gz",
+  "download_time": "2025-10-25T01:12:55.289415",
+  "package_url": "https://pypi.org/project/youporn-api/"
+}

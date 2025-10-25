@@ -1,0 +1,11 @@
+{
+  "name": "django-object-toolbar-admin",
+  "version": "0.1.3",
+  "summary": "Add toolbar in every item line in django's changelist view, and on top of django's changeform view.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_object_toolbar_admin-0.1.3.tar.gz",
+  "download_time": "2025-10-25T01:13:19.646345",
+  "package_url": "https://pypi.org/project/django-object-toolbar-admin/"
+}

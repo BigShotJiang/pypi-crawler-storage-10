@@ -1,0 +1,11 @@
+{
+  "name": "cjm-tqdm-capture",
+  "version": "0.0.6",
+  "summary": "Intercept and capture progress information from tqdm progress bars via callbacks without modifying existing code.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-tqdm-capture",
+  "download_filename": "cjm_tqdm_capture-0.0.6.tar.gz",
+  "download_time": "2025-10-25T01:13:30.700615",
+  "package_url": "https://pypi.org/project/cjm-tqdm-capture/"
+}

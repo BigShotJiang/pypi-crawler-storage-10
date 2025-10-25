@@ -1,11 +1,11 @@
 {
   "name": "ascii-magic",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "Converts pictures into ASCII art",
   "author": "Leandro Barone",
   "license": null,
   "home_page": "https://github.com/LeandroBarone/python-ascii_magic",
-  "download_filename": "ascii_magic-2.5.0.tar.gz",
-  "download_time": "2025-10-24T22:39:53.640029",
+  "download_filename": "ascii_magic-2.6.0.tar.gz",
+  "download_time": "2025-10-25T01:13:13.471354",
   "package_url": "https://pypi.org/project/ascii-magic/"
 }

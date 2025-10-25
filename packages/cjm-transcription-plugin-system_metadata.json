@@ -1,0 +1,11 @@
+{
+  "name": "cjm-transcription-plugin-system",
+  "version": "0.0.9",
+  "summary": "A flexible plugin system for audio transcription intended to make it easy to add support for multiple backends.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-transcription-plugin-system",
+  "download_filename": "cjm_transcription_plugin_system-0.0.9.tar.gz",
+  "download_time": "2025-10-25T01:13:16.320361",
+  "package_url": "https://pypi.org/project/cjm-transcription-plugin-system/"
+}

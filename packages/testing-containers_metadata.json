@@ -1,0 +1,11 @@
+{
+  "name": "testing-containers",
+  "version": "0.2.0",
+  "summary": "Spin up an isolated PostgreSQL test database (reusing local PG or Docker) with zero external service requirements for your test run.",
+  "author": "Tedi Cela",
+  "license": "MIT",
+  "home_page": "https://github.com/tedicela/testing-containers",
+  "download_filename": "testing_containers-0.2.0.tar.gz",
+  "download_time": "2025-10-25T01:13:09.215941",
+  "package_url": "https://pypi.org/project/testing-containers/"
+}

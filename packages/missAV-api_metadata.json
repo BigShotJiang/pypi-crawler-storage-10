@@ -1,0 +1,11 @@
+{
+  "name": "missAV-api",
+  "version": "1.4.7",
+  "summary": "A Python API for the Porn Site missav.ws",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "missav_api-1.4.7.tar.gz",
+  "download_time": "2025-10-25T01:13:07.105549",
+  "package_url": "https://pypi.org/project/missAV-api/"
+}

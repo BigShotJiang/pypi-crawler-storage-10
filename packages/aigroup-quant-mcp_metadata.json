@@ -1,11 +1,11 @@
 {
   "name": "aigroup-quant-mcp",
-  "version": "1.0.19",
-  "summary": "AI Group Quantitative Analysis MCP Service",
+  "version": "1.0.25",
+  "summary": "AI Group Quantitative Analysis MCP Service - Machine Learning Models (No Torch Required)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aigroup_quant_mcp-1.0.19.tar.gz",
-  "download_time": "2025-10-24T12:35:46.052191",
+  "download_filename": "aigroup_quant_mcp-1.0.25.tar.gz",
+  "download_time": "2025-10-25T01:12:52.576023",
   "package_url": "https://pypi.org/project/aigroup-quant-mcp/"
 }

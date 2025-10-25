@@ -1,0 +1,11 @@
+{
+  "name": "archgw_modelserver",
+  "version": "0.3.17",
+  "summary": "A model server for serving models",
+  "author": "Katanemo Labs, Inc",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "archgw_modelserver-0.3.17.tar.gz",
+  "download_time": "2025-10-25T01:13:07.632466",
+  "package_url": "https://pypi.org/project/archgw_modelserver/"
+}
