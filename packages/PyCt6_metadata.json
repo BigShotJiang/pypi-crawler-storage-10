@@ -1,0 +1,11 @@
+{
+  "name": "PyCt6",
+  "version": "6.1.0",
+  "summary": "A modern and customizable python GUI interface library built from the PySide6 library",
+  "author": "D. Liam Mc.",
+  "license": "MIT License",
+  "home_page": "https://github.com/Dliammc/CustomPyQt/",
+  "download_filename": "pyct6-6.1.0-py3-none-any.whl",
+  "download_time": "2025-10-25T14:31:09.364218",
+  "package_url": "https://pypi.org/project/PyCt6/"
+}

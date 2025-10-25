@@ -1,11 +1,11 @@
 {
   "name": "robotframework-doctestlibrary",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "summary": "A library for Visual Document Testing",
   "author": "Many Kasiriha",
   "license": "Apache-2.0",
   "home_page": "https://github.com/manykarim/robotframework-doctestlibrary",
-  "download_filename": "robotframework_doctestlibrary-0.28.0.tar.gz",
-  "download_time": "2025-10-24T22:49:32.954394",
+  "download_filename": "robotframework_doctestlibrary-0.28.1.tar.gz",
+  "download_time": "2025-10-25T14:31:11.494121",
   "package_url": "https://pypi.org/project/robotframework-doctestlibrary/"
 }
