@@ -1,0 +1,11 @@
+{
+  "name": "minchin.scripts.photosorter",
+  "version": "2.2.0",
+  "summary": "A Python script to keep my photos from Dropbox organized.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minchin_scripts_photosorter-2.2.0.tar.gz",
+  "download_time": "2025-10-25T04:19:17.777972",
+  "package_url": "https://pypi.org/project/minchin.scripts.photosorter/"
+}

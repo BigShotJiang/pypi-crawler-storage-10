@@ -1,11 +1,11 @@
 {
   "name": "mmaing-aesop",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Mixed Model of Artificial Intelligence and Next-Generation for outbreak detection.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mmaing_aesop-0.1.7.tar.gz",
-  "download_time": "2025-10-25T03:48:45.134449",
+  "download_filename": "mmaing_aesop-0.1.8.tar.gz",
+  "download_time": "2025-10-25T04:19:04.057889",
   "package_url": "https://pypi.org/project/mmaing-aesop/"
 }
