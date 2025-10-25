@@ -1,0 +1,11 @@
+{
+  "name": "reposmith-tol",
+  "version": "0.4.3",
+  "summary": "Portable Python project bootstrapper with venv, uv, VS Code, and CI integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reposmith_tol-0.4.3.tar.gz",
+  "download_time": "2025-10-25T02:41:22.885563",
+  "package_url": "https://pypi.org/project/reposmith-tol/"
+}

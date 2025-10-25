@@ -1,0 +1,11 @@
+{
+  "name": "minchin.releaser",
+  "version": "0.9.6",
+  "summary": "Minchin.Releaser is a collection of tools designed to make releasing Python packages easier.",
+  "author": "William Minchin",
+  "license": "MIT License",
+  "home_page": "https://github.com/MinchinWeb/minchin.releaser",
+  "download_filename": "minchin_releaser-0.9.6.tar.gz",
+  "download_time": "2025-10-25T02:41:05.506645",
+  "package_url": "https://pypi.org/project/minchin.releaser/"
+}

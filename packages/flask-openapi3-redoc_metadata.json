@@ -1,0 +1,11 @@
+{
+  "name": "flask-openapi3-redoc",
+  "version": "2.5.2",
+  "summary": "Provide Redoc UI for flask-openapi3.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_openapi3_redoc-2.5.2.tar.gz",
+  "download_time": "2025-10-25T02:41:16.552724",
+  "package_url": "https://pypi.org/project/flask-openapi3-redoc/"
+}

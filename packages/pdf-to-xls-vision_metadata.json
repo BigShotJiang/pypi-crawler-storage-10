@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-xls-vision",
+  "version": "1.0.0",
+  "summary": "Convert PDF tables to Excel using Claude Vision API with automatic rotation detection",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pdf-to-xls-vision",
+  "download_filename": "pdf_to_xls_vision-1.0.0.tar.gz",
+  "download_time": "2025-10-25T02:41:09.232278",
+  "package_url": "https://pypi.org/project/pdf-to-xls-vision/"
+}

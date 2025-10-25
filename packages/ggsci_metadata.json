@@ -1,0 +1,11 @@
+{
+  "name": "ggsci",
+  "version": "1.1.0",
+  "summary": "Plotnine color palettes inspired by plots in scientific journals, data visualization libraries, science fiction movies, and TV shows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ggsci-1.1.0.tar.gz",
+  "download_time": "2025-10-25T02:40:58.641491",
+  "package_url": "https://pypi.org/project/ggsci/"
+}

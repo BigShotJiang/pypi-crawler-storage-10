@@ -1,11 +1,11 @@
 {
   "name": "whatdidido",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Track your work across Jira and Linear. Generate AI-powered summaries of your activities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whatdidido-0.1.4.tar.gz",
-  "download_time": "2025-10-24T21:14:31.374094",
+  "download_filename": "whatdidido-0.1.5.tar.gz",
+  "download_time": "2025-10-25T02:41:18.157773",
   "package_url": "https://pypi.org/project/whatdidido/"
 }
