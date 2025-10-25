@@ -1,0 +1,11 @@
+{
+  "name": "freep2w",
+  "version": "1.0.0",
+  "summary": "Free PDF to Word Converter",
+  "author": "zstar",
+  "license": "MIT",
+  "home_page": "https://github.com/zstar1003/FreeP2W",
+  "download_filename": "freep2w-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-25T12:30:12.493774",
+  "package_url": "https://pypi.org/project/freep2w/"
+}

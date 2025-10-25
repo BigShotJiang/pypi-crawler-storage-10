@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.2.3",
+  "summary": "Building data structures as node trees",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/node",
+  "download_filename": "node-1.2.3.tar.gz",
+  "download_time": "2025-10-25T12:30:16.179770",
+  "package_url": "https://pypi.org/project/node/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "speedbuild",
-  "version": "0.1.6.14",
+  "version": "0.1.6.15",
   "summary": "Extracts, adapts, and deploys battle-tested features from existing codebases to new projects—complete with all dependencies, configurations, and framework integrations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speedbuild-0.1.6.14.tar.gz",
-  "download_time": "2025-10-25T06:54:50.096194",
+  "download_filename": "speedbuild-0.1.6.15.tar.gz",
+  "download_time": "2025-10-25T12:30:18.731433",
   "package_url": "https://pypi.org/project/speedbuild/"
 }

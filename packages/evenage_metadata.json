@@ -1,11 +1,11 @@
 {
   "name": "evenage",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "EvenAge - A transparent, Docker-native, observable, distributed agent framework. A superset of CrewAI with explicit communication, real distributed runtime, and local observability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evenage-0.2.5.tar.gz",
-  "download_time": "2025-10-25T11:12:40.430987",
+  "download_filename": "evenage-0.2.6.tar.gz",
+  "download_time": "2025-10-25T12:30:00.069458",
   "package_url": "https://pypi.org/project/evenage/"
 }

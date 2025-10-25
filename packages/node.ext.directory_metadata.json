@@ -1,0 +1,11 @@
+{
+  "name": "node.ext.directory",
+  "version": "0.8.2",
+  "summary": "Filesystem directory abstraction based on nodes",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/node.ext.directory",
+  "download_filename": "node_ext_directory-0.8.2.tar.gz",
+  "download_time": "2025-10-25T12:30:09.363028",
+  "package_url": "https://pypi.org/project/node.ext.directory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "node.ext.ldap",
+  "version": "1.3",
+  "summary": "LDAP/AD convenience with Node-trees based on python-ldap",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "https://github.com/conestack/node.ext.ldap",
+  "download_filename": "node_ext_ldap-1.3.tar.gz",
+  "download_time": "2025-10-25T12:30:00.592114",
+  "package_url": "https://pypi.org/project/node.ext.ldap/"
+}

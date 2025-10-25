@@ -1,0 +1,11 @@
+{
+  "name": "zeiss-sem-tiff",
+  "version": "0.1.0",
+  "summary": "Parse Zeiss SEM TIFF metadata with Unicode corruption handling",
+  "author": "R. Gilyazev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zeiss_sem_tiff-0.1.0.tar.gz",
+  "download_time": "2025-10-25T12:30:26.991569",
+  "package_url": "https://pypi.org/project/zeiss-sem-tiff/"
+}

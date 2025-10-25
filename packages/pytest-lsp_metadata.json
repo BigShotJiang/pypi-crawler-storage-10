@@ -1,0 +1,11 @@
+{
+  "name": "pytest-lsp",
+  "version": "1.0.0",
+  "summary": "A pytest plugin for end-to-end testing of language servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_lsp-1.0.0.tar.gz",
+  "download_time": "2025-10-25T12:30:13.007605",
+  "package_url": "https://pypi.org/project/pytest-lsp/"
+}

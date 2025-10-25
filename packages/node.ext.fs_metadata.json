@@ -1,0 +1,11 @@
+{
+  "name": "node.ext.fs",
+  "version": "1.2",
+  "summary": "Filesystem abstraction based on nodes",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/node.ext.fs",
+  "download_filename": "node_ext_fs-1.2.tar.gz",
+  "download_time": "2025-10-25T12:30:04.758876",
+  "package_url": "https://pypi.org/project/node.ext.fs/"
+}

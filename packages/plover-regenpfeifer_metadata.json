@@ -1,0 +1,11 @@
+{
+  "name": "plover-regenpfeifer",
+  "version": "1.2.0",
+  "summary": "German realtime system for Plover",
+  "author": "Martin Koerner",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/mkrnr/plover_regenpfeifer",
+  "download_filename": "plover_regenpfeifer-1.2.0.tar.gz",
+  "download_time": "2025-10-25T12:30:05.788434",
+  "package_url": "https://pypi.org/project/plover-regenpfeifer/"
+}

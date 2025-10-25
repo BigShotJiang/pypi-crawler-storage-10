@@ -1,0 +1,11 @@
+{
+  "name": "node.ext.ugm",
+  "version": "1.2",
+  "summary": "Node-based user and group management",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "https://github.com/conestack/node.ext.ugm",
+  "download_filename": "node_ext_ugm-1.2.tar.gz",
+  "download_time": "2025-10-25T12:29:58.023471",
+  "package_url": "https://pypi.org/project/node.ext.ugm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fedora-distro-aliases",
+  "version": "1.8",
+  "summary": "Aliases for active Fedora releases",
+  "author": "Copr and Packit teams",
+  "license": "GPLv2+",
+  "home_page": "https://github.com/rpm-software-management/fedora-distro-aliases",
+  "download_filename": "fedora_distro_aliases-1.8.tar.gz",
+  "download_time": "2025-10-25T12:30:24.395681",
+  "package_url": "https://pypi.org/project/fedora-distro-aliases/"
+}

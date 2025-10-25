@@ -1,0 +1,11 @@
+{
+  "name": "node.ext.yaml",
+  "version": "0.4",
+  "summary": "Node tree implementation for yaml files",
+  "author": "Node Contributors",
+  "license": "Simplified BSD",
+  "home_page": "https://github.com/conestack/node.ext.yaml",
+  "download_filename": "node_ext_yaml-0.4.tar.gz",
+  "download_time": "2025-10-25T12:29:54.193358",
+  "package_url": "https://pypi.org/project/node.ext.yaml/"
+}

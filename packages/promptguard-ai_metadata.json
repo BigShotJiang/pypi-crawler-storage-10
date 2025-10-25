@@ -1,0 +1,11 @@
+{
+  "name": "promptguard-ai",
+  "version": "0.1.1",
+  "summary": "A fast, layered prompt injection detection engine for AI and LLM systems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptguard_ai-0.1.1.tar.gz",
+  "download_time": "2025-10-25T12:29:57.004435",
+  "package_url": "https://pypi.org/project/promptguard-ai/"
+}

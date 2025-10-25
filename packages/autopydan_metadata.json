@@ -1,0 +1,11 @@
+{
+  "name": "autopydan",
+  "version": "0.1.0",
+  "summary": "Automatically build Pydantic BaseModel from raw data",
+  "author": "Bucher David",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autopydan-0.1.0.tar.gz",
+  "download_time": "2025-10-25T12:30:06.819482",
+  "package_url": "https://pypi.org/project/autopydan/"
+}
