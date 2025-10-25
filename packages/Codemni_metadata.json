@@ -1,11 +1,11 @@
 {
   "name": "Codemni",
-  "version": "1.1.1",
-  "summary": "Production-Ready Python Toolkit for AI Development - LLM wrappers, AI agents, and conversation memory",
+  "version": "1.2.1",
+  "summary": "Production-Ready Python Toolkit for AI Development - LLM wrappers, AI agents with reasoning capabilities, and conversation memory",
   "author": "CodexJitin",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "codemni-1.1.1.tar.gz",
-  "download_time": "2025-10-25T10:15:41.316860",
+  "download_filename": "codemni-1.2.1.tar.gz",
+  "download_time": "2025-10-25T15:30:03.388674",
   "package_url": "https://pypi.org/project/Codemni/"
 }

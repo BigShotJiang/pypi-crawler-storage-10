@@ -1,11 +1,11 @@
 {
   "name": "AutoWebPdfSummarizer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Summarize web pages and PDFs with Google Gemini",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autowebpdfsummarizer-0.1.0.tar.gz",
-  "download_time": "2025-10-25T14:50:16.302684",
+  "download_filename": "autowebpdfsummarizer-0.1.1.tar.gz",
+  "download_time": "2025-10-25T15:30:04.426665",
   "package_url": "https://pypi.org/project/AutoWebPdfSummarizer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gpyutils",
+  "version": "0.15.1",
+  "summary": "Maintenance scripts for Gentoo Python packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpyutils-0.15.1.tar.gz",
+  "download_time": "2025-10-25T15:30:02.869596",
+  "package_url": "https://pypi.org/project/gpyutils/"
+}
