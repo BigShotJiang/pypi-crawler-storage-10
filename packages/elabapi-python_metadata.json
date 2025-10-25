@@ -1,0 +1,11 @@
+{
+  "name": "elabapi-python",
+  "version": "5.3.2",
+  "summary": "eLabFTW REST API v2 Documentation",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/elabftw/elabapi-python",
+  "download_filename": "elabapi_python-5.3.2.tar.gz",
+  "download_time": "2025-10-25T17:13:14.465282",
+  "package_url": "https://pypi.org/project/elabapi-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "self-unzip-html",
+  "version": "0.3.0",
+  "summary": "Create self-extracting and/or password protected HTML pages with arbitrary contents",
+  "author": "six-two",
+  "license": "MIT License",
+  "home_page": "https://github.com/six-two/self-unzip.html",
+  "download_filename": "self_unzip_html-0.3.0.tar.gz",
+  "download_time": "2025-10-25T17:13:21.202557",
+  "package_url": "https://pypi.org/project/self-unzip-html/"
+}

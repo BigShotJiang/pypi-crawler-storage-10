@@ -1,0 +1,11 @@
+{
+  "name": "welllog-ui",
+  "version": "0.0.21",
+  "summary": "WellLog UI with PySide6 and DL pipeline",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "welllog_ui-0.0.21.tar.gz",
+  "download_time": "2025-10-25T17:13:29.479103",
+  "package_url": "https://pypi.org/project/welllog-ui/"
+}

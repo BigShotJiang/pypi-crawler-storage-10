@@ -1,0 +1,11 @@
+{
+  "name": "django-page-hit-counter",
+  "version": "0.1.1",
+  "summary": "Simple Django page hit counter",
+  "author": "Nimisha Davis",
+  "license": "MIT",
+  "home_page": "https://github.com/drnimishadavis/django-page-hit-counter",
+  "download_filename": "django_page_hit_counter-0.1.1.tar.gz",
+  "download_time": "2025-10-25T17:13:33.079651",
+  "package_url": "https://pypi.org/project/django-page-hit-counter/"
+}

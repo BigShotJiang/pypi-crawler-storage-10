@@ -1,11 +1,11 @@
 {
   "name": "finRav",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Financial stochastic processes and statistical tools",
   "author": "Raviv Rafael Herrera",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finrav-0.4.2.tar.gz",
-  "download_time": "2025-10-25T16:52:24.145412",
+  "download_filename": "finrav-0.4.3.tar.gz",
+  "download_time": "2025-10-25T17:13:28.939489",
   "package_url": "https://pypi.org/project/finRav/"
 }

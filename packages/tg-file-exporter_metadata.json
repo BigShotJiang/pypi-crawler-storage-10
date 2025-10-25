@@ -1,11 +1,11 @@
 {
   "name": "tg-file-exporter",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "summary": "Download all files from Telegram chat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tg_file_exporter-1.1.11.tar.gz",
-  "download_time": "2025-10-25T11:25:27.336043",
+  "download_filename": "tg_file_exporter-1.1.12.tar.gz",
+  "download_time": "2025-10-25T17:13:16.537343",
   "package_url": "https://pypi.org/project/tg-file-exporter/"
 }
