@@ -1,24 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T05:33:49.676306
-- **Total Packages**: 83
-- **Total Size**: 9.51 MB
+- **Download Time**: 2025-10-25T05:51:00.148010
+- **Total Packages**: 81
+- **Total Size**: 4.45 MB
 
 ## Packages List
-- cat-llm
 - statemachine-engine
+- nautobot-app-livedata
+- insyt-secure
+- showflag
+- django-salestrack
+- airobo
+- GetSequenceIoApiClient
+- speclike
+- keybird
+- PythonToSW
+- xtructure
+- cat-llm
 - django-inngest
 - square-authentication-helper
 - square-file-store-helper
 - square-database-helper
-- airobo
-- PythonToSW
 - aibrix-kvcache
 - roboquant
 - siture
 - opendp
-- insyt-secure
 - llmcc
 - django-cfg
 - mcp-sqlite
@@ -53,7 +60,6 @@
 - iamdata
 - lava-lyra
 - nemorosa
-- speclike
 - cloudsh
 - dagnostics
 - syosetumaster
@@ -81,11 +87,3 @@
 - miniwdl
 - mcp-toolz
 - winipedia-utils
-- speedbuild
-- mi-pdf-extractor
-- cdktf-cdktf-provider-spotinst
-- chromedriver-binary
-- mcp-vector-search
-- mmaing-aesop
-- odoo-addon-stock-reserve
-- aegis-vision
