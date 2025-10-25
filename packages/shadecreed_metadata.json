@@ -1,0 +1,11 @@
+{
+  "name": "shadecreed",
+  "version": "1.14.9",
+  "summary": "A CLI framework for web application assessments and penetration testing — built with modularity, continuous maintenance, and frequent updates in mind.",
+  "author": "Shade",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "shadecreed-1.14.9.tar.gz",
+  "download_time": "2025-10-25T08:19:24.705319",
+  "package_url": "https://pypi.org/project/shadecreed/"
+}

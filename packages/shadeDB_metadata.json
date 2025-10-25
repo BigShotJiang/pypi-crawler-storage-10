@@ -1,11 +1,11 @@
 {
   "name": "shadeDB",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "A lightweight, class-oriented database server with a CLI wrapper for instant querying on any device.Store, update, fetch, and remove structured data with a single command. Designed for speed and simplicity, it’s perfect for embedded systems, mobile devices, developer tools, and quick local services.",
   "author": "Shade",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shadedb-0.2.6.tar.gz",
-  "download_time": "2025-10-25T07:38:49.934844",
+  "download_filename": "shadedb-0.2.8.tar.gz",
+  "download_time": "2025-10-25T08:19:36.742620",
   "package_url": "https://pypi.org/project/shadeDB/"
 }

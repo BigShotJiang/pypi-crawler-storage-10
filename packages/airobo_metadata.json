@@ -1,11 +1,11 @@
 {
   "name": "airobo",
-  "version": "0.1.87",
+  "version": "0.1.91",
   "summary": "A CLI tool for Airobo tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airobo-0.1.87.tar.gz",
-  "download_time": "2025-10-25T07:50:08.569764",
+  "download_filename": "airobo-0.1.91.tar.gz",
+  "download_time": "2025-10-25T08:19:21.548766",
   "package_url": "https://pypi.org/project/airobo/"
 }

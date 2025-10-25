@@ -1,11 +1,11 @@
 {
   "name": "allure-api-client",
-  "version": "25.297",
+  "version": "25.298",
   "summary": "API Client for Python ^3.10 and Pytest projects. It includes the Allure request/response hooks and the status code checking inside the main method. Request hook generates cURL, Response hook represents the useful information.",
   "author": "amaym0n",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "allure_api_client-25.297.tar.gz",
-  "download_time": "2025-10-24T20:18:23.775470",
+  "download_filename": "allure_api_client-25.298.tar.gz",
+  "download_time": "2025-10-25T08:19:36.231412",
   "package_url": "https://pypi.org/project/allure-api-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mackup",
+  "version": "0.9.4",
+  "summary": "Backup and keep your application settings in sync.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mackup-0.9.4.tar.gz",
+  "download_time": "2025-10-25T08:19:34.659305",
+  "package_url": "https://pypi.org/project/mackup/"
+}
