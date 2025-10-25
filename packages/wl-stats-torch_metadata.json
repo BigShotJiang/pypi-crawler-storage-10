@@ -1,0 +1,11 @@
+{
+  "name": "wl-stats-torch",
+  "version": "0.1.0",
+  "summary": "GPU-accelerated weak lensing summary statistics with PyTorch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wl_stats_torch-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-25T17:50:23.291606",
+  "package_url": "https://pypi.org/project/wl-stats-torch/"
+}

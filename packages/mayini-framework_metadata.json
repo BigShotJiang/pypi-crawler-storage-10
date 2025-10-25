@@ -1,11 +1,11 @@
 {
   "name": "mayini-framework",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A comprehensive deep learning framework built from scratch in Python with PyTorch-like API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mayini_framework-0.2.6.tar.gz",
-  "download_time": "2025-10-25T17:40:17.007955",
+  "download_filename": "mayini_framework-0.2.7.tar.gz",
+  "download_time": "2025-10-25T17:50:38.326084",
   "package_url": "https://pypi.org/project/mayini-framework/"
 }

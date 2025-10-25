@@ -1,0 +1,11 @@
+{
+  "name": "kill-process-mcp",
+  "version": "1.1",
+  "summary": "Cross-platform MCP server exposing tools to list and kill OS processes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kill_process_mcp-1.1-py3-none-any.whl",
+  "download_time": "2025-10-25T17:50:29.091224",
+  "package_url": "https://pypi.org/project/kill-process-mcp/"
+}

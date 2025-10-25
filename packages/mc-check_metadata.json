@@ -1,0 +1,11 @@
+{
+  "name": "mc-check",
+  "version": "1.0.7",
+  "summary": "CLI tool to check Minecraft server status using the mcsrvstat.us API",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "mc_check-1.0.7.tar.gz",
+  "download_time": "2025-10-25T17:50:26.796838",
+  "package_url": "https://pypi.org/project/mc-check/"
+}

@@ -1,12 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T17:40:55.556941
+- **Download Time**: 2025-10-25T17:51:11.208901
 - **Total Packages**: 89
-- **Total Size**: 15.23 MB
+- **Total Size**: 7.21 MB
 
 ## Packages List
-- catpath
+- coralsnake
+- batre-translator-cli
+- xmanager-slurm
+- dreamer4
+- wl-stats-torch
+- textual-fastdatatable
+- repello-mcp-gateway
+- django-cfg
+- cstructimpl
+- django-basemodels
+- mc-check
+- clone-repo
+- mariax
+- unsiloed-parser
+- kill-process-mcp
+- kuzu-memory
+- tombi
+- ol-datastar
 - pyoxigraph
 - dbetto
 - oxigraph
@@ -29,7 +46,6 @@
 - loxodo-curses
 - bdo-empire
 - ai-rulez
-- clone-repo
 - agentle
 - evenage
 - pymoneypaylib
@@ -79,19 +95,3 @@
 - ididi
 - self-unzip-html
 - git-timemachine
-- prabalgolib
-- quantium
-- poelis-sdk
-- pygator
-- nodepy
-- IsoSpecPy
-- niimprint
-- songpress
-- manakit-mantine
-- django-cfg
-- drun
-- pdfswathi
-- finRav
-- welllog-ui
-- gradio-image-annotation
-- jx
