@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T06:55:19.744532
-- **Total Packages**: 70
-- **Total Size**: 5.21 MB
+- **Download Time**: 2025-10-25T07:15:53.906232
+- **Total Packages**: 75
+- **Total Size**: 25.09 MB
 
 ## Packages List
+- ultraspn
+- hjq
+- hhd
+- zhkj-plugins-parent
+- pybyntic
+- wayspiritmcp-weather
+- simple-fastcgi
+- streamlit-nightly
+- syosetumaster
+- pylogue
+- airobo
+- cat-llm
+- concave-sandbox
+- tf-models-nightly
+- ssh-agent-mcp
+- interpn
+- wmill-pg
+- wmill
+- windmill-api
+- volt-framework
+- avrotize
+- jupyterlab-commands-toolkit
+- oelint-data
+- halo-mcp-server
 - eless
 - fastapi-users
 - django-dynamic-workflows
@@ -18,7 +42,6 @@
 - mcp-notify
 - talkdo
 - gen-workflow-mcp-server
-- airobo
 - groupbyScore
 - speedbuild
 - drun
@@ -26,9 +49,7 @@
 - msserviceprofiler
 - PyQUDA
 - shrinkr
-- cat-llm
 - pygpc
-- wayspiritmcp-weather
 - insta-rag
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
@@ -60,19 +81,3 @@
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - shancx
-- bpmn2neo
-- robhan-cdk-lib.utils
-- talus-eastwind
-- django-inngest
-- doc-summarizer
-- ttkbootstrap-icons
-- isa-model
-- stt-bench
-- agentia
-- django-plugin-system
-- neuracore
-- showmethef1ag
-- markdown-toc-creator
-- quillmark
-- projectree
-- beads-mcp

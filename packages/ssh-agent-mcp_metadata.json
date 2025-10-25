@@ -1,11 +1,11 @@
 {
   "name": "ssh-agent-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "SSH Agent MCP服务 - 支持SSH连接管理、命令执行和SFTP文件传输的完整MCP服务器",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/sshagent",
-  "download_filename": "ssh_agent_mcp-0.3.0-py3-none-any.whl",
-  "download_time": "2025-10-25T01:13:18.577141",
+  "download_filename": "ssh_agent_mcp-0.3.1.tar.gz",
+  "download_time": "2025-10-25T07:15:22.248167",
   "package_url": "https://pypi.org/project/ssh-agent-mcp/"
 }
