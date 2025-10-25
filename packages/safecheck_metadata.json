@@ -1,11 +1,11 @@
 {
   "name": "safecheck",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Utilities for typechecking, shapechecking and dispatch.",
-  "author": null,
+  "author": "David Muhr",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "safecheck-0.5.2.tar.gz",
-  "download_time": "2025-10-25T19:24:53.549770",
+  "download_filename": "safecheck-0.5.3.tar.gz",
+  "download_time": "2025-10-25T19:36:50.005001",
   "package_url": "https://pypi.org/project/safecheck/"
 }
