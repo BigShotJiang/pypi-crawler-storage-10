@@ -1,11 +1,11 @@
 {
   "name": "gen-workflow-mcp-server",
-  "version": "0.0.2",
-  "summary": "The generater for workflows and agents",
-  "author": "JUNGHUNKIM",
+  "version": "0.0.3",
+  "summary": "Add your description here",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gen_workflow_mcp_server-0.0.2.tar.gz",
-  "download_time": "2025-10-25T06:45:22.248858",
+  "download_filename": "gen_workflow_mcp_server-0.0.3.tar.gz",
+  "download_time": "2025-10-25T06:54:48.541920",
   "package_url": "https://pypi.org/project/gen-workflow-mcp-server/"
 }

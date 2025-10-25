@@ -1,0 +1,11 @@
+{
+  "name": "eless",
+  "version": "1.0.0",
+  "summary": "Evolving Low-resource Embedding and Storage System - A resilient RAG data processing pipeline with comprehensive logging, multi-database support, and CLI interface.",
+  "author": "ELESS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eless-1.0.0.tar.gz",
+  "download_time": "2025-10-25T06:54:42.752709",
+  "package_url": "https://pypi.org/project/eless/"
+}

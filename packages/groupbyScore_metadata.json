@@ -1,0 +1,11 @@
+{
+  "name": "groupbyScore",
+  "version": "0.0.4",
+  "summary": "You can group similar items (e.g., strings or dict fields) using the fuzzywuzzy package by comparing their similarity scores.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "groupbyscore-0.0.4.tar.gz",
+  "download_time": "2025-10-25T06:54:49.584745",
+  "package_url": "https://pypi.org/project/groupbyScore/"
+}
