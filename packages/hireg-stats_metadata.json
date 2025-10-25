@@ -1,0 +1,11 @@
+{
+  "name": "hireg-stats",
+  "version": "0.1.10",
+  "summary": "HIREG: two-stage hierarchical interaction regression.",
+  "author": "Aymen Echarghaoui",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hireg_stats-0.1.10.tar.gz",
+  "download_time": "2025-10-25T18:54:20.295627",
+  "package_url": "https://pypi.org/project/hireg-stats/"
+}

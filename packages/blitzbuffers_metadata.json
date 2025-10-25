@@ -1,0 +1,11 @@
+{
+  "name": "blitzbuffers",
+  "version": "0.3.1",
+  "summary": "Code-generation library and tool for the BlitzBuffers serialization format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blitzbuffers-0.3.1.tar.gz",
+  "download_time": "2025-10-25T18:54:03.850149",
+  "package_url": "https://pypi.org/project/blitzbuffers/"
+}

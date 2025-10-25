@@ -1,0 +1,11 @@
+{
+  "name": "tlp-battery-boost",
+  "version": "1.0.0",
+  "summary": "A lightweight Tkinter GUI to toggle TLP between normal and full-charge battery modes.",
+  "author": "Steve Daulton",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/SteveDaulton/tlp-battery-boost",
+  "download_filename": "tlp_battery_boost-1.0.0.tar.gz",
+  "download_time": "2025-10-25T18:54:28.114161",
+  "package_url": "https://pypi.org/project/tlp-battery-boost/"
+}
