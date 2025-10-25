@@ -1,0 +1,11 @@
+{
+  "name": "explain-exception",
+  "version": "0.1.0",
+  "summary": "Explains Python errors in clear English for beginners.",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "explain_exception-0.1.0.tar.gz",
+  "download_time": "2025-10-25T15:50:23.079026",
+  "package_url": "https://pypi.org/project/explain-exception/"
+}

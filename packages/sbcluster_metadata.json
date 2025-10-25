@@ -1,0 +1,11 @@
+{
+  "name": "sbcluster",
+  "version": "0.2.0",
+  "summary": "Spectral Bridges clustering algorithm",
+  "author": "Félix Laplante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbcluster-0.2.0.tar.gz",
+  "download_time": "2025-10-25T15:50:30.518675",
+  "package_url": "https://pypi.org/project/sbcluster/"
+}

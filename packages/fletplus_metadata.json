@@ -1,0 +1,11 @@
+{
+  "name": "fletplus",
+  "version": "0.2.3",
+  "summary": "Componentes visuales avanzados para Flet en Python",
+  "author": "Adolfo González Hernández",
+  "license": "MIT",
+  "home_page": "https://github.com/Alphonsus411/fletplus",
+  "download_filename": "fletplus-0.2.3.tar.gz",
+  "download_time": "2025-10-25T15:50:24.768796",
+  "package_url": "https://pypi.org/project/fletplus/"
+}
