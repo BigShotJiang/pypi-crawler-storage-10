@@ -1,0 +1,11 @@
+{
+  "name": "roblox-vip-api",
+  "version": "1.0.5",
+  "summary": "API для управления VIP серверами Roblox",
+  "author": "Garou",
+  "license": null,
+  "home_page": "https://github.com/Garoika/roblox-vip-api",
+  "download_filename": "roblox_vip_api-1.0.5.tar.gz",
+  "download_time": "2025-10-25T16:19:07.220794",
+  "package_url": "https://pypi.org/project/roblox-vip-api/"
+}

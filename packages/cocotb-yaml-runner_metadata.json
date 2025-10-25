@@ -1,11 +1,11 @@
 {
   "name": "cocotb-yaml-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "YAML-based test runner for cocotb with Verilator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cocotb_yaml_runner-0.1.0.tar.gz",
-  "download_time": "2025-10-24T11:30:02.039251",
+  "download_filename": "cocotb_yaml_runner-0.1.1.tar.gz",
+  "download_time": "2025-10-25T16:18:47.181206",
   "package_url": "https://pypi.org/project/cocotb-yaml-runner/"
 }

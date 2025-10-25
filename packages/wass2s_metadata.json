@@ -1,11 +1,11 @@
 {
   "name": "wass2s",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "A Python package for seasonal climate forecast.",
   "author": "HOUNGNIBO C. M. Mandela",
   "license": "GPL-3.0",
   "home_page": "https://github.com/hmandela/WASS2S",
-  "download_filename": "wass2s-0.2.10.tar.gz",
-  "download_time": "2025-10-24T18:23:43.766264",
+  "download_filename": "wass2s-0.2.11.tar.gz",
+  "download_time": "2025-10-25T16:18:39.164497",
   "package_url": "https://pypi.org/project/wass2s/"
 }

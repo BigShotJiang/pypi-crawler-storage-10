@@ -1,0 +1,11 @@
+{
+  "name": "malipopy-mpesa",
+  "version": "0.1.0",
+  "summary": "A Python M-Pesa payments library",
+  "author": "Madegwa Kidii",
+  "license": "MIT",
+  "home_page": "https://github.com/madegwa-kidii/malipopy-mpesa",
+  "download_filename": "malipopy_mpesa-0.1.0.tar.gz",
+  "download_time": "2025-10-25T16:18:41.886524",
+  "package_url": "https://pypi.org/project/malipopy-mpesa/"
+}

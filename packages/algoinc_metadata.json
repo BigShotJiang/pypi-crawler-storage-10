@@ -1,0 +1,11 @@
+{
+  "name": "algoinc",
+  "version": "0.2.1",
+  "summary": "CLI tool to fetch C algorithms instantly",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algoinc-0.2.1.tar.gz",
+  "download_time": "2025-10-25T16:19:01.305351",
+  "package_url": "https://pypi.org/project/algoinc/"
+}

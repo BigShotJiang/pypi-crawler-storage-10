@@ -1,0 +1,11 @@
+{
+  "name": "wing-carrier",
+  "version": "1.2.0",
+  "summary": "Send commands from Wing-IDE to DCC apps or between DCC apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wing_carrier-1.2.0.tar.gz",
+  "download_time": "2025-10-25T16:18:58.078204",
+  "package_url": "https://pypi.org/project/wing-carrier/"
+}

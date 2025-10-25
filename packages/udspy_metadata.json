@@ -1,11 +1,11 @@
 {
   "name": "udspy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A minimal DSPy-inspired library with native OpenAI tool calling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "udspy-0.1.0.tar.gz",
-  "download_time": "2025-10-25T15:50:27.382883",
+  "download_filename": "udspy-0.1.1.tar.gz",
+  "download_time": "2025-10-25T16:18:55.939286",
   "package_url": "https://pypi.org/project/udspy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "Q-Synth",
-  "version": "5.0.17",
+  "version": "5.0.18",
   "summary": "Optimal Circuit Layout Synthesis, CNOT (Re)Synthesis, and Clifford (Re)Synthesis, based on Classical Planning, SAT, and QBF Solving",
   "author": "Irfansha Shaik, Jaco van de Pol",
   "license": null,
   "home_page": "https://github.com/irfansha/Q-Synth",
-  "download_filename": "q_synth-5.0.17.tar.gz",
-  "download_time": "2025-10-25T15:50:29.475825",
+  "download_filename": "q_synth-5.0.18.tar.gz",
+  "download_time": "2025-10-25T16:18:50.931123",
   "package_url": "https://pypi.org/project/Q-Synth/"
 }

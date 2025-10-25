@@ -1,14 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T15:51:05.808454
-- **Total Packages**: 85
-- **Total Size**: 2.25 MB
+- **Download Time**: 2025-10-25T16:19:20.749440
+- **Total Packages**: 80
+- **Total Size**: 16.13 MB
 
 ## Packages List
-- modm-devices
+- sqliteplus-enhanced
+- isanlp-rst
+- wass2s
+- agentmake
+- dalia-dif
+- seqme
+- mistflow
+- malipopy-mpesa
+- otree
 - optimg
+- open-sandboxes
+- dock-thor-client
+- songpress
+- githubkit
+- transcribe-with-whisper
+- flowlens-mcp-server
 - explain-exception
+- cocotb-yaml-runner
+- django-unicom
+- vectorvein
+- user-scanner
+- tiny8
+- httpdbg
+- ENATool
+- Q-Synth
+- civic-lib-core
+- hazelbean
+- evenage
+- drun
+- PyCorrCPI
+- django-cfg
+- pytest-verify
+- snmp
+- udspy
+- workflows-mcp
+- staticpipes
+- gametools-global-mapping
+- wing-carrier
+- id-translation
+- vnag
+- microweldr
+- ididi
+- kubecrds
+- algoinc
+- bella-companion
+- aria2tui
+- owlfft
+- PR2MD
+- listpick
+- invcrypt
+- lt-tensor
+- rumdl
+- hstrat
+- deebot-client
+- roblox-vip-api
+- restcodegen
+- modm-devices
 - topo_map_processor
 - gemato
 - fletplus
@@ -16,11 +70,7 @@
 - yt-chat-downloader
 - streamlit-notebook
 - victron-mqtt
-- udspy
 - pyutils-spirit
-- microweldr
-- drun
-- Q-Synth
 - iloko-cli
 - sbcluster
 - bitwarden-exporter
@@ -36,58 +86,3 @@
 - speedbuild
 - django-otp
 - github-backup-supabase
-- agentmake
-- similaripy
-- python-roborock
-- tensorwatchext
-- fuzzy-json-repair
-- pds-doi-service
-- alluxiofs
-- sgPFCMed
-- aiauto-client
-- mbari-aidata
-- symphra-scheduler
-- mn-translit
-- scikit-robot
-- residuals
-- snimpy
-- rsyncx
-- fr24
-- passagemath-environment
-- quantconnect-stubs
-- django-spire
-- ambr-py
-- jdl-sdk
-- gpyutils
-- Codemni
-- mite-extras
-- AutoWebPdfSummarizer
-- pymoors
-- hexdoc-lapisworks
-- descope-pulumi
-- image-mcp-server
-- chuk-tool-processor
-- homa
-- dc43-contracts-app
-- dc43-integrations
-- dc43-service-backends
-- dc43-service-clients
-- spytial-diagramming
-- ua-datasets
-- pyobs-core
-- orchestra-code
-- PR2MD
-- hexdecli
-- gamengine2d
-- mite-schema
-- baldertest
-- agentcrew-ai
-- crawlo
-- fastwoe
-- ydl-podcast
-- snapxam-math-ocr
-- tradepose-client
-- xiaozhi-sdk
-- kuzu-memory
-- nexpylib
-- labcodes
