@@ -1,11 +1,11 @@
 {
   "name": "tradingapp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "TWS API utilities for building automated trading strategies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tradingapp-0.1.2.tar.gz",
-  "download_time": "2025-10-25T13:31:54.013740",
+  "download_filename": "tradingapp-0.1.4.tar.gz",
+  "download_time": "2025-10-25T13:50:05.078849",
   "package_url": "https://pypi.org/project/tradingapp/"
 }

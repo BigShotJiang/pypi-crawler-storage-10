@@ -1,11 +1,11 @@
 {
   "name": "stouputils",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "summary": "Stouputils is a collection of utility modules designed to simplify and enhance the development process. It includes a range of tools for tasks such as execution of doctests, display utilities, decorators, as well as context managers, and many more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stouputils-1.4.2.tar.gz",
-  "download_time": "2025-10-25T13:31:26.255527",
+  "download_filename": "stouputils-1.4.4.tar.gz",
+  "download_time": "2025-10-25T13:49:56.748317",
   "package_url": "https://pypi.org/project/stouputils/"
 }

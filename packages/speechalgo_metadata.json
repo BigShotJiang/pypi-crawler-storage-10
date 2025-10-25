@@ -1,0 +1,11 @@
+{
+  "name": "speechalgo",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python library providing clean, educational implementations of fundamental speech processing algorithms",
+  "author": "SpeechAlgo Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speechalgo-0.1.0.tar.gz",
+  "download_time": "2025-10-25T13:50:01.452362",
+  "package_url": "https://pypi.org/project/speechalgo/"
+}

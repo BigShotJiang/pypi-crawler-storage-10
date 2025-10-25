@@ -1,0 +1,11 @@
+{
+  "name": "benign-lib",
+  "version": "1.0.0",
+  "summary": "This is my first module",
+  "author": "FixerHack",
+  "license": null,
+  "home_page": "https://github.com/FixerHack",
+  "download_filename": "benign_lib-1.0.0.tar.gz",
+  "download_time": "2025-10-25T13:50:02.235620",
+  "package_url": "https://pypi.org/project/benign-lib/"
+}

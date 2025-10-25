@@ -1,0 +1,11 @@
+{
+  "name": "cheme-toolkit",
+  "version": "0.1.0rc1",
+  "summary": "cheme-toolkit 是一个为化学工程计算设计的工具包，提供了气液平衡数据处理、精馏塔计算、热力学性质计算、可视化绘图以及 Web 应用等功能，方便化学工程相关的计算与模拟工作。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheme_toolkit-0.1.0rc1.tar.gz",
+  "download_time": "2025-10-25T13:49:51.467218",
+  "package_url": "https://pypi.org/project/cheme-toolkit/"
+}

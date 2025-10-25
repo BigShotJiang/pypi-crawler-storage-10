@@ -1,0 +1,11 @@
+{
+  "name": "multi-calendar-dimension",
+  "version": "1.0.0",
+  "summary": "A comprehensive library for Persian (Jalali), Gregorian, and Hijri calendar operations including date conversion, dimension generation, and current date information",
+  "author": "Pouya Kia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multi_calendar_dimension-1.0.0.tar.gz",
+  "download_time": "2025-10-25T13:49:58.480377",
+  "package_url": "https://pypi.org/project/multi-calendar-dimension/"
+}

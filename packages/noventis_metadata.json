@@ -1,0 +1,11 @@
+{
+  "name": "noventis",
+  "version": "0.1.5",
+  "summary": "An all-in-one automation library that simplifies data cleaning, exploratory data analysis, and machine learning — from raw data to ready-to-deploy models.",
+  "author": "Richard, Fatoni Murfid Syafii, Ahmad Nafi Mubarok, Orie Abyan Maulana, Grace Wahyuni, Rimba Nevada, Alexander Angelo, Jason Surya Winata, Nada Musyaffa Bilhaqi",
+  "license": "MIT",
+  "home_page": "https://github.com/bccfilkom/noventis",
+  "download_filename": "noventis-0.1.5.tar.gz",
+  "download_time": "2025-10-25T13:50:03.400547",
+  "package_url": "https://pypi.org/project/noventis/"
+}
