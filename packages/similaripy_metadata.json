@@ -1,0 +1,11 @@
+{
+  "name": "similaripy",
+  "version": "0.2.5",
+  "summary": "High-performance KNN similarity functions in Python, optimized for sparse matrices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "similaripy-0.2.5.tar.gz",
+  "download_time": "2025-10-25T15:40:54.568656",
+  "package_url": "https://pypi.org/project/similaripy/"
+}

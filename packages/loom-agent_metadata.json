@@ -1,0 +1,11 @@
+{
+  "name": "loom-agent",
+  "version": "0.0.2",
+  "summary": "Production-ready Python Agent framework with enterprise-grade reliability and observability",
+  "author": "kongusen",
+  "license": "MIT",
+  "home_page": "https://github.com/kongusen/loom-agent",
+  "download_filename": "loom_agent-0.0.2.tar.gz",
+  "download_time": "2025-10-25T15:40:51.983705",
+  "package_url": "https://pypi.org/project/loom-agent/"
+}

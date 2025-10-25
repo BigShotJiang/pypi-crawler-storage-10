@@ -1,0 +1,11 @@
+{
+  "name": "mbari-aidata",
+  "version": "1.60.4",
+  "summary": "Command line tool to do extract, transform, load and download operations on AI data for a number of projects at MBARI that require detection, clustering or classification workflows.",
+  "author": "Danelle Cline",
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "mbari_aidata-1.60.4.tar.gz",
+  "download_time": "2025-10-25T15:41:00.343071",
+  "package_url": "https://pypi.org/project/mbari-aidata/"
+}

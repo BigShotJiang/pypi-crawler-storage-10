@@ -1,0 +1,11 @@
+{
+  "name": "dodo-desktop-switcher",
+  "version": "0.1.1",
+  "summary": "A Windows virtual desktop switcher with keyboard shortcuts",
+  "author": "Ram Rachum",
+  "license": null,
+  "home_page": "https://github.com/cool-RR/dodo",
+  "download_filename": "dodo_desktop_switcher-0.1.1.tar.gz",
+  "download_time": "2025-10-25T15:40:48.215064",
+  "package_url": "https://pypi.org/project/dodo-desktop-switcher/"
+}
