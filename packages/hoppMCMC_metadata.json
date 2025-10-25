@@ -1,0 +1,11 @@
+{
+  "name": "hoppMCMC",
+  "version": "2.0.0",
+  "summary": "An adaptive basin-hopping Markov-chain Monte Carlo algorithm for Bayesian optimisation",
+  "author": "Kamil Erguler",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "hoppmcmc-2.0.0.tar.gz",
+  "download_time": "2025-10-25T21:14:26.180393",
+  "package_url": "https://pypi.org/project/hoppMCMC/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jedi-language-server",
+  "version": "0.46.0",
+  "summary": "A language server for Jedi!",
+  "author": "Sam Roeca",
+  "license": "MIT",
+  "home_page": "https://github.com/pappasam/jedi-language-server",
+  "download_filename": "jedi_language_server-0.46.0.tar.gz",
+  "download_time": "2025-10-25T21:14:21.391886",
+  "package_url": "https://pypi.org/project/jedi-language-server/"
+}

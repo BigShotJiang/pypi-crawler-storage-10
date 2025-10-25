@@ -1,0 +1,11 @@
+{
+  "name": "true-lies-validator",
+  "version": "0.9.0",
+  "summary": "True Lies - Separating truth from AI fiction. A powerful library for detecting LLM hallucinations, validating AI responses, and generating professional HTML reports with interactive dashboards.",
+  "author": "Pato Miner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "true_lies_validator-0.9.0.tar.gz",
+  "download_time": "2025-10-25T21:14:22.438179",
+  "package_url": "https://pypi.org/project/true-lies-validator/"
+}

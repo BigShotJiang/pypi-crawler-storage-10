@@ -1,11 +1,11 @@
 {
   "name": "bbot",
-  "version": "2.7.1",
+  "version": "2.7.2",
   "summary": "OSINT automation for hackers.",
   "author": "TheTechromancer",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "bbot-2.7.1.tar.gz",
-  "download_time": "2025-10-25T18:21:49.377561",
+  "download_filename": "bbot-2.7.2.tar.gz",
+  "download_time": "2025-10-25T21:14:07.165273",
   "package_url": "https://pypi.org/project/bbot/"
 }

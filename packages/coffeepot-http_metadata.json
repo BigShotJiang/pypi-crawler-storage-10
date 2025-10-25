@@ -1,0 +1,11 @@
+{
+  "name": "coffeepot-http",
+  "version": "0.0.1a1",
+  "summary": "A cozy Python server and module for brewing coffee virtually",
+  "author": "Hollo",
+  "license": null,
+  "home_page": "https://github.com/DevHollo/coffeepot",
+  "download_filename": "coffeepot_http-0.0.1a1.tar.gz",
+  "download_time": "2025-10-25T21:14:11.392291",
+  "package_url": "https://pypi.org/project/coffeepot-http/"
+}
