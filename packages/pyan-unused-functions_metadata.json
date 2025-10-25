@@ -1,0 +1,11 @@
+{
+  "name": "pyan-unused-functions",
+  "version": "0.1.2",
+  "summary": "Find unused functions in Python codebases - perfect for CLI usage and CI/CD pipelines",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pyan-unused-functions",
+  "download_filename": "pyan_unused_functions-0.1.2.tar.gz",
+  "download_time": "2025-10-25T03:26:10.375508",
+  "package_url": "https://pypi.org/project/pyan-unused-functions/"
+}

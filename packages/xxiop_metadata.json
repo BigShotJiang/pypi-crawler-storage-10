@@ -1,0 +1,11 @@
+{
+  "name": "xxiop",
+  "version": "1.1.2",
+  "summary": "Python package for cosmological power spectrum, 21cm signal, and optical depth calculations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xxiop-1.1.2.tar.gz",
+  "download_time": "2025-10-25T03:26:21.504075",
+  "package_url": "https://pypi.org/project/xxiop/"
+}

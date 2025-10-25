@@ -1,11 +1,11 @@
 {
   "name": "wechat-enterprise-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": "somenzz",
   "license": "MIT",
   "home_page": "https://github.com/somenzz/wechat_enterprise",
-  "download_filename": "wechat_enterprise_sdk-1.0.0.tar.gz",
-  "download_time": "2025-10-25T02:40:56.557352",
+  "download_filename": "wechat_enterprise_sdk-1.0.1.tar.gz",
+  "download_time": "2025-10-25T03:26:29.254100",
   "package_url": "https://pypi.org/project/wechat-enterprise-sdk/"
 }

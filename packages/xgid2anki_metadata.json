@@ -1,0 +1,11 @@
+{
+  "name": "xgid2anki",
+  "version": "0.1.4",
+  "summary": "Convert a list of backgammon XGIDs into an interactive Anki study deck.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "xgid2anki-0.1.4.tar.gz",
+  "download_time": "2025-10-25T03:26:31.570437",
+  "package_url": "https://pypi.org/project/xgid2anki/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "types-braintree",
+  "version": "4.40.0.20251025",
+  "summary": "Typing stubs for braintree",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_braintree-4.40.0.20251025.tar.gz",
+  "download_time": "2025-10-25T03:26:30.412580",
+  "package_url": "https://pypi.org/project/types-braintree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GlocalText",
+  "version": "3.1.0",
+  "summary": "A config-driven script to batch translate files using various providers.",
+  "author": "OG-Open-Source",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glocaltext-3.1.0.tar.gz",
+  "download_time": "2025-10-25T03:26:33.356048",
+  "package_url": "https://pypi.org/project/GlocalText/"
+}
