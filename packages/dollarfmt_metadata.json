@@ -1,0 +1,11 @@
+{
+  "name": "dollarfmt",
+  "version": "0.1.1",
+  "summary": "A focused, dependency-light Python library for U.S. dollar currency formatting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dollarfmt-0.1.1.tar.gz",
+  "download_time": "2025-10-25T11:50:10.740821",
+  "package_url": "https://pypi.org/project/dollarfmt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "envencrypt-core",
+  "version": "0.2.0",
+  "summary": "Core encryption utilities for python envencrypt",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/igorovic/envencrypt-core",
+  "download_filename": "envencrypt_core-0.2.0-cp39-abi3-win32.whl",
+  "download_time": "2025-10-25T11:50:11.802580",
+  "package_url": "https://pypi.org/project/envencrypt-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plover-mod-z",
+  "version": "0.2.0",
+  "summary": "Small modification of the English layout that replaces the top S- with Z-",
+  "author": "Martin Koerner",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/mkrnr/plover_mod_z",
+  "download_filename": "plover_mod_z-0.2.0.tar.gz",
+  "download_time": "2025-10-25T11:50:07.035088",
+  "package_url": "https://pypi.org/project/plover-mod-z/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cone.sql",
+  "version": "0.9",
+  "summary": "SQLAlchemy integration for cone.app",
+  "author": "Cone Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/cone.sql",
+  "download_filename": "cone_sql-0.9.tar.gz",
+  "download_time": "2025-10-25T11:50:13.924310",
+  "package_url": "https://pypi.org/project/cone.sql/"
+}
