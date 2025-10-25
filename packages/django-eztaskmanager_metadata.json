@@ -1,0 +1,11 @@
+{
+  "name": "django-eztaskmanager",
+  "version": "0.5.1",
+  "summary": "Django application that allows the management of scheduled, long, asynchronous tasks.",
+  "author": "Guglielmo Celata",
+  "license": "MIT",
+  "home_page": "https://github.com/openpolis/django-eztaskmanager.git",
+  "download_filename": "django_eztaskmanager-0.5.1.tar.gz",
+  "download_time": "2025-10-25T08:52:01.133269",
+  "package_url": "https://pypi.org/project/django-eztaskmanager/"
+}

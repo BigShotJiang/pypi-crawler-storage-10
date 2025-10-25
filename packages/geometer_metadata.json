@@ -1,0 +1,11 @@
+{
+  "name": "geometer",
+  "version": "0.4.2",
+  "summary": "Python geometry package based on projective geometry and numpy.",
+  "author": "Jan Müller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geometer-0.4.2.tar.gz",
+  "download_time": "2025-10-25T08:52:02.258459",
+  "package_url": "https://pypi.org/project/geometer/"
+}

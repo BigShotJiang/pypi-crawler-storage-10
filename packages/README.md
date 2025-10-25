@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T08:43:09.043064
-- **Total Packages**: 85
-- **Total Size**: 23.25 MB
+- **Download Time**: 2025-10-25T08:52:44.735159
+- **Total Packages**: 83
+- **Total Size**: 9.09 MB
 
 ## Packages List
+- mc-postgres-db
+- sqlean.py
+- django-eztaskmanager
+- sdax
+- geometer
+- appscriptify
+- turbodash-core
+- digital-life
+- blogsimi
+- gffutilsai
+- eyepy
+- mariax
+- StreamingCommunity
+- pytest-case-provider
+- IGJSP
+- inmanta-module-podman
+- tfp-nightly
+- yta-numpy
+- kodit
+- airobo
+- mix-python-sdk
 - tg-file-exporter
 - pyguiadapterlite
 - pywebtransport
@@ -14,9 +35,6 @@
 - langlint
 - NeoBase
 - syngate
-- yta-numpy
-- airobo
-- mariax
 - ziet
 - crc-pulp-service-client
 - crc-pulp-file-client
@@ -33,7 +51,6 @@
 - pro-craft
 - lilizong-potato
 - evenage
-- appscriptify
 - tensorwatchext
 - metdatapy
 - skills-use
@@ -43,14 +60,12 @@
 - wayspiritmcp-weather
 - xtdamo
 - statemachine-engine
-- pytest-case-provider
 - astrbot-injector
 - datajunction
 - datajunction-reflection
 - datajunction-query
 - datajunction-server
 - vise-logger
-- digital-life
 - genai-otel-instrument
 - qbittorrent-ark
 - mcp-toolz
@@ -74,20 +89,3 @@
 - netbox-optics
 - listpick
 - fastdup
-- shannot
-- bybit-mcp
-- mackup
-- allure-grpc-client
-- goofi
-- allure-api-client
-- shadeDB
-- allure-db-client
-- drun
-- speclike
-- xor-decryptor
-- binaryrain-helper-data-processing
-- binaryrain-helper-cloud-aws
-- PyByntic
-- shancx
-- maim-message
-- dearning

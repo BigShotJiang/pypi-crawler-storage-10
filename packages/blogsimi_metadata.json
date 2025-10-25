@@ -1,0 +1,11 @@
+{
+  "name": "blogsimi",
+  "version": "0.0.6",
+  "summary": "Semantic related-article indexer and generator for static blogs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blogsimi-0.0.6.tar.gz",
+  "download_time": "2025-10-25T08:52:04.594185",
+  "package_url": "https://pypi.org/project/blogsimi/"
+}

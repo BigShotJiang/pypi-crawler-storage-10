@@ -1,11 +1,11 @@
 {
   "name": "appscriptify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AppScriptify CLI — create app templates instantly",
   "author": "Vansh Choyal",
   "license": "MIT",
   "home_page": "https://appscriptify.com",
-  "download_filename": "appscriptify-1.0.1.tar.gz",
-  "download_time": "2025-10-25T08:42:35.425160",
+  "download_filename": "appscriptify-1.0.2.tar.gz",
+  "download_time": "2025-10-25T08:52:02.824735",
   "package_url": "https://pypi.org/project/appscriptify/"
 }

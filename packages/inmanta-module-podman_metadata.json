@@ -1,0 +1,11 @@
+{
+  "name": "inmanta-module-podman",
+  "version": "1.9.0",
+  "summary": "Simple module to manage podman resources",
+  "author": "Guillaume Everarts de Velp",
+  "license": "ASL 2.0",
+  "home_page": null,
+  "download_filename": "inmanta_module_podman-1.9.0.tar.gz",
+  "download_time": "2025-10-25T08:52:08.571338",
+  "package_url": "https://pypi.org/project/inmanta-module-podman/"
+}
