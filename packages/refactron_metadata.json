@@ -1,0 +1,11 @@
+{
+  "name": "refactron",
+  "version": "0.1.0b1",
+  "summary": "The Intelligent Code Refactoring Transformer - Analyze, refactor, and optimize Python code with AI-powered suggestions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "refactron-0.1.0b1.tar.gz",
+  "download_time": "2025-10-25T16:43:00.300030",
+  "package_url": "https://pypi.org/project/refactron/"
+}

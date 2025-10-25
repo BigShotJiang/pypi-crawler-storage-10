@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-meili-pipeline",
+  "version": "0.1.1",
+  "summary": "A Scrapy pipeline that batches and indexes items into Meilisearch, with task tracking and index configuration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_meili_pipeline-0.1.1.tar.gz",
+  "download_time": "2025-10-25T16:43:06.540680",
+  "package_url": "https://pypi.org/project/scrapy-meili-pipeline/"
+}

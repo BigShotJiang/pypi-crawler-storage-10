@@ -1,0 +1,11 @@
+{
+  "name": "github-stars-search",
+  "version": "0.1.0",
+  "summary": "A command-line tool to semantically search your starred GitHub repositories",
+  "author": "Nicolás Iglesias",
+  "license": null,
+  "home_page": "https://github.com/yourusername/github-stars-organizer",
+  "download_filename": "github_stars_search-0.1.0.tar.gz",
+  "download_time": "2025-10-25T16:43:15.167620",
+  "package_url": "https://pypi.org/project/github-stars-search/"
+}

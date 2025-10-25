@@ -1,0 +1,11 @@
+{
+  "name": "fastopp",
+  "version": "0.4.5",
+  "summary": "FastAPI opinionated stack inspired by Django for students prototyping AI web applications. Authentication, database, admin panel, HTML templates, and more.",
+  "author": "Oppkey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastopp-0.4.5.tar.gz",
+  "download_time": "2025-10-25T16:43:07.691915",
+  "package_url": "https://pypi.org/project/fastopp/"
+}

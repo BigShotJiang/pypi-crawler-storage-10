@@ -1,0 +1,11 @@
+{
+  "name": "triton-python-backend-mock-utils",
+  "version": "0.1.2",
+  "summary": "Mock library for triton python backend utils.",
+  "author": "GTG MLOps & Platform Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "triton_python_backend_mock_utils-0.1.2.tar.gz",
+  "download_time": "2025-10-25T16:43:08.229027",
+  "package_url": "https://pypi.org/project/triton-python-backend-mock-utils/"
+}
