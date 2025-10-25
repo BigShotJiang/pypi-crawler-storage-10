@@ -1,0 +1,11 @@
+{
+  "name": "mwxlib",
+  "version": "1.7.0",
+  "summary": "A wrapper of matplotlib and wxPython (phoenix)",
+  "author": "Kazuya O'moto",
+  "license": "MIT",
+  "home_page": "https://github.com/komoto48g/mwxlib",
+  "download_filename": "mwxlib-1.7.0-py3-none-any.whl",
+  "download_time": "2025-10-25T11:12:37.316543",
+  "package_url": "https://pypi.org/project/mwxlib/"
+}

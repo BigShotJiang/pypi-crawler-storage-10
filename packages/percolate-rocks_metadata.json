@@ -1,0 +1,11 @@
+{
+  "name": "percolate-rocks",
+  "version": "0.2.0",
+  "summary": "High-performance embedded database for semantic search, graph queries, and structured data",
+  "author": "Percolate Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "percolate_rocks-0.2.0.tar.gz",
+  "download_time": "2025-10-25T11:12:39.387530",
+  "package_url": "https://pypi.org/project/percolate-rocks/"
+}

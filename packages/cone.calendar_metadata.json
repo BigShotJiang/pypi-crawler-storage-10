@@ -1,0 +1,11 @@
+{
+  "name": "cone.calendar",
+  "version": "0.4",
+  "summary": "jQuery Fullcalendar integration for cone.app",
+  "author": "Cone Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/cone.calendar",
+  "download_filename": "cone_calendar-0.4.tar.gz",
+  "download_time": "2025-10-25T11:13:02.531664",
+  "package_url": "https://pypi.org/project/cone.calendar/"
+}

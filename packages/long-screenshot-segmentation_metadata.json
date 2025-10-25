@@ -1,0 +1,11 @@
+{
+  "name": "long-screenshot-segmentation",
+  "version": "1.1.1",
+  "summary": "Divide long web page screenshots into blocks to input models with shorter contexts. 将长网页截图进行区块分割，用于输入上下文较短的模型",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "long_screenshot_segmentation-1.1.1.tar.gz",
+  "download_time": "2025-10-25T11:12:40.942776",
+  "package_url": "https://pypi.org/project/long-screenshot-segmentation/"
+}

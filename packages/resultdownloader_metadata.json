@@ -1,0 +1,11 @@
+{
+  "name": "resultdownloader",
+  "version": "1.0.1",
+  "summary": "Downloads results from RaceTimePro",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "resultdownloader-1.0.1.tar.gz",
+  "download_time": "2025-10-25T11:12:52.442893",
+  "package_url": "https://pypi.org/project/resultdownloader/"
+}

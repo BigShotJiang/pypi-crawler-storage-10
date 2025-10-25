@@ -1,11 +1,11 @@
 {
   "name": "pycodemark",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "PyCodemark – a full-featured code review tool for Python.",
   "author": "Roshan",
   "license": "MIT",
   "home_page": "https://github.com/roshanguptamca/pycodemark/",
-  "download_filename": "pycodemark-0.4.0.tar.gz",
-  "download_time": "2025-10-25T10:15:25.583783",
+  "download_filename": "pycodemark-0.4.1.tar.gz",
+  "download_time": "2025-10-25T11:12:55.651217",
   "package_url": "https://pypi.org/project/pycodemark/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lucid-dl",
-  "version": "2.7.3",
+  "version": "2.7.4",
   "summary": "Lumerico's Comprehensive Interface for Deep Learning",
   "author": "ChanLumerico",
   "license": null,
   "home_page": "https://github.com/ChanLumerico/lucid",
-  "download_filename": "lucid_dl-2.7.3.tar.gz",
-  "download_time": "2025-10-25T07:50:09.607384",
+  "download_filename": "lucid_dl-2.7.4.tar.gz",
+  "download_time": "2025-10-25T11:12:28.332159",
   "package_url": "https://pypi.org/project/lucid-dl/"
 }

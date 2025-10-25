@@ -1,0 +1,11 @@
+{
+  "name": "trnsfr",
+  "version": "1.2",
+  "summary": "A simple Python script to upload files on transfer.sh servers from CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trnsfr-1.2.tar.gz",
+  "download_time": "2025-10-25T11:12:36.272736",
+  "package_url": "https://pypi.org/project/trnsfr/"
+}

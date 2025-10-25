@@ -1,0 +1,11 @@
+{
+  "name": "cicflowmeter",
+  "version": "0.5.0",
+  "summary": "CICFlowMeter Python Implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cicflowmeter-0.5.0.tar.gz",
+  "download_time": "2025-10-25T11:12:46.194231",
+  "package_url": "https://pypi.org/project/cicflowmeter/"
+}

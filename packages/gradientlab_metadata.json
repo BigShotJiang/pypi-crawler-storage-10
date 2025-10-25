@@ -1,0 +1,11 @@
+{
+  "name": "gradientlab",
+  "version": "0.1.1",
+  "summary": "A lab where gradients flow and models go to prod.",
+  "author": "Mauro Sciancalepore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradientlab-0.1.1.tar.gz",
+  "download_time": "2025-10-25T11:12:48.293764",
+  "package_url": "https://pypi.org/project/gradientlab/"
+}

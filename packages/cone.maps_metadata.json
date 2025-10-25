@@ -1,0 +1,11 @@
+{
+  "name": "cone.maps",
+  "version": "0.2",
+  "summary": "Maps integration into cone using leaflet.js.",
+  "author": "Cone Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/cone.maps",
+  "download_filename": "cone_maps-0.2.tar.gz",
+  "download_time": "2025-10-25T11:12:27.797489",
+  "package_url": "https://pypi.org/project/cone.maps/"
+}
