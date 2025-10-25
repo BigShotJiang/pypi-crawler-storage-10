@@ -1,0 +1,11 @@
+{
+  "name": "scailo-sdk",
+  "version": "0.2.5",
+  "summary": "Python SDK for the Scailo API",
+  "author": "Pratheek Adidela",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/scailo/python-sdk",
+  "download_filename": "scailo_sdk-0.2.5.tar.gz",
+  "download_time": "2025-10-25T11:36:39.904713",
+  "package_url": "https://pypi.org/project/scailo-sdk/"
+}

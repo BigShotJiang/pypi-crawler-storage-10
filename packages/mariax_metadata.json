@@ -1,11 +1,11 @@
 {
   "name": "mariax",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Django ORM & Python library for MariaDB Vector support",
   "author": "Apurv Chaudhary",
   "license": null,
   "home_page": null,
-  "download_filename": "mariax-1.1.0.tar.gz",
-  "download_time": "2025-10-25T08:52:06.329176",
+  "download_filename": "mariax-1.1.1.tar.gz",
+  "download_time": "2025-10-25T11:36:48.269174",
   "package_url": "https://pypi.org/project/mariax/"
 }

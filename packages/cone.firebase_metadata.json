@@ -1,0 +1,11 @@
+{
+  "name": "cone.firebase",
+  "version": "0.1",
+  "summary": "Firebase integration for cone.app",
+  "author": "Cone Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/cone.firebase",
+  "download_filename": "cone_firebase-0.1.tar.gz",
+  "download_time": "2025-10-25T11:36:43.042036",
+  "package_url": "https://pypi.org/project/cone.firebase/"
+}

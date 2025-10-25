@@ -1,0 +1,11 @@
+{
+  "name": "unsiloed-parser",
+  "version": "0.1.3",
+  "summary": "Unsiloed Parser: Open-source Python library for advanced document chunking. Transform PDFs, DOCX, images, and more into LLM-ready chunks using semantic AI, YOLO segmentation, and OCR for RAG pipelines and workflow automation.",
+  "author": "Unsiloed AI",
+  "license": null,
+  "home_page": "https://github.com/Unsiloed-AI/Unsiloed-Parser",
+  "download_filename": "unsiloed_parser-0.1.3.tar.gz",
+  "download_time": "2025-10-25T11:36:42.523839",
+  "package_url": "https://pypi.org/project/unsiloed-parser/"
+}
