@@ -1,0 +1,11 @@
+{
+  "name": "harvest-utils",
+  "version": "0.1.0",
+  "summary": "Utilities extracted from the Harvest project",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourorg/harvest-utils",
+  "download_filename": "harvest_utils-0.1.0.tar.gz",
+  "download_time": "2025-10-25T23:28:46.635747",
+  "package_url": "https://pypi.org/project/harvest-utils/"
+}

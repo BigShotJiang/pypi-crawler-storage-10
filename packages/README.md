@@ -1,16 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T23:14:57.011430
-- **Total Packages**: 76
-- **Total Size**: 12.44 MB
+- **Download Time**: 2025-10-25T23:29:18.638660
+- **Total Packages**: 77
+- **Total Size**: 10.34 MB
 
 ## Packages List
-- fsc-assistant
+- post-ap
+- pi-ragbox
+- winipedia-utils
+- dioxide
+- ws-frappe-cli
+- classroom-pilot
+- lt-tensor
+- thinktwiceutils
+- ultimate-gemini-mcp
+- android-notify
+- aider-ce
+- gruyere
+- protspace
+- DeepSeekPowSolver
+- pypomes-iam
+- harvest-utils
+- brs-kb
+- artifetch
+- conciliate
+- praisonaiwp
+- wthisj
 - guardcoreapi
+- fsc-assistant
 - pytest-cream
 - policyengine-us
-- artifetch
 - eval-protocol
 - fleet-python
 - elkm1-lib
@@ -26,10 +46,8 @@
 - kardocore
 - django-minha-lib
 - PR2MD
-- ultimate-gemini-mcp
 - xian-py
 - cat-llm
-- brs-kb
 - bowtie-json-schema
 - imdb-watchlist-to-sonarr
 - rinexmod
@@ -50,7 +68,6 @@
 - horde-sdk
 - tnnt-templates
 - dirshot
-- classroom-pilot
 - finesse-benchmark
 - nu-waves
 - deebot-client
@@ -58,7 +75,6 @@
 - minify-html-onepass
 - minify-html
 - databoost
-- pypomes-iam
 - ldup
 - whatenc
 - primfunctions
@@ -67,18 +83,3 @@
 - chuk-mcp
 - agenthelm
 - pycodemark
-- pikepdf
-- doccmd
-- inception-helper-func
-- multiqc-xenium-extra
-- pyqrackising
-- gradio-aicontext
-- libfcast
-- kinemotion
-- pypomes-jwt
-- eetc-data-client
-- fluids
-- PyNinja
-- multi-puzzle-solver
-- nn-dup
-- inpaint

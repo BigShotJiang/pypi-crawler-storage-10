@@ -1,11 +1,11 @@
 {
   "name": "android-notify",
-  "version": "1.60.0",
-  "summary": "A Python package that simplifies creating Android notifications in Kivy apps.",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "android_notify-1.60.0.tar.gz",
-  "download_time": "2025-10-25T22:14:51.974976",
+  "version": "1.60.1",
+  "summary": "A Python package that simplifies creating Android notifications in Kivy and Flet apps.",
+  "author": "Fabian",
+  "license": "MIT",
+  "home_page": "https://android-notify.vercel.app",
+  "download_filename": "android_notify-1.60.1.tar.gz",
+  "download_time": "2025-10-25T23:28:43.265325",
   "package_url": "https://pypi.org/project/android-notify/"
 }
