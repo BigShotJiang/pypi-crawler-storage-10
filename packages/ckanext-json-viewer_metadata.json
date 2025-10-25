@@ -1,11 +1,11 @@
 {
   "name": "ckanext-json-viewer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "JSON tree preview",
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "ckanext_json_viewer-1.0.3.tar.gz",
-  "download_time": "2025-10-25T09:40:11.401683",
+  "download_filename": "ckanext_json_viewer-1.0.4.tar.gz",
+  "download_time": "2025-10-25T09:49:49.331949",
   "package_url": "https://pypi.org/project/ckanext-json-viewer/"
 }

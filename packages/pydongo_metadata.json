@@ -1,0 +1,11 @@
+{
+  "name": "pydongo",
+  "version": "0.5.0",
+  "summary": "A lightweight ORM for MongoDB using Pydantic models.",
+  "author": "Samuel Abolo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydongo-0.5.0.tar.gz",
+  "download_time": "2025-10-25T09:49:50.370317",
+  "package_url": "https://pypi.org/project/pydongo/"
+}

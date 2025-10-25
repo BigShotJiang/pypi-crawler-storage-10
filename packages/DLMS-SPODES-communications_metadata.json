@@ -1,11 +1,11 @@
 {
   "name": "DLMS-SPODES-communications",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "dlms-spodes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dlms_spodes_communications-1.5.1.tar.gz",
-  "download_time": "2025-10-24T11:14:24.743576",
+  "download_filename": "dlms_spodes_communications-1.5.2.tar.gz",
+  "download_time": "2025-10-25T09:49:47.217801",
   "package_url": "https://pypi.org/project/DLMS-SPODES-communications/"
 }
