@@ -1,0 +1,11 @@
+{
+  "name": "colorgradient",
+  "version": "1.0.0",
+  "summary": "Publication-ready visualization for 1D data distributions using intuitive circular color gradients",
+  "author": "ColorGradient Contributors",
+  "license": null,
+  "home_page": "https://github.com/PhyloBridge/ColorGradient",
+  "download_filename": "colorgradient-1.0.0.tar.gz",
+  "download_time": "2025-10-25T23:14:33.577022",
+  "package_url": "https://pypi.org/project/colorgradient/"
+}

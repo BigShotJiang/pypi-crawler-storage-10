@@ -1,11 +1,11 @@
 {
   "name": "kardocore",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Modern Python CMS Framework - Fast, Typed, Secure, Modular",
   "author": "WebCien",
   "license": "MIT",
   "home_page": "https://github.com/webcien/Kardo",
-  "download_filename": "kardocore-0.2.1.tar.gz",
-  "download_time": "2025-10-25T21:49:36.418761",
+  "download_filename": "kardocore-0.2.2.tar.gz",
+  "download_time": "2025-10-25T23:14:26.297103",
   "package_url": "https://pypi.org/project/kardocore/"
 }

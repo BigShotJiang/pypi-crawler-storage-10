@@ -1,0 +1,11 @@
+{
+  "name": "laax",
+  "version": "1.0.0",
+  "summary": "Local Ancestry Analysis in Crossbred Populations",
+  "author": "Dr. Kanaka K. K., PhD, ARS",
+  "license": "MIT",
+  "home_page": "https://github.com/kkokay07/pq-genetics/tree/main/Local%20ancestry%20analysis",
+  "download_filename": "laax-1.0.0.tar.gz",
+  "download_time": "2025-10-25T23:14:31.524057",
+  "package_url": "https://pypi.org/project/laax/"
+}

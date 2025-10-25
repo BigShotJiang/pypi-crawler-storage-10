@@ -1,0 +1,11 @@
+{
+  "name": "django-minha-lib",
+  "version": "0.1.0",
+  "summary": "Minha primeira biblioteca Django reutilizável.",
+  "author": "Gustavo Rizzo S M de Albuquerque",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_minha_lib-0.1.0.tar.gz",
+  "download_time": "2025-10-25T23:14:26.811226",
+  "package_url": "https://pypi.org/project/django-minha-lib/"
+}

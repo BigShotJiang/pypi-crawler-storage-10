@@ -1,0 +1,11 @@
+{
+  "name": "elkm1-lib",
+  "version": "2.2.12",
+  "summary": "Library for interacting with ElkM1 alarm/automation panel.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elkm1_lib-2.2.12.tar.gz",
+  "download_time": "2025-10-25T23:14:20.955786",
+  "package_url": "https://pypi.org/project/elkm1-lib/"
+}

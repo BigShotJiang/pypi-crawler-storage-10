@@ -1,24 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T22:51:02.548687
-- **Total Packages**: 82
-- **Total Size**: 9.69 MB
+- **Download Time**: 2025-10-25T23:14:57.011430
+- **Total Packages**: 76
+- **Total Size**: 12.44 MB
 
 ## Packages List
-- market-data-ibkr
+- fsc-assistant
+- guardcoreapi
+- pytest-cream
+- policyengine-us
+- artifetch
+- eval-protocol
+- fleet-python
+- elkm1-lib
+- sleipnirgroup-jormungandr
+- marearts-road-objects
+- bluepyll
+- aware-release
+- pumaz
+- iam-policy-validator
+- rxfoundry.clients.swifty_oauth_api
+- rxfoundry.clients.swifty_api
+- silvanus
+- kardocore
+- django-minha-lib
+- PR2MD
 - ultimate-gemini-mcp
+- xian-py
+- cat-llm
+- brs-kb
+- bowtie-json-schema
+- imdb-watchlist-to-sonarr
+- rinexmod
+- laax
+- rclip
+- molalchemy
+- bible-xml-parser
+- colorgradient
+- llm-provider-factory
+- ScriptCollection
+- maybankforme
+- mcp-toolz
+- jetpytools
+- CliSelf
+- market-data-ibkr
 - napistu-torch
 - fastpubsub
 - horde-sdk
 - tnnt-templates
-- iam-policy-validator
 - dirshot
 - classroom-pilot
 - finesse-benchmark
 - nu-waves
 - deebot-client
-- bowtie-json-schema
 - chuk-tool-processor
 - minify-html-onepass
 - minify-html
@@ -32,9 +67,7 @@
 - chuk-mcp
 - agenthelm
 - pycodemark
-- llm-provider-factory
 - pikepdf
-- mcp-toolz
 - doccmd
 - inception-helper-func
 - multiqc-xenium-extra
@@ -49,42 +82,3 @@
 - multi-puzzle-solver
 - nn-dup
 - inpaint
-- shieldforge
-- silvanus
-- rsyncx
-- android-notify
-- py-potok
-- Fast-Controller
-- otter-service
-- conciliate
-- schemathesis
-- Draken
-- spytial-diagramming
-- flake8-aaa
-- tapestry-orm
-- fittings
-- fastpgcache
-- openevolve-ext-env
-- stac-mcp
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- cool-open-client
-- remixtree
-- marcel
-- rulify
-- kaggle-environments
-- minddict
-- kardocore
-- lumarr
-- fastmongo
-- atlan-application-sdk
-- OASYS2-SRW
-- fuzzy-json-repair
-- monarch-money-amazon-connector
-- ntnput
-- pycuda-gml
-- the-convergence
-- odoo-env
-- maybankforme
-- dekartifacts
-- pyhabitat
