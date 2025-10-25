@@ -1,11 +1,11 @@
 {
   "name": "bpkit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Blueprint development kit for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bpkit-0.0.5.tar.gz",
-  "download_time": "2025-10-24T20:18:45.874627",
+  "download_filename": "bpkit-0.0.6.tar.gz",
+  "download_time": "2025-10-25T14:50:19.447188",
   "package_url": "https://pypi.org/project/bpkit/"
 }

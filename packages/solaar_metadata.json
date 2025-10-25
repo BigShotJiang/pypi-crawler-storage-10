@@ -1,0 +1,11 @@
+{
+  "name": "solaar",
+  "version": "1.1.16",
+  "summary": "Linux device manager for Logitech receivers, keyboards, mice, and tablets.",
+  "author": "Daniel Pavel",
+  "license": "GPLv2",
+  "home_page": "http://pwr-solaar.github.io/Solaar/",
+  "download_filename": "solaar-1.1.16.tar.gz",
+  "download_time": "2025-10-25T14:50:26.742287",
+  "package_url": "https://pypi.org/project/solaar/"
+}

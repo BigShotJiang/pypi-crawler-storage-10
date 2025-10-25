@@ -1,0 +1,11 @@
+{
+  "name": "airheads",
+  "version": "0.4.0",
+  "summary": "Helper library for building social media cards, SEO tags, and head elements with air",
+  "author": "Kentro Tech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airheads-0.4.0.tar.gz",
+  "download_time": "2025-10-25T14:50:23.108307",
+  "package_url": "https://pypi.org/project/airheads/"
+}

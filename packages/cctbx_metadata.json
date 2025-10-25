@@ -1,0 +1,11 @@
+{
+  "name": "cctbx",
+  "version": "2025.9",
+  "summary": "The Computational Crystallography Toolbox (cctbx)",
+  "author": "CCTBX developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cctbx-2025.9-py3-none-any.whl",
+  "download_time": "2025-10-25T14:50:30.991584",
+  "package_url": "https://pypi.org/project/cctbx/"
+}

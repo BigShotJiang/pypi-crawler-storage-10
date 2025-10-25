@@ -1,11 +1,11 @@
 {
   "name": "assign-uprn",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "python wrapper for assign api functions",
   "author": "joeldn",
   "license": "agpl3",
   "home_page": "https://git.sr.ht/~joeldn/assign-uprn",
-  "download_filename": "assign_uprn-0.0.14.tar.gz",
-  "download_time": "2025-10-24T23:15:11.254066",
+  "download_filename": "assign_uprn-0.0.16.tar.gz",
+  "download_time": "2025-10-25T14:50:27.825845",
   "package_url": "https://pypi.org/project/assign-uprn/"
 }
