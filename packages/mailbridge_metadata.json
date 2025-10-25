@@ -1,0 +1,11 @@
+{
+  "name": "mailbridge",
+  "version": "1.0.0",
+  "summary": "Flexible mail delivery library supporting multiple providers (SMTP, SendGrid, Mailgun, SES, Postmark, Brevo)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mailbridge-1.0.0.tar.gz",
+  "download_time": "2025-10-25T09:29:57.172057",
+  "package_url": "https://pypi.org/project/mailbridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "github-backup-supabase",
-  "version": "1.0.1",
-  "summary": null,
-  "author": null,
+  "version": "1.0.3",
+  "summary": "A CLI tool to back up your GitHub repositories and upload to Supabase storage.",
+  "author": "Hussnain Ahmad",
   "license": null,
-  "home_page": null,
-  "download_filename": "github_backup_supabase-1.0.1.tar.gz",
-  "download_time": "2025-10-25T09:15:11.862745",
+  "home_page": "https://github.com/itspsychocoder/github-backup-supabase",
+  "download_filename": "github_backup_supabase-1.0.3.tar.gz",
+  "download_time": "2025-10-25T09:29:52.244383",
   "package_url": "https://pypi.org/project/github-backup-supabase/"
 }
