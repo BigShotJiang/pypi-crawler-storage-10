@@ -1,18 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T07:39:29.544334
-- **Total Packages**: 80
-- **Total Size**: 4.82 MB
+- **Download Time**: 2025-10-25T07:50:44.382849
+- **Total Packages**: 82
+- **Total Size**: 8.27 MB
 
 ## Packages List
-- autocron-scheduler
+- user-scanner
+- github-backup-supabase
+- finesse-benchmark
+- nlbone
 - simple-encryptor
+- libequalizer
+- TprParser
+- pyubxutils
+- potodo
+- queryboost
+- sun-agent-toolkit
+- ccxt-ir
+- airobo
+- DecoStar
+- lucid-dl
+- mix-python-sdk
+- splatstream
+- spdx_checker
+- zhkj-plugins-parent
+- autocron-scheduler
 - pyhw
 - shadeDB
-- zhkj-plugins-parent
 - cognite-toolkit
-- airobo
 - django-cfg
 - konfuzio-sdk
 - ethaddrlib
@@ -72,17 +88,3 @@
 - msserviceprofiler
 - PyQUDA
 - shrinkr
-- pygpc
-- insta-rag
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- statemachine-engine
-- insyt-secure
-- aigroup-econ-mcp
-- intervaltree-rs
-- hawk-backtester
-- graphqomb
-- fastshermanmorrison-pulsar
-- MDemon
-- git-timemachine
-- osonbot

@@ -1,0 +1,11 @@
+{
+  "name": "libequalizer",
+  "version": "1.0.0",
+  "summary": "Квантовая синхронизация AI моделей - отечественная замена transformers и peft",
+  "author": "NativeMind & УРАБИ.РФ",
+  "license": "NativeMindNONC",
+  "home_page": "https://gitlab.com/antondodonov/libEqualizer",
+  "download_filename": "libequalizer-1.0.0.tar.gz",
+  "download_time": "2025-10-25T07:50:04.886318",
+  "package_url": "https://pypi.org/project/libequalizer/"
+}
