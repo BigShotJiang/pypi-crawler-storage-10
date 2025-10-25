@@ -1,11 +1,11 @@
 {
   "name": "elasticube",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "High-performance OLAP cube library with Rust backend",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/cachemcclure/elasticube",
-  "download_filename": "elasticube-1.0.1.tar.gz",
-  "download_time": "2025-10-24T14:44:15.003100",
+  "download_filename": "elasticube-1.0.2.tar.gz",
+  "download_time": "2025-10-25T04:50:44.347609",
   "package_url": "https://pypi.org/project/elasticube/"
 }

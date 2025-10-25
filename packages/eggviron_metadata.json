@@ -1,0 +1,11 @@
+{
+  "name": "eggviron",
+  "version": "1.1.0",
+  "summary": "A library for loading and accessing environment variable values from various sources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eggviron-1.1.0.tar.gz",
+  "download_time": "2025-10-25T04:50:43.159277",
+  "package_url": "https://pypi.org/project/eggviron/"
+}
