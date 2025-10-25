@@ -1,0 +1,11 @@
+{
+  "name": "pico2d",
+  "version": "1.5.1",
+  "summary": "Light weight PySDL wrapper",
+  "author": "Dae-Hyun (Dustin) Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/game-lecture",
+  "download_filename": "pico2d-1.5.1.tar.gz",
+  "download_time": "2025-10-25T07:39:00.489447",
+  "package_url": "https://pypi.org/project/pico2d/"
+}

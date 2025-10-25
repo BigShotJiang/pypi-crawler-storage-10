@@ -1,0 +1,11 @@
+{
+  "name": "autocron-scheduler",
+  "version": "1.0.1",
+  "summary": "Automate scripts with zero setup. Run Python tasks anytime, anywhere.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autocron_scheduler-1.0.1.tar.gz",
+  "download_time": "2025-10-25T07:38:48.395656",
+  "package_url": "https://pypi.org/project/autocron-scheduler/"
+}
