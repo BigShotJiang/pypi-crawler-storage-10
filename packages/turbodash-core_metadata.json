@@ -1,11 +1,11 @@
 {
   "name": "turbodash-core",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Interactive Dash app for turbomachinery stage performance analysis",
   "author": "Roberto Agromayor",
   "license": "MIT",
   "home_page": "https://github.com/turbo-sim/turbodash",
-  "download_filename": "turbodash_core-0.2.3.tar.gz",
-  "download_time": "2025-10-25T09:29:58.825013",
+  "download_filename": "turbodash_core-0.2.4.tar.gz",
+  "download_time": "2025-10-25T10:50:19.881277",
   "package_url": "https://pypi.org/project/turbodash-core/"
 }
