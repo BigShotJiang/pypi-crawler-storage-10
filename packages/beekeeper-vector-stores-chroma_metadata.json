@@ -1,11 +1,11 @@
 {
   "name": "beekeeper-vector-stores-chroma",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "beekeeper vector_stores chroma extension",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "beekeeper_vector_stores_chroma-1.0.1.tar.gz",
-  "download_time": "2025-10-24T21:14:30.214401",
+  "download_filename": "beekeeper_vector_stores_chroma-1.0.2.tar.gz",
+  "download_time": "2025-10-25T14:14:04.639222",
   "package_url": "https://pypi.org/project/beekeeper-vector-stores-chroma/"
 }

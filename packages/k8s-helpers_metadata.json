@@ -1,11 +1,11 @@
 {
   "name": "k8s-helpers",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Collection of Kubernetes command-line utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "k8s_helpers-1.0.3.tar.gz",
-  "download_time": "2025-10-25T13:49:57.908108",
+  "download_filename": "k8s_helpers-1.0.5.tar.gz",
+  "download_time": "2025-10-25T14:14:08.829417",
   "package_url": "https://pypi.org/project/k8s-helpers/"
 }

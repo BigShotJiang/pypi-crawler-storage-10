@@ -1,11 +1,11 @@
 {
   "name": "taiga-contrib-ldap-auth-enhanced",
-  "version": "0.6",
+  "version": "0.6.1",
   "summary": "LDAP authentication plugin for self-hosted Taiga.io project management instances",
   "author": "TuringTux",
   "license": "AGPL",
   "home_page": "https://github.com/TuringTux/taiga-contrib-ldap-auth-enhanced",
-  "download_filename": "taiga_contrib_ldap_auth_enhanced-0.6.tar.gz",
-  "download_time": "2025-10-25T11:12:54.063778",
+  "download_filename": "taiga_contrib_ldap_auth_enhanced-0.6.1.tar.gz",
+  "download_time": "2025-10-25T14:14:02.540620",
   "package_url": "https://pypi.org/project/taiga-contrib-ldap-auth-enhanced/"
 }

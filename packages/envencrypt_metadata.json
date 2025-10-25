@@ -1,0 +1,11 @@
+{
+  "name": "envencrypt",
+  "version": "0.4.0",
+  "summary": "Windows DPAPI-based encryption/decryption library for .env files",
+  "author": "Dyve ltd, Igor Petrovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envencrypt-0.4.0.tar.gz",
+  "download_time": "2025-10-25T14:14:14.246058",
+  "package_url": "https://pypi.org/project/envencrypt/"
+}

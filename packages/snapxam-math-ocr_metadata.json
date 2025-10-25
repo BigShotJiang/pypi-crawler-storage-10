@@ -1,0 +1,11 @@
+{
+  "name": "snapxam-math-ocr",
+  "version": "0.1.0",
+  "summary": "Python client for the SnapXam Math OCR API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snapxam_math_ocr-0.1.0.tar.gz",
+  "download_time": "2025-10-25T14:13:56.782602",
+  "package_url": "https://pypi.org/project/snapxam-math-ocr/"
+}

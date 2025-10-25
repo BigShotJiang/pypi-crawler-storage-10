@@ -1,0 +1,11 @@
+{
+  "name": "quantchdb",
+  "version": "0.1.11",
+  "summary": "A Well-Encapsulated ClickHouse Database APIs Lib",
+  "author": "Young",
+  "license": null,
+  "home_page": "https://github.com/ElenYoung/chdb",
+  "download_filename": "quantchdb-0.1.11.tar.gz",
+  "download_time": "2025-10-25T14:13:57.304699",
+  "package_url": "https://pypi.org/project/quantchdb/"
+}

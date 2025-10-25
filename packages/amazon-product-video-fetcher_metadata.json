@@ -1,11 +1,11 @@
 {
   "name": "amazon-product-video-fetcher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A small tool to extract and download m3u8 videos",
   "author": "Liran Bratt",
   "license": null,
   "home_page": "https://github.com/LiranBratt2121/amazon-product-video-fetcher",
-  "download_filename": "amazon_product_video_fetcher-0.0.3.tar.gz",
-  "download_time": "2025-10-25T13:50:14.079786",
+  "download_filename": "amazon_product_video_fetcher-0.0.4.tar.gz",
+  "download_time": "2025-10-25T14:14:16.346920",
   "package_url": "https://pypi.org/project/amazon-product-video-fetcher/"
 }

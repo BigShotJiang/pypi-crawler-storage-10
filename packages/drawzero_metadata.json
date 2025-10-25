@@ -1,11 +1,11 @@
 {
   "name": "drawzero",
-  "version": "0.5.1",
+  "version": "0.5.4",
   "summary": "A zero-boilerplate canvas drawing framework for Python 3, based on Pygame.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drawzero-0.5.1.tar.gz",
-  "download_time": "2025-10-25T11:25:21.776712",
+  "download_filename": "drawzero-0.5.4.tar.gz",
+  "download_time": "2025-10-25T14:14:15.826861",
   "package_url": "https://pypi.org/project/drawzero/"
 }
