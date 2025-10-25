@@ -1,11 +1,11 @@
 {
   "name": "pycuda-gml",
-  "version": "2025.1.2",
+  "version": "2025.1.2.post1",
   "summary": "Python wrapper for Nvidia CUDA",
   "author": "Andreas Kloeckner",
   "license": "MIT",
   "home_page": "http://mathema.tician.de/software/pycuda",
-  "download_filename": "pycuda_gml-2025.1.2.tar.gz",
-  "download_time": "2025-10-25T19:24:48.872969",
+  "download_filename": "pycuda_gml-2025.1.2.post1-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-25T21:38:34.282105",
   "package_url": "https://pypi.org/project/pycuda-gml/"
 }
