@@ -1,11 +1,11 @@
 {
   "name": "bambu-lab-cloud-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python library for Bambu Lab 3D printer Cloud API, MQTT, and local connections",
   "author": "Bambu Lab API Contributors",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "bambu_lab_cloud_api-1.0.1.tar.gz",
-  "download_time": "2025-10-25T05:15:19.891929",
+  "download_filename": "bambu_lab_cloud_api-1.0.2.tar.gz",
+  "download_time": "2025-10-25T06:22:26.491011",
   "package_url": "https://pypi.org/project/bambu-lab-cloud-api/"
 }

@@ -1,14 +1,17 @@
 {
-  "download_time": "2025-10-25T05:51:00.148010",
-  "total_packages_downloaded": 81,
-  "total_size_mb": 4.45,
+  "download_time": "2025-10-25T06:22:53.490602",
+  "total_packages_downloaded": 79,
+  "total_size_mb": 8.18,
   "packages": [
+    "llmcc",
+    "logloglog",
+    "beads-mcp",
+    "airobo",
     "statemachine-engine",
     "nautobot-app-livedata",
     "insyt-secure",
     "showflag",
     "django-salestrack",
-    "airobo",
     "GetSequenceIoApiClient",
     "speclike",
     "keybird",
@@ -23,7 +26,6 @@
     "roboquant",
     "siture",
     "opendp",
-    "llmcc",
     "django-cfg",
     "mcp-sqlite",
     "pyrsult",
@@ -79,10 +81,6 @@
     "keras-hub-nightly",
     "par-scrape",
     "beekeeper-embeddings-huggingface",
-    "ork.build",
-    "tirex-mirror",
-    "miniwdl",
-    "mcp-toolz",
-    "winipedia-utils"
+    "ork.build"
   ]
 }

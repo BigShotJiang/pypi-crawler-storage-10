@@ -1,11 +1,11 @@
 {
   "name": "aigroup-econ-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "专业计量经济学MCP工具 - 让大模型直接进行数据分析",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aigroup_econ_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-25T05:15:18.629318",
+  "download_filename": "aigroup_econ_mcp-0.1.1.tar.gz",
+  "download_time": "2025-10-25T06:22:25.178696",
   "package_url": "https://pypi.org/project/aigroup-econ-mcp/"
 }
