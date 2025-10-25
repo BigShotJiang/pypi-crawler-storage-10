@@ -1,0 +1,11 @@
+{
+  "name": "qstream",
+  "version": "0.1.0",
+  "summary": "Async Python library for BUVA QStream 2.0 ventilation fan control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qstream-0.1.0.tar.gz",
+  "download_time": "2025-10-25T13:01:04.262041",
+  "package_url": "https://pypi.org/project/qstream/"
+}

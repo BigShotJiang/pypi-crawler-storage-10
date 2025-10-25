@@ -1,11 +1,11 @@
 {
   "name": "lusid-sdk",
-  "version": "2.1.990",
+  "version": "2.1.991",
   "summary": "LUSID API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": "https://github.com/finbourne/lusid-sdk-python",
-  "download_filename": "lusid_sdk-2.1.990.tar.gz",
-  "download_time": "2025-10-24T20:18:53.828844",
+  "download_filename": "lusid_sdk-2.1.991.tar.gz",
+  "download_time": "2025-10-25T13:01:10.818316",
   "package_url": "https://pypi.org/project/lusid-sdk/"
 }
