@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T21:50:08.632941
-- **Total Packages**: 68
-- **Total Size**: 11.26 MB
+- **Download Time**: 2025-10-25T22:15:21.821007
+- **Total Packages**: 73
+- **Total Size**: 19.62 MB
 
 ## Packages List
+- pycodemark
+- libfcast
+- kinemotion
+- pypomes-jwt
+- nu-waves
+- finesse-benchmark
+- eetc-data-client
+- fluids
+- PyNinja
+- multi-puzzle-solver
+- mcp-toolz
+- nn-dup
+- inpaint
+- shieldforge
+- silvanus
+- rsyncx
+- android-notify
+- py-potok
+- Fast-Controller
+- otter-service
+- conciliate
+- schemathesis
+- Draken
+- spytial-diagramming
+- flake8-aaa
+- tapestry-orm
+- fittings
+- fastpgcache
+- openevolve-ext-env
+- dirshot
+- stac-mcp
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- cool-open-client
+- remixtree
 - marcel
 - multiqc-xenium-extra
 - rulify
@@ -13,13 +48,11 @@
 - minddict
 - kardocore
 - lumarr
-- py-potok
 - fastmongo
 - atlan-application-sdk
 - OASYS2-SRW
 - fuzzy-json-repair
 - monarch-money-amazon-connector
-- cool-open-client
 - ntnput
 - pycuda-gml
 - the-convergence
@@ -40,37 +73,9 @@
 - mar-eval
 - bible-xml-parser
 - resumecompiler
-- finesse-benchmark
 - blues-lib
 - imsy-htc
 - cbrkit
 - dbt-review-assistant
 - bowtie-json-schema
 - grafi
-- simplebooks
-- cipipeline
-- soia-client
-- bygg
-- crawler.dev
-- dnscrypt-proxy-logs-analyzer
-- evenage
-- sejunk-validator
-- birdie
-- cat-llm
-- OASYS2-SHADOW4
-- oasys2
-- cerelink
-- skypilot-nightly
-- rics
-- energy-toolkit
-- pyportainer
-- dsf-mobility
-- graphics-braille
-- yanga
-- PyHiveLMS
-- rlrom
-- openhands-workspace
-- openhands-tools
-- openhands-sdk
-- openhands-agent-server
-- oilspillsim

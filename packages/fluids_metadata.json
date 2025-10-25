@@ -1,0 +1,11 @@
+{
+  "name": "fluids",
+  "version": "1.3.0",
+  "summary": "Fluid dynamics component of Chemical Engineering Design Library (ChEDL)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluids-1.3.0.tar.gz",
+  "download_time": "2025-10-25T22:14:46.696879",
+  "package_url": "https://pypi.org/project/fluids/"
+}

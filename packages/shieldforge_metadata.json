@@ -1,0 +1,11 @@
+{
+  "name": "shieldforge",
+  "version": "0.2.0",
+  "summary": "Scanner éthique pour projets open source: code, dépendances, rapports et alertes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shieldforge-0.2.0.tar.gz",
+  "download_time": "2025-10-25T22:14:50.421458",
+  "package_url": "https://pypi.org/project/shieldforge/"
+}
