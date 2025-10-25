@@ -1,21 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T23:29:18.638660
+- **Download Time**: 2025-10-25T23:40:04.419264
 - **Total Packages**: 77
-- **Total Size**: 10.34 MB
+- **Total Size**: 9.23 MB
 
 ## Packages List
+- chuk-tool-processor
+- bohra
+- kash-shell
+- rxai-sdg
+- multiqc
+- ipynb-scrubber
+- fractal-attention-analysis
+- yt-dlp
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- blossy
+- ultimate-gemini-mcp
+- asyncproxy
+- winipedia-utils
+- ws-frappe-cli
+- spotcrates
+- func-to-web
+- praisonaiwp
+- puffmatic
 - post-ap
 - pi-ragbox
-- winipedia-utils
 - dioxide
-- ws-frappe-cli
 - classroom-pilot
 - lt-tensor
 - thinktwiceutils
-- ultimate-gemini-mcp
-- android-notify
 - aider-ce
 - gruyere
 - protspace
@@ -25,7 +41,6 @@
 - brs-kb
 - artifetch
 - conciliate
-- praisonaiwp
 - wthisj
 - guardcoreapi
 - fsc-assistant
@@ -68,18 +83,3 @@
 - horde-sdk
 - tnnt-templates
 - dirshot
-- finesse-benchmark
-- nu-waves
-- deebot-client
-- chuk-tool-processor
-- minify-html-onepass
-- minify-html
-- databoost
-- ldup
-- whatenc
-- primfunctions
-- simpletuner
-- cl-keeper
-- chuk-mcp
-- agenthelm
-- pycodemark

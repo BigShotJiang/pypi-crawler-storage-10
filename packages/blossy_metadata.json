@@ -1,0 +1,11 @@
+{
+  "name": "blossy",
+  "version": "7.0.3",
+  "summary": "A lil' bud that helps you with stuff (it's a utility CLI).",
+  "author": "Ryan Sakurai",
+  "license": null,
+  "home_page": "https://github.com/ryansakurai/blossy-cli",
+  "download_filename": "blossy-7.0.3.tar.gz",
+  "download_time": "2025-10-25T23:39:30.834961",
+  "package_url": "https://pypi.org/project/blossy/"
+}
