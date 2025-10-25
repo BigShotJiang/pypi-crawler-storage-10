@@ -1,17 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T08:20:01.230324
-- **Total Packages**: 77
-- **Total Size**: 14.79 MB
+- **Download Time**: 2025-10-25T08:43:09.043064
+- **Total Packages**: 85
+- **Total Size**: 23.25 MB
 
 ## Packages List
+- tg-file-exporter
+- pyguiadapterlite
+- pywebtransport
+- fastapi-commons
+- python3-commons
+- langlint
+- NeoBase
+- syngate
+- yta-numpy
+- airobo
+- mariax
+- ziet
+- crc-pulp-service-client
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- langmiddle
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- llm-schema-lite
+- validate-pyproject-schema-store
+- obsidian-base-logger
+- pro-craft
+- lilizong-potato
+- evenage
+- appscriptify
+- tensorwatchext
+- metdatapy
+- skills-use
+- poutils
+- aiclubiuh
+- ant-ray-cpp-nightly
+- wayspiritmcp-weather
+- xtdamo
+- statemachine-engine
+- pytest-case-provider
+- astrbot-injector
+- datajunction
+- datajunction-reflection
+- datajunction-query
+- datajunction-server
+- vise-logger
+- digital-life
+- genai-otel-instrument
+- qbittorrent-ark
+- mcp-toolz
 - udsonip
 - libmbtiles
-- airobo
 - zaojun
 - beancode
-- astrbot-injector
 - ethaddrlib
 - django-cfg
 - shadecreed
@@ -21,13 +67,11 @@
 - life-cli
 - flowlens-mcp-server
 - dekcli
-- statemachine-engine
 - safe-view
 - pyglove
 - prefect
 - prefect-client
 - netbox-optics
-- tensorwatchext
 - listpick
 - fastdup
 - shannot
@@ -47,39 +91,3 @@
 - shancx
 - maim-message
 - dearning
-- gguf-connector
-- cprs
-- user-scanner
-- github-backup-supabase
-- finesse-benchmark
-- nlbone
-- simple-encryptor
-- libequalizer
-- TprParser
-- pyubxutils
-- potodo
-- queryboost
-- sun-agent-toolkit
-- ccxt-ir
-- DecoStar
-- lucid-dl
-- mix-python-sdk
-- splatstream
-- spdx_checker
-- zhkj-plugins-parent
-- autocron-scheduler
-- pyhw
-- cognite-toolkit
-- konfuzio-sdk
-- bcsfe
-- botobuddy
-- binaryrain-helper-cloud-dataverse
-- binaryrain-helper-cloud-azure
-- hjq
-- machineconfig
-- moonito
-- gha-utils
-- PySrDaliGateway
-- anzar
-- mysingle-quant
-- pico2d

@@ -1,0 +1,11 @@
+{
+  "name": "aiclubiuh",
+  "version": "0.1.6",
+  "summary": "Thư viện hỗ trợ cho AI Club IUH",
+  "author": "htanh",
+  "license": null,
+  "home_page": "https://main.aiclubiuh.com",
+  "download_filename": "aiclubiuh-0.1.6.tar.gz",
+  "download_time": "2025-10-25T08:42:38.189686",
+  "package_url": "https://pypi.org/project/aiclubiuh/"
+}

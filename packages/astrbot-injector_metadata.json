@@ -1,11 +1,11 @@
 {
   "name": "astrbot-injector",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "基于wrapt的依赖注入库.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrbot_injector-0.1.1.tar.gz",
-  "download_time": "2025-10-25T08:19:23.120569",
+  "download_filename": "astrbot_injector-0.1.2.tar.gz",
+  "download_time": "2025-10-25T08:42:41.657196",
   "package_url": "https://pypi.org/project/astrbot-injector/"
 }
