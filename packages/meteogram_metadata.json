@@ -1,0 +1,11 @@
+{
+  "name": "meteogram",
+  "version": "0.1.2",
+  "summary": "Create meteogram based on data from met.no",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meteogram-0.1.2.tar.gz",
+  "download_time": "2025-10-25T09:15:12.976607",
+  "package_url": "https://pypi.org/project/meteogram/"
+}

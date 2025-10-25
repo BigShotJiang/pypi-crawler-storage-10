@@ -1,11 +1,11 @@
 {
   "name": "statemachine-engine",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "summary": "A generic, event-driven state machine framework with real-time monitoring",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statemachine_engine-1.0.30.tar.gz",
-  "download_time": "2025-10-25T08:42:40.612528",
+  "download_filename": "statemachine_engine-1.0.31.tar.gz",
+  "download_time": "2025-10-25T09:15:22.281008",
   "package_url": "https://pypi.org/project/statemachine-engine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "usbbluetooth",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Take full control of your USB Bluetooth controllers!",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "usbbluetooth-0.1.2.tar.gz",
-  "download_time": "2025-10-24T16:20:20.737499",
+  "download_filename": "usbbluetooth-0.1.3.tar.gz",
+  "download_time": "2025-10-25T09:15:19.535724",
   "package_url": "https://pypi.org/project/usbbluetooth/"
 }

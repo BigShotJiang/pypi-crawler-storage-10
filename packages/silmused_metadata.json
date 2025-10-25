@@ -1,11 +1,11 @@
 {
   "name": "silmused",
-  "version": "1.4.1",
+  "version": "1.4.4",
   "summary": null,
   "author": "Karel Paan, Martti Kakk",
   "license": "MIT License",
   "home_page": "https://github.com/kare22/silmused",
-  "download_filename": "silmused-1.4.1.tar.gz",
-  "download_time": "2025-10-24T11:51:07.322712",
+  "download_filename": "silmused-1.4.4.tar.gz",
+  "download_time": "2025-10-25T09:15:14.077639",
   "package_url": "https://pypi.org/project/silmused/"
 }
