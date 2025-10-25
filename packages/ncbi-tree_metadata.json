@@ -1,0 +1,11 @@
+{
+  "name": "ncbi-tree",
+  "version": "1.1.0",
+  "summary": "ncbi-tree is an open source, cross-platform command-line tool for downloading the latest NCBI taxonomy database and converting it to Newick tree format (.tre), with optional plain-text visualization (.txt)",
+  "author": "NCBI-Tree Contributors",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/phylobridge/ncbi-tree",
+  "download_filename": "ncbi_tree-1.1.0.tar.gz",
+  "download_time": "2025-10-25T18:21:36.271429",
+  "package_url": "https://pypi.org/project/ncbi-tree/"
+}

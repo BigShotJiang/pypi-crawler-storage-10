@@ -1,0 +1,11 @@
+{
+  "name": "highspy",
+  "version": "1.12.0",
+  "summary": "A thin set of pybind11 wrappers to HiGHS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "highspy-1.12.0.tar.gz",
+  "download_time": "2025-10-25T18:21:45.580342",
+  "package_url": "https://pypi.org/project/highspy/"
+}

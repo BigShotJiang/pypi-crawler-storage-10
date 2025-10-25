@@ -1,11 +1,11 @@
 {
   "name": "tinkerforge2mqtt",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Emit MQTT events from Tinkerforge devices",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "tinkerforge2mqtt-0.9.2.tar.gz",
-  "download_time": "2025-10-25T17:13:34.627373",
+  "download_filename": "tinkerforge2mqtt-0.9.3.tar.gz",
+  "download_time": "2025-10-25T18:21:56.024228",
   "package_url": "https://pypi.org/project/tinkerforge2mqtt/"
 }

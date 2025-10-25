@@ -1,0 +1,11 @@
+{
+  "name": "PyCESim",
+  "version": "0.0.7",
+  "summary": "PyCESim - classical simulation of Coulomb explosion",
+  "author": "Felix Allum",
+  "license": null,
+  "home_page": "https://github.com/f-allum/PyCESim/",
+  "download_filename": "pycesim-0.0.7.tar.gz",
+  "download_time": "2025-10-25T18:21:50.533873",
+  "package_url": "https://pypi.org/project/PyCESim/"
+}

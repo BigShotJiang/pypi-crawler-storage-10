@@ -1,0 +1,11 @@
+{
+  "name": "ktgutils",
+  "version": "0.1.1",
+  "summary": "A package for improving and automating the work with Routers in asynchronous Telegram frameworks (e.g., Aiogram). It allows for dynamically finding, importing, and binding routers, as well as managing their dependencies (Middleware) during runtime.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ktgutils-0.1.1.tar.gz",
+  "download_time": "2025-10-25T18:21:43.511419",
+  "package_url": "https://pypi.org/project/ktgutils/"
+}

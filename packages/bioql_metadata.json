@@ -1,0 +1,11 @@
+{
+  "name": "bioql",
+  "version": "6.0.0",
+  "summary": "Enterprise Quantum Computing v6.0.0 - MULTI-OMICS PLATFORM: Proteomics (Protein Analysis, PTM Prediction, PPI), Metabolomics (Pathway Analysis, FBA/MFA), Multi-Omics Integration (Quantum Fusion), Advanced Genomics (Variant Calling, Epigenetics, RNA-Seq) + Full Drug Discovery Pipeline - Production Ready!",
+  "author": "BioQL Development Team - SpectrixRD",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/bioql",
+  "download_filename": "bioql-6.0.0.tar.gz",
+  "download_time": "2025-10-25T18:21:42.999171",
+  "package_url": "https://pypi.org/project/bioql/"
+}

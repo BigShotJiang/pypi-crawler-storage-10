@@ -1,11 +1,11 @@
 {
   "name": "optiflowx",
-  "version": "0.0.1",
-  "summary": null,
+  "version": "0.0.2",
+  "summary": "A modular optimization and machine learning workflow framework for automatic model selection, hyperparameter tuning, and performance benchmarking across diverse datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optiflowx-0.0.1.tar.gz",
-  "download_time": "2025-10-25T15:40:48.729181",
+  "download_filename": "optiflowx-0.0.2.tar.gz",
+  "download_time": "2025-10-25T18:21:52.148024",
   "package_url": "https://pypi.org/project/optiflowx/"
 }

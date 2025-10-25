@@ -1,24 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T17:51:11.208901
-- **Total Packages**: 89
-- **Total Size**: 7.21 MB
+- **Download Time**: 2025-10-25T18:22:16.207875
+- **Total Packages**: 85
+- **Total Size**: 22.96 MB
 
 ## Packages List
-- coralsnake
+- esentity
+- spatialbio
+- talkpipe
+- pyochain
+- tg-file-exporter
+- pumaguard
+- ai-rulez
+- sromaster
+- pyawsmock
+- ncbi-tree
+- braindecode
+- ntnput
+- maktaba
+- financial-debt-optimizer
+- django-cfg
+- llmcc
+- step-cli-tools
+- datavalues
 - batre-translator-cli
-- xmanager-slurm
+- photo-copier
+- lvmgort
+- gac
+- bioql
+- ktgutils
+- LayerZero
+- civic-lib-geo
+- ivythefawn-tool
+- highspy
+- sonolus.py
+- pytmpinv
 - dreamer4
+- yaoc
+- shopee-afflib
+- segmentation-skeleton-metrics
+- bbot
+- ministatus
+- PyCESim
+- mariax
+- strands-agentcore-tools
+- optiflowx
+- logos-solver
+- open-sandboxes
+- llmkgext
+- grid-feedback-optimizer
+- HardView
+- agentle
+- tinkerforge2mqtt
+- tsugite
+- mayini-framework
+- mkfst
+- passagemath-conf
+- coralsnake
+- xmanager-slurm
 - wl-stats-torch
 - textual-fastdatatable
 - repello-mcp-gateway
-- django-cfg
 - cstructimpl
 - django-basemodels
 - mc-check
 - clone-repo
-- mariax
 - unsiloed-parser
 - kill-process-mcp
 - kuzu-memory
@@ -36,7 +83,6 @@
 - pyportainer
 - pip-deepfreeze
 - bella-companion
-- mayini-framework
 - ytsage
 - importer-core
 - changedetection.io
@@ -45,53 +91,3 @@
 - sombra
 - loxodo-curses
 - bdo-empire
-- ai-rulez
-- agentle
-- evenage
-- pymoneypaylib
-- cbot-command
-- shopee-afflib
-- PyCorrCPI
-- flask-supabase
-- celery-svcs
-- claude-mpm
-- libadalina-core
-- agentmake
-- ukraine
-- gfreader
-- dart-tools
-- invcrypt
-- MLSaver
-- lumera
-- balatrobot
-- cmakepresets
-- mainsequence
-- cdir
-- iQual
-- BalethonFix
-- ccdcoe
-- LevDoom
-- dock-thor-client
-- pyfxp
-- trackidnet
-- agent-client-protocol
-- langmiddle
-- lossless-yaml
-- xsam
-- malipopy-mpesa
-- bioplotkit
-- thermoworks-cloud
-- elabapi-python
-- tikka
-- chuk-tool-processor
-- tg-file-exporter
-- llamacpp-client
-- pytmpinv
-- xdsl
-- kmeanssa-ng
-- writeadoc
-- mmw-sop-infrastructure
-- pyscriptbase
-- ididi
-- self-unzip-html
-- git-timemachine
