@@ -1,0 +1,11 @@
+{
+  "name": "pyecm-tools",
+  "version": "1.0.0",
+  "summary": "A Python wrapper for Neill Corlett's ECM tools for encoding and decoding PSX CD images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyecm_tools-1.0.0.tar.gz",
+  "download_time": "2025-10-25T20:38:52.095295",
+  "package_url": "https://pypi.org/project/pyecm-tools/"
+}

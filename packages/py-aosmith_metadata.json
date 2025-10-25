@@ -1,0 +1,11 @@
+{
+  "name": "py-aosmith",
+  "version": "1.0.15",
+  "summary": "A Python client library for A. O. Smith water heaters",
+  "author": "Brandon Rothweiler",
+  "license": "MIT",
+  "home_page": "https://github.com/bdr99/py-aosmith",
+  "download_filename": "py_aosmith-1.0.15.tar.gz",
+  "download_time": "2025-10-25T20:38:58.158015",
+  "package_url": "https://pypi.org/project/py-aosmith/"
+}
