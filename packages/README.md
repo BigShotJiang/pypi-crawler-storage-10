@@ -1,18 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T04:51:21.400834
-- **Total Packages**: 80
-- **Total Size**: 18.08 MB
+- **Download Time**: 2025-10-25T05:16:04.608100
+- **Total Packages**: 85
+- **Total Size**: 15.85 MB
 
 ## Packages List
+- PythonToSW
+- pydoclint
+- aigroup-econ-mcp
+- mariax
+- bambu-lab-cloud-api
+- aibrix
+- sitrue
+- opentelemetry-instrumentation-gunicorn
+- pytest-homeassistant-custom-component
+- docxlatex
+- kapipy
+- pyhybriddb
+- svy-io
+- django-blog-package
+- icp-engine
+- gixy-ng
+- quillmark
+- fcs-order
 - wayspiritmcp-weather
 - gemato
 - cimsi
 - pyhabitat
 - aiiware-cli
 - iamdata
-- bambu-lab-cloud-api
 - lava-lyra
 - nemorosa
 - speclike
@@ -25,7 +42,6 @@
 - elasticube
 - beekeeper-embeddings-watsonx
 - prompteer
-- svy-io
 - LLM-Bridge
 - agent-lifecycle-toolkit
 - aenet-gpr
@@ -75,14 +91,3 @@
 - vldb-toolkits
 - statsapi
 - django-nativemojo
-- minchin.scripts.photosorter
-- llmcc
-- pwndck
-- mcp-yuye-data-analyzer
-- shancx
-- mcp-ticketer
-- jsonvalidatingschemaextractor
-- pulumi-confluentcloud
-- aigroup-quant-mcp
-- publicsuffixlist
-- heaserver-accounts

@@ -1,0 +1,11 @@
+{
+  "name": "fcs-order",
+  "version": "0.1.1",
+  "summary": "Third-order force constants calculation tool for VASP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcs_order-0.1.1.tar.gz",
+  "download_time": "2025-10-25T05:15:28.129005",
+  "package_url": "https://pypi.org/project/fcs-order/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyhybriddb",
+  "version": "1.0.1",
+  "summary": "A production-ready hybrid database system combining SQL and NoSQL with enterprise features",
+  "author": "Infant Nirmal",
+  "license": "MIT",
+  "home_page": "https://github.com/Adrient-tech/PyHybridDB",
+  "download_filename": "pyhybriddb-1.0.1.tar.gz",
+  "download_time": "2025-10-25T05:15:24.088556",
+  "package_url": "https://pypi.org/project/pyhybriddb/"
+}

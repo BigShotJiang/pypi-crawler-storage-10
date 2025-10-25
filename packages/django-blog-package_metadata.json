@@ -1,0 +1,11 @@
+{
+  "name": "django-blog-package",
+  "version": "1.0.9",
+  "summary": "A reusable Django blog package for adding blog functionality to any Django project",
+  "author": "Joseph Braide",
+  "license": "MIT",
+  "home_page": "https://github.com/josephbraide/django-blog-package",
+  "download_filename": "django_blog_package-1.0.9.tar.gz",
+  "download_time": "2025-10-25T05:15:25.801511",
+  "package_url": "https://pypi.org/project/django-blog-package/"
+}

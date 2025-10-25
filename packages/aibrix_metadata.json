@@ -1,0 +1,11 @@
+{
+  "name": "aibrix",
+  "version": "0.4.1",
+  "summary": "AIBrix, the foundational building blocks for constructing your own GenAI inference infrastructure.",
+  "author": "AIBrix Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vllm-project/aibrix/tree/main/python/aibrix",
+  "download_filename": "aibrix-0.4.1.tar.gz",
+  "download_time": "2025-10-25T05:15:20.510174",
+  "package_url": "https://pypi.org/project/aibrix/"
+}
