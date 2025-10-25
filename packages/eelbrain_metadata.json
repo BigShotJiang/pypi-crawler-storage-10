@@ -1,0 +1,11 @@
+{
+  "name": "eelbrain",
+  "version": "0.41.2",
+  "summary": "MEG/EEG analysis tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eelbrain-0.41.2.tar.gz",
+  "download_time": "2025-10-25T11:25:24.557602",
+  "package_url": "https://pypi.org/project/eelbrain/"
+}

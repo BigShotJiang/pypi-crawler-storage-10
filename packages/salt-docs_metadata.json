@@ -1,0 +1,11 @@
+{
+  "name": "salt-docs",
+  "version": "0.1.4",
+  "summary": "Wiki's for nerds, by nerds",
+  "author": "Mithun Ramesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "salt_docs-0.1.4.tar.gz",
+  "download_time": "2025-10-25T11:25:28.997167",
+  "package_url": "https://pypi.org/project/salt-docs/"
+}

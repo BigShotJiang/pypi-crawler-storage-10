@@ -1,0 +1,11 @@
+{
+  "name": "cone.ugm",
+  "version": "1.0",
+  "summary": "User and group management",
+  "author": "Cone Contributors",
+  "license": "LGPLv3",
+  "home_page": "http://github.com/conestack/cone.ugm",
+  "download_filename": "cone_ugm-1.0.tar.gz",
+  "download_time": "2025-10-25T11:25:23.436766",
+  "package_url": "https://pypi.org/project/cone.ugm/"
+}

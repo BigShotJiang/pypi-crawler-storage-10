@@ -1,0 +1,11 @@
+{
+  "name": "lmms_engine",
+  "version": "0.1.2",
+  "summary": "A simple, unified multimodal models training engine. Lean, flexible, and built for hacking, and hacking at scale.",
+  "author": "LMMs-Lab",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lmms_engine-0.1.2.tar.gz",
+  "download_time": "2025-10-25T11:25:27.885087",
+  "package_url": "https://pypi.org/project/lmms_engine/"
+}
