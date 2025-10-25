@@ -1,11 +1,11 @@
 {
   "name": "hcf_downloader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": "Repository template for Python projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hcf_downloader-0.0.0.tar.gz",
-  "download_time": "2025-10-25T18:54:09.569955",
+  "download_filename": "hcf_downloader-0.0.1.tar.gz",
+  "download_time": "2025-10-25T19:24:59.302910",
   "package_url": "https://pypi.org/project/hcf_downloader/"
 }
