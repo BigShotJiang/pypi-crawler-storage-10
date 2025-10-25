@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-10-25T04:19:35.871077",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 17.41,
+  "download_time": "2025-10-25T04:41:40.595955",
+  "total_packages_downloaded": 73,
+  "total_size_mb": 0.12,
   "packages": [
-    "par-scrape",
-    "beekeeper-embeddings-huggingface",
-    "ork.build",
-    "aenet-gpr",
     "tirex-mirror",
     "miniwdl",
     "mcp-toolz",
@@ -77,6 +73,8 @@
     "mlfastopt",
     "unitysvc-services",
     "matmalib",
-    "deksoftware"
+    "deksoftware",
+    "graphics-braille",
+    "xxiop"
   ]
 }

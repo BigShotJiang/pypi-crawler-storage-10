@@ -1,11 +1,11 @@
 {
   "name": "PaiEngine",
-  "version": "0.0.4",
-  "summary": "PaiEngine - simple GUI engine",
+  "version": "0.0.5",
+  "summary": "PaiEngine - UI engine",
   "author": "Pai100707",
   "license": null,
   "home_page": "https://github.com/Pai100707/PaiEngine",
-  "download_filename": "paiengine-0.0.4.tar.gz",
-  "download_time": "2025-10-25T04:19:00.352957",
+  "download_filename": "paiengine-0.0.5.tar.gz",
+  "download_time": "2025-10-25T04:41:02.269102",
   "package_url": "https://pypi.org/project/PaiEngine/"
 }

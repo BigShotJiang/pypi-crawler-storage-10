@@ -1,15 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T04:19:35.871077
-- **Total Packages**: 75
-- **Total Size**: 17.41 MB
+- **Download Time**: 2025-10-25T04:41:40.595955
+- **Total Packages**: 73
+- **Total Size**: 0.12 MB
 
 ## Packages List
-- par-scrape
-- beekeeper-embeddings-huggingface
-- ork.build
-- aenet-gpr
 - tirex-mirror
 - miniwdl
 - mcp-toolz
@@ -81,3 +77,5 @@
 - unitysvc-services
 - matmalib
 - deksoftware
+- graphics-braille
+- xxiop
