@@ -1,0 +1,11 @@
+{
+  "name": "tmodbus",
+  "version": "0.2.3",
+  "summary": "A modern, strongly typed Modbus client library.",
+  "author": "wlcrs",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "tmodbus-0.2.3.tar.gz",
+  "download_time": "2025-10-25T09:40:11.919496",
+  "package_url": "https://pypi.org/project/tmodbus/"
+}

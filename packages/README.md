@@ -1,16 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T09:30:29.037489
-- **Total Packages**: 72
-- **Total Size**: 2.07 MB
+- **Download Time**: 2025-10-25T09:40:45.250411
+- **Total Packages**: 70
+- **Total Size**: 2.68 MB
 
 ## Packages List
 - whistle
+- pro-craft
+- sqliteplus-enhanced
+- mainsequence
+- jaxmod
 - ckanext-json-viewer
-- pyexcel
-- github-backup-supabase
+- tmodbus
 - tensorwatchext
+- betty
+- async-redis-rate-limiters
+- py-lap-solver
+- event_scale_http_client
+- pycodemark
+- django-affiliate-system
+- digital-life
+- github-backup-supabase
+- bot7685-ext
+- pyexcel
 - print-dog
 - saplexer
 - richcolorlog
@@ -18,7 +31,6 @@
 - django-plugin-system
 - tbp-nightly
 - mailbridge
-- pro-craft
 - dsp-tools
 - turbodash-core
 - ohmyapi
@@ -29,7 +41,6 @@
 - langlint
 - shancx
 - gravixlayer
-- mainsequence
 - adrf
 - pyverifactu
 - meteogram
@@ -55,7 +66,6 @@
 - django-eztaskmanager
 - sdax
 - geometer
-- digital-life
 - blogsimi
 - gffutilsai
 - eyepy
@@ -66,15 +76,3 @@
 - inmanta-module-podman
 - tfp-nightly
 - yta-numpy
-- kodit
-- airobo
-- mix-python-sdk
-- pyguiadapterlite
-- pywebtransport
-- fastapi-commons
-- python3-commons
-- NeoBase
-- syngate
-- ziet
-- crc-pulp-service-client
-- crc-pulp-file-client

@@ -1,0 +1,11 @@
+{
+  "name": "async-redis-rate-limiters",
+  "version": "0.1.2",
+  "summary": "Rock solid async python generic distributed rate limiters (concurrency and time) backed by Redis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_redis_rate_limiters-0.1.2.tar.gz",
+  "download_time": "2025-10-25T09:40:13.487737",
+  "package_url": "https://pypi.org/project/async-redis-rate-limiters/"
+}

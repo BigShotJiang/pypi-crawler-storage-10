@@ -1,0 +1,11 @@
+{
+  "name": "py-lap-solver",
+  "version": "0.1.4",
+  "summary": "Unified Python framework for Linear Assignment Problem solvers",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "py_lap_solver-0.1.4.tar.gz",
+  "download_time": "2025-10-25T09:40:14.008490",
+  "package_url": "https://pypi.org/project/py-lap-solver/"
+}
