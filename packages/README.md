@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T22:32:04.891445
-- **Total Packages**: 75
-- **Total Size**: 7.54 MB
+- **Download Time**: 2025-10-25T22:51:02.548687
+- **Total Packages**: 82
+- **Total Size**: 9.69 MB
 
 ## Packages List
+- market-data-ibkr
+- ultimate-gemini-mcp
+- napistu-torch
+- fastpubsub
+- horde-sdk
+- tnnt-templates
+- iam-policy-validator
+- dirshot
 - classroom-pilot
 - finesse-benchmark
 - nu-waves
@@ -57,7 +65,6 @@
 - fittings
 - fastpgcache
 - openevolve-ext-env
-- dirshot
 - stac-mcp
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
