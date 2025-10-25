@@ -1,0 +1,11 @@
+{
+  "name": "tradepose-client",
+  "version": "0.1.0",
+  "summary": "Python client for Tradepose quantitative trading API",
+  "author": "Tradepose Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradepose_client-0.1.0.tar.gz",
+  "download_time": "2025-10-25T15:15:01.563497",
+  "package_url": "https://pypi.org/project/tradepose-client/"
+}

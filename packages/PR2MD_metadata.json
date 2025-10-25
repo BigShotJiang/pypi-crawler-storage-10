@@ -1,0 +1,11 @@
+{
+  "name": "PR2MD",
+  "version": "1.0.3",
+  "summary": "Pull Request Markdown Generator",
+  "author": "tboy1337",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pr2md-1.0.3.tar.gz",
+  "download_time": "2025-10-25T15:14:54.470918",
+  "package_url": "https://pypi.org/project/PR2MD/"
+}
