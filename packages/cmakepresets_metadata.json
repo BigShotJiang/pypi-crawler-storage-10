@@ -1,0 +1,11 @@
+{
+  "name": "cmakepresets",
+  "version": "0.5.0",
+  "summary": "A library for parsing CMakePresets.json",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmakepresets-0.5.0.tar.gz",
+  "download_time": "2025-10-25T17:29:35.305701",
+  "package_url": "https://pypi.org/project/cmakepresets/"
+}

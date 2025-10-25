@@ -1,0 +1,11 @@
+{
+  "name": "pymoneypaylib",
+  "version": "1.0.0",
+  "summary": "A small library that does something cool",
+  "author": "Robert Karanja",
+  "license": "MIT",
+  "home_page": "https://github.com/karanjar/pymoneypaylib",
+  "download_filename": "pymoneypaylib-1.0.0.tar.gz",
+  "download_time": "2025-10-25T17:29:25.156142",
+  "package_url": "https://pypi.org/project/pymoneypaylib/"
+}

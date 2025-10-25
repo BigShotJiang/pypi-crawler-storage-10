@@ -1,0 +1,11 @@
+{
+  "name": "cdir",
+  "version": "1.4",
+  "summary": "A faster way to navigate folders and browse files in Windows and Linux shells.",
+  "author": "Antti Eskelinen",
+  "license": null,
+  "home_page": "https://github.com/EskelinenAntti/cdir",
+  "download_filename": "cdir-1.4.tar.gz",
+  "download_time": "2025-10-25T17:29:36.379243",
+  "package_url": "https://pypi.org/project/cdir/"
+}
