@@ -1,0 +1,11 @@
+{
+  "name": "pwndck",
+  "version": "0.2",
+  "summary": "Check for leaked passwords in HaveIBeenPwned.",
+  "author": "David Steele",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pwndck-0.2.tar.gz",
+  "download_time": "2025-10-25T03:48:44.614490",
+  "package_url": "https://pypi.org/project/pwndck/"
+}

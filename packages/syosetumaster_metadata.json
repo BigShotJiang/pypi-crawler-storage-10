@@ -1,11 +1,11 @@
 {
   "name": "syosetumaster",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "simple crawling + translating project with syosetuka ni narou",
   "author": "Hijkstuv",
   "license": null,
-  "home_page": "https://github.com/pypa/sampleproject",
-  "download_filename": "syosetumaster-0.0.3.tar.gz",
-  "download_time": "2025-10-25T03:26:26.233726",
+  "home_page": "https://github.com/Hijkstuv/syosetumaster",
+  "download_filename": "syosetumaster-0.0.4.tar.gz",
+  "download_time": "2025-10-25T03:48:55.636141",
   "package_url": "https://pypi.org/project/syosetumaster/"
 }

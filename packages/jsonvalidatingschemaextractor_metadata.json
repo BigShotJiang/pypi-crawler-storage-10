@@ -1,0 +1,11 @@
+{
+  "name": "jsonvalidatingschemaextractor",
+  "version": "0.1.0",
+  "summary": "Validate and extract values from JSON objects using JSON schema.",
+  "author": "Fasih Khatib",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonvalidatingschemaextractor-0.1.0.tar.gz",
+  "download_time": "2025-10-25T03:48:47.751338",
+  "package_url": "https://pypi.org/project/jsonvalidatingschemaextractor/"
+}
