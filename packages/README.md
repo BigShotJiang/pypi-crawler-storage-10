@@ -1,55 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-25T18:22:16.207875
+- **Download Time**: 2025-10-25T18:45:35.472147
 - **Total Packages**: 85
-- **Total Size**: 22.96 MB
+- **Total Size**: 2.2 MB
 
 ## Packages List
-- esentity
-- spatialbio
-- talkpipe
-- pyochain
-- tg-file-exporter
-- pumaguard
-- ai-rulez
-- sromaster
-- pyawsmock
-- ncbi-tree
-- braindecode
-- ntnput
-- maktaba
-- financial-debt-optimizer
-- django-cfg
-- llmcc
-- step-cli-tools
-- datavalues
-- batre-translator-cli
-- photo-copier
-- lvmgort
-- gac
-- bioql
-- ktgutils
-- LayerZero
-- civic-lib-geo
 - ivythefawn-tool
-- highspy
-- sonolus.py
-- pytmpinv
-- dreamer4
-- yaoc
-- shopee-afflib
-- segmentation-skeleton-metrics
-- bbot
 - ministatus
 - PyCESim
 - mariax
 - strands-agentcore-tools
 - optiflowx
+- batre-translator-cli
 - logos-solver
 - open-sandboxes
 - llmkgext
+- photo-copier
+- yaoc
 - grid-feedback-optimizer
+- ktgutils
 - HardView
 - agentle
 - tinkerforge2mqtt
@@ -59,9 +29,11 @@
 - passagemath-conf
 - coralsnake
 - xmanager-slurm
+- dreamer4
 - wl-stats-torch
 - textual-fastdatatable
 - repello-mcp-gateway
+- django-cfg
 - cstructimpl
 - django-basemodels
 - mc-check
@@ -91,3 +63,31 @@
 - sombra
 - loxodo-curses
 - bdo-empire
+- ai-rulez
+- evenage
+- pymoneypaylib
+- cbot-command
+- shopee-afflib
+- PyCorrCPI
+- flask-supabase
+- celery-svcs
+- claude-mpm
+- libadalina-core
+- agentmake
+- ukraine
+- gfreader
+- dart-tools
+- invcrypt
+- MLSaver
+- lumera
+- balatrobot
+- cmakepresets
+- mainsequence
+- cdir
+- iQual
+- ccdcoe
+- LevDoom
+- dock-thor-client
+- pyfxp
+- trackidnet
+- agent-client-protocol
