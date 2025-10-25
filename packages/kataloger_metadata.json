@@ -1,0 +1,11 @@
+{
+  "name": "kataloger",
+  "version": "0.5.0",
+  "summary": "CLI tool for projects that uses gradle version catalog to check dependency updates.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "kataloger-0.5.0.tar.gz",
+  "download_time": "2025-10-25T17:40:14.442805",
+  "package_url": "https://pypi.org/project/kataloger/"
+}

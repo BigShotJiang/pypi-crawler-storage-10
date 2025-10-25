@@ -1,0 +1,11 @@
+{
+  "name": "context-engine-dev",
+  "version": "1.2.7.post1",
+  "summary": "Context Engine CLI - Compress the Chaos",
+  "author": "Context Engine Team",
+  "license": null,
+  "home_page": "https://github.com/gurram46/Context-Engine",
+  "download_filename": "context_engine_dev-1.2.7.post1.tar.gz",
+  "download_time": "2025-10-25T17:40:19.573624",
+  "package_url": "https://pypi.org/project/context-engine-dev/"
+}

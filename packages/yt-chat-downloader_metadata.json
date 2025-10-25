@@ -1,11 +1,11 @@
 {
   "name": "yt-chat-downloader",
-  "version": "0.0.2",
-  "summary": "Download YouTube live chat replays and comments",
+  "version": "0.0.3",
+  "summary": "Download YouTube live chat replays and comments (Beta)",
   "author": "Dev Maker",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/yt-chat-downloader",
-  "download_filename": "yt_chat_downloader-0.0.2.tar.gz",
-  "download_time": "2025-10-25T16:42:58.012674",
+  "download_filename": "yt_chat_downloader-0.0.3.tar.gz",
+  "download_time": "2025-10-25T17:40:13.932845",
   "package_url": "https://pypi.org/project/yt-chat-downloader/"
 }
