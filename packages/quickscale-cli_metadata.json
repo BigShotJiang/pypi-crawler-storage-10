@@ -1,11 +1,11 @@
 {
   "name": "quickscale-cli",
-  "version": "0.61.0",
+  "version": "0.62.0",
   "summary": "Command-line interface for QuickScale Django project generator",
   "author": "Experto AI",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Experto-AI/quickscale",
-  "download_filename": "quickscale_cli-0.61.0.tar.gz",
-  "download_time": "2025-10-24T19:31:05.441931",
+  "download_filename": "quickscale_cli-0.62.0.tar.gz",
+  "download_time": "2025-10-25T10:15:27.326870",
   "package_url": "https://pypi.org/project/quickscale-cli/"
 }

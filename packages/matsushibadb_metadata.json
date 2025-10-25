@@ -1,0 +1,11 @@
+{
+  "name": "matsushibadb",
+  "version": "1.0.9",
+  "summary": "MatsushibaDB - Next-Generation SQL Database with Local Support, Caching, and Async/Await",
+  "author": "Matsushiba Systems",
+  "license": "Commercial",
+  "home_page": "https://db.matsushiba.co",
+  "download_filename": "matsushibadb-1.0.9.tar.gz",
+  "download_time": "2025-10-25T10:15:32.042314",
+  "package_url": "https://pypi.org/project/matsushibadb/"
+}

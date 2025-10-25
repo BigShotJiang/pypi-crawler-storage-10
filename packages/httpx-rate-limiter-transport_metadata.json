@@ -1,0 +1,11 @@
+{
+  "name": "httpx-rate-limiter-transport",
+  "version": "0.4.2",
+  "summary": "Async transport for httpx to implement various rate limiting (using a centralized redis as backend)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpx_rate_limiter_transport-0.4.2.tar.gz",
+  "download_time": "2025-10-25T10:15:41.826939",
+  "package_url": "https://pypi.org/project/httpx-rate-limiter-transport/"
+}

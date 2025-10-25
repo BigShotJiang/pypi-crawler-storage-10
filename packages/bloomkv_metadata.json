@@ -1,0 +1,11 @@
+{
+  "name": "bloomkv",
+  "version": "1.2.10",
+  "summary": "A persistent key-value storage engine based on LSM-tree architecture.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bloomkv-1.2.10.tar.gz",
+  "download_time": "2025-10-25T10:15:40.291536",
+  "package_url": "https://pypi.org/project/bloomkv/"
+}

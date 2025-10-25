@@ -1,11 +1,11 @@
 {
   "name": "django-affiliate-system",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "A comprehensive Django affiliate marketing and referral tracking system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_affiliate_system-0.1.0a2.tar.gz",
-  "download_time": "2025-10-25T09:40:15.562159",
+  "download_filename": "django_affiliate_system-0.1.0a3.tar.gz",
+  "download_time": "2025-10-25T10:15:37.730372",
   "package_url": "https://pypi.org/project/django-affiliate-system/"
 }
