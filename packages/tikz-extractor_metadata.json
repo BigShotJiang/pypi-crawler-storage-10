@@ -1,11 +1,11 @@
 {
   "name": "tikz-extractor",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "A Python package for extracting TikZ picture environments from codebases and generating AI context files",
   "author": "vaibhavblayer",
   "license": "MIT",
   "home_page": "https://github.com/vaibhavblayer/tikz-extractor",
-  "download_filename": "tikz_extractor-0.2.2.tar.gz",
-  "download_time": "2025-10-26T08:50:55.497769",
+  "download_filename": "tikz_extractor-0.2.5.tar.gz",
+  "download_time": "2025-10-26T12:31:45.629166",
   "package_url": "https://pypi.org/project/tikz-extractor/"
 }

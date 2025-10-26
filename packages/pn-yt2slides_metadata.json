@@ -1,0 +1,11 @@
+{
+  "name": "pn-yt2slides",
+  "version": "0.2.0",
+  "summary": "Simple helper to download YouTube videos as MP4 using yt-dlp.",
+  "author": "Purnima Nahata",
+  "license": "MIT",
+  "home_page": "https://github.com/purnima106/pn_yt2slides.git",
+  "download_filename": "pn_yt2slides-0.2.0.tar.gz",
+  "download_time": "2025-10-26T12:31:37.601512",
+  "package_url": "https://pypi.org/project/pn-yt2slides/"
+}

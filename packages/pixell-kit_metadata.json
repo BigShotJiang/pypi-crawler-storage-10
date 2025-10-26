@@ -1,0 +1,11 @@
+{
+  "name": "pixell-kit",
+  "version": "0.4.10",
+  "summary": "A lightweight developer kit for packaging AI agents into portable APKG files",
+  "author": "Pixell Core Team",
+  "license": null,
+  "home_page": "https://github.com/pixell-global/pixell-kit",
+  "download_filename": "pixell_kit-0.4.10.tar.gz",
+  "download_time": "2025-10-26T12:31:54.835762",
+  "package_url": "https://pypi.org/project/pixell-kit/"
+}

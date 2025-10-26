@@ -1,11 +1,11 @@
 {
   "name": "django-drf-cms",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "summary": "A Django app to build a simple cms restful server.",
   "author": "Spartanbits, SLU",
   "license": "Apache-2.0",
   "home_page": "https://www.spartanbits.com",
-  "download_filename": "django_drf_cms-0.2.15.tar.gz",
-  "download_time": "2025-10-26T11:50:30.682428",
+  "download_filename": "django_drf_cms-0.2.16.tar.gz",
+  "download_time": "2025-10-26T12:31:42.790858",
   "package_url": "https://pypi.org/project/django-drf-cms/"
 }

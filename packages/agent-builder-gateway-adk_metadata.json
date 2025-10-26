@@ -1,0 +1,11 @@
+{
+  "name": "agent-builder-gateway-adk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Agent Builder Gateway - 用于 AI 构建的程序调用预制件",
+  "author": "Agent Builder Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_builder_gateway_adk-0.1.1.tar.gz",
+  "download_time": "2025-10-26T12:31:30.002293",
+  "package_url": "https://pypi.org/project/agent-builder-gateway-adk/"
+}

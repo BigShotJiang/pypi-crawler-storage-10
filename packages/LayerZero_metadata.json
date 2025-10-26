@@ -1,11 +1,11 @@
 {
   "name": "LayerZero",
-  "version": "0.5.11",
+  "version": "0.5.13",
   "summary": "Build Pytorch Based NN Projects Faster",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "layerzero-0.5.11.tar.gz",
-  "download_time": "2025-10-26T06:23:23.334517",
+  "download_filename": "layerzero-0.5.13.tar.gz",
+  "download_time": "2025-10-26T12:31:32.989398",
   "package_url": "https://pypi.org/project/LayerZero/"
 }

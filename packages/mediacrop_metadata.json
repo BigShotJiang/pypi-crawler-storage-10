@@ -1,0 +1,11 @@
+{
+  "name": "mediacrop",
+  "version": "4.1.0",
+  "summary": "A CLI tool featuring a localhost web interface for visually determining FFmpeg crop coordinates of any media file.",
+  "author": "Mallik Mohammad Musaddiq",
+  "license": "MIT",
+  "home_page": "https://github.com/mallikmusaddiq1/mediacrop",
+  "download_filename": "mediacrop-4.1.0.tar.gz",
+  "download_time": "2025-10-26T12:31:55.992085",
+  "package_url": "https://pypi.org/project/mediacrop/"
+}
