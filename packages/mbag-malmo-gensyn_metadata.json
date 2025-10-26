@@ -1,0 +1,11 @@
+{
+  "name": "mbag-malmo-gensyn",
+  "version": "0.38.1.0",
+  "summary": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft",
+  "author": "Cassidy Laidlaw",
+  "license": null,
+  "home_page": "https://github.com/cassidylaidlaw/malmo",
+  "download_filename": "mbag_malmo_gensyn-0.38.1.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-26T23:42:11.761673",
+  "package_url": "https://pypi.org/project/mbag-malmo-gensyn/"
+}
