@@ -1,0 +1,11 @@
+{
+  "name": "kaspioneer",
+  "version": "1.0.0",
+  "summary": "A comprehensive KASP primer design tool for SNP analysis and primer design",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaspioneer-1.0.0.tar.gz",
+  "download_time": "2025-10-26T05:16:25.641139",
+  "package_url": "https://pypi.org/project/kaspioneer/"
+}

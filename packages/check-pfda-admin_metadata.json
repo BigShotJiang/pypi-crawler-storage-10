@@ -1,0 +1,11 @@
+{
+  "name": "check-pfda-admin",
+  "version": "0.0.2",
+  "summary": "PFDA administrative CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "check_pfda_admin-0.0.2.tar.gz",
+  "download_time": "2025-10-26T05:16:22.572322",
+  "package_url": "https://pypi.org/project/check-pfda-admin/"
+}

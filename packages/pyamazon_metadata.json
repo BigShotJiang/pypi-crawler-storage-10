@@ -1,0 +1,11 @@
+{
+  "name": "pyamazon",
+  "version": "1.0.2",
+  "summary": "Python module to fetch product data from Amazon",
+  "author": "Shivanand Mishra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyamazon-1.0.2.tar.gz",
+  "download_time": "2025-10-26T05:16:31.806483",
+  "package_url": "https://pypi.org/project/pyamazon/"
+}
