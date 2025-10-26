@@ -1,0 +1,11 @@
+{
+  "name": "clipspy",
+  "version": "1.0.6",
+  "summary": "CLIPS Python bindings",
+  "author": "Matteo Cafasso",
+  "license": "BSD",
+  "home_page": "https://github.com/noxdafox/clipspy",
+  "download_filename": "clipspy-1.0.6.tar.gz",
+  "download_time": "2025-10-26T18:22:07.859371",
+  "package_url": "https://pypi.org/project/clipspy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cdk-factory",
-  "version": "0.13.0",
+  "version": "0.13.2",
   "summary": "CDK Factory. A QuickStarter and best practices setup for CDK projects",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "cdk_factory-0.13.0.tar.gz",
-  "download_time": "2025-10-26T17:41:20.526391",
+  "download_filename": "cdk_factory-0.13.2.tar.gz",
+  "download_time": "2025-10-26T18:22:08.904128",
   "package_url": "https://pypi.org/project/cdk-factory/"
 }

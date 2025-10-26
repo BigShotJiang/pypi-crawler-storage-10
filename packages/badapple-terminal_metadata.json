@@ -1,0 +1,11 @@
+{
+  "name": "badapple-terminal",
+  "version": "0.1.1",
+  "summary": "Play Bad Apple!! video in the terminal as ASCII art with audio",
+  "author": "Abhinav Mangalore",
+  "license": null,
+  "home_page": "https://github.com/AbhinavMangalore16/badapple-terminal",
+  "download_filename": "badapple_terminal-0.1.1.tar.gz",
+  "download_time": "2025-10-26T18:21:58.404139",
+  "package_url": "https://pypi.org/project/badapple-terminal/"
+}

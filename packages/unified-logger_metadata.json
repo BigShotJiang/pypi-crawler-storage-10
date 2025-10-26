@@ -1,0 +1,11 @@
+{
+  "name": "unified-logger",
+  "version": "0.1.0",
+  "summary": "Async interface to backend logging systems with support for Fluentd, Elasticsearch, Kafka, and Jaeger",
+  "author": "David Grimm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unified_logger-0.1.0.tar.gz",
+  "download_time": "2025-10-26T18:22:24.654732",
+  "package_url": "https://pypi.org/project/unified-logger/"
+}

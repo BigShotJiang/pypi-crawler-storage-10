@@ -1,0 +1,11 @@
+{
+  "name": "mlsaver",
+  "version": "0.0.1",
+  "summary": "A simple ML model versioning tool",
+  "author": "raad",
+  "license": null,
+  "home_page": "https://github.com/oRaqzz/MLSaver",
+  "download_filename": "mlsaver-0.0.1.tar.gz",
+  "download_time": "2025-10-26T18:22:05.245572",
+  "package_url": "https://pypi.org/project/mlsaver/"
+}

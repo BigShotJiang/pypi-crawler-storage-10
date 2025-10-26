@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-ShadowOui-Advanced-Tools",
+  "version": "1.0.137",
+  "summary": "ShadowOui advanced simulation tools",
+  "author": "Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/ShadowOui-Advanced-Tools",
+  "download_filename": "oasys1_shadowoui_advanced_tools-1.0.137.tar.gz",
+  "download_time": "2025-10-26T18:22:19.312678",
+  "package_url": "https://pypi.org/project/OASYS1-ShadowOui-Advanced-Tools/"
+}

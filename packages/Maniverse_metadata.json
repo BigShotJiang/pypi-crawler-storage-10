@@ -1,0 +1,11 @@
+{
+  "name": "Maniverse",
+  "version": "1.1.0",
+  "summary": "Numerical optimization on manifolds",
+  "author": "FreemanTheMaverick",
+  "license": null,
+  "home_page": "https://github.com/FreemanTheMaverick/Maniverse.git",
+  "download_filename": "maniverse-1.1.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-26T18:21:55.726894",
+  "package_url": "https://pypi.org/project/Maniverse/"
+}

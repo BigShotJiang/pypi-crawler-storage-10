@@ -1,0 +1,11 @@
+{
+  "name": "whisper-ctranslate2",
+  "version": "0.5.5",
+  "summary": "Whisper command line client that uses CTranslate2 and faster-whisper",
+  "author": "Jordi Mas",
+  "license": "MIT",
+  "home_page": "https://github.com/Softcatala/whisper-ctranslate2",
+  "download_filename": "whisper_ctranslate2-0.5.5.tar.gz",
+  "download_time": "2025-10-26T18:22:16.710147",
+  "package_url": "https://pypi.org/project/whisper-ctranslate2/"
+}

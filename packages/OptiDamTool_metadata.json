@@ -1,0 +1,11 @@
+{
+  "name": "OptiDamTool",
+  "version": "0.5.1",
+  "summary": "A Python package for analytics in dam management workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optidamtool-0.5.1.tar.gz",
+  "download_time": "2025-10-26T18:22:21.447330",
+  "package_url": "https://pypi.org/project/OptiDamTool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "solidity-fcg-tool",
+  "version": "0.1.0",
+  "summary": "Solidity function call graph and source extraction toolkit with pluggable engines.",
+  "author": "solidity-fcg-tool maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solidity_fcg_tool-0.1.0.tar.gz",
+  "download_time": "2025-10-26T18:22:16.190824",
+  "package_url": "https://pypi.org/project/solidity-fcg-tool/"
+}

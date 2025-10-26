@@ -1,0 +1,11 @@
+{
+  "name": "olealyzer",
+  "version": "0.1.0",
+  "summary": "Static OLE parser and VBA deobfuscation toolkit for document malware analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "olealyzer-0.1.0.tar.gz",
+  "download_time": "2025-10-26T18:21:57.300048",
+  "package_url": "https://pypi.org/project/olealyzer/"
+}
