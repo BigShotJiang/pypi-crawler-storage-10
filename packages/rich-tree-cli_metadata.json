@@ -1,0 +1,11 @@
+{
+  "name": "rich-tree-cli",
+  "version": "0.3.21",
+  "summary": "A command-line interface for visualizing directory trees with rich formatting and various options.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rich_tree_cli-0.3.21.tar.gz",
+  "download_time": "2025-10-26T06:23:25.947695",
+  "package_url": "https://pypi.org/project/rich-tree-cli/"
+}

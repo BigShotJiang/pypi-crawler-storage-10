@@ -1,0 +1,11 @@
+{
+  "name": "easypde",
+  "version": "1.1.1",
+  "summary": "A powerful and easy-to-use python package for solving PDEs.",
+  "author": "Shengzhi Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easypde-1.1.1.tar.gz",
+  "download_time": "2025-10-26T06:23:14.606367",
+  "package_url": "https://pypi.org/project/easypde/"
+}

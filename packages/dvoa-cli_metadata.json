@@ -1,0 +1,11 @@
+{
+  "name": "dvoa-cli",
+  "version": "1.0.1",
+  "summary": "DVOA CLI Tool : Just a frontend of VOA API https://gthub.com/senani-derradji/VOA",
+  "author": "Derradji Senani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvoa_cli-1.0.1.tar.gz",
+  "download_time": "2025-10-26T06:23:34.018623",
+  "package_url": "https://pypi.org/project/dvoa-cli/"
+}

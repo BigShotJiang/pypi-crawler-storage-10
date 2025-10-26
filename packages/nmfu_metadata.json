@@ -1,0 +1,11 @@
+{
+  "name": "nmfu",
+  "version": "0.5.8",
+  "summary": "A parser generator that turns procedural programs into C state machines",
+  "author": "Matthew Mirvish",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/mincrmatt12/nmfu",
+  "download_filename": "nmfu-0.5.8.tar.gz",
+  "download_time": "2025-10-26T06:23:36.094522",
+  "package_url": "https://pypi.org/project/nmfu/"
+}
