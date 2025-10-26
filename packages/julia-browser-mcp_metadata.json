@@ -1,0 +1,11 @@
+{
+  "name": "julia-browser-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for web browser automation using Julia Browser",
+  "author": "Harish Santhanalakshmi Ganesan",
+  "license": "MIT",
+  "home_page": "https://github.com/harish/webbrowser-mcp",
+  "download_filename": "julia_browser_mcp-1.0.0.tar.gz",
+  "download_time": "2025-10-26T18:45:48.085848",
+  "package_url": "https://pypi.org/project/julia-browser-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modm-data",
+  "version": "0.0.2",
+  "summary": "Embedded Hardware Description Processor",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "modm_data-0.0.2.tar.gz",
+  "download_time": "2025-10-26T18:45:45.607635",
+  "package_url": "https://pypi.org/project/modm-data/"
+}
