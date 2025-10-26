@@ -1,11 +1,11 @@
 {
   "name": "fastmongo",
-  "version": "0.0.36",
+  "version": "0.0.39",
   "summary": "make it easy to use pymongo",
   "author": "ZeroSeeker",
   "license": null,
   "home_page": "https://gitee.com/ZeroSeeker/fastmongo",
-  "download_filename": "fastmongo-0.0.36.tar.gz",
-  "download_time": "2025-10-25T21:49:37.957204",
+  "download_filename": "fastmongo-0.0.39.tar.gz",
+  "download_time": "2025-10-26T04:41:50.450080",
   "package_url": "https://pypi.org/project/fastmongo/"
 }
