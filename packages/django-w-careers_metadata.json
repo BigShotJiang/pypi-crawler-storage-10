@@ -1,0 +1,11 @@
+{
+  "name": "django-w-careers",
+  "version": "1.0.6",
+  "summary": "A reusable, production-ready job posting application (One employer) built with Python, Django, Django REST Framework, and Wagtail CMS, styled with Tailwind CSS and daisyUI. It provides modern theming, optional APIs, and sensible defaults.",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": "https://github.com/youzarsiph/django-w-careers",
+  "download_filename": "django_w_careers-1.0.6.tar.gz",
+  "download_time": "2025-10-26T07:50:49.367731",
+  "package_url": "https://pypi.org/project/django-w-careers/"
+}

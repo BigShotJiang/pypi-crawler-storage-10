@@ -1,0 +1,11 @@
+{
+  "name": "django-w-docs",
+  "version": "1.0.9",
+  "summary": "a reusable, production-ready documentation application built with Python, Django, Django REST Framework, and Wagtail CMS, styled with Tailwind CSS and daisyUI. It comes with sensible defaults, modern theming, and clean APIs—helping you launch structured, searchable documentation quickly and scale it with confidence.",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": "https://github.com/youzarsiph/django-w-docs",
+  "download_filename": "django_w_docs-1.0.9.tar.gz",
+  "download_time": "2025-10-26T07:50:51.175522",
+  "package_url": "https://pypi.org/project/django-w-docs/"
+}
