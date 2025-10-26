@@ -1,11 +1,11 @@
 {
   "name": "memprod",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A program for the prediction of local membrane deformations around a protein",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memprod-0.0.5.tar.gz",
-  "download_time": "2025-10-26T19:37:25.740220",
+  "download_filename": "memprod-0.0.6.tar.gz",
+  "download_time": "2025-10-26T19:50:33.641153",
   "package_url": "https://pypi.org/project/memprod/"
 }

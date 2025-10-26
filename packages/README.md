@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T19:38:00.052848
+- **Download Time**: 2025-10-26T19:51:07.626914
 - **Total Packages**: 77
-- **Total Size**: 20.67 MB
+- **Total Size**: 5.27 MB
 
 ## Packages List
+- rocket-ahmed
+- flashbang
+- snorbyte
+- katana-openapi-client
+- gui-utilities
+- cdk-factory
+- julia-my-tail
+- fastapi-querybuilder
+- code-puppy
+- emsuite
+- m2w64-zlib
+- pyfirefly
+- memprod
+- audioread
+- devanagari-quiz
+- langchain-olostep
+- evenage
+- mcp-airflow-api-fastmcp
+- npi-registry-mcp-server-fastmcp
+- statemachine-engine
+- shea
+- PyTransportNSWv2
 - stellars-jupyterlab-sublime-theme
 - contextflow
 - zensols-deeplearn
@@ -15,10 +37,8 @@
 - fairyex
 - percolate-rocks
 - order-matching-engine
-- gui-utilities
 - fastapi-gen
 - stac-mcp
-- memprod
 - hhcli
 - linear-reg-khaled
 - mempro
@@ -42,7 +62,6 @@
 - infosourceful-kernel
 - vira-cli
 - rocket-khaled
-- pyfirefly
 - nu-waves
 - mplsoccer
 - Adame
@@ -64,22 +83,3 @@
 - market-data-store
 - market-data-orchestrator
 - market-data-pipeline
-- market-data-core
-- drills-pro-proto
-- pyhdl-if
-- rely
-- tiferet
-- boltzgen
-- django-page-hit-counter
-- refactron
-- pywinston
-- alxhttp
-- Eporner-API
-- jupyterlab-pseudo-language-pack
-- jupyterlab-language-pack-zh-TW
-- jupyterlab-language-pack-zh-CN
-- jupyterlab-language-pack-vi-VN
-- arpakitlib
-- jupyterlab-language-pack-uk-UA
-- jupyterlab-language-pack-tr-TR
-- mediacrop

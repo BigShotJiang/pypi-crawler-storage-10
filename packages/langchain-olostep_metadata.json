@@ -1,0 +1,11 @@
+{
+  "name": "langchain-olostep",
+  "version": "0.2.0",
+  "summary": "LangChain/LangGraph integration for Olostep - Powerful web scraping tools for AI agents",
+  "author": "Olostep",
+  "license": "MIT",
+  "home_page": "https://github.com/olostep/langchain-olostep",
+  "download_filename": "langchain_olostep-0.2.0.tar.gz",
+  "download_time": "2025-10-26T19:50:35.202503",
+  "package_url": "https://pypi.org/project/langchain-olostep/"
+}
