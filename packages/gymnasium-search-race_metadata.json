@@ -1,0 +1,11 @@
+{
+  "name": "gymnasium-search-race",
+  "version": "4.1.1",
+  "summary": "A reinforcement learning environment for the Search Race CG puzzle based on Gymnasium",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gymnasium_search_race-4.1.1.tar.gz",
+  "download_time": "2025-10-26T08:20:26.145966",
+  "package_url": "https://pypi.org/project/gymnasium-search-race/"
+}

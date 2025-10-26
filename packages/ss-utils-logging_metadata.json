@@ -1,0 +1,11 @@
+{
+  "name": "ss-utils-logging",
+  "version": "0.0.10",
+  "summary": "Utilities for logging with orjson serialization and advanced features",
+  "author": "shern",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ss_utils_logging-0.0.10.tar.gz",
+  "download_time": "2025-10-26T08:20:21.946955",
+  "package_url": "https://pypi.org/project/ss-utils-logging/"
+}

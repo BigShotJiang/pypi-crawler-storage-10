@@ -1,0 +1,11 @@
+{
+  "name": "webclone-backend",
+  "version": "1.0.0",
+  "summary": "Professional Python backend framework for web cloning projects",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/webclone-backend",
+  "download_filename": "webclone_backend-1.0.0.tar.gz",
+  "download_time": "2025-10-26T08:20:21.429132",
+  "package_url": "https://pypi.org/project/webclone-backend/"
+}

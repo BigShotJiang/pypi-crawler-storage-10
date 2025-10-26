@@ -1,23 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T07:51:25.623206
-- **Total Packages**: 85
-- **Total Size**: 18.88 MB
+- **Download Time**: 2025-10-26T08:20:43.519382
+- **Total Packages**: 81
+- **Total Size**: 48.66 MB
 
 ## Packages List
-- initvenv
-- fastapi-voyager
-- loggerizer
+- schedula-core
+- sleepless-agent
+- schedula
+- kraken-engine
+- cobra-online
+- jconfigpy
+- pydatagrid
+- dpcrpy
+- pycensuskr
+- opacus-dpcr
+- vnpy_sopt
 - amrita
+- circuit-synth
+- dexact
+- huda
+- pyglove
+- vnpy_ctp
+- lucid-dl
+- wiredb
+- dock-thor-client
+- wire-websocket
+- pyepwmorph
+- wire-pipe
+- wire-memory
+- wire-file
+- kicad-sch-api
+- ttsfm
+- pyrudof
+- gymnasium-2048
+- FabOMatic
+- ant-ray-cpp-nightly
+- aiohomematic
+- simple-word-filter
+- mix-python-sdk
+- fc-code-interpreter-mcp-server
+- baihe-config
+- jupyter-myst-build-proxy
+- hstrat
+- webclone-backend
+- ss-utils-logging
+- compact-rienet
+- superoptix
+- genome-mcp
+- initvenv
+- yta-editor-utils
+- streamlit-notebook
+- claude-worktree
+- gymnasium-search-race
+- dsslab-wdc-client
+- syosetumaster
+- loggerizer
+- fastapi-voyager
 - statemachine-engine
 - aaman-qjh-echarts-mcp
-- circuit-synth
-- pycensuskr
 - percolate-rocks
 - nv2a-pretty
-- kicad-sch-api
-- jupyter-myst-build-proxy
 - ardent-sdk
 - device-fingerprinting-pro
 - darknet2any
@@ -29,7 +73,6 @@
 - django-w-docs
 - ailuntz
 - quda
-- yta-editor-utils
 - hyperspace-py
 - ApkPatcherX
 - dragonfruit-tui
@@ -44,50 +87,3 @@
 - fastcodedog
 - hello-agents
 - RetrievalMind
-- h2ogpte
-- fc-code-interpreter-mcp-server
-- snakia
-- lattifai
-- ollama-prompt
-- nxm-mcp-server
-- yta-editor-nodes-cpu
-- dock-thor-client
-- tritonparse
-- ultimate-gemini-mcp
-- LogBar
-- ssepyrenderer
-- safe-view
-- pypci-ng
-- tessdb-api
-- tf-models-nightly
-- streamlit-nightly
-- oligo-emojis
-- pmccc
-- django-cfg
-- expview
-- webuntis-fetcher
-- a2y-wxtools
-- agentia
-- a2y-wxcv
-- a2y-wxctrls
-- apache-airflow-providers-zendesk
-- apache-airflow-providers-weaviate
-- apache-airflow-providers-vertica
-- apache-airflow-providers-trino
-- apache-airflow-providers-teradata
-- apache-airflow-providers-telegram
-- apache-airflow-providers-tableau
-- apache-airflow-providers-standard
-- apache-airflow-providers-ssh
-- apache-airflow-providers-snowflake
-- apache-airflow-providers-slack
-- apache-airflow-providers-sftp
-- apache-airflow-providers-sendgrid
-- apache-airflow-providers-redis
-- apache-airflow-providers-presto
-- apache-airflow-providers-postgres
-- apache-airflow-providers-pgvector
-- apache-airflow-providers-pagerduty
-- apache-airflow-providers-opensearch
-- apache-airflow-providers-openlineage
-- apache-airflow-providers-openai

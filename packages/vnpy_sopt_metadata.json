@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_sopt",
+  "version": "3.7.1.2",
+  "summary": "SOPT gateway for vn.py quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_sopt-3.7.1.2.tar.gz",
+  "download_time": "2025-10-26T08:20:06.677681",
+  "package_url": "https://pypi.org/project/vnpy_sopt/"
+}

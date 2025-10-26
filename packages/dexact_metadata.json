@@ -1,0 +1,11 @@
+{
+  "name": "dexact",
+  "version": "1.0.0",
+  "summary": "A very simple Python package which provides the necessary tools to interact with dexetera",
+  "author": "Robert J. Hardwick",
+  "license": null,
+  "home_page": "https://github.com/umbralcalc/dexact",
+  "download_filename": "dexact-1.0.0.tar.gz",
+  "download_time": "2025-10-26T08:20:08.245437",
+  "package_url": "https://pypi.org/project/dexact/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dpcrpy",
+  "version": "1.0.0",
+  "summary": "Differential privacy continual release mechanisms and utilities.",
+  "author": "Jianping Cai",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dpcrpy-1.0.0.tar.gz",
+  "download_time": "2025-10-26T08:20:05.062307",
+  "package_url": "https://pypi.org/project/dpcrpy/"
+}

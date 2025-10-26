@@ -1,0 +1,11 @@
+{
+  "name": "opacus-dpcr",
+  "version": "1.0.0",
+  "summary": "Opacus extensions with DP continual release optimizers.",
+  "author": "Jianping Cai",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "opacus_dpcr-1.0.0.tar.gz",
+  "download_time": "2025-10-26T08:20:06.100187",
+  "package_url": "https://pypi.org/project/opacus-dpcr/"
+}

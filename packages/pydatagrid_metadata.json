@@ -1,0 +1,11 @@
+{
+  "name": "pydatagrid",
+  "version": "1.1.0",
+  "summary": "A powerful data grid library with sorting, filtering, pagination, tree view, and export features",
+  "author": "PyDataGrid Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pydatagrid",
+  "download_filename": "pydatagrid-1.1.0.tar.gz",
+  "download_time": "2025-10-26T08:20:04.535224",
+  "package_url": "https://pypi.org/project/pydatagrid/"
+}
