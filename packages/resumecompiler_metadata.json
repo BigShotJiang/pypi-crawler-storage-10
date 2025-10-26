@@ -1,11 +1,11 @@
 {
   "name": "resumecompiler",
-  "version": "0.13",
+  "version": "0.14",
   "summary": "A compiler that compiles Markdown files into a resume PDF file, formatted in LaTeX.",
   "author": "Raphael Li",
   "license": null,
   "home_page": null,
-  "download_filename": "resumecompiler-0.13.tar.gz",
-  "download_time": "2025-10-26T21:29:30.476723",
+  "download_filename": "resumecompiler-0.14.tar.gz",
+  "download_time": "2025-10-26T21:39:43.211322",
   "package_url": "https://pypi.org/project/resumecompiler/"
 }

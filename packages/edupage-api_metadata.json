@@ -1,0 +1,11 @@
+{
+  "name": "edupage-api",
+  "version": "0.12.3",
+  "summary": "A Python library for accessing your EduPage account",
+  "author": "ivanhrabcak",
+  "license": null,
+  "home_page": "https://github.com/EdupageAPI/edupage-api",
+  "download_filename": "edupage_api-0.12.3.tar.gz",
+  "download_time": "2025-10-26T21:39:49.426235",
+  "package_url": "https://pypi.org/project/edupage-api/"
+}
