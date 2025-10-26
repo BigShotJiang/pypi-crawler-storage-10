@@ -1,0 +1,11 @@
+{
+  "name": "molmap",
+  "version": "3.9.1",
+  "summary": "MolMap: An Efficient Convolutional Neural Network Based Molecular Deep Learning Tool",
+  "author": "WanXiang Shen",
+  "license": null,
+  "home_page": "https://github.com/shenwanxiang/bidd-molmap",
+  "download_filename": "molmap-3.9.1.tar.gz",
+  "download_time": "2025-10-26T11:50:30.171366",
+  "package_url": "https://pypi.org/project/molmap/"
+}

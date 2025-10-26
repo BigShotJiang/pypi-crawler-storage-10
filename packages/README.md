@@ -1,22 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T11:37:39.458193
-- **Total Packages**: 75
-- **Total Size**: 13.74 MB
+- **Download Time**: 2025-10-26T11:51:01.713341
+- **Total Packages**: 72
+- **Total Size**: 25.12 MB
 
 ## Packages List
+- bigsdb
+- fc-code-interpreter-mcp-server
+- aiohomematic-test-support
+- aiohomematic
+- android-notify
+- aioamazondevices
+- stellars-jupyterlab-sublime-theme
+- cyclarity-in-vehicle-sdk
+- werewolf-agent-build-sdk
+- stellars-jupyterlab-darcula-theme
+- aioautomower
+- symphra-scheduler
+- learn-bin
+- molmap
+- django-drf-cms
+- importer-core
+- gaussian-splatting
+- inpaint
+- canonada
+- lift-tracker
+- fastcrc
 - funasr-client
 - constrained-values
 - jupyterlab-zip-extension
 - pyonvista-v2
-- django-drf-cms
 - contest-helper
 - torchx-nightly
 - multi-calendar-dimension
 - cleanframes
 - mle-kit-mcp
-- gaussian-splatting
 - promptguard-ai
 - seqme
 - poodle-async-full
@@ -24,7 +43,6 @@
 - poodle-async-mini
 - fastcodedog
 - torchft-nightly
-- importer-core
 - jupyterlab-refresh-view-extension
 - cs2fade
 - academia-mcp
@@ -49,7 +67,6 @@
 - anyenv
 - nonebot-plugin-markdown2img
 - django-unicom
-- lift-tracker
 - linkp
 - pyQuantumAI
 - prostata
@@ -61,23 +78,3 @@
 - ClickMouse-api
 - rapyuta-io-sdk-v2
 - miniflux-tui-py
-- fc-code-interpreter-mcp-server
-- drills-pro-proto
-- splatstream
-- colorgradient
-- pyeasyphd
-- ducku
-- pymobiledevice3
-- knock-subdomains
-- kxspy
-- onyx-client
-- beets-aisauce
-- quantum-pipeline
-- kurimod
-- evenage
-- xl-pq-handler
-- PYield
-- brs-xss
-- fin68
-- konduktor-nightly
-- trainy-policy-nightly

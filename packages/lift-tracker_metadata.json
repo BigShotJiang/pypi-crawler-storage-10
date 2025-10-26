@@ -1,11 +1,11 @@
 {
   "name": "lift-tracker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A robust feature-complete CLI for tracking weightlifting sessions with a focus on bodybuilding",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lift_tracker-0.2.0.tar.gz",
-  "download_time": "2025-10-26T11:12:51.213251",
+  "download_filename": "lift_tracker-0.2.1.tar.gz",
+  "download_time": "2025-10-26T11:50:33.320846",
   "package_url": "https://pypi.org/project/lift-tracker/"
 }

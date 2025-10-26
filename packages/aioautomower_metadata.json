@@ -1,0 +1,11 @@
+{
+  "name": "aioautomower",
+  "version": "2.6.0",
+  "summary": "MPython module to talk to Husqvarna Automower.",
+  "author": "Thomas Peter Protzner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aioautomower-2.6.0.tar.gz",
+  "download_time": "2025-10-26T11:50:28.589291",
+  "package_url": "https://pypi.org/project/aioautomower/"
+}
