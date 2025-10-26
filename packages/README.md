@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T09:30:36.821315
-- **Total Packages**: 81
-- **Total Size**: 8.1 MB
+- **Download Time**: 2025-10-26T09:41:17.577334
+- **Total Packages**: 84
+- **Total Size**: 3.38 MB
 
 ## Packages List
+- loggerizer
+- imouse-py
+- chainmock
+- omniopt2
+- iminuit
+- langchain-decorators
+- qqtools
+- rekuest-next
+- pyfusion-v1
+- dnsdiag
+- qpac
+- biliup
+- ms-swift
+- autolocale
 - cleanframes
 - rdatacompy
 - mcpower-proxy
@@ -24,7 +38,6 @@
 - django-cfg
 - pyodide-mkdocs-theme
 - gptsh-cli
-- pyfusion-v1
 - wsq
 - hilo-mpc
 - claude2md
@@ -77,13 +90,3 @@
 - jconfigpy
 - simple-word-filter
 - multi-search-api
-- ws-frappe-cli
-- fc-code-interpreter-mcp-server
-- iatoolkit
-- spicelib
-- clauxton
-- opensoar
-- graph-topper
-- yirgacheffe
-- finesse-benchmark
-- shcripts

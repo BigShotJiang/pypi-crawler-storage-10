@@ -5,7 +5,7 @@
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/openxla/xprof-nightly",
-  "download_filename": "tbp_nightly-2.21.7a20251026-cp311-none-macosx_12_0_arm64.whl",
-  "download_time": "2025-10-26T09:29:53.699223",
+  "download_filename": "tbp_nightly-2.21.7a20251026-cp310-none-macosx_12_0_arm64.whl",
+  "download_time": "2025-10-26T09:40:43.367923",
   "package_url": "https://pypi.org/project/tbp-nightly/"
 }

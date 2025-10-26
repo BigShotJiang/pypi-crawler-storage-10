@@ -1,11 +1,11 @@
 {
   "name": "pyfusion-v1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "All-in-One Python Framework with built-in web, database, and utilities",
   "author": "PyFusion Team",
   "license": null,
   "home_page": "https://github.com/anshuman365/pyfusion",
-  "download_filename": "pyfusion_v1-1.0.2.tar.gz",
-  "download_time": "2025-10-26T09:30:02.533924",
+  "download_filename": "pyfusion_v1-1.0.3.tar.gz",
+  "download_time": "2025-10-26T09:40:37.172177",
   "package_url": "https://pypi.org/project/pyfusion-v1/"
 }

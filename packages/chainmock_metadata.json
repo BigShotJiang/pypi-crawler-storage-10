@@ -1,0 +1,11 @@
+{
+  "name": "chainmock",
+  "version": "2.0.0",
+  "summary": "Mocking library for Python and Pytest",
+  "author": "Olli Paakkunainen",
+  "license": "MIT",
+  "home_page": "https://github.com/ollipa/chainmock",
+  "download_filename": "chainmock-2.0.0.tar.gz",
+  "download_time": "2025-10-26T09:40:33.952939",
+  "package_url": "https://pypi.org/project/chainmock/"
+}

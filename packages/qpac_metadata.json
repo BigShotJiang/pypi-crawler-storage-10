@@ -1,0 +1,11 @@
+{
+  "name": "qpac",
+  "version": "0.2.1",
+  "summary": "Quantum-Inspired Pattern-Aware Compression (QPAC) — Hybrid entropy-aware compression inspired by quantum entropy and LZ4.",
+  "author": "Soumyapriya Goswami",
+  "license": "MIT",
+  "home_page": "https://github.com/soumyapriyagoswami/qpac.git",
+  "download_filename": "qpac-0.2.1.tar.gz",
+  "download_time": "2025-10-26T09:40:38.208617",
+  "package_url": "https://pypi.org/project/qpac/"
+}
