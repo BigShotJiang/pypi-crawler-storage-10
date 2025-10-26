@@ -1,19 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T02:54:40.052005
-- **Total Packages**: 84
-- **Total Size**: 34.15 MB
+- **Download Time**: 2025-10-26T03:40:19.402949
+- **Total Packages**: 81
+- **Total Size**: 26.85 MB
 
 ## Packages List
-- pipelex
+- pyadvtools
+- kimi-cli
+- beartype
 - neuralpiano
+- GANDLF
+- fastapi-voyager
+- voicegain-speech
+- convert-stream
+- odoo-addon-openupgrade-scripts
+- pyAgrum-nightly
+- mistflow
+- optify
+- polyglot-ffi
+- nonebot-plugin-game-tools
+- tm-tc-code-generator
+- rewardsignal
+- sammy-web
+- pyqrackising
+- lift-tracker
+- achatbot
+- pypomes-iam
+- unitysvc-services
+- django-cfg
+- servicenow-api
+- gitlab-api
+- mariner-stats
+- hireg-stats
+- hiutils-aymen
+- ytqgen
+- spacebee-commander
+- types-lupa
+- sopy-quantum
+- winipedia-utils
+- sajdflkaowjalgpaj
+- llama-index
+- brs-xss
+- jmespathextractor
+- aenet-gpr
+- dhisana
+- rand-engine
+- pipelex
 - llmcc
 - vigorvision
-- aenet-gpr
-- ytqgen
 - pythonalsa
-- rand-engine
 - batchling
 - post-ap
 - x-4357-make-github-visitor-x
@@ -39,7 +75,6 @@
 - shadow4
 - agentmail
 - rds-proxy-password-rotation
-- pyadvtools
 - monai-weekly
 - pyaltar-icons
 - battlenet-client
@@ -49,44 +84,6 @@
 - metaflow-stubs
 - aporthq-sdk-python
 - modgud
-- dhisana
 - ultimate-gemini-mcp
 - Radar-Range-Equation
 - celery-debug
-- qlever
-- winipedia-utils
-- pmccc
-- cat-llm
-- foxcli
-- autocron-scheduler
-- ssh-agent-mcp
-- celery-callback-service
-- niri-companion
-- screamrouter
-- kitecmd
-- libtimecontrol
-- shudaodao
-- ministatus
-- easyocr-unstructured
-- emcd-agents
-- beads-mcp
-- venvs
-- projen-modules
-- splurge-exceptions
-- lt-tensor
-- onnxslim
-- comtrade-mcp-server
-- petrosa-data-manager-client
-- parsett
-- django-minha-lib
-- minimal-activitypub
-- time-mcp-pypi
-- mcp-ticketer
-- llama-index-llms-oci-genai
-- compose-go
-- llama-index-embeddings-oci-genai
-- typeshed_stats
-- robosystems-client
-- motp
-- pyfuzzy-toolbox
-- chalkpy

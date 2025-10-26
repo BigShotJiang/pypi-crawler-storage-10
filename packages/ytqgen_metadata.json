@@ -1,11 +1,11 @@
 {
   "name": "ytqgen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Educational video to questionnaire generator - transcribe, summarize, and generate interactive quizzes from video content",
   "author": "YtQGen Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ytqgen-0.1.1.tar.gz",
-  "download_time": "2025-10-26T02:53:58.758849",
+  "download_filename": "ytqgen-0.1.2.tar.gz",
+  "download_time": "2025-10-26T03:39:50.764412",
   "package_url": "https://pypi.org/project/ytqgen/"
 }

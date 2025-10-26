@@ -1,0 +1,11 @@
+{
+  "name": "optify",
+  "version": "0.8.3",
+  "summary": "Simplifies getting the right configuration options for a process using pre-loaded configurations from files to manage options for experiments or flights.",
+  "author": "Justin D. Harris",
+  "license": null,
+  "home_page": "https://github.com/juharris/optify/tree/main/rust/optify",
+  "download_filename": "optify-0.8.3.tar.gz",
+  "download_time": "2025-10-26T03:39:41.848378",
+  "package_url": "https://pypi.org/project/optify/"
+}
