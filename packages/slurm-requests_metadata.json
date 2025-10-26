@@ -1,11 +1,11 @@
 {
   "name": "slurm-requests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Asynchronous SLURM REST requests with proxy support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slurm_requests-0.0.1.tar.gz",
-  "download_time": "2025-10-26T01:20:46.650109",
+  "download_filename": "slurm_requests-0.0.2.tar.gz",
+  "download_time": "2025-10-26T15:15:55.530964",
   "package_url": "https://pypi.org/project/slurm-requests/"
 }

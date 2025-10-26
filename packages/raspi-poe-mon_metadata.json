@@ -1,0 +1,11 @@
+{
+  "name": "raspi-poe-mon",
+  "version": "1.1.0",
+  "summary": "A controller for the display and fan of the Raspberry Pi Power Over Ethernet HAT (Type B), compatible with Raspberry Pi 3B+/4B",
+  "author": "Sebastian Straub",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raspi_poe_mon-1.1.0.tar.gz",
+  "download_time": "2025-10-26T15:15:54.954860",
+  "package_url": "https://pypi.org/project/raspi-poe-mon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vmodes",
+  "version": "0.9.0",
+  "summary": "VModeS - vectorized decoding of Mode S and ADS-B data",
+  "author": "Artur Wroblewski",
+  "license": "AGPLv3+",
+  "home_page": "https://gitlab.com/sq1090/vmodes",
+  "download_filename": "vmodes-0.9.0.tar.gz",
+  "download_time": "2025-10-26T15:16:00.748470",
+  "package_url": "https://pypi.org/project/vmodes/"
+}

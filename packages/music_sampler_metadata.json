@@ -1,11 +1,11 @@
 {
   "name": "music_sampler",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A music player which associates each key on the keyboard to a set of actions to run",
   "author": "Ismaël Bouya",
   "license": "MIT",
   "home_page": "https://git.immae.eu/cgit/perso/Immae/Projets/Python/MusicSampler.git/about/",
-  "download_filename": "music_sampler-2.0.0.tar.gz",
-  "download_time": "2025-10-26T10:15:53.924854",
+  "download_filename": "music_sampler-2.0.1.tar.gz",
+  "download_time": "2025-10-26T15:15:38.348973",
   "package_url": "https://pypi.org/project/music_sampler/"
 }

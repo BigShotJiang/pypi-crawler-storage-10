@@ -1,11 +1,11 @@
 {
   "name": "virt-wrapper",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Wrapper that was developed in order to manage libvirt virtual machines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virt_wrapper-0.8.2.tar.gz",
-  "download_time": "2025-10-26T14:14:26.023686",
+  "download_filename": "virt_wrapper-0.8.3.tar.gz",
+  "download_time": "2025-10-26T15:15:36.606913",
   "package_url": "https://pypi.org/project/virt-wrapper/"
 }

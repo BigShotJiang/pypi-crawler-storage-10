@@ -1,0 +1,11 @@
+{
+  "name": "aiosqla-admin",
+  "version": "0.1.0",
+  "summary": "A project that provides Aiogramm tools to manipulate SQLAlchemy-driven Databases via telegram bot.",
+  "author": "Ruhiddin Turdaliyev",
+  "license": "MIT",
+  "home_page": "https://github.com/ruhiddin/aiosqla_admin",
+  "download_filename": "aiosqla_admin-0.1.0.tar.gz",
+  "download_time": "2025-10-26T15:15:59.598385",
+  "package_url": "https://pypi.org/project/aiosqla-admin/"
+}

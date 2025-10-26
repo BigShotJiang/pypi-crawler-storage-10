@@ -1,11 +1,11 @@
 {
   "name": "python-dotenv",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Read key-value pairs from a .env file and set them as environment variables",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_dotenv-1.2.0.tar.gz",
-  "download_time": "2025-10-26T13:50:42.813303",
+  "download_filename": "python_dotenv-1.2.1.tar.gz",
+  "download_time": "2025-10-26T15:15:33.712971",
   "package_url": "https://pypi.org/project/python-dotenv/"
 }

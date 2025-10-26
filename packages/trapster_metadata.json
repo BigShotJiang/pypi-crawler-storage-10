@@ -1,0 +1,11 @@
+{
+  "name": "trapster",
+  "version": "1.1.6",
+  "summary": "Trapster Daemon",
+  "author": "0xBallpoint",
+  "license": "AGPL3",
+  "home_page": "https://trapster.cloud/",
+  "download_filename": "trapster-1.1.6.tar.gz",
+  "download_time": "2025-10-26T15:15:41.351028",
+  "package_url": "https://pypi.org/project/trapster/"
+}

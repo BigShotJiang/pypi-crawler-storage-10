@@ -1,0 +1,11 @@
+{
+  "name": "pyblockworld",
+  "version": "0.3.10",
+  "summary": "Minecraft like block world in Python",
+  "author": "Marco Bakera",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyblockworld-0.3.10.tar.gz",
+  "download_time": "2025-10-26T15:16:03.115448",
+  "package_url": "https://pypi.org/project/pyblockworld/"
+}

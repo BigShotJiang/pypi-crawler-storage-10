@@ -1,11 +1,11 @@
 {
   "name": "blurhash-py",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "A Python and rust library for encoding and decoding blurhash strings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blurhash_py-0.1.0.tar.gz",
-  "download_time": "2025-10-26T14:50:01.248295",
+  "download_filename": "blurhash_py-0.1.1.tar.gz",
+  "download_time": "2025-10-26T15:15:50.189098",
   "package_url": "https://pypi.org/project/blurhash-py/"
 }

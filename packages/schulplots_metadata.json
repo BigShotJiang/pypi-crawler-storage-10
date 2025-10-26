@@ -1,11 +1,11 @@
 {
   "name": "schulplots",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "schulplots -- an educational tool to create plots of functions, styled as expected by undergraduate students in German schools.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "schulplots-0.9.5.tar.gz",
-  "download_time": "2025-10-26T14:14:20.287046",
+  "download_filename": "schulplots-0.9.6.tar.gz",
+  "download_time": "2025-10-26T15:15:53.801497",
   "package_url": "https://pypi.org/project/schulplots/"
 }

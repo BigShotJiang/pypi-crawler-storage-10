@@ -1,0 +1,11 @@
+{
+  "name": "podfeed-sdk",
+  "version": "0.4.0",
+  "summary": "A Python SDK for the PodFeed API",
+  "author": "PodFeed",
+  "license": "MIT",
+  "home_page": "https://github.com/smh-labs/podfeed-sdk-samples",
+  "download_filename": "podfeed_sdk-0.4.0.tar.gz",
+  "download_time": "2025-10-26T15:15:30.776496",
+  "package_url": "https://pypi.org/project/podfeed-sdk/"
+}
