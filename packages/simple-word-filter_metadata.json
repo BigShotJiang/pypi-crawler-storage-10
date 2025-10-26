@@ -1,11 +1,11 @@
 {
   "name": "simple-word-filter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A simple word filtering library for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_word_filter-1.0.2.tar.gz",
-  "download_time": "2025-10-26T08:20:18.297634",
+  "download_filename": "simple_word_filter-1.0.3.tar.gz",
+  "download_time": "2025-10-26T08:41:59.909231",
   "package_url": "https://pypi.org/project/simple-word-filter/"
 }

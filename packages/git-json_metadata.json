@@ -1,0 +1,11 @@
+{
+  "name": "git-json",
+  "version": "0.1.0",
+  "summary": "Generate comprehensive git information for your projects",
+  "author": "Christoph Spörk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_json-0.1.0.tar.gz",
+  "download_time": "2025-10-26T08:42:06.190239",
+  "package_url": "https://pypi.org/project/git-json/"
+}

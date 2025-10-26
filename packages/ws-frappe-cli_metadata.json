@@ -1,11 +1,11 @@
 {
   "name": "ws-frappe-cli",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "A command-line tool for Frappe/ERPNext development environment management",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/whitestork-erp/ws-frappe-cli",
-  "download_filename": "ws_frappe_cli-0.5.0.tar.gz",
-  "download_time": "2025-10-26T01:20:42.356106",
+  "download_filename": "ws_frappe_cli-0.7.0-py3-none-any.whl",
+  "download_time": "2025-10-26T08:42:00.953297",
   "package_url": "https://pypi.org/project/ws-frappe-cli/"
 }
