@@ -1,11 +1,11 @@
 {
   "name": "toon-py",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Token-Oriented Object Notation: A compact format for passing structured data to LLMs with 30-60% fewer tokens than JSON",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toon_py-1.0.0.tar.gz",
-  "download_time": "2025-10-26T21:39:47.375900",
+  "download_filename": "toon_py-1.0.1.tar.gz",
+  "download_time": "2025-10-26T21:50:35.415401",
   "package_url": "https://pypi.org/project/toon-py/"
 }

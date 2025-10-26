@@ -1,0 +1,11 @@
+{
+  "name": "propflow",
+  "version": "1.0.1",
+  "summary": "Highly configurable belief propagation simulator for factor graphs",
+  "author": "Or Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "propflow-1.0.1.tar.gz",
+  "download_time": "2025-10-26T21:50:33.311873",
+  "package_url": "https://pypi.org/project/propflow/"
+}

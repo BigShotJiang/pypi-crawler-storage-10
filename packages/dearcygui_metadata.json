@@ -1,0 +1,11 @@
+{
+  "name": "dearcygui",
+  "version": "0.1.6",
+  "summary": "DearCyGui: A simple and customizable Python GUI Toolkit coded in Cython",
+  "author": "Axel Davy",
+  "license": "MIT",
+  "home_page": "https://github.com/axeldavy/DearCyGui",
+  "download_filename": "dearcygui-0.1.6-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-10-26T21:50:39.650360",
+  "package_url": "https://pypi.org/project/dearcygui/"
+}
