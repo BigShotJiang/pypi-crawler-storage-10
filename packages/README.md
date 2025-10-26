@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T15:42:10.509308
+- **Download Time**: 2025-10-26T15:51:41.235637
 - **Total Packages**: 86
-- **Total Size**: 11.51 MB
+- **Total Size**: 8.85 MB
 
 ## Packages List
+- cartesia
+- batplot
+- nonebot-plugin-summary-group
+- pc-perf
+- jupyterlab-refresh-view-extension
+- civic-data-boundaries-us-cd118
+- mistflow
+- protoprimer
+- model-metrics
+- acbox
+- fastmcp
+- aiogram-toolkit
+- maleo-identity
+- strands-agentcore-tools
+- matlab-mcp-server
+- blurhash-py
 - mcp-ticketer
 - mokkari
 - nwn
@@ -15,7 +31,6 @@
 - splurge-exceptions
 - kuzu-memory
 - session-driven-development
-- blurhash-py
 - orka-reasoning
 - jetpytools
 - tchu-tchu
@@ -35,11 +50,9 @@
 - reboundx
 - novig-liquidity
 - pypomes-iam
-- acbox
 - primate-run
 - nlptklzxcvd
 - xhamster-api
-- nonebot-plugin-summary-group
 - chuk-tool-processor
 - atsphinx-bulma
 - ritpy
@@ -79,16 +92,3 @@
 - PyMKF
 - langteam
 - hexdoc-hexparse
-- istr-python
-- marearts-road-objects
-- step-cli-tools
-- fast-backend-builder
-- schulplots
-- veadk-python
-- raspi-poe-mon
-- slurm-requests
-- emailsec
-- airflow-schedule-insights
-- lamda
-- subnet-calculator-mcp
-- aiosqla-admin

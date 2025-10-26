@@ -1,0 +1,11 @@
+{
+  "name": "pc-perf",
+  "version": "3.0.0",
+  "summary": "pc 进程性能测试平台，支持 windows / mac / linux 平台进程cpu、memory、fps（仅支持windows下OpenGL  DirectX 引擎应用）、gpu、thread_num、handle_num 等指标的实时监控和可视化展示",
+  "author": "范博洲",
+  "license": "MIT",
+  "home_page": "https://github.com/15525730080/pc_perf",
+  "download_filename": "pc_perf-3.0.0.tar.gz",
+  "download_time": "2025-10-26T15:50:58.427075",
+  "package_url": "https://pypi.org/project/pc-perf/"
+}
