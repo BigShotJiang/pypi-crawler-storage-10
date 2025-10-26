@@ -1,11 +1,11 @@
 {
   "name": "sejunk-validator",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "Sistema de validación de licencias con codificación SEJUNK",
   "author": "Rodrigo Quintanar",
   "license": null,
   "home_page": null,
-  "download_filename": "sejunk_validator-1.3.0.tar.gz",
-  "download_time": "2025-10-25T21:13:53.839858",
+  "download_filename": "sejunk_validator-1.4.0.tar.gz",
+  "download_time": "2025-10-26T14:31:40.024291",
   "package_url": "https://pypi.org/project/sejunk-validator/"
 }

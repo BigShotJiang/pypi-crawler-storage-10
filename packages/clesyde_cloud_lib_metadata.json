@@ -1,0 +1,11 @@
+{
+  "name": "clesyde_cloud_lib",
+  "version": "0.1.17",
+  "summary": "Clesyde_Cloud_Lib",
+  "author": "Fabrice Dewasmes, Alain Rouen",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/fdewasmes/clesyde_cloud_lib",
+  "download_filename": "clesyde_cloud_lib-0.1.17.tar.gz",
+  "download_time": "2025-10-26T14:31:41.200768",
+  "package_url": "https://pypi.org/project/clesyde_cloud_lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atimer",
+  "version": "1.4.0",
+  "summary": "atimer - timer library for asyncio",
+  "author": "Artur Wroblewski",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://wrobell.dcmod.org/atimer/",
+  "download_filename": "atimer-1.4.0.tar.gz",
+  "download_time": "2025-10-26T14:31:44.954645",
+  "package_url": "https://pypi.org/project/atimer/"
+}

@@ -1,18 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T14:14:51.985972
-- **Total Packages**: 85
-- **Total Size**: 16.68 MB
+- **Download Time**: 2025-10-26T14:32:19.446137
+- **Total Packages**: 84
+- **Total Size**: 4.75 MB
 
 ## Packages List
+- ididi
+- pysaunum
+- instaui-shiki
+- flixopt
+- osbot-fast-api-serverless
+- vunnel
+- zpdatafetch
+- modernmetric
+- rexi
+- gui-utilities
+- pysills
+- langchain-dev-utils
+- sejunk-validator
+- solders
+- clesyde_cloud_lib
+- dbt-graph-loader
+- pycrypt-lib
+- yurolabs
+- omniopt2
+- actingweb
+- atimer
+- tjost
+- superset-chat
+- pypomes-iam
+- sphinxcontrib-confluencebuilder
+- py-ullr
+- keyhole-vibe
+- dock-thor-client
+- keyhole-vcl
+- superset-mcp-server
+- keyhole-proofpack
+- keyhole-core
 - keyhole-agent
 - apkInspector
-- yurolabs
 - doc-summarizer
 - miniflux-tui-py
 - python-snoo
-- omniopt2
 - gp-libs
 - cicsim
 - autoFRK
@@ -33,8 +63,6 @@
 - aiohomematic
 - schulplots
 - django-cfg
-- zpdatafetch
-- dock-thor-client
 - x-manger
 - onyx-client
 - InstallerReady
@@ -44,7 +72,6 @@
 - numpiii
 - virt-wrapper
 - ellar-sql
-- py-ullr
 - tensordict-nightly
 - port-ocean
 - keyhole-platform
@@ -63,31 +90,3 @@
 - quantcup-backend
 - julia-my-sort
 - tiddl
-- eclips-blossom-ai
-- AstrBot
-- odoo-addon-base-user-role
-- autonomy-dev
-- linkp
-- stewbeet
-- krrood
-- FabOMatic
-- iam-sorry
-- i18n-check
-- daffy
-- article-mcp
-- zbWidgetLib
-- static-dicomweb-creator
-- python-dotenv
-- codemie-tools
-- SURE-tools
-- stigg-api-client-v2
-- ttn-client
-- grepshift
-- stigg-api-client
-- jfjoch-client
-- tum_esm_utils
-- PyHiveLMS
-- pyxact
-- pypdfium2
-- indipyclient
-- horology

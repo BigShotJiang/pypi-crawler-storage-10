@@ -1,11 +1,11 @@
 {
   "name": "dock-thor-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Python client for DockTHOR error reporting",
   "author": "Jacek Labudda",
   "license": null,
   "home_page": null,
-  "download_filename": "dock_thor_client-1.0.4.tar.gz",
-  "download_time": "2025-10-26T14:14:21.868253",
+  "download_filename": "dock_thor_client-1.0.5.tar.gz",
+  "download_time": "2025-10-26T14:31:48.973819",
   "package_url": "https://pypi.org/project/dock-thor-client/"
 }

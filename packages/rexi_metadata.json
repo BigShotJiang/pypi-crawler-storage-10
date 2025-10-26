@@ -1,0 +1,11 @@
+{
+  "name": "rexi",
+  "version": "1.2.1",
+  "summary": "Simpel and Interactive regex shell",
+  "author": "Roy Reznik",
+  "license": null,
+  "home_page": "https://github.com/royreznik/rexi",
+  "download_filename": "rexi-1.2.1.tar.gz",
+  "download_time": "2025-10-26T14:31:37.517406",
+  "package_url": "https://pypi.org/project/rexi/"
+}

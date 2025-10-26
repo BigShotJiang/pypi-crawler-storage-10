@@ -1,0 +1,11 @@
+{
+  "name": "dbt-graph-loader",
+  "version": "0.1.0a2",
+  "summary": "Load DBT metadata into graph databases (Neo4j and FalkorDB)",
+  "author": "Ponder",
+  "license": "MIT",
+  "home_page": "https://github.com/ponderedw/dbt-kg",
+  "download_filename": "dbt_graph_loader-0.1.0a2.tar.gz",
+  "download_time": "2025-10-26T14:31:41.789661",
+  "package_url": "https://pypi.org/project/dbt-graph-loader/"
+}

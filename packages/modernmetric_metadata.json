@@ -1,0 +1,11 @@
+{
+  "name": "modernmetric",
+  "version": "1.5.9",
+  "summary": "Calculate code metrics in various languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modernmetric-1.5.9-py3-none-any.whl",
+  "download_time": "2025-10-26T14:31:36.929471",
+  "package_url": "https://pypi.org/project/modernmetric/"
+}
