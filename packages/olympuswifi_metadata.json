@@ -1,0 +1,11 @@
+{
+  "name": "olympuswifi",
+  "version": "1.0.0",
+  "summary": "Connect to wifi-enabled Olympus camera, show liveview, set the clock, take pictures, download images, change settings, turn it off.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "olympuswifi-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-26T22:34:38.349322",
+  "package_url": "https://pypi.org/project/olympuswifi/"
+}

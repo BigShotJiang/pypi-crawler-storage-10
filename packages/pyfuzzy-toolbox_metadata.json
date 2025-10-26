@@ -1,11 +1,11 @@
 {
   "name": "pyfuzzy-toolbox",
-  "version": "1.0.0",
-  "summary": "Comprehensive Fuzzy Logic library: Inference, Learning, Dynamics",
-  "author": "Fuzzy Systems Contributors",
+  "version": "1.0.1",
+  "summary": "A comprehensive Python library for fuzzy systems: inference (Mamdani, Sugeno), learning (ANFIS, Wang-Mendel), and dynamics (p-fuzzy, fuzzy ODEs)",
+  "author": "Moiseis Cecconello",
   "license": "MIT",
   "home_page": "https://github.com/1moi6/pyfuzzy-toolbox",
-  "download_filename": "pyfuzzy_toolbox-1.0.0.tar.gz",
-  "download_time": "2025-10-26T02:54:39.008365",
+  "download_filename": "pyfuzzy_toolbox-1.0.1.tar.gz",
+  "download_time": "2025-10-26T22:34:37.800983",
   "package_url": "https://pypi.org/project/pyfuzzy-toolbox/"
 }
