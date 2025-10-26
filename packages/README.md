@@ -1,25 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T17:30:22.930206
+- **Download Time**: 2025-10-26T17:41:49.164367
 - **Total Packages**: 78
-- **Total Size**: 19.39 MB
+- **Total Size**: 12.44 MB
 
 ## Packages List
+- MLSaver
+- sleipnirgroup-jormungandr
+- logan-iq
+- kuzu-memory
+- aaman-qjh-echarts-mcp
+- xl-pq-handler
+- openai-http-proxy
+- oai-proxy
+- lm-proxy-server
+- lm-proxy
+- llm-proxy-server
+- inference-proxy
+- ai-proxy-server
+- true-noorm
+- eventdispatch
+- hieropy
+- statemachine-engine
+- kvxopt
+- pyncbitk
+- holado
+- datafast
+- ramses-rf
+- PyNinja
+- cdk-factory
+- g1asm
 - shudaodao
 - redisimnest
 - p1afempy
 - lift-tracker
 - whatsapp-utils
 - ollcoder
-- statemachine-engine
 - kde-cpi
 - js-web-scraper
 - pycarlo
-- hieropy
 - better-social-notifications
 - js-api
-- eventdispatch
 - jupyterlab-zip-extension
 - residuals
 - wpiformat
@@ -29,7 +51,6 @@
 - csh-ldap
 - stellars-jupyterlab-sublime-theme
 - flex-evals
-- xl-pq-handler
 - jquantstats
 - stellars-jupyterlab-darcula-theme
 - datachain
@@ -39,7 +60,6 @@
 - jupyterlab-refresh-view-extension
 - step-cli-tools
 - pantarei
-- logan-iq
 - kxspy
 - jupyterlab-doc-reader-extension
 - aiogram-toolkit
@@ -54,7 +74,6 @@
 - pumaz
 - fastwoe
 - ipynb-scrubber
-- PyNinja
 - pymed-paperscraper
 - cruxia
 - nu-waves
@@ -65,22 +84,3 @@
 - hermes-ai
 - python-components
 - bbhash
-- pgrubic
-- pyarchinit-mini
-- yak-server
-- tchu-tchu
-- llmemory
-- aioautomower
-- adk-chatkit
-- inbq
-- paygent-sdk
-- RedDownloader
-- robustloss-lab
-- ht
-- firefly_iii_client
-- maps4fs
-- vy
-- sleipnirgroup-jormungandr
-- vellum-workflow-server
-- gpyutils
-- qtqp

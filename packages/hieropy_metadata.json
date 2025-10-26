@@ -1,11 +1,11 @@
 {
   "name": "hieropy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Processing of ancient Egyptian hieroglyphic text",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hieropy-0.1.1.tar.gz",
-  "download_time": "2025-10-26T17:29:47.414319",
+  "download_filename": "hieropy-0.1.2.tar.gz",
+  "download_time": "2025-10-26T17:41:14.988946",
   "package_url": "https://pypi.org/project/hieropy/"
 }
