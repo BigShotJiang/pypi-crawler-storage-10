@@ -1,0 +1,11 @@
+{
+  "name": "InstallerReady",
+  "version": "0.7",
+  "summary": "A Tkinter GitHub project installer",
+  "author": "coltonsr77",
+  "license": null,
+  "home_page": "https://github.com/coltonsr77/ installerready",
+  "download_filename": "installerready-0.7.tar.gz",
+  "download_time": "2025-10-26T14:14:23.425207",
+  "package_url": "https://pypi.org/project/InstallerReady/"
+}

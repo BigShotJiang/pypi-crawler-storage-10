@@ -1,11 +1,11 @@
 {
   "name": "hermes-can-nodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Nodes to interact with CAN bus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_can_nodes-1.0.0.tar.gz",
-  "download_time": "2025-10-26T13:50:29.362294",
+  "download_filename": "hermes_can_nodes-1.0.1.tar.gz",
+  "download_time": "2025-10-26T14:14:31.406878",
   "package_url": "https://pypi.org/project/hermes-can-nodes/"
 }

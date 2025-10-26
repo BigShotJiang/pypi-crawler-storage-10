@@ -1,0 +1,11 @@
+{
+  "name": "airflow-chat",
+  "version": "0.1.0a14",
+  "summary": "An Apache Airflow plugin that enables AI-powered chat interactions with your Airflow instance through MCP integration and an intuitive UI.",
+  "author": "Ponder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airflow_chat-0.1.0a14.tar.gz",
+  "download_time": "2025-10-26T14:14:13.495622",
+  "package_url": "https://pypi.org/project/airflow-chat/"
+}

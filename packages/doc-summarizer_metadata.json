@@ -1,11 +1,11 @@
 {
   "name": "doc-summarizer",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Text summarizer implemented via langchain.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doc_summarizer-0.0.13.tar.gz",
-  "download_time": "2025-10-25T06:45:37.462423",
+  "download_filename": "doc_summarizer-0.0.14.tar.gz",
+  "download_time": "2025-10-26T14:14:08.746443",
   "package_url": "https://pypi.org/project/doc-summarizer/"
 }

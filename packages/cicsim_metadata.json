@@ -1,0 +1,11 @@
+{
+  "name": "cicsim",
+  "version": "0.1.16",
+  "summary": "Custom IC Creator Simulation Tools",
+  "author": "Carsten Wulff",
+  "license": null,
+  "home_page": "https://github.com/wulffern/cicsim",
+  "download_filename": "cicsim-0.1.16.tar.gz",
+  "download_time": "2025-10-26T14:14:11.412279",
+  "package_url": "https://pypi.org/project/cicsim/"
+}

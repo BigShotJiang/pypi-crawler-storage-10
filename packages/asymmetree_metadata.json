@@ -1,0 +1,11 @@
+{
+  "name": "asymmetree",
+  "version": "2.2.2",
+  "summary": "Simulation of phylogenetic trees, sequences and genomes",
+  "author": "David Schaller",
+  "license": null,
+  "home_page": "https://github.com/david-schaller/AsymmeTree",
+  "download_filename": "asymmetree-2.2.2.tar.gz",
+  "download_time": "2025-10-26T14:14:12.457143",
+  "package_url": "https://pypi.org/project/asymmetree/"
+}
