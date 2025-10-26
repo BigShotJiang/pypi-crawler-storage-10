@@ -1,11 +1,11 @@
 {
   "name": "pywinston",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Self-voicing IDE and personal productivity environment for blind users",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pywinston-0.1.0.tar.gz",
-  "download_time": "2025-10-26T11:37:14.163398",
+  "download_filename": "pywinston-0.1.2.tar.gz",
+  "download_time": "2025-10-26T18:55:11.855645",
   "package_url": "https://pypi.org/project/pywinston/"
 }
