@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T13:33:53.327134
-- **Total Packages**: 91
-- **Total Size**: 38.58 MB
+- **Download Time**: 2025-10-26T13:51:14.475879
+- **Total Packages**: 87
+- **Total Size**: 14.62 MB
 
 ## Packages List
+- fc-code-interpreter-mcp-server
+- hermes-can-nodes
+- qt-theme-manager
+- pyguiadapterlite
+- django-cfg
+- airflow-mcp-ponder
+- tralda
+- macs-py
+- yurolabs
+- quantcup-backend
+- numpy-numpyii
+- julia-my-sort
+- tiddl
+- eclips-blossom-ai
+- AstrBot
+- odoo-addon-base-user-role
+- autonomy-dev
+- linkp
+- stewbeet
+- krrood
+- FabOMatic
+- iam-sorry
+- i18n-check
+- daffy
+- article-mcp
+- zbWidgetLib
+- static-dicomweb-creator
+- python-dotenv
+- codemie-tools
+- SURE-tools
+- stigg-api-client-v2
+- ttn-client
+- grepshift
+- stigg-api-client
+- jfjoch-client
+- tum_esm_utils
+- PyHiveLMS
+- pyxact
+- pypdfium2
+- indipyclient
+- horology
+- safe-view
 - loglite
 - lyricsipsum
 - kabukit
@@ -13,9 +55,7 @@
 - kitecmd
 - nuee
 - seabreeze
-- stewbeet
 - fbgemm-gpu-nightly-cpu
-- linkp
 - odoo14-addon-l10n-br-nfse-focus
 - crim_intervals
 - fin68
@@ -45,7 +85,6 @@
 - zrb
 - archipy
 - py-ullr
-- julia-my-sort
 - ua-datasets
 - nakuritycore
 - nbdev-apl
@@ -54,46 +93,3 @@
 - nbdev-scipy
 - nbdev-pytorch
 - nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- blues-lib
-- teloclip
-- tictacsync
-- sheetbase-langchain
-- configuronic
-- aethermark
-- pyxact
-- xgid2anki
-- dkinst
-- close-mongo-ops-manager
-- TonieToolbox
-- pygixml
-- bitwarden-exporter
-- frogml
-- netherite
-- toollib
-- hitl-cli
-- hishel
-- sefixlines
-- ximu3csv
-- matrice-analytics
-- virt-wrapper
-- so-vits-svc-fork
-- voxcity
-- ai-monitor
-- poor_yclientsapi
-- lbz-mcp-demo
-- scrapery
-- xerxes
-- tensorcircuit-nightly
-- lift-tracker
-- qwak-core
-- xl-pq-handler
-- lancetnic
-- mcp-server-excel-sql
-- betfair-parser
-- contest-helper
-- musan
-- pytsterrors
-- onnx2tf
-- pycrypt-lib

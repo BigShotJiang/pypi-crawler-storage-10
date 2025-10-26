@@ -1,0 +1,11 @@
+{
+  "name": "horology",
+  "version": "1.4.2",
+  "summary": "Conveniently measures the time of loops, contexts and functions.",
+  "author": "mjmikulski",
+  "license": "MIT",
+  "home_page": "https://github.com/mjmikulski/horology",
+  "download_filename": "horology-1.4.2.tar.gz",
+  "download_time": "2025-10-26T13:50:49.986001",
+  "package_url": "https://pypi.org/project/horology/"
+}

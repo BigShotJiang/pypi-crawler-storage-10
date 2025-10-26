@@ -1,11 +1,11 @@
 {
   "name": "iam-sorry",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AWS Credentials Manager - Pull temporary credentials for an IAM user with optional SSH-key encryption",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iam_sorry-0.2.0.tar.gz",
-  "download_time": "2025-10-26T04:41:40.742090",
+  "download_filename": "iam_sorry-0.2.1.tar.gz",
+  "download_time": "2025-10-26T13:50:39.737783",
   "package_url": "https://pypi.org/project/iam-sorry/"
 }

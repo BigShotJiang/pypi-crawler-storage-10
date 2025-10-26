@@ -1,11 +1,11 @@
 {
   "name": "yurolabs",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "One-click model hosting + inference SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yurolabs-0.1.1.tar.gz",
-  "download_time": "2025-10-26T12:31:33.563909",
+  "download_filename": "yurolabs-0.2.1.tar.gz",
+  "download_time": "2025-10-26T13:50:33.046386",
   "package_url": "https://pypi.org/project/yurolabs/"
 }

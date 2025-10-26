@@ -1,0 +1,11 @@
+{
+  "name": "tralda",
+  "version": "1.1.1",
+  "summary": "A library for tree data structures and algorithms",
+  "author": "David Schaller",
+  "license": null,
+  "home_page": "https://github.com/david-schaller/tralda",
+  "download_filename": "tralda-1.1.1.tar.gz",
+  "download_time": "2025-10-26T13:50:32.019196",
+  "package_url": "https://pypi.org/project/tralda/"
+}

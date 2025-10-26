@@ -1,0 +1,11 @@
+{
+  "name": "tum_esm_utils",
+  "version": "2.10.0",
+  "summary": "Python utilities by the Professorship of Environmental Sensing and Modeling at the Technical University of Munich",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tum_esm_utils-2.10.0.tar.gz",
+  "download_time": "2025-10-26T13:50:47.429027",
+  "package_url": "https://pypi.org/project/tum_esm_utils/"
+}
