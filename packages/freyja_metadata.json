@@ -1,0 +1,11 @@
+{
+  "name": "freyja",
+  "version": "1.0.23",
+  "summary": "Python Library that builds a complete CLI given one or more functions using introspection",
+  "author": "Steven Miers",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/freyja/",
+  "download_filename": "freyja-1.0.23.tar.gz",
+  "download_time": "2025-10-26T06:47:14.088908",
+  "package_url": "https://pypi.org/project/freyja/"
+}
