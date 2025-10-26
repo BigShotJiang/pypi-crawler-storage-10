@@ -1,15 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T21:15:11.406793
-- **Total Packages**: 88
-- **Total Size**: 33.8 MB
+- **Download Time**: 2025-10-26T21:30:10.173869
+- **Total Packages**: 81
+- **Total Size**: 18.2 MB
 
 ## Packages List
-- masai-framework
-- devops-overseer-credentials
-- marearts-road-objects
+- simplyprint-bambu-lab
+- GrnGame
+- karaoke-gen
+- eventdispatch
 - ahmed-linear-regression
+- rocket-nabahat-imane
+- nearust
+- opr-a
+- evenage
+- trivoting
+- climax-rfglab
+- resumecompiler
+- GeneralManager
+- pyplaces
+- devops-overseer-credentials
+- HyperCoast
+- ollcoder
+- masai-framework
+- marearts-road-objects
 - cardio
 - nsa-flow
 - cool-linear-solver
@@ -18,24 +33,20 @@
 - OZI
 - voice-mode
 - connectron
-- resumecompiler
 - saulochess
 - agentle
 - schemathesis
 - langchain-olostep
 - pyqrackising
 - pytest-conf
-- climax-rfglab
 - TonieToolbox
 - crisp-t
 - percolate-rocks
 - waldur-api-client
-- evenage
 - junkie-rfglab
 - maktaba
 - ratemaking
 - ws-frappe-cli
-- keyvi
 - py-browser-automation
 - calgebra
 - cubevis
@@ -43,12 +54,10 @@
 - InstallerReady
 - litestatic
 - radboy
-- eventdispatch
 - hummuspy
 - processit
 - EbookLib
 - truss
-- karaoke-gen
 - stellars-jupyterlab-sublime-theme
 - typed-settings
 - stellars-jupyterlab-darcula-theme
@@ -66,7 +75,6 @@
 - pixtreme-core
 - ohmyapi
 - krl-model-zoo
-- ollcoder
 - finesse-benchmark-database
 - pyimaprotect
 - finesse-benchmark
@@ -79,18 +87,3 @@
 - sphinx-breeze-theme
 - llm-model-router
 - repligauge
-- organize-stream
-- biblemate
-- statemachine-engine
-- arpakitlib
-- rocket-ahmed
-- timbal
-- pianosdk
-- kitecmd-IR
-- saterys
-- maleo-identity
-- pytest-httpdbg
-- boltzgen
-- elegantmotd
-- headson
-- rtty-soda
