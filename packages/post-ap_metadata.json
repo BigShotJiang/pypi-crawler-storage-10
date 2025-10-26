@@ -1,11 +1,11 @@
 {
   "name": "post-ap",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Project with code needed to filter, trim and slim ntuples produced by AP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "post_ap-0.3.7.tar.gz",
-  "download_time": "2025-10-25T23:28:38.162705",
+  "download_filename": "post_ap-0.3.8.tar.gz",
+  "download_time": "2025-10-26T02:54:00.815200",
   "package_url": "https://pypi.org/project/post-ap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl_bsv",
+  "version": "0.0.3",
+  "summary": "Export BSV description from the systemrdl-compiler register model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peakrdl_bsv-0.0.3.tar.gz",
+  "download_time": "2025-10-26T02:54:03.882952",
+  "package_url": "https://pypi.org/project/peakrdl_bsv/"
+}

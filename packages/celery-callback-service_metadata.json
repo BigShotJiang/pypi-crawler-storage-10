@@ -1,0 +1,11 @@
+{
+  "name": "celery-callback-service",
+  "version": "0.1.9",
+  "summary": "基于celery的回调服务。业务系统创建celery回调任务，celery-callback-worker执行回调任务，业务系统在回调任务中处理异步任务。",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celery_callback_service-0.1.9.tar.gz",
+  "download_time": "2025-10-26T02:54:23.984633",
+  "package_url": "https://pypi.org/project/celery-callback-service/"
+}

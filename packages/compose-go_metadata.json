@@ -1,0 +1,11 @@
+{
+  "name": "compose-go",
+  "version": "2.40.2",
+  "summary": "Docker Compose v2 (GoLang) wrapped in a Python Package",
+  "author": "Luã Bida Vacaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "compose_go-2.40.2-cp311-cp311-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-10-26T02:54:36.433920",
+  "package_url": "https://pypi.org/project/compose-go/"
+}

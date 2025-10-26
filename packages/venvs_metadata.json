@@ -1,0 +1,11 @@
+{
+  "name": "venvs",
+  "version": "2025.10.3",
+  "summary": "A simpler tool for creating venvs in a central location",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "venvs-2025.10.3.tar.gz",
+  "download_time": "2025-10-26T02:54:29.201017",
+  "package_url": "https://pypi.org/project/venvs/"
+}
