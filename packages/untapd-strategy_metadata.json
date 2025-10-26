@@ -1,11 +1,11 @@
 {
   "name": "untapd-strategy",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "The official Python library for the untapd-strategy API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "untapd_strategy-1.0.0.tar.gz",
-  "download_time": "2025-10-26T13:05:53.332661",
+  "download_filename": "untapd_strategy-1.2.0.tar.gz",
+  "download_time": "2025-10-26T13:33:20.733455",
   "package_url": "https://pypi.org/project/untapd-strategy/"
 }

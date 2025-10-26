@@ -1,0 +1,11 @@
+{
+  "name": "lyricsipsum",
+  "version": "1.1.1",
+  "summary": "Generates Lorem Ipsum text using song lyrics",
+  "author": "Steve Scholnick",
+  "license": null,
+  "home_page": "https://pypi.org/project/lyricsipsum/",
+  "download_filename": "lyricsipsum-1.1.1.tar.gz",
+  "download_time": "2025-10-26T13:33:00.659459",
+  "package_url": "https://pypi.org/project/lyricsipsum/"
+}

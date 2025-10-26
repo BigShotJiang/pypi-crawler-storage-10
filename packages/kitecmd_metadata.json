@@ -1,11 +1,11 @@
 {
   "name": "kitecmd",
-  "version": "0.6",
-  "summary": "A CLI tool with update checking",
+  "version": "0.7",
+  "summary": "A CLI tool with update checking and other tools.",
   "author": "coltonsr77",
   "license": null,
   "home_page": null,
-  "download_filename": "kitecmd-0.6.tar.gz",
-  "download_time": "2025-10-26T12:31:28.195038",
+  "download_filename": "kitecmd-0.7.tar.gz",
+  "download_time": "2025-10-26T13:33:02.495780",
   "package_url": "https://pypi.org/project/kitecmd/"
 }

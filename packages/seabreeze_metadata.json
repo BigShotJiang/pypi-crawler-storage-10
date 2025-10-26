@@ -1,0 +1,11 @@
+{
+  "name": "seabreeze",
+  "version": "2.11.0",
+  "summary": "Python interface module for Ocean Optics spectrometers. This software is not associated with Ocean Optics. Use it at your own risk.",
+  "author": "Andreas Poehlmann",
+  "license": "MIT",
+  "home_page": "https://github.com/ap--/python-seabreeze",
+  "download_filename": "seabreeze-2.11.0.tar.gz",
+  "download_time": "2025-10-26T13:33:04.066589",
+  "package_url": "https://pypi.org/project/seabreeze/"
+}

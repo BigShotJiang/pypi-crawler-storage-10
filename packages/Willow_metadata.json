@@ -1,0 +1,11 @@
+{
+  "name": "Willow",
+  "version": "1.12.0",
+  "summary": "A Python image library that sits on top of Pillow, Wand and OpenCV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "willow-1.12.0.tar.gz",
+  "download_time": "2025-10-26T13:33:10.240582",
+  "package_url": "https://pypi.org/project/Willow/"
+}
