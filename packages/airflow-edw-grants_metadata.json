@@ -1,0 +1,11 @@
+{
+  "name": "airflow-edw-grants",
+  "version": "0.1.3",
+  "summary": "An Apache Airflow plugin for managing users and roles in an Enterprise Data Warehouse (EDW) and establishing connections between them, specifically for Amazon Redshift.",
+  "author": "Ponder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airflow_edw_grants-0.1.3.tar.gz",
+  "download_time": "2025-10-26T14:49:56.862365",
+  "package_url": "https://pypi.org/project/airflow-edw-grants/"
+}

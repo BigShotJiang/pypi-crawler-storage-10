@@ -1,11 +1,11 @@
 {
   "name": "webresearcher",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "An Iterative Deep-Research Agent with unbounded reasoning capability",
   "author": "XuMing",
   "license": "Apache-2.0",
   "home_page": "https://github.com/shibing624/WebResearcher",
-  "download_filename": "webresearcher-0.1.5.tar.gz",
-  "download_time": "2025-10-26T06:23:22.265179",
+  "download_filename": "webresearcher-0.2.0.tar.gz",
+  "download_time": "2025-10-26T14:50:03.408378",
   "package_url": "https://pypi.org/project/webresearcher/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "behavioralflow",
+  "version": "1.0.0",
+  "summary": "Uma biblioteca para simular alguns princípios comportamentais básicos, como reforçamento.",
+  "author": "Ademilson",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/varejad/behavioral_flow",
+  "download_filename": "behavioralflow-1.0.0.tar.gz",
+  "download_time": "2025-10-26T14:50:09.923132",
+  "package_url": "https://pypi.org/project/behavioralflow/"
+}
