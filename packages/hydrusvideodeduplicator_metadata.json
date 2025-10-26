@@ -1,0 +1,11 @@
+{
+  "name": "hydrusvideodeduplicator",
+  "version": "0.10.0",
+  "summary": "Video deduplicator utility for Hydrus Network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydrusvideodeduplicator-0.10.0.tar.gz",
+  "download_time": "2025-10-26T22:16:23.976925",
+  "package_url": "https://pypi.org/project/hydrusvideodeduplicator/"
+}

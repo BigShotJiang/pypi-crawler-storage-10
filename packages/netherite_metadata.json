@@ -1,11 +1,11 @@
 {
   "name": "netherite",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netherite-0.1.0.tar.gz",
-  "download_time": "2025-10-26T13:05:50.755623",
+  "download_filename": "netherite-0.2.0.tar.gz",
+  "download_time": "2025-10-26T22:16:21.330674",
   "package_url": "https://pypi.org/project/netherite/"
 }

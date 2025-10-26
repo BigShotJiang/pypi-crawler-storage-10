@@ -1,11 +1,11 @@
 {
   "name": "keyvi",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Python package for keyvi",
   "author": "Hendrik Muhs",
   "license": "ASL 2.0",
   "home_page": "http://keyvi.org",
-  "download_filename": "keyvi-0.7.3.tar.gz",
-  "download_time": "2025-10-26T21:14:38.982879",
+  "download_filename": "keyvi-0.7.4.tar.gz",
+  "download_time": "2025-10-26T22:17:04.991850",
   "package_url": "https://pypi.org/project/keyvi/"
 }

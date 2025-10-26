@@ -1,0 +1,11 @@
+{
+  "name": "alloylens",
+  "version": "0.0.1",
+  "summary": "Interactive SPLOM widget for high-throughput alloy inverse design",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alloylens-0.0.1.tar.gz",
+  "download_time": "2025-10-26T22:16:38.327267",
+  "package_url": "https://pypi.org/project/alloylens/"
+}

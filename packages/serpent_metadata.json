@@ -1,0 +1,11 @@
+{
+  "name": "serpent",
+  "version": "1.42",
+  "summary": "Serialization based on ast.literal_eval",
+  "author": "Irmen de Jong",
+  "license": "MIT",
+  "home_page": "https://github.com/irmen/Serpent",
+  "download_filename": "serpent-1.42.tar.gz",
+  "download_time": "2025-10-26T22:16:35.718616",
+  "package_url": "https://pypi.org/project/serpent/"
+}
