@@ -1,11 +1,11 @@
 {
   "name": "isaacus-sagemaker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python library for interacting with SageMaker deployments of the Isaacus API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isaacus_sagemaker-0.1.1.tar.gz",
-  "download_time": "2025-10-26T05:16:26.689632",
+  "download_filename": "isaacus_sagemaker-0.1.2.tar.gz",
+  "download_time": "2025-10-26T05:39:19.277638",
   "package_url": "https://pypi.org/project/isaacus-sagemaker/"
 }

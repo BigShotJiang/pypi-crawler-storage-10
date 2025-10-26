@@ -1,0 +1,11 @@
+{
+  "name": "nvlib-sn",
+  "version": "1.0.0",
+  "summary": "Making programming easy for everyone | For Windows Build (ONLY)",
+  "author": "Sai Neela",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/saineela/NVLib",
+  "download_filename": "nvlib_sn-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-26T05:39:21.953248",
+  "package_url": "https://pypi.org/project/nvlib-sn/"
+}
