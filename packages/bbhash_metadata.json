@@ -1,0 +1,11 @@
+{
+  "name": "bbhash",
+  "version": "0.6.0",
+  "summary": "A Python wrapper for the BBHash Minimal Perfect Hash Function",
+  "author": "C. Titus Brown",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbhash-0.6.0.tar.gz",
+  "download_time": "2025-10-26T17:30:12.581978",
+  "package_url": "https://pypi.org/project/bbhash/"
+}

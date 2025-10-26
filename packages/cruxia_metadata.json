@@ -1,0 +1,11 @@
+{
+  "name": "cruxia",
+  "version": "1.0.0",
+  "summary": "Signed Context Bundle observer for LLM pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cruxia-1.0.0.tar.gz",
+  "download_time": "2025-10-26T17:30:08.414029",
+  "package_url": "https://pypi.org/project/cruxia/"
+}
