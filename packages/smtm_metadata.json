@@ -1,0 +1,11 @@
+{
+  "name": "smtm",
+  "version": "1.7.1",
+  "summary": "A algorithm crypto trading system.",
+  "author": "Jeong Seongmoon",
+  "license": "MIT License",
+  "home_page": "https://github.com/msaltnet/smtm",
+  "download_filename": "smtm-1.7.1.tar.gz",
+  "download_time": "2025-10-26T10:16:15.052442",
+  "package_url": "https://pypi.org/project/smtm/"
+}

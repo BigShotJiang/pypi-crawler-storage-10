@@ -1,11 +1,11 @@
 {
   "name": "nblm",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python bindings for NotebookLM Enterprise API client",
   "author": "K-dash",
   "license": "MIT",
   "home_page": "https://github.com/K-dash/nblm-rs",
-  "download_filename": "nblm-0.1.4.tar.gz",
-  "download_time": "2025-10-26T04:41:42.476426",
+  "download_filename": "nblm-0.1.5.tar.gz",
+  "download_time": "2025-10-26T10:16:17.663178",
   "package_url": "https://pypi.org/project/nblm/"
 }

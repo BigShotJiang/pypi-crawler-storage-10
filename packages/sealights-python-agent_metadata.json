@@ -1,0 +1,11 @@
+{
+  "name": "sealights-python-agent",
+  "version": "2.7.3",
+  "summary": "Python Agent",
+  "author": "Shai Cantor",
+  "license": "Other/Proprietary License",
+  "home_page": "https://github.com/Sealights/SL.OnPremise.Agents.Python",
+  "download_filename": "sealights-python-agent-2.7.3.tar.gz",
+  "download_time": "2025-10-26T10:16:02.731781",
+  "package_url": "https://pypi.org/project/sealights-python-agent/"
+}

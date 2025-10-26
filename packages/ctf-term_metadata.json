@@ -1,0 +1,11 @@
+{
+  "name": "ctf-term",
+  "version": "0.1.0",
+  "summary": "A terminal-based CTF (Capture The Flag) engine with CLI and TUI interfaces for cybersecurity training",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctf_term-0.1.0.tar.gz",
+  "download_time": "2025-10-26T10:16:09.910354",
+  "package_url": "https://pypi.org/project/ctf-term/"
+}

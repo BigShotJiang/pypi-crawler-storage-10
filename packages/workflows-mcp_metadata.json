@@ -1,11 +1,11 @@
 {
   "name": "workflows-mcp",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "MCP server for DAG-based workflow execution with YAML definitions and LLM collaboration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "workflows_mcp-4.0.0.tar.gz",
-  "download_time": "2025-10-26T08:50:54.335862",
+  "download_filename": "workflows_mcp-4.0.1.tar.gz",
+  "download_time": "2025-10-26T10:16:09.398516",
   "package_url": "https://pypi.org/project/workflows-mcp/"
 }

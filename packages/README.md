@@ -1,18 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T09:51:18.701267
-- **Total Packages**: 82
-- **Total Size**: 7.82 MB
+- **Download Time**: 2025-10-26T10:16:37.525825
+- **Total Packages**: 85
+- **Total Size**: 21.39 MB
 
 ## Packages List
+- pyarchinit-mini
+- dexact
+- music_sampler
+- ai-edge-torch-nightly
+- bygg
+- sssom-curator
+- prospr
+- macs-cp
+- GlocalText
+- bitwarden-exporter
+- dragonfruit-tui
+- eclips-blossom-ai
+- heavyedge
+- pglast
+- fkin-anfu
+- pytest-cream
+- PyByntic
+- iatoolkit
+- multi-calendar-dimension
+- sealights-python-agent
+- civic-lib-core
+- cleanframes
+- anb-python-components
+- v2ex-tx2json
+- civic-lib-geo
+- mapify-cli
+- agently
+- learning-loop-node
+- git-json
+- libfcast
+- loggerizer
+- p115open302
+- workflows-mcp
+- ctf-term
+- p115nano302
+- p115tiny302
+- batplot
+- p115client
+- pysdic
+- napcron
+- django-unicom
+- pyweber
+- core-aprs-client
+- smtm
+- assisted-service-client
 - eval-protocol
 - psvr2toolkit-installer
 - stigg-api-client-v2
 - nblm
 - nearness
-- libfcast
-- cleanframes
 - stigg-api-client
 - valur
 - omniopt2
@@ -20,7 +63,6 @@
 - arkitekt-next
 - pp3d
 - nistitl
-- loggerizer
 - demoparser2
 - nonebot-plugin-alisten
 - pyjolt
@@ -49,42 +91,3 @@
 - tbp-nightly
 - suparkanbun
 - fleet-python
-- snorbyte
-- MLSaver
-- aiiware-cli
-- notionalpha-clarity
-- MicroEdit
-- promptius-gui-schema
-- axm-agent
-- django-cfg
-- pyodide-mkdocs-theme
-- gptsh-cli
-- wsq
-- hilo-mpc
-- claude2md
-- hive-messaging
-- anemoi-plugins-ecmwf-inference
-- itrx
-- coolpy
-- dexact
-- prismor
-- pyarchinit-mini
-- llm-selector
-- yulksync
-- ktoolkit
-- v2ex-tx2json
-- odoo-addon-base-fontawesome-web-editor
-- py-ullr
-- sqliteplus-enhanced
-- huda
-- reasonchain
-- django-blocknote
-- superoptix
-- nonebot-plugin-alconna
-- azpaddypy
-- asynckivy-ext-popup
-- cobra-online
-- portwine
-- git-json
-- fkin-anfu
-- ir-sim
