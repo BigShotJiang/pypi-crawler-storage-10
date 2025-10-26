@@ -1,15 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T03:40:19.402949
-- **Total Packages**: 81
-- **Total Size**: 26.85 MB
+- **Download Time**: 2025-10-26T03:58:38.018083
+- **Total Packages**: 76
+- **Total Size**: 18.73 MB
 
 ## Packages List
+- semchunk
+- gruyere
+- vizpack-py
+- lvsfunc
+- dlfx
+- mcp-server-excel-sql
+- HyperCoast
+- neuralpiano
+- pytest-assert-type
+- blues-lib
+- judgeval
+- tostorchconnector
+- publicsuffixlist
+- bit-by-mail
+- libasterix
 - pyadvtools
+- cqc-quam-state
+- mcp-postgres-duwenji
+- pythonalsa
+- rag-agent-mcp
+- pypomes-iam
+- foxcli
+- keras-rs-nightly
+- kardocss
+- sawnergy
 - kimi-cli
 - beartype
-- neuralpiano
 - GANDLF
 - fastapi-voyager
 - voicegain-speech
@@ -26,7 +49,6 @@
 - pyqrackising
 - lift-tracker
 - achatbot
-- pypomes-iam
 - unitysvc-services
 - django-cfg
 - servicenow-api
@@ -49,7 +71,6 @@
 - pipelex
 - llmcc
 - vigorvision
-- pythonalsa
 - batchling
 - post-ap
 - x-4357-make-github-visitor-x
@@ -61,29 +82,3 @@
 - x-4357-make-persistent-env-var-x
 - x-4357-make-markdown-x
 - x-4357-make-yahw-x
-- x-4357-make-graphviz-x
-- x-4357-make-mermaid-x
-- music-assistant-frontend
-- x-4357-make-py-mod-sideload-x
-- shadowprover
-- GuardianUnivalle-Benito-Yucra
-- data-manipulation-utilities
-- bandlimit
-- liveConsole
-- sombra
-- qbraid-algorithms
-- shadow4
-- agentmail
-- rds-proxy-password-rotation
-- monai-weekly
-- pyaltar-icons
-- battlenet-client
-- fastpgcache
-- streamlit-notebook
-- metaflow
-- metaflow-stubs
-- aporthq-sdk-python
-- modgud
-- ultimate-gemini-mcp
-- Radar-Range-Equation
-- celery-debug
