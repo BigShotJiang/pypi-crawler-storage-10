@@ -1,0 +1,11 @@
+{
+  "name": "paho-mqtt-helper",
+  "version": "0.0.2",
+  "summary": "helper class to connect to the mqtt broker",
+  "author": "mstoffel",
+  "license": null,
+  "home_page": "https://github.com/mstoffel-sag/paho-mqtt-helper",
+  "download_filename": "paho_mqtt_helper-0.0.2.tar.gz",
+  "download_time": "2025-10-26T09:29:53.103892",
+  "package_url": "https://pypi.org/project/paho-mqtt-helper/"
+}

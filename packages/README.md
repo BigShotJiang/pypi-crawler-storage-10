@@ -1,17 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T09:15:56.127893
-- **Total Packages**: 76
-- **Total Size**: 14.8 MB
+- **Download Time**: 2025-10-26T09:30:36.821315
+- **Total Packages**: 81
+- **Total Size**: 8.1 MB
 
 ## Packages List
+- cleanframes
+- rdatacompy
+- mcpower-proxy
+- django-oscarbot
+- paho-mqtt-helper
+- tbp-nightly
+- suparkanbun
+- fleet-python
+- snorbyte
+- MLSaver
+- aiiware-cli
+- notionalpha-clarity
+- MicroEdit
+- promptius-gui-schema
+- axm-agent
+- django-cfg
+- pyodide-mkdocs-theme
+- gptsh-cli
+- pyfusion-v1
+- wsq
+- hilo-mpc
+- claude2md
+- hive-messaging
+- anemoi-plugins-ecmwf-inference
 - itrx
 - coolpy
 - dexact
 - prismor
 - pyarchinit-mini
-- pyfusion-v1
 - llm-selector
 - yulksync
 - ktoolkit
@@ -23,7 +46,6 @@
 - reasonchain
 - django-blocknote
 - superoptix
-- snorbyte
 - nonebot-plugin-alconna
 - azpaddypy
 - asynckivy-ext-popup
@@ -65,20 +87,3 @@
 - yirgacheffe
 - finesse-benchmark
 - shcripts
-- rugo
-- pycensuskr
-- cosmol-viewer
-- LogicalQ
-- AyugeSpiderTools
-- finRav
-- agently
-- pydatagrid
-- schedula-core
-- sleepless-agent
-- schedula
-- kraken-engine
-- dpcrpy
-- opacus-dpcr
-- vnpy_sopt
-- amrita
-- circuit-synth

@@ -1,0 +1,11 @@
+{
+  "name": "wsq",
+  "version": "0.8",
+  "summary": "NBIS/WSQ lib Python wrapper for Pillow",
+  "author": "attr: wsq.__author__",
+  "license": "CeCILL-C",
+  "home_page": "https://github.com/idemia/python-wsq",
+  "download_filename": "wsq-0.8.tar.gz",
+  "download_time": "2025-10-26T09:30:03.176963",
+  "package_url": "https://pypi.org/project/wsq/"
+}
