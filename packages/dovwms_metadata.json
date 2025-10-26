@@ -1,11 +1,11 @@
 {
   "name": "dovwms",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Simple client for DOV WMS services.",
   "author": "Mateusz Zawadzki",
   "license": null,
   "home_page": null,
-  "download_filename": "dovwms-0.0.2.tar.gz",
-  "download_time": "2025-10-26T23:15:04.887717",
+  "download_filename": "dovwms-0.0.3.tar.gz",
+  "download_time": "2025-10-26T23:30:18.048907",
   "package_url": "https://pypi.org/project/dovwms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stats-arrays",
+  "version": "1.0",
+  "summary": "Standard NumPy array interface for defining uncertain parameters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stats_arrays-1.0.tar.gz",
+  "download_time": "2025-10-26T23:30:16.915209",
+  "package_url": "https://pypi.org/project/stats-arrays/"
+}

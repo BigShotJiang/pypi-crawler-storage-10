@@ -1,11 +1,11 @@
 {
   "name": "python-components",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A lightweight Python framework for managing the lifecycle and dependencies of stateful components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_components-0.2.0.tar.gz",
-  "download_time": "2025-10-26T21:39:44.791103",
+  "download_filename": "python_components-0.3.0.tar.gz",
+  "download_time": "2025-10-26T23:30:08.092042",
   "package_url": "https://pypi.org/project/python-components/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pixtreme-draw",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "GPU-accelerated drawing primitives for pixtreme",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixtreme_draw-0.8.3.tar.gz",
-  "download_time": "2025-10-26T23:15:15.040789",
+  "download_filename": "pixtreme_draw-0.8.4.tar.gz",
+  "download_time": "2025-10-26T23:30:13.086035",
   "package_url": "https://pypi.org/project/pixtreme-draw/"
 }

@@ -1,16 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T23:15:48.313884
-- **Total Packages**: 82
-- **Total Size**: 27.63 MB
+- **Download Time**: 2025-10-26T23:30:51.313925
+- **Total Packages**: 79
+- **Total Size**: 5.15 MB
 
 ## Packages List
+- python-components
+- kicad-pcb-api
+- cb-flooddy
+- lionagi
+- dycw-pre-commit-hooks
+- pixtreme
+- pixtreme-upscale
+- pixtreme-legacy
+- pixtreme-filter
+- pixtreme-draw
+- pixtreme-core
+- finesse-benchmark
+- pixtreme-aces
+- moai-adk
+- gui-utilities
+- graph-games-proto
+- stats-arrays
+- nearust
+- dovwms
+- logorythem
+- curies
+- regrest
+- tchu-tchu
+- schmitech-orbit-client
+- helion
+- adiumentum
+- vhsh
+- spatial-polars
+- returnn
+- ipxact2systemverilog
 - sovereign
 - voice-mode-install
 - voice-mode
-- graph-games-proto
-- dovwms
 - splurge-dsv
 - fastai
 - talkomatic.py
@@ -24,21 +52,13 @@
 - market-data-orchestrator
 - market-data-pipeline
 - market-data-store
-- pixtreme-legacy
-- pixtreme
-- pixtreme-upscale
 - universal-a2a-agent
-- pixtreme-draw
-- pixtreme-aces
-- pixtreme-filter
-- pixtreme-core
 - market-data-core
 - colapy
 - dongle-core
 - dongle-build
 - Rattlescan
 - starlette-async-jinja
-- vhsh
 - tn-slack-py-module
 - pyperly
 - django-jstocks
@@ -46,7 +66,6 @@
 - django-jsanctions
 - alpha-berkeley-framework
 - django-jissues
-- adiumentum
 - django-jbank
 - mcp-server-excel-sql
 - open-flash
@@ -66,25 +85,3 @@
 - kymnasium
 - mlx-vlm
 - agentmake
-- bpkit
-- jinja2-async-environment
-- regression-nabahat-imane
-- tree-sitter-gosum-orchard
-- logorythem
-- moka-py
-- tree-sitter-gomod-orchard
-- pyjams
-- r2x-core
-- tree-sitter-dart-orchard
-- ahlem-ousaid-rocket
-- model-hosting-container-standards
-- lisette
-- networkx-mermaid
-- depmanager
-- simplefermi
-- ahlem-ousaid-regression
-- tchu-tchu
-- kedro-graphql
-- volt-framework
-- eventdispatch
-- finesse-benchmark
