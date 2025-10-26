@@ -1,11 +1,11 @@
 {
   "name": "market-data-pipeline",
-  "version": "0.8.24",
+  "version": "0.8.25",
   "summary": "Orchestration layer for market data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "market_data_pipeline-0.8.24.tar.gz",
-  "download_time": "2025-10-25T15:40:50.334841",
+  "download_filename": "market_data_pipeline-0.8.25.tar.gz",
+  "download_time": "2025-10-26T19:13:14.481062",
   "package_url": "https://pypi.org/project/market-data-pipeline/"
 }

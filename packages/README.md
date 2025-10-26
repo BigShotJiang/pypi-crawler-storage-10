@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T18:55:56.942153
-- **Total Packages**: 89
-- **Total Size**: 14.55 MB
+- **Download Time**: 2025-10-26T19:13:50.667185
+- **Total Packages**: 88
+- **Total Size**: 18.6 MB
 
 ## Packages List
+- mia21
+- stellars-jupyterlab-darcula-theme
+- kinemotion
+- mini-ode
+- yandex-captcha-solver
+- liuembeddings
+- depmanager
+- surround-to-eac3
+- flex-evals
+- screamrouter
+- badapple-terminal
+- rsyncx
+- hhcli
+- processit
+- litequery
+- market-data-store
+- market-data-orchestrator
+- market-data-pipeline
+- market-data-core
+- drills-pro-proto
+- pyhdl-if
+- marearts-road-objects
+- rely
+- gui-utilities
+- tiferet
 - boltzgen
 - django-page-hit-counter
 - refactron
@@ -23,7 +48,6 @@
 - jupyterlab-language-pack-ru-RU
 - jupyterlab-language-pack-ro-RO
 - jupyterlab-language-pack-pt-BR
-- stellars-jupyterlab-darcula-theme
 - jupyterlab-language-pack-pl-PL
 - jupyterlab-language-pack-no-NO
 - jupyterlab-language-pack-nl-NL
@@ -33,7 +57,6 @@
 - jupyterlab-language-pack-it-IT
 - jupyterlab-language-pack-id-ID
 - jupyterlab-language-pack-hy-AM
-- windowsrequir
 - jupyterlab-language-pack-hu-HU
 - jupyterlab-language-pack-he-IL
 - jupyterlab-language-pack-fr-FR
@@ -71,27 +94,3 @@
 - donotinstall
 - vsjetpack
 - kodexa
-- fastapi-gen
-- yawp
-- zpdatafetch
-- evenage
-- contextflow
-- truss
-- PyNinja
-- satctl
-- mlsaver
-- ecoledirecte
-- step-cli-tools
-- causalchamber
-- recce-nightly
-- langgraph-a2a-client
-- sphinx-breeze-theme
-- numberlink
-- code-puppy
-- nemo-library-etl
-- medicafe
-- miceforest
-- dkarchiver
-- headson
-- ollcoder
-- Maniverse

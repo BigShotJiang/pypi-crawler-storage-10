@@ -1,11 +1,11 @@
 {
   "name": "drills-pro-proto",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Protocol Buffers for drills.pro",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drills_pro_proto-0.12.0.tar.gz",
-  "download_time": "2025-10-26T15:15:36.030821",
+  "download_filename": "drills_pro_proto-0.13.0.tar.gz",
+  "download_time": "2025-10-26T19:13:15.509590",
   "package_url": "https://pypi.org/project/drills-pro-proto/"
 }
