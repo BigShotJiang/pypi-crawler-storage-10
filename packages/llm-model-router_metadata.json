@@ -1,0 +1,11 @@
+{
+  "name": "llm-model-router",
+  "version": "0.1.0",
+  "summary": "Intelligent multi-LLM request router for cost optimization",
+  "author": "Faizan Batra",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mfbatra/model-router",
+  "download_filename": "llm_model_router-0.1.0.tar.gz",
+  "download_time": "2025-10-26T17:50:42.835024",
+  "package_url": "https://pypi.org/project/llm-model-router/"
+}

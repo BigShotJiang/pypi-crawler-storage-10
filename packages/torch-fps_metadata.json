@@ -1,0 +1,11 @@
+{
+  "name": "torch-fps",
+  "version": "0.2",
+  "summary": "Native PyTorch farthest point sampling for point cloud workloads",
+  "author": "Felix Yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_fps-0.2.tar.gz",
+  "download_time": "2025-10-26T17:50:39.220459",
+  "package_url": "https://pypi.org/project/torch-fps/"
+}
