@@ -1,0 +1,11 @@
+{
+  "name": "canvaslms",
+  "version": "4.14",
+  "summary": "Command-line interface to Canvas LMS",
+  "author": "Daniel Bosk",
+  "license": "MIT",
+  "home_page": "https://github.com/dbosk/canvaslms",
+  "download_filename": "canvaslms-4.14.tar.gz",
+  "download_time": "2025-10-26T20:18:08.184602",
+  "package_url": "https://pypi.org/project/canvaslms/"
+}

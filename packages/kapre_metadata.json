@@ -1,0 +1,11 @@
+{
+  "name": "kapre",
+  "version": "0.4.0",
+  "summary": "Kapre: Keras Audio Preprocessors. Tensorflow.Keras layers for audio pre-processing in deep learning",
+  "author": "Keunwoo Choi",
+  "license": "MIT",
+  "home_page": "http://github.com/keunwoochoi/kapre/",
+  "download_filename": "kapre-0.4.0.tar.gz",
+  "download_time": "2025-10-26T20:18:19.191947",
+  "package_url": "https://pypi.org/project/kapre/"
+}

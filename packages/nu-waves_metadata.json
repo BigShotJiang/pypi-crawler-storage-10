@@ -1,11 +1,11 @@
 {
   "name": "nu-waves",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Flavour-oscillation probabilities for neutrinos with numpy/torch backends.",
   "author": "Nadrino",
   "license": "LGPL-2.1-or-later",
   "home_page": null,
-  "download_filename": "nu_waves-1.2.1.tar.gz",
-  "download_time": "2025-10-26T19:37:39.399091",
+  "download_filename": "nu_waves-1.2.2.tar.gz",
+  "download_time": "2025-10-26T20:18:15.569550",
   "package_url": "https://pypi.org/project/nu-waves/"
 }
