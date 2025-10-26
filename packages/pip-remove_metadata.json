@@ -1,0 +1,11 @@
+{
+  "name": "pip-remove",
+  "version": "0.1.1",
+  "summary": "Removes both the specified package and its orphans from the current environment.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pip_remove-0.1.1.tar.gz",
+  "download_time": "2025-10-26T16:18:56.449464",
+  "package_url": "https://pypi.org/project/pip-remove/"
+}

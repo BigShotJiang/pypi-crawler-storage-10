@@ -1,0 +1,11 @@
+{
+  "name": "zope.schema",
+  "version": "8.1",
+  "summary": "zope.interface extension for defining data schemas",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.schema",
+  "download_filename": "zope_schema-8.1.tar.gz",
+  "download_time": "2025-10-26T16:19:09.074353",
+  "package_url": "https://pypi.org/project/zope.schema/"
+}

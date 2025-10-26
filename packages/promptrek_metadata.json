@@ -1,0 +1,11 @@
+{
+  "name": "promptrek",
+  "version": "0.4.0",
+  "summary": "Universal AI coding assistant configuration - manage prompts, MCP servers, plugins, commands, agents, and hooks across all major AI editors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptrek-0.4.0.tar.gz",
+  "download_time": "2025-10-26T16:18:56.973021",
+  "package_url": "https://pypi.org/project/promptrek/"
+}

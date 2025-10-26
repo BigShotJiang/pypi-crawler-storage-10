@@ -1,0 +1,11 @@
+{
+  "name": "bc-configs",
+  "version": "0.3.2",
+  "summary": "Configuration module, that provides a way to manage configs structure, validation and casting to type inside your code. Based on pedantic models. Additionally it can automatically getting config from environment variables, .env, HashiCorp Vault, etc.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bc_configs-0.3.2.tar.gz",
+  "download_time": "2025-10-26T16:19:03.858621",
+  "package_url": "https://pypi.org/project/bc-configs/"
+}
