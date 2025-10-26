@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T16:19:37.433998
+- **Download Time**: 2025-10-26T16:43:54.548969
 - **Total Packages**: 87
-- **Total Size**: 26.05 MB
+- **Total Size**: 10.42 MB
 
 ## Packages List
+- gui-utilities
+- orionis
+- bc-configs
+- makitdone-lib
+- PyGamLab
+- ray-cli
+- pyawsmock
+- p115client
+- headson
+- chimeralm
+- prompt-automation
+- kuzu-memory
+- msig
 - pypomes-iam
 - chanina
 - convert-stream
@@ -25,11 +38,9 @@
 - celltypeAgent
 - transub
 - brtp
-- prompt-automation
 - maps4fs
 - mlprac
 - safouregression
-- bc-configs
 - pyausaxs
 - matlab-mcp-server
 - cs2inspect
@@ -52,7 +63,6 @@
 - tchu-tchu
 - pyarchinit-mini
 - jampy
-- headson
 - ayechat
 - vre-video
 - nbt2dict
@@ -83,13 +93,3 @@
 - jupyterlab-doc-reader-extension
 - oet-core
 - splurge-exceptions
-- kuzu-memory
-- session-driven-development
-- orka-reasoning
-- jetpytools
-- memory-journal-mcp
-- PyCBC
-- cb-events
-- mozo
-- fkin-anfu
-- sdax

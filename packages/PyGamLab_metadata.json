@@ -1,0 +1,11 @@
+{
+  "name": "PyGamLab",
+  "version": "1.7.2",
+  "summary": "A scientific Python library with constants, unit convertors, formulas, and data analysis tools.",
+  "author": "Ali Pilehvar Meibody",
+  "license": null,
+  "home_page": "https://github.com/APMaii/pygamlab/tree/main",
+  "download_filename": "pygamlab-1.7.2.tar.gz",
+  "download_time": "2025-10-26T16:43:07.452419",
+  "package_url": "https://pypi.org/project/PyGamLab/"
+}
