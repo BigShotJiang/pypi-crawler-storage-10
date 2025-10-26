@@ -1,13 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T07:15:49.940187
-- **Total Packages**: 98
-- **Total Size**: 28.29 MB
+- **Download Time**: 2025-10-26T07:29:42.892512
+- **Total Packages**: 94
+- **Total Size**: 3.24 MB
 
 ## Packages List
-- ultimate-gemini-mcp
+- hello-agents
+- RetrievalMind
+- h2ogpte
 - statemachine-engine
+- code-loader
+- fc-code-interpreter-mcp-server
+- snakia
+- lattifai
+- ollama-prompt
+- initvenv
+- nxm-mcp-server
+- yta-editor-nodes-cpu
+- dock-thor-client
+- yta-editor-utils
+- tritonparse
+- ultimate-gemini-mcp
 - LogBar
 - ssepyrenderer
 - safe-view
@@ -21,7 +35,6 @@
 - expview
 - webuntis-fetcher
 - a2y-wxtools
-- fc-code-interpreter-mcp-server
 - agentia
 - a2y-wxcv
 - a2y-wxctrls
@@ -87,20 +100,3 @@
 - apache-airflow-providers-apache-iceberg
 - apache-airflow-providers-apache-hive
 - apache-airflow-providers-apache-hdfs
-- apache-airflow-providers-apache-flink
-- apache-airflow-providers-apache-drill
-- apache-airflow-providers-apache-cassandra
-- apache-airflow-providers-apache-beam
-- apache-airflow-providers-amazon
-- apache-airflow-providers-alibaba
-- apache-airflow-providers-airbyte
-- a2y-i18n
-- veadk-python
-- nagaagent-core
-- initvenv
-- pyscript-programming-language
-- nba-video-generator
-- avrotize
-- silmused
-- eigokai-scraper
-- query-tables

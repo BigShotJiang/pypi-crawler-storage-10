@@ -1,0 +1,11 @@
+{
+  "name": "RetrievalMind",
+  "version": "0.1.2",
+  "summary": "A custom Retrieval-Augmented Generation (RAG) framework for AI Agent applications.",
+  "author": "Himanshu Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/Himanshu7921/RetrievalMind",
+  "download_filename": "retrievalmind-0.1.2.tar.gz",
+  "download_time": "2025-10-26T07:28:49.107559",
+  "package_url": "https://pypi.org/project/RetrievalMind/"
+}

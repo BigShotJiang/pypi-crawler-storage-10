@@ -1,11 +1,11 @@
 {
   "name": "ollama-prompt",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "summary": "Ollama CLI prompt tool for local LLM code analysis",
   "author": "Daniel T Sasser II",
   "license": null,
   "home_page": "https://github.com/yourusername/ollama-prompt",
-  "download_filename": "ollama_prompt-1.1.2.tar.gz",
-  "download_time": "2025-10-26T06:23:28.126183",
+  "download_filename": "ollama_prompt-1.1.6.tar.gz",
+  "download_time": "2025-10-26T07:28:53.563396",
   "package_url": "https://pypi.org/project/ollama-prompt/"
 }
