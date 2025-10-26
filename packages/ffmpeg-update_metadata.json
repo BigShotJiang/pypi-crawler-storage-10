@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-update",
+  "version": "2.0.1",
+  "summary": "Package manager for FFmpeg, FFprobe, and FFplay static binaries",
+  "author": "Asadullah Shaikh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_update-2.0.1.tar.gz",
+  "download_time": "2025-10-26T07:38:40.822365",
+  "package_url": "https://pypi.org/project/ffmpeg-update/"
+}

@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T07:29:42.892512
-- **Total Packages**: 94
-- **Total Size**: 3.24 MB
+- **Download Time**: 2025-10-26T07:39:31.511181
+- **Total Packages**: 93
+- **Total Size**: 5.68 MB
 
 ## Packages List
+- codesi-lang
+- streamlit-lightweight-charts-pro
+- ffmpeg-update
+- pycmdtools
+- aaman-qjh-echarts-mcp
+- pycrypt-lib
+- fastcodedog
+- yta-editor-utils
 - hello-agents
 - RetrievalMind
 - h2ogpte
@@ -19,7 +27,6 @@
 - nxm-mcp-server
 - yta-editor-nodes-cpu
 - dock-thor-client
-- yta-editor-utils
 - tritonparse
 - ultimate-gemini-mcp
 - LogBar
@@ -92,11 +99,3 @@
 - apache-airflow-providers-apprise
 - apache-airflow-providers-apache-tinkerpop
 - apache-airflow-providers-apache-spark
-- apache-airflow-providers-apache-pinot
-- apache-airflow-providers-apache-pig
-- apache-airflow-providers-apache-livy
-- apache-airflow-providers-apache-kafka
-- apache-airflow-providers-apache-impala
-- apache-airflow-providers-apache-iceberg
-- apache-airflow-providers-apache-hive
-- apache-airflow-providers-apache-hdfs
