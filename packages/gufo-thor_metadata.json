@@ -1,0 +1,11 @@
+{
+  "name": "gufo-thor",
+  "version": "0.12.0",
+  "summary": "Gufo Thor is a simple tool designed for quickly setting up and evaluating NOC",
+  "author": "Gufo Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gufo_thor-0.12.0.tar.gz",
+  "download_time": "2025-10-26T09:15:34.102652",
+  "package_url": "https://pypi.org/project/gufo-thor/"
+}

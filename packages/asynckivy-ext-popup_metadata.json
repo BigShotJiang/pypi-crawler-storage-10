@@ -1,0 +1,11 @@
+{
+  "name": "asynckivy-ext-popup",
+  "version": "0.1.0",
+  "summary": "Helps you create custom popup widgets.",
+  "author": "Nattōsai Mitō",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asynckivy_ext_popup-0.1.0.tar.gz",
+  "download_time": "2025-10-26T09:15:25.126985",
+  "package_url": "https://pypi.org/project/asynckivy-ext-popup/"
+}

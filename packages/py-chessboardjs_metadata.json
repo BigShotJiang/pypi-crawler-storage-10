@@ -1,0 +1,11 @@
+{
+  "name": "py-chessboardjs",
+  "version": "0.0.3",
+  "summary": "Chess GUI using pywebview and chessboard.js.",
+  "author": "Akihiro Kuroiwa, ChatGPT of OpenAI, Gemini",
+  "license": "GNU/GPLv3+",
+  "home_page": "https://github.com/akuroiwa/py-chessboardjs",
+  "download_filename": "py_chessboardjs-0.0.3.tar.gz",
+  "download_time": "2025-10-26T09:15:32.389699",
+  "package_url": "https://pypi.org/project/py-chessboardjs/"
+}

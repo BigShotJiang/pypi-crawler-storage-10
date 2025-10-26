@@ -1,11 +1,11 @@
 {
   "name": "huda",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "HuDa — Humanitarian Data Library utilities for opening, cleaning, transforming, validating, geospatial, analysis, visualization, automation, and interoperability.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "huda-0.1.2.tar.gz",
-  "download_time": "2025-10-26T08:20:08.767954",
+  "download_filename": "huda-0.1.4.tar.gz",
+  "download_time": "2025-10-26T09:15:20.789234",
   "package_url": "https://pypi.org/project/huda/"
 }

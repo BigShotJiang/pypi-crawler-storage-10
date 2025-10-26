@@ -1,13 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T08:51:36.443818
-- **Total Packages**: 81
-- **Total Size**: 7.81 MB
+- **Download Time**: 2025-10-26T09:15:56.127893
+- **Total Packages**: 76
+- **Total Size**: 14.8 MB
 
 ## Packages List
-- workflows-mcp
+- itrx
+- coolpy
+- dexact
 - prismor
+- pyarchinit-mini
+- pyfusion-v1
+- llm-selector
+- yulksync
+- ktoolkit
+- v2ex-tx2json
+- odoo-addon-base-fontawesome-web-editor
+- py-ullr
+- sqliteplus-enhanced
+- huda
+- reasonchain
+- django-blocknote
+- superoptix
+- snorbyte
+- nonebot-plugin-alconna
+- azpaddypy
+- asynckivy-ext-popup
+- cobra-online
+- portwine
+- git-json
+- fkin-anfu
+- ir-sim
+- tidal-dl-ng
+- PR2MD
+- fs-football-fork
+- peview-client
+- genome-mcp
+- odoo-addon-base-fontawesome
+- py-chessboardjs
+- sssom-pydantic
+- cups-of-caffeine
+- gufo-thor
+- pyexec-compiler
+- frogml
+- PyLTSpice
+- workflows-mcp
 - tikz-extractor
 - tfp-nightly
 - hatesonar
@@ -15,21 +53,17 @@
 - pi-shell
 - django-unicom
 - jconfigpy
-- cobra-online
 - simple-word-filter
 - multi-search-api
 - ws-frappe-cli
 - fc-code-interpreter-mcp-server
 - iatoolkit
-- v2ex-tx2json
 - spicelib
 - clauxton
 - opensoar
 - graph-topper
 - yirgacheffe
 - finesse-benchmark
-- pyexec-compiler
-- snorbyte
 - shcripts
 - rugo
 - pycensuskr
@@ -48,42 +82,3 @@
 - vnpy_sopt
 - amrita
 - circuit-synth
-- dexact
-- huda
-- pyglove
-- vnpy_ctp
-- lucid-dl
-- wiredb
-- dock-thor-client
-- wire-websocket
-- pyepwmorph
-- wire-pipe
-- wire-memory
-- wire-file
-- kicad-sch-api
-- ttsfm
-- pyrudof
-- gymnasium-2048
-- FabOMatic
-- ant-ray-cpp-nightly
-- mix-python-sdk
-- baihe-config
-- jupyter-myst-build-proxy
-- hstrat
-- webclone-backend
-- ss-utils-logging
-- compact-rienet
-- superoptix
-- genome-mcp
-- initvenv
-- yta-editor-utils
-- streamlit-notebook
-- claude-worktree
-- gymnasium-search-race
-- dsslab-wdc-client
-- aiohomematic
-- syosetumaster
-- loggerizer
-- fastapi-voyager
-- statemachine-engine
-- aaman-qjh-echarts-mcp

@@ -1,0 +1,11 @@
+{
+  "name": "peview-client",
+  "version": "4.0.0",
+  "summary": "A PE file analysis tool developed for Windows platforms, used to quickly parse PE (Portable Executable) file structures, disassemble code segments, convert virtual addresses/relative virtual addresses/file offset addresses, search signatures/strings, and assist in reverse engineering, malware analysis, and exploit development.",
+  "author": "lyshark",
+  "license": "MIT Licence",
+  "home_page": "http://peview.lyshark.com",
+  "download_filename": "peview_client-4.0.0.tar.gz",
+  "download_time": "2025-10-26T09:15:30.710200",
+  "package_url": "https://pypi.org/project/peview-client/"
+}

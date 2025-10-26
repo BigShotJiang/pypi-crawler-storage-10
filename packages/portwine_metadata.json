@@ -1,0 +1,11 @@
+{
+  "name": "portwine",
+  "version": "0.1.5",
+  "summary": "A clean, elegant portfolio backtester that simplifies strategy development with online processing and comprehensive analysis tools",
+  "author": "Stuart Farmer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portwine-0.1.5.tar.gz",
+  "download_time": "2025-10-26T09:15:26.279375",
+  "package_url": "https://pypi.org/project/portwine/"
+}
