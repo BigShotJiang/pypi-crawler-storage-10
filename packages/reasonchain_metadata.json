@@ -1,11 +1,11 @@
 {
   "name": "reasonchain",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A modular AI reasoning library for building intelligent agents.",
   "author": "Baljindersingh Bedi",
   "license": "MIT",
   "home_page": "https://github.com/sunnybedi990/reasonchain",
-  "download_filename": "reasonchain-0.3.1.tar.gz",
-  "download_time": "2025-10-26T09:15:21.660558",
+  "download_filename": "reasonchain-0.3.2.tar.gz",
+  "download_time": "2025-10-26T10:34:26.464194",
   "package_url": "https://pypi.org/project/reasonchain/"
 }

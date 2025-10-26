@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T10:16:37.525825
+- **Download Time**: 2025-10-26T10:35:06.713133
 - **Total Packages**: 85
-- **Total Size**: 21.39 MB
+- **Total Size**: 12.98 MB
 
 ## Packages List
+- geventhttpclient
+- anyenv
+- mariax
+- skillz
+- mysingle-quant
+- zenive
+- triclick-doc-toolset
+- reasonchain
+- future_sales_inno_ds_project
+- dragonfruit-tui
+- constrained-values
+- beets-aisauce
+- torchopticsy
+- cosmol-viewer
+- eclips-blossom-ai
+- eccLib
+- gh-mcp
+- civic-lib-core
+- pytest-cream
+- tf-keras-nightly
+- cleanframes
+- django-admin-cursor-paginator
+- evenage
+- concurry
+- togura
+- tgup
+- mcpower-proxy
+- medicafe
+- alphaessopenapi
 - pyarchinit-mini
 - dexact
 - music_sampler
@@ -16,18 +45,13 @@
 - macs-cp
 - GlocalText
 - bitwarden-exporter
-- dragonfruit-tui
-- eclips-blossom-ai
 - heavyedge
 - pglast
 - fkin-anfu
-- pytest-cream
 - PyByntic
 - iatoolkit
 - multi-calendar-dimension
 - sealights-python-agent
-- civic-lib-core
-- cleanframes
 - anb-python-components
 - v2ex-tx2json
 - civic-lib-geo
@@ -67,27 +91,3 @@
 - nonebot-plugin-alisten
 - pyjolt
 - omniunibot
-- bluepyll
-- iam-policy-validator
-- nonebot-plugin-markdown2img
-- universal-mcp-agents
-- agentcrew-ai
-- imouse-py
-- chainmock
-- iminuit
-- langchain-decorators
-- qqtools
-- rekuest-next
-- pyfusion-v1
-- dnsdiag
-- qpac
-- biliup
-- ms-swift
-- autolocale
-- rdatacompy
-- mcpower-proxy
-- django-oscarbot
-- paho-mqtt-helper
-- tbp-nightly
-- suparkanbun
-- fleet-python

@@ -1,0 +1,11 @@
+{
+  "name": "eccLib",
+  "version": "1.2.0",
+  "summary": "High-performance library designed for parsing genomic files and analysing genomic context",
+  "author": "Tomasz Chady",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.platinum.edu.pl/eccdna/eccLib",
+  "download_filename": "ecclib-1.2.0.tar.gz",
+  "download_time": "2025-10-26T10:34:30.719108",
+  "package_url": "https://pypi.org/project/eccLib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-cursor-paginator",
+  "version": "0.1.7",
+  "summary": "Drop-in replacement for django admin default pagination that works fast with huge tables.",
+  "author": "Ilya Melnitskiy",
+  "license": "MIT",
+  "home_page": "https://github.com/a1tus/django-admin-cursor-paginator",
+  "download_filename": "django_admin_cursor_paginator-0.1.7.tar.gz",
+  "download_time": "2025-10-26T10:34:33.857821",
+  "package_url": "https://pypi.org/project/django-admin-cursor-paginator/"
+}

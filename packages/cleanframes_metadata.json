@@ -1,11 +1,11 @@
 {
   "name": "cleanframes",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A professional tool for cleaning duplicate or near-duplicate image frames using perceptual hashing and embeddings.",
   "author": "Abdullah Almutairi",
   "license": "MIT",
   "home_page": "https://github.com/abdullahalmutairi/cleanframes",
-  "download_filename": "cleanframes-0.2.1.tar.gz",
-  "download_time": "2025-10-26T10:16:03.756217",
+  "download_filename": "cleanframes-0.2.2.tar.gz",
+  "download_time": "2025-10-26T10:34:33.338902",
   "package_url": "https://pypi.org/project/cleanframes/"
 }

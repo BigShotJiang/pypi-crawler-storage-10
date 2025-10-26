@@ -1,0 +1,11 @@
+{
+  "name": "geventhttpclient",
+  "version": "2.3.5",
+  "summary": "HTTP client library for gevent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geventhttpclient-2.3.5.tar.gz",
+  "download_time": "2025-10-26T10:34:22.693872",
+  "package_url": "https://pypi.org/project/geventhttpclient/"
+}

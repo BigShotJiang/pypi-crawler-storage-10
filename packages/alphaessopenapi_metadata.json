@@ -1,0 +1,11 @@
+{
+  "name": "alphaessopenapi",
+  "version": "0.0.17",
+  "summary": "A python library to retrieve energy statistics from your Alpha ESS inverter by polling the Official Alpha ESS Open API.",
+  "author": "Charles Gillanders",
+  "license": null,
+  "home_page": "https://github.com/CharlesGillanders/alphaess-openAPI",
+  "download_filename": "alphaessopenapi-0.0.17.tar.gz",
+  "download_time": "2025-10-26T10:34:37.503628",
+  "package_url": "https://pypi.org/project/alphaessopenapi/"
+}
