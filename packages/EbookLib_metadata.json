@@ -1,0 +1,11 @@
+{
+  "name": "EbookLib",
+  "version": "0.20",
+  "summary": "Ebook library which can handle EPUB2/EPUB3 format",
+  "author": "Aleksandar Erkalovic",
+  "license": "GNU Affero General Public License",
+  "home_page": "https://github.com/aerkalov/ebooklib",
+  "download_filename": "ebooklib-0.20.tar.gz",
+  "download_time": "2025-10-26T21:14:45.169087",
+  "package_url": "https://pypi.org/project/EbookLib/"
+}

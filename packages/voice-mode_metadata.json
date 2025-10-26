@@ -1,0 +1,11 @@
+{
+  "name": "voice-mode",
+  "version": "6.0.2",
+  "summary": "VoiceMode - Voice interaction capabilities for AI assistants (formerly voice-mcp)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voice_mode-6.0.2.tar.gz",
+  "download_time": "2025-10-26T21:14:27.793886",
+  "package_url": "https://pypi.org/project/voice-mode/"
+}
