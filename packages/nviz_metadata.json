@@ -1,0 +1,11 @@
+{
+  "name": "nviz",
+  "version": "0.0.5",
+  "summary": "A tool for creating and visualizing n-dimensional microscopy images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nviz-0.0.5.tar.gz",
+  "download_time": "2025-10-26T13:06:07.371916",
+  "package_url": "https://pypi.org/project/nviz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "linkp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "AI-powered tool for daily LinkedIn developer progress posts, with git tracking, AI summarization, and visual generation.",
   "author": "LinkP Team",
   "license": null,
-  "home_page": "https://github.com/yourusername/linkp",
-  "download_filename": "linkp-0.3.0.tar.gz",
-  "download_time": "2025-10-26T11:12:52.234820",
+  "home_page": "https://github.com/nassdaq/linkp",
+  "download_filename": "linkp-0.4.0.tar.gz",
+  "download_time": "2025-10-26T13:05:51.265242",
   "package_url": "https://pypi.org/project/linkp/"
 }

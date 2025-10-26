@@ -1,0 +1,11 @@
+{
+  "name": "data-process",
+  "version": "0.4.0",
+  "summary": "make processing 2d data more convenient",
+  "author": "weaming",
+  "license": null,
+  "home_page": "https://github.com/weaming/data-process",
+  "download_filename": "data_process-0.4.0.tar.gz",
+  "download_time": "2025-10-26T13:06:15.573209",
+  "package_url": "https://pypi.org/project/data-process/"
+}

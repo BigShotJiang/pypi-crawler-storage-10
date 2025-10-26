@@ -1,11 +1,11 @@
 {
   "name": "coregtor",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A tool to predict transcription co-regulators for a gene from gene expression data using random forest methods",
   "author": "Shubh Vardhan Jain",
   "license": null,
   "home_page": null,
-  "download_filename": "coregtor-0.1.4.tar.gz",
-  "download_time": "2025-10-25T21:38:41.769443",
+  "download_filename": "coregtor-0.1.5.tar.gz",
+  "download_time": "2025-10-26T13:06:09.435149",
   "package_url": "https://pypi.org/project/coregtor/"
 }

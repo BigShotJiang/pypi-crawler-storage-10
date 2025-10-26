@@ -1,0 +1,11 @@
+{
+  "name": "llmextract",
+  "version": "0.2.0",
+  "summary": "A library to extract structured information from unstructured text using LLMs, powered by LangChain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmextract-0.2.0.tar.gz",
+  "download_time": "2025-10-26T13:06:05.821626",
+  "package_url": "https://pypi.org/project/llmextract/"
+}
