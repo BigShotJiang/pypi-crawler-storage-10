@@ -1,0 +1,11 @@
+{
+  "name": "firefly_iii_client",
+  "version": "6.4.0.0",
+  "summary": "Firefly III API Client",
+  "author": "Marcin Szymanski",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/ms32035/firefly-iii-client",
+  "download_filename": "firefly_iii_client-6.4.0.0.tar.gz",
+  "download_time": "2025-10-26T17:14:03.625280",
+  "package_url": "https://pypi.org/project/firefly_iii_client/"
+}
