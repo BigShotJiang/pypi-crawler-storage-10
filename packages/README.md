@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T08:42:39.955332
-- **Total Packages**: 77
-- **Total Size**: 15.49 MB
+- **Download Time**: 2025-10-26T08:51:36.443818
+- **Total Packages**: 81
+- **Total Size**: 7.81 MB
 
 ## Packages List
+- workflows-mcp
+- prismor
+- tikz-extractor
+- tfp-nightly
+- hatesonar
+- triclick-doc-toolset
+- pi-shell
+- django-unicom
+- jconfigpy
 - cobra-online
 - simple-word-filter
 - multi-search-api
@@ -19,14 +28,10 @@
 - graph-topper
 - yirgacheffe
 - finesse-benchmark
-- git-json
-- aiohomematic-test-support
-- aiohomematic
 - pyexec-compiler
 - snorbyte
 - shcripts
 - rugo
-- jconfigpy
 - pycensuskr
 - cosmol-viewer
 - LogicalQ
@@ -76,10 +81,9 @@
 - claude-worktree
 - gymnasium-search-race
 - dsslab-wdc-client
+- aiohomematic
 - syosetumaster
 - loggerizer
 - fastapi-voyager
 - statemachine-engine
 - aaman-qjh-echarts-mcp
-- percolate-rocks
-- nv2a-pretty

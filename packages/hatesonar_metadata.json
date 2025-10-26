@@ -1,0 +1,11 @@
+{
+  "name": "hatesonar",
+  "version": "0.1.0",
+  "summary": "Hate Speech Detection Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatesonar-0.1.0.tar.gz",
+  "download_time": "2025-10-26T08:50:56.650786",
+  "package_url": "https://pypi.org/project/hatesonar/"
+}
