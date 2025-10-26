@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-excel-sql",
-  "version": "0.7.4",
+  "version": "0.7.6",
   "summary": "Let Claude query Excel files using SQL - no SQL knowledge required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_excel_sql-0.7.4.tar.gz",
-  "download_time": "2025-10-26T13:06:02.214619",
+  "download_filename": "mcp_server_excel_sql-0.7.6.tar.gz",
+  "download_time": "2025-10-26T23:15:26.497064",
   "package_url": "https://pypi.org/project/mcp-server-excel-sql/"
 }

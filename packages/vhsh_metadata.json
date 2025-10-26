@@ -1,0 +1,11 @@
+{
+  "name": "vhsh",
+  "version": "0.1.2",
+  "summary": "Video Home Shader: A demo tool for digitally assisted analog vjaying",
+  "author": "Philipp Stephan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vhsh-0.1.2.tar.gz",
+  "download_time": "2025-10-26T23:15:20.476411",
+  "package_url": "https://pypi.org/project/vhsh/"
+}

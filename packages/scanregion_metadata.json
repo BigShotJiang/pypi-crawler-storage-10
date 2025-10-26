@@ -1,0 +1,11 @@
+{
+  "name": "scanregion",
+  "version": "1.0.0",
+  "summary": "Scan geneome for motif sequences",
+  "author": "Benxia Hu",
+  "license": null,
+  "home_page": "https://pypi.org/project/scanregion/",
+  "download_filename": "scanregion-1.0.0.tar.gz",
+  "download_time": "2025-10-26T23:15:34.348029",
+  "package_url": "https://pypi.org/project/scanregion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "networkx-mermaid",
+  "version": "0.3.0",
+  "summary": "Create a Mermaid graph from a NetworkX graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "networkx_mermaid-0.3.0.tar.gz",
+  "download_time": "2025-10-26T23:15:43.620633",
+  "package_url": "https://pypi.org/project/networkx-mermaid/"
+}

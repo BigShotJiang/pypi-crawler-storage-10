@@ -1,0 +1,11 @@
+{
+  "name": "ipykernel-helper",
+  "version": "0.0.13",
+  "summary": "Helpers for ipykernel and friends",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/ipykernel-helper",
+  "download_filename": "ipykernel_helper-0.0.13.tar.gz",
+  "download_time": "2025-10-26T23:15:08.847219",
+  "package_url": "https://pypi.org/project/ipykernel-helper/"
+}

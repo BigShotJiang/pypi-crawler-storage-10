@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-po-orchard",
+  "version": "0.2.1",
+  "summary": "Parser for gettext .po files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_po_orchard-0.2.1.tar.gz",
+  "download_time": "2025-10-26T23:15:30.863263",
+  "package_url": "https://pypi.org/project/tree-sitter-po-orchard/"
+}

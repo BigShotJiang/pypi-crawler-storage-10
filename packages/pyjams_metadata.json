@@ -1,0 +1,11 @@
+{
+  "name": "pyjams",
+  "version": "2.4",
+  "summary": "pyjams: a general Python package with a wide variety of miscellaneous utility functions.",
+  "author": "Matthias Cuntz, Juliane Mai, Stephan Thober, Arndt Piayda",
+  "license": "MIT",
+  "home_page": "https://github.com/mcuntz/pyjams",
+  "download_filename": "pyjams-2.4.tar.gz",
+  "download_time": "2025-10-26T23:15:40.410080",
+  "package_url": "https://pypi.org/project/pyjams/"
+}

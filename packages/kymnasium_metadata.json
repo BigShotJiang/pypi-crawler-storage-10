@@ -1,0 +1,11 @@
+{
+  "name": "kymnasium",
+  "version": "1.0.9",
+  "summary": "The collection of reinforcement learning environments developed for the Artificial Intelligence course at the Department of Computer Science and Engineering, Kangwon National University.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kymnasium-1.0.9-py3-none-any.whl",
+  "download_time": "2025-10-26T23:15:35.093728",
+  "package_url": "https://pypi.org/project/kymnasium/"
+}
