@@ -1,0 +1,11 @@
+{
+  "name": "psycopg-c",
+  "version": "3.2.12",
+  "summary": "PostgreSQL database adapter for Python -- C optimisation distribution",
+  "author": "Daniele Varrazzo",
+  "license": null,
+  "home_page": "https://psycopg.org/psycopg3/",
+  "download_filename": "psycopg_c-3.2.12.tar.gz",
+  "download_time": "2025-10-26T01:20:31.976542",
+  "package_url": "https://pypi.org/project/psycopg-c/"
+}

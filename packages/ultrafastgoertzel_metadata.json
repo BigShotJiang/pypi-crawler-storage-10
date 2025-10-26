@@ -1,0 +1,11 @@
+{
+  "name": "ultrafastgoertzel",
+  "version": "0.1.0",
+  "summary": "A fast goertzel calculator Rust",
+  "author": null,
+  "license": "WTFPL",
+  "home_page": null,
+  "download_filename": "ultrafastgoertzel-0.1.0.tar.gz",
+  "download_time": "2025-10-26T01:20:29.391045",
+  "package_url": "https://pypi.org/project/ultrafastgoertzel/"
+}

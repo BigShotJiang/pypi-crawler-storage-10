@@ -1,0 +1,11 @@
+{
+  "name": "drive2x-sca-interfaces",
+  "version": "0.2.0",
+  "summary": "Definitions and validators for DriVe2X SCA integration.\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drive2x_sca_interfaces-0.2.0.tar.gz",
+  "download_time": "2025-10-26T01:20:29.906366",
+  "package_url": "https://pypi.org/project/drive2x-sca-interfaces/"
+}

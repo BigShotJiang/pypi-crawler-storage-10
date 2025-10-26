@@ -1,0 +1,11 @@
+{
+  "name": "patra-toolkit",
+  "version": "0.2.1",
+  "summary": "Toolkit for semi-automated modelcard creation for AI/ML models.",
+  "author": "Data to Insight Center",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Data-to-Insight-Center/patra-toolkit.git",
+  "download_filename": "patra_toolkit-0.2.1.tar.gz",
+  "download_time": "2025-10-26T01:20:34.198475",
+  "package_url": "https://pypi.org/project/patra-toolkit/"
+}

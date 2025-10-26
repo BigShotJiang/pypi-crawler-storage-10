@@ -1,0 +1,11 @@
+{
+  "name": "pqcdualusb",
+  "version": "0.15.3",
+  "summary": "Post-quantum cryptography dual USB backup system with PQCRYPTO backend support",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pqcdualusb-0.15.3.tar.gz",
+  "download_time": "2025-10-26T01:20:26.283014",
+  "package_url": "https://pypi.org/project/pqcdualusb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "midi2song",
+  "version": "0.1.1",
+  "summary": "CLI player that streams MIDI files to system MIDI OUT ports with optional text visualisations",
+  "author": "Andrea Antonio Perrelli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "midi2song-0.1.1.tar.gz",
+  "download_time": "2025-10-26T01:20:28.855784",
+  "package_url": "https://pypi.org/project/midi2song/"
+}
