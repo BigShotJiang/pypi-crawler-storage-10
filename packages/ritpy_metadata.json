@@ -1,11 +1,11 @@
 {
   "name": "ritpy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python wrapper for the Rotman Interactive Trader (RIT) REST API",
   "author": "Edoardo Cocciò",
   "license": null,
   "home_page": null,
-  "download_filename": "ritpy-0.1.0.tar.gz",
-  "download_time": "2025-10-26T15:15:48.962112",
+  "download_filename": "ritpy-0.1.1.tar.gz",
+  "download_time": "2025-10-26T15:30:49.567563",
   "package_url": "https://pypi.org/project/ritpy/"
 }
