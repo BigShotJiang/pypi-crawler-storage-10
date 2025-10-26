@@ -1,0 +1,11 @@
+{
+  "name": "auth-agent-sdk",
+  "version": "2.1.0",
+  "summary": "Agent SDK for AI agent developers - Authenticate AI agents with Auth-Agent OAuth 2.1, solve AI challenges, and access OAuth-protected resources",
+  "author": "Auth-Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/auth-agent/agent-sdk-python",
+  "download_filename": "auth_agent_sdk-2.1.0.tar.gz",
+  "download_time": "2025-10-26T09:50:35.533899",
+  "package_url": "https://pypi.org/project/auth-agent-sdk/"
+}

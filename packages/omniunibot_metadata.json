@@ -1,0 +1,11 @@
+{
+  "name": "omniunibot",
+  "version": "0.6.0",
+  "summary": "Universal Push Service",
+  "author": "yttty",
+  "license": "MIT",
+  "home_page": "https://github.com/yttty/omniunibot",
+  "download_filename": "omniunibot-0.6.0.tar.gz",
+  "download_time": "2025-10-26T09:50:40.288576",
+  "package_url": "https://pypi.org/project/omniunibot/"
+}

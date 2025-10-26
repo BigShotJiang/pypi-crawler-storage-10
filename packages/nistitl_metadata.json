@@ -1,0 +1,11 @@
+{
+  "name": "nistitl",
+  "version": "0.6",
+  "summary": "NIST-ITL Python Parsing Library",
+  "author": "Olivier Heurtier",
+  "license": "CeCILL-C",
+  "home_page": "https://github.com/idemia/python-nistitl",
+  "download_filename": "nistitl-0.6.tar.gz",
+  "download_time": "2025-10-26T09:50:37.275610",
+  "package_url": "https://pypi.org/project/nistitl/"
+}

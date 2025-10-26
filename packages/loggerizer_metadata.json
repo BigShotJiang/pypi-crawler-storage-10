@@ -1,11 +1,11 @@
 {
   "name": "loggerizer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A flexible logging framework with JSON, file, and SMTP logging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loggerizer-0.1.6.tar.gz",
-  "download_time": "2025-10-26T09:40:32.911167",
+  "download_filename": "loggerizer-0.1.7.tar.gz",
+  "download_time": "2025-10-26T09:50:37.849231",
   "package_url": "https://pypi.org/project/loggerizer/"
 }

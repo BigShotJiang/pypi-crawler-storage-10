@@ -1,15 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T09:41:17.577334
-- **Total Packages**: 84
-- **Total Size**: 3.38 MB
+- **Download Time**: 2025-10-26T09:51:18.701267
+- **Total Packages**: 82
+- **Total Size**: 7.82 MB
 
 ## Packages List
+- eval-protocol
+- psvr2toolkit-installer
+- stigg-api-client-v2
+- nblm
+- nearness
+- libfcast
+- cleanframes
+- stigg-api-client
+- valur
+- omniopt2
+- auth-agent-sdk
+- arkitekt-next
+- pp3d
+- nistitl
 - loggerizer
+- demoparser2
+- nonebot-plugin-alisten
+- pyjolt
+- omniunibot
+- bluepyll
+- iam-policy-validator
+- nonebot-plugin-markdown2img
+- universal-mcp-agents
+- agentcrew-ai
 - imouse-py
 - chainmock
-- omniopt2
 - iminuit
 - langchain-decorators
 - qqtools
@@ -20,7 +42,6 @@
 - biliup
 - ms-swift
 - autolocale
-- cleanframes
 - rdatacompy
 - mcpower-proxy
 - django-oscarbot
@@ -67,26 +88,3 @@
 - git-json
 - fkin-anfu
 - ir-sim
-- tidal-dl-ng
-- PR2MD
-- fs-football-fork
-- peview-client
-- genome-mcp
-- odoo-addon-base-fontawesome
-- py-chessboardjs
-- sssom-pydantic
-- cups-of-caffeine
-- gufo-thor
-- pyexec-compiler
-- frogml
-- PyLTSpice
-- workflows-mcp
-- tikz-extractor
-- tfp-nightly
-- hatesonar
-- triclick-doc-toolset
-- pi-shell
-- django-unicom
-- jconfigpy
-- simple-word-filter
-- multi-search-api
