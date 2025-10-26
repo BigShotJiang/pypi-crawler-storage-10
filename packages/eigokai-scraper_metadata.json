@@ -1,0 +1,11 @@
+{
+  "name": "eigokai-scraper",
+  "version": "1.0.3",
+  "summary": "A script to scrape Reigokai Translations and generate EPUB/PDF eBooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eigokai_scraper-1.0.3.tar.gz",
+  "download_time": "2025-10-26T07:15:48.920175",
+  "package_url": "https://pypi.org/project/eigokai-scraper/"
+}

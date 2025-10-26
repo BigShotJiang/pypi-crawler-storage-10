@@ -1,0 +1,11 @@
+{
+  "name": "a2y-i18n",
+  "version": "1.0.0",
+  "summary": "这个模块提供一个类似`gettext`的功能：文本显示前的翻译。",
+  "author": "Yu Han",
+  "license": "Private",
+  "home_page": "http://www.kersci.com/a2y/i18n.html",
+  "download_filename": "a2y_i18n-1.0.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-10-26T07:15:44.770809",
+  "package_url": "https://pypi.org/project/a2y-i18n/"
+}

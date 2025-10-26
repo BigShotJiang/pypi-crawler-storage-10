@@ -1,11 +1,11 @@
 {
   "name": "nagaagent-core",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "NagaAgent核心依赖包，包含核心功能和API服务器相关依赖",
   "author": "NagaAgent Team",
   "license": "MIT",
   "home_page": "https://github.com/nagaagent/nagaagent-core",
-  "download_filename": "nagaagent_core-1.0.8.tar.gz",
-  "download_time": "2025-10-26T06:47:17.800361",
+  "download_filename": "nagaagent_core-1.0.9.tar.gz",
+  "download_time": "2025-10-26T07:15:45.807927",
   "package_url": "https://pypi.org/project/nagaagent-core/"
 }
