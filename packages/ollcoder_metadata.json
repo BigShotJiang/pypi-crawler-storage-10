@@ -1,11 +1,11 @@
 {
   "name": "ollcoder",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "The only AI coding agent with true autonomous loop and persistent learning memory",
   "author": "Quinton",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ollcoder-0.4.2.tar.gz",
-  "download_time": "2025-10-26T20:18:11.336557",
+  "download_filename": "ollcoder-0.5.0.tar.gz",
+  "download_time": "2025-10-26T20:50:29.899481",
   "package_url": "https://pypi.org/project/ollcoder/"
 }

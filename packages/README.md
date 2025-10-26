@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T20:40:13.015357
-- **Total Packages**: 78
-- **Total Size**: 11.38 MB
+- **Download Time**: 2025-10-26T20:51:10.342793
+- **Total Packages**: 79
+- **Total Size**: 11.21 MB
 
 ## Packages List
+- pixtreme-core
+- ws-frappe-cli
+- ohmyapi
+- krl-model-zoo
+- ollcoder
+- percolate-rocks
+- finesse-benchmark-database
+- pyimaprotect
+- finesse-benchmark
+- llm-recovery
+- slack-blocks-markdown
+- ai-pipeline-core
+- xync-client
+- gradio-wordleboard
+- tree-sitter-rust-orchard
+- sphinx-breeze-theme
 - llm-model-router
 - repligauge
 - organize-stream
@@ -15,7 +31,6 @@
 - rocket-ahmed
 - timbal
 - pianosdk
-- llm-recovery
 - kitecmd-IR
 - saterys
 - maleo-identity
@@ -36,7 +51,6 @@
 - d365fo-client
 - voiceconversion
 - gdpr-compliance-checker
-- finesse-benchmark
 - moai-adk
 - QTradeX
 - canvaslms
@@ -45,14 +59,12 @@
 - depmanager
 - clonf
 - activity-browser
-- ollcoder
 - assisted-service-client
 - pywa
 - marearts-road-objects
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - nu-waves
-- sphinx-breeze-theme
 - sibr-agent
 - animesubinfo
 - polars-runtime-compat
@@ -73,14 +85,3 @@
 - make-argocd-fly
 - superoptix
 - image-to-image
-- evenage
-- skill-to-mcp
-- snorbyte
-- kaggle-discussion-extractor
-- linkp
-- otel-observability
-- katana-openapi-client
-- gui-utilities
-- julia-my-tail
-- fastapi-querybuilder
-- code-puppy

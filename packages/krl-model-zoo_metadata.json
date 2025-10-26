@@ -1,0 +1,11 @@
+{
+  "name": "krl-model-zoo",
+  "version": "1.0.0",
+  "summary": "Production-ready socioeconomic and econometric models for policy analysis, forecasting, and regional development",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "krl_model_zoo-1.0.0.tar.gz",
+  "download_time": "2025-10-26T20:50:29.376126",
+  "package_url": "https://pypi.org/project/krl-model-zoo/"
+}
