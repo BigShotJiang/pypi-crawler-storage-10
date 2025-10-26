@@ -1,16 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T16:43:54.548969
-- **Total Packages**: 87
-- **Total Size**: 10.42 MB
+- **Download Time**: 2025-10-26T16:53:27.323861
+- **Total Packages**: 88
+- **Total Size**: 6.71 MB
 
 ## Packages List
+- ollcoder
+- tchu-tchu
+- hieropy
+- vellum-workflow-server
+- gpyutils
+- qtqp
+- PyGamLab
+- maxwell-demon
+- k8s-helpers
+- zeed-guilib
+- hermes_ai
+- sseqs
+- gofeatureflag-python-provider
+- fastrapi
+- tapsilat-py
+- robustloss-lab
+- step-cli-tools
+- viu-media
+- newertype
+- hyperliquid-mcp-python
+- mcp-proxy
+- vellum-ai
+- tokenwatcher
+- siat
+- django-tinymce4-plus
+- llmring
+- pixtreme-legacy
+- pixtreme
+- pixtreme-upscale
+- pixtreme-draw
+- pixtreme-aces
+- pixtreme-filter
+- llmling-agent
+- pixtreme-core
+- makitdone-web
+- snakia
+- makitdone-orm
+- screamrouter
 - gui-utilities
 - orionis
 - bc-configs
 - makitdone-lib
-- PyGamLab
 - ray-cli
 - pyawsmock
 - p115client
@@ -34,7 +71,6 @@
 - django-bolt
 - pulkit-calculator
 - mix-python-sdk
-- hyperliquid-mcp-python
 - celltypeAgent
 - transub
 - brtp
@@ -52,44 +88,9 @@
 - aioautomower
 - zope.schema
 - music-assistant-models
-- maxwell-demon
 - token-bowl-chat
 - medicafe
 - django-essentials-kit
 - ros-mcp
 - SymXplorer
 - pumaz
-- poor_yclientsapi
-- tchu-tchu
-- pyarchinit-mini
-- jampy
-- ayechat
-- vre-video
-- nbt2dict
-- astromorphlib
-- skill-to-mcp
-- llmpop
-- seds-lab3
-- dock-thor-client
-- databricks-switch-plugin
-- splurge-safe-io
-- cartesia
-- batplot
-- nonebot-plugin-summary-group
-- jupyterlab-refresh-view-extension
-- civic-data-boundaries-us-cd118
-- mistflow
-- protoprimer
-- model-metrics
-- acbox
-- fastmcp
-- aiogram-toolkit
-- maleo-identity
-- strands-agentcore-tools
-- blurhash-py
-- mcp-ticketer
-- mokkari
-- nwn
-- jupyterlab-doc-reader-extension
-- oet-core
-- splurge-exceptions

@@ -1,0 +1,11 @@
+{
+  "name": "makitdone-orm",
+  "version": "0.0.2",
+  "summary": "python orm框架，目前仅支持MySql",
+  "author": "liangchao",
+  "license": "MIT",
+  "home_page": "https://gitee.com/makitdone/makitdone-orm",
+  "download_filename": "makitdone_orm-0.0.2.tar.gz",
+  "download_time": "2025-10-26T16:52:59.497243",
+  "package_url": "https://pypi.org/project/makitdone-orm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "newertype",
+  "version": "0.4.0",
+  "summary": "An Implementation of the NewType Pattern for Python that works in dynamic contexts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newertype-0.4.0.tar.gz",
+  "download_time": "2025-10-26T16:52:48.962675",
+  "package_url": "https://pypi.org/project/newertype/"
+}
