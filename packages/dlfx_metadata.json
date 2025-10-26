@@ -1,11 +1,11 @@
 {
   "name": "dlfx",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A collection of utility functions for medical imaging.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dlfx-0.1.2.tar.gz",
-  "download_time": "2025-10-26T03:57:54.293074",
+  "download_filename": "dlfx-0.1.3.tar.gz",
+  "download_time": "2025-10-26T04:23:37.170320",
   "package_url": "https://pypi.org/project/dlfx/"
 }

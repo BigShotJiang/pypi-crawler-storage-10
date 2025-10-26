@@ -1,11 +1,11 @@
 {
   "name": "gruyere",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A tiny program for viewing and killing processes on ports",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gruyere-0.0.3.tar.gz",
-  "download_time": "2025-10-26T03:57:52.392576",
+  "download_filename": "gruyere-0.0.4.tar.gz",
+  "download_time": "2025-10-26T04:23:33.537506",
   "package_url": "https://pypi.org/project/gruyere/"
 }

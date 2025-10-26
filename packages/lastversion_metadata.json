@@ -1,0 +1,11 @@
+{
+  "name": "lastversion",
+  "version": "3.5.8",
+  "summary": "A CLI tool to find the latest stable version of an arbitrary project",
+  "author": "Danila Vershinin",
+  "license": "BSD",
+  "home_page": "https://github.com/dvershinin/lastversion",
+  "download_filename": "lastversion-3.5.8.tar.gz",
+  "download_time": "2025-10-26T04:23:39.066564",
+  "package_url": "https://pypi.org/project/lastversion/"
+}
