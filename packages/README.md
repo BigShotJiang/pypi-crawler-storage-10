@@ -1,18 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T23:42:50.776940
+- **Download Time**: 2025-10-26T23:52:00.915951
 - **Total Packages**: 79
-- **Total Size**: 6.99 MB
+- **Total Size**: 4.39 MB
 
 ## Packages List
+- lt-tensor
+- cb-flooddy
+- greenstream-config
+- gui-utilities
+- femboy32
+- mudp
+- cdk-factory
+- drupal-scout-mcp
+- biblematetc
+- tensordiagram
 - aignostics
 - riffy
 - tchu-tchu
 - mdformat_mkdocs
 - multi-puzzle-solver
 - mbag-malmo-gensyn
-- gui-utilities
 - nv-ingest
 - nv-ingest-client
 - nv-ingest-api
@@ -22,7 +31,6 @@
 - opinion-api
 - python-components
 - kicad-pcb-api
-- cb-flooddy
 - lionagi
 - dycw-pre-commit-hooks
 - pixtreme
@@ -58,7 +66,6 @@
 - agex
 - edq-lms-toolkit
 - ipykernel-helper
-- cdk-factory
 - nsa-flow
 - lava-lyra
 - market-data-orchestrator
@@ -78,10 +85,3 @@
 - django-jsanctions
 - alpha-berkeley-framework
 - django-jissues
-- django-jbank
-- mcp-server-excel-sql
-- open-flash
-- mspec
-- gruyere
-- django-jauth
-- fwz-pt
