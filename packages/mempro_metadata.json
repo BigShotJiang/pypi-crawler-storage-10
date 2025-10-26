@@ -1,0 +1,11 @@
+{
+  "name": "mempro",
+  "version": "0.0.7",
+  "summary": "A program for the orientation of membrane proteins and a coarse grained system builder based on INSANE",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mempro-0.0.7.tar.gz",
+  "download_time": "2025-10-26T19:37:27.401748",
+  "package_url": "https://pypi.org/project/mempro/"
+}

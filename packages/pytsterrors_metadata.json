@@ -1,11 +1,11 @@
 {
   "name": "pytsterrors",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "pytsterrors contains an exception that helps to validate trace calls",
   "author": "Manos Ragiadakos",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytsterrors-0.2.0.tar.gz",
-  "download_time": "2025-10-26T13:06:04.281404",
+  "download_filename": "pytsterrors-0.3.0.tar.gz",
+  "download_time": "2025-10-26T19:37:30.232616",
   "package_url": "https://pypi.org/project/pytsterrors/"
 }

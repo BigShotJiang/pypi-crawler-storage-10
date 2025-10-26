@@ -1,11 +1,11 @@
 {
   "name": "fastapi-gen",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "Set up a modern REST API by running one command.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_gen-0.11.0.tar.gz",
-  "download_time": "2025-10-26T18:45:56.177590",
+  "download_filename": "fastapi_gen-0.11.1.tar.gz",
+  "download_time": "2025-10-26T19:37:24.628411",
   "package_url": "https://pypi.org/project/fastapi-gen/"
 }
