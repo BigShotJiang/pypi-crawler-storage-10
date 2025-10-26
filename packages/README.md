@@ -1,15 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T05:39:49.112604
-- **Total Packages**: 70
-- **Total Size**: 17.52 MB
+- **Download Time**: 2025-10-26T05:51:02.555428
+- **Total Packages**: 68
+- **Total Size**: 0.19 MB
 
 ## Packages List
-- pyfusion-v1
+- bluepyll
 - ultimate-gemini-mcp
-- sc-utility
+- markdown-toc-creator
+- opendp
 - robotframework-androiduiautomation
+- pyfusion-v1
+- sc-utility
 - ttsfm
 - pvv-mcp-server
 - lino-xl
@@ -71,8 +74,3 @@
 - drun
 - otpylib-config
 - benchmark-runner
-- pyadvtools
-- pyduktape3
-- mcp-postgres-duwenji
-- videolab
-- keras-nlp-nightly
