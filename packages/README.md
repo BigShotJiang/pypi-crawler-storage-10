@@ -1,12 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T15:31:22.674671
-- **Total Packages**: 83
-- **Total Size**: 2.94 MB
+- **Download Time**: 2025-10-26T15:42:10.509308
+- **Total Packages**: 86
+- **Total Size**: 11.51 MB
 
 ## Packages List
+- mcp-ticketer
+- mokkari
+- nwn
+- jupyterlab-doc-reader-extension
+- maps4fs
+- oet-core
+- splurge-exceptions
+- kuzu-memory
+- session-driven-development
 - blurhash-py
+- orka-reasoning
+- jetpytools
+- tchu-tchu
+- memory-journal-mcp
+- python-license
+- PyCBC
+- cb-events
 - mozo
 - fkin-anfu
 - sdax
@@ -55,7 +71,6 @@
 - pymtech-docker-launcher
 - nashvec
 - tokenwatcher
-- nwn
 - meg-qc
 - rsyncx
 - extendedstim
@@ -77,15 +92,3 @@
 - lamda
 - subnet-calculator-mcp
 - aiosqla-admin
-- vmodes
-- transub
-- Eporner-API
-- url2epub
-- pyblockworld
-- nillanet
-- ygojson
-- fastrapi
-- memory-journal-mcp
-- io-connect
-- ootools-oocli
-- karva

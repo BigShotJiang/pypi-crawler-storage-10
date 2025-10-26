@@ -1,0 +1,11 @@
+{
+  "name": "tchu-tchu",
+  "version": "1.0.0",
+  "summary": "A modern Celery-based messaging library with Pydantic serialization and Django integration",
+  "author": "David Sigley",
+  "license": "MIT",
+  "home_page": "https://github.com/sigularusrex/tchu-tchu",
+  "download_filename": "tchu_tchu-1.0.0.tar.gz",
+  "download_time": "2025-10-26T15:41:32.357091",
+  "package_url": "https://pypi.org/project/tchu-tchu/"
+}
