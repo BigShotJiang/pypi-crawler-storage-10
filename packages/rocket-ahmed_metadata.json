@@ -1,11 +1,11 @@
 {
   "name": "rocket-ahmed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An awesome package that does something",
   "author": "ahmed",
   "license": "LICENSE.txt",
-  "home_page": "http://pypi.python.org/pypi/rocket-ahmed/",
-  "download_filename": "rocket_ahmed-1.0.0.tar.gz",
-  "download_time": "2025-10-26T19:50:27.324775",
+  "home_page": "http://pypi.python.org/pypi/rocket_ahmed/",
+  "download_filename": "rocket_ahmed-1.0.1.tar.gz",
+  "download_time": "2025-10-26T20:39:33.166868",
   "package_url": "https://pypi.org/project/rocket-ahmed/"
 }

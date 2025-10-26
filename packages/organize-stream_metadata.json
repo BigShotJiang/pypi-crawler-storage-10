@@ -1,0 +1,11 @@
+{
+  "name": "organize-stream",
+  "version": "1.2",
+  "summary": "Organizar documentos PDF e imagens.",
+  "author": "Bruno Chaves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "organize_stream-1.2.tar.gz",
+  "download_time": "2025-10-26T20:39:30.653010",
+  "package_url": "https://pypi.org/project/organize-stream/"
+}

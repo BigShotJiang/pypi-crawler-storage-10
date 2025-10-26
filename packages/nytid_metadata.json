@@ -1,0 +1,11 @@
+{
+  "name": "nytid",
+  "version": "9.6",
+  "summary": "Library to manage teaching schedules",
+  "author": "Daniel Bosk",
+  "license": "MIT",
+  "home_page": "https://github.com/dbosk/canvaslms",
+  "download_filename": "nytid-9.6.tar.gz",
+  "download_time": "2025-10-26T20:39:42.565078",
+  "package_url": "https://pypi.org/project/nytid/"
+}
