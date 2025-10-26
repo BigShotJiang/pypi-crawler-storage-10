@@ -1,0 +1,11 @@
+{
+  "name": "knock-subdomains",
+  "version": "8.0.0",
+  "summary": "Knockpy Subdomains Scan",
+  "author": "Gianni Amato",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/guelfoweb/knock",
+  "download_filename": "knock_subdomains-8.0.0.tar.gz",
+  "download_time": "2025-10-26T11:13:04.209692",
+  "package_url": "https://pypi.org/project/knock-subdomains/"
+}

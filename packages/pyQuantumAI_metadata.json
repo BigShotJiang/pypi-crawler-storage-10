@@ -1,11 +1,11 @@
 {
   "name": "pyQuantumAI",
-  "version": "2.0.108",
+  "version": "2.1.1",
   "summary": "Квантовая AI педагогика: ЭквалайзерБатарей, Пирамида, Retrain, School - полный цикл обучения через квантовый резонанс",
   "author": "NativeMind & УРАБИ.РФ",
   "license": "NativeMindNONC",
   "home_page": "https://gitlab.com/antondodonov/libEqualizer",
-  "download_filename": "pyquantumai-2.0.108.tar.gz",
-  "download_time": "2025-10-26T04:23:41.587390",
+  "download_filename": "pyquantumai-2.1.1.tar.gz",
+  "download_time": "2025-10-26T11:12:52.744124",
   "package_url": "https://pypi.org/project/pyQuantumAI/"
 }

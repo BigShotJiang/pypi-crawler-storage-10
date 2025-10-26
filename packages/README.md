@@ -1,15 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-26T10:50:54.667981
-- **Total Packages**: 85
-- **Total Size**: 2.84 MB
+- **Download Time**: 2025-10-26T11:13:28.751767
+- **Total Packages**: 81
+- **Total Size**: 3.16 MB
 
 ## Packages List
+- pyBunniApi
+- dbt-review-assistant
+- jupyterlab-doc-reader-extension
+- nasap-net
+- sealights-python-agent
+- coralsnake
+- contest-helper
+- anyenv
+- nonebot-plugin-markdown2img
+- django-unicom
+- lift-tracker
+- multi-calendar-dimension
+- linkp
+- pyQuantumAI
+- prostata
+- syosetumaster
+- django-query-string-parser
+- symphra-modules
+- lucid-dl
+- symphra-container
+- osi-dump
+- cstructimpl
+- ClickMouse-api
+- rapyuta-io-sdk-v2
+- miniflux-tui-py
+- fc-code-interpreter-mcp-server
+- drills-pro-proto
+- splatstream
+- colorgradient
+- macs-cp
+- pyeasyphd
+- ducku
+- pymobiledevice3
+- knock-subdomains
+- kxspy
 - onyx-client
 - beets-aisauce
 - quantum-pipeline
-- coralsnake
 - kurimod
 - mcpower-proxy
 - evenage
@@ -24,10 +58,8 @@
 - pybibtexer
 - lazy-ecs
 - HydrogenLib-Core
-- kxspy
 - appscriptify
 - geventhttpclient
-- anyenv
 - skillz
 - mysingle-quant
 - zenive
@@ -55,39 +87,3 @@
 - dexact
 - music_sampler
 - ai-edge-torch-nightly
-- bygg
-- sssom-curator
-- prospr
-- macs-cp
-- GlocalText
-- bitwarden-exporter
-- heavyedge
-- pglast
-- fkin-anfu
-- PyByntic
-- iatoolkit
-- multi-calendar-dimension
-- sealights-python-agent
-- anb-python-components
-- v2ex-tx2json
-- civic-lib-geo
-- mapify-cli
-- agently
-- learning-loop-node
-- git-json
-- libfcast
-- loggerizer
-- p115open302
-- workflows-mcp
-- ctf-term
-- p115nano302
-- p115tiny302
-- batplot
-- p115client
-- pysdic
-- napcron
-- django-unicom
-- pyweber
-- core-aprs-client
-- smtm
-- assisted-service-client
