@@ -1,0 +1,11 @@
+{
+  "name": "funasr-client",
+  "version": "0.1.4",
+  "summary": "Easy-to-use client for FunASR runtime server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funasr_client-0.1.4.tar.gz",
+  "download_time": "2025-10-26T11:36:58.482893",
+  "package_url": "https://pypi.org/project/funasr-client/"
+}
