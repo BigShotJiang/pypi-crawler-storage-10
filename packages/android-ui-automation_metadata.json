@@ -1,0 +1,11 @@
+{
+  "name": "android-ui-automation",
+  "version": "0.1.0",
+  "summary": "Python library for Android UI automation using uiautomator2",
+  "author": "Valter Souza",
+  "license": null,
+  "home_page": "https://github.com/seuusuario/android_ui_automation",
+  "download_filename": "android_ui_automation-0.1.0.tar.gz",
+  "download_time": "2025-10-26T04:51:21.311314",
+  "package_url": "https://pypi.org/project/android-ui-automation/"
+}

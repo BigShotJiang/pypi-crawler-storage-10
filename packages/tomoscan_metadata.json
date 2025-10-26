@@ -1,0 +1,11 @@
+{
+  "name": "tomoscan",
+  "version": "2.2.7",
+  "summary": "Utility to access tomography data at ESRF",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tomoscan-2.2.7.tar.gz",
+  "download_time": "2025-10-26T04:51:16.660760",
+  "package_url": "https://pypi.org/project/tomoscan/"
+}
