@@ -1,0 +1,11 @@
+{
+  "name": "LHCbWebDIRAC",
+  "version": "7.0.0",
+  "summary": "LHCbWebDIRAC is a portal for the DIRAC software.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://gitlab.cern.ch/lhcb-dirac/LHCbWebDIRAC/",
+  "download_filename": "lhcbwebdirac-7.0.0.tar.gz",
+  "download_time": "2025-10-27T14:52:09.071195",
+  "package_url": "https://pypi.org/project/LHCbWebDIRAC/"
+}

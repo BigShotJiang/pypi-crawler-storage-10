@@ -1,0 +1,11 @@
+{
+  "name": "multiset-canonical-correlation-analysis",
+  "version": "0.0.2",
+  "summary": "Multiset Canonical Correlation Analysis (mCCA) implementation",
+  "author": "Isabell Lehmann",
+  "license": "LICENSE",
+  "home_page": "https://github.com/SSTGroup/independent_vector_analysis",
+  "download_filename": "multiset_canonical_correlation_analysis-0.0.2.tar.gz",
+  "download_time": "2025-10-27T14:52:13.570218",
+  "package_url": "https://pypi.org/project/multiset-canonical-correlation-analysis/"
+}
