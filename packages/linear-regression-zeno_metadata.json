@@ -1,11 +1,11 @@
 {
   "name": "linear-regression-zeno",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "testing linear regression from scratch",
   "author": "Abderrahim Zineddine",
   "license": "LICENSE.txt",
   "home_page": "https://pypi.org/project/linear_regression_zeno/",
-  "download_filename": "linear_regression_zeno-1.0.0.tar.gz",
-  "download_time": "2025-10-27T11:15:49.236760",
+  "download_filename": "linear_regression_zeno-1.0.1.tar.gz",
+  "download_time": "2025-10-27T11:30:55.625992",
   "package_url": "https://pypi.org/project/linear-regression-zeno/"
 }

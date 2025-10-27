@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T11:16:22.467245
-- **Total Packages**: 89
-- **Total Size**: 24.51 MB
+- **Download Time**: 2025-10-27T11:31:33.764427
+- **Total Packages**: 91
+- **Total Size**: 30.14 MB
 
 ## Packages List
+- torchx-nightly
+- splurge-sql-generator
+- dump-things-service
+- glean-parser
+- StreamDataPanel
+- rocket-vuln3rator
+- PythonBinder
+- rdatacompy
+- mmgroup
+- torchft-nightly
+- xl-docx
+- scrummd
+- biblematetc
+- ondine
+- paytechuz
+- aiohomematic-test-support
+- filonov
+- c2cwsgiutils
+- linear-regression-zeno
+- aiohomematic
+- django-reverse-relationship
+- lloca
+- pruebaDanielVega
+- agentle
+- pyicat-plus
+- odoo-addon-resource-booking
+- apolo-app-types
+- aiomisc
+- splurge-sql-runner
+- donkit-ragops-ce
+- sphinx-prime-applets
+- summer-modules
+- toadr3
+- revolution-eda
+- spx-sdk
+- Orange-SNOM
+- graphql-mcp
+- example-package-coolport
+- io4it
+- magmeas
+- debiai-data-provider
+- alibabacloud-cloudfw20171207
+- odoo-apps-Odoo-Apps-Account-Financial-Reporting
+- odoo-addon-account_oss_report
+- dalia-dif
+- lucid-dl
+- hgraph
+- WebAppDIRAC
+- dbt-jobs-as-code
+- bbob-jax
 - odoo-addon-helpdesk-mgmt-merge
 - pyfcstm
 - easy-utils-dev
@@ -31,12 +81,10 @@
 - matchbox-db
 - tonlib-toninelli
 - qoqo-quest
-- linear-regression-zeno
 - profile-config
 - ctdecon
 - akshare
 - opengate-data
-- donkit-ragops-ce
 - openlit
 - atx-mainframe-dependency-manager
 - fastslide
@@ -49,49 +97,3 @@
 - tutor
 - trap
 - grasp_agents
-- up42-py
-- bearishpy
-- omuserver
-- omuplugin-translator
-- omuplugin-obs
-- omuplugin-nyanya
-- omuplugin-emoji
-- omuplugin-discordrpc
-- omuplugin-archive
-- omu-chatprovider
-- materia-epd
-- omu-chat-youtube
-- outlines
-- omu-chat-twitch
-- omu-chat
-- omu
-- newsdataapi
-- name12345
-- zahra-cookiecutter
-- neuber-correction
-- mutt-language-server
-- udata
-- mysingle-quant
-- bitwarden-exporter
-- smallcat
-- turbo-gepa
-- blackfire
-- pipebio
-- fractal-repositories
-- hillclimber
-- smartextract
-- slurm-requests
-- graphql_http
-- wagtail-waggylabs
-- nnUNet-package
-- rocketrocket123
-- odoo-addon-base-search-mail-content
-- jsontas
-- growthbook
-- example-package-coolport
-- eless
-- gcl-looper
-- pymobiledevice3
-- konduktor-nightly
-- conciliate
-- trainy-policy-nightly
