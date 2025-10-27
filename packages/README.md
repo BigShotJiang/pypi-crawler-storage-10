@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T21:32:00.074917
-- **Total Packages**: 89
-- **Total Size**: 30.3 MB
+- **Download Time**: 2025-10-27T21:42:40.130849
+- **Total Packages**: 88
+- **Total Size**: 7.47 MB
 
 ## Packages List
+- nominal-api-protos
+- whatsapp-utilsFAPI
+- nominal-api
+- slurm-requests
+- terminal-tutor
+- consite
+- stonefish-license-manager
+- thermosteam
+- fitt
+- tiramisu-framework
+- apache-airflow-ctl
+- qcodes
+- python-pooldose
+- mrx-runway
+- anyenv
+- pangea-sdk
+- brisket
+- metaxy
+- microviewer
+- stepflow-py
+- ni.measurements.data.v1.client
+- pulumi-pulumiservice
+- enerhabitat
+- foxcli
+- aenet-gpr
+- ni.measurements.metadata.v1.client
+- yappai
+- vizlab-data-transfer
+- jaegis-raverse-mcp-server
+- suga-client
 - nucliadb-utils
 - nucliadb-telemetry
 - nucliadb-sdk
@@ -13,12 +43,11 @@
 - cortexdb
 - nucliadb-models
 - nucliadb-dataset
+- kmax
 - nucliadb
 - nidx-protos
 - core-mixins
 - nidx-binding
-- nominal-api-protos
-- nominal-api
 - kaqing
 - Flask-MonitoringDashboard
 - hpcp
@@ -32,7 +61,6 @@
 - rest-requests
 - xgid2anki
 - hat-gateway
-- pulumi-pulumiservice
 - xhshow
 - hassil
 - lbt-dragonfly
@@ -64,34 +92,5 @@
 - ds-utilities-dkirby
 - sf-toolkit
 - chapkit
-- whatsapp-utilsFAPI
 - vantiqsdk
 - music-assistant-frontend
-- cocotbext-jtag
-- plain.admin
-- dissect.fve
-- fitt
-- muse2wfdb
-- inventree-harmonized-system-codes
-- sparkpipelineframework
-- cplearn
-- servicekit
-- bwamem
-- jlab-asm-editor
-- athena-intelligence
-- plain.dev
-- plain.code
-- telnyx
-- thermosteam
-- plato-sdk
-- phate
-- foxcli
-- jvserve
-- jvmanager
-- jvclient
-- jvcli
-- jivas
-- localstack-core
-- token-bowl-chat
-- ni.measurements.data.v1.proto
-- klayout-pex

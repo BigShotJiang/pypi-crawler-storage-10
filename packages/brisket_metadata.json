@@ -1,0 +1,11 @@
+{
+  "name": "brisket",
+  "version": "0.1.2",
+  "summary": "Fast Cython-powered one-hot encoding for DNA sequences",
+  "author": "Natalie Gill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brisket-0.1.2.tar.gz",
+  "download_time": "2025-10-27T21:42:01.740020",
+  "package_url": "https://pypi.org/project/brisket/"
+}
