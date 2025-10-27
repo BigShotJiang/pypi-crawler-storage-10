@@ -1,0 +1,11 @@
+{
+  "name": "simplelinregabh",
+  "version": "1.0.1",
+  "summary": "A simple linear regression model built from scratch in Python.",
+  "author": "Yacine Abderrahmane Belkaid",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simplelinregabh-1.0.1.tar.gz",
+  "download_time": "2025-10-27T09:44:23.656347",
+  "package_url": "https://pypi.org/project/simplelinregabh/"
+}

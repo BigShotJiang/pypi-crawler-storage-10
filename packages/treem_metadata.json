@@ -1,0 +1,11 @@
+{
+  "name": "treem",
+  "version": "1.1.1",
+  "summary": "Tree-like morphology data processing",
+  "author": "Alexander Kozlov",
+  "license": "MIT",
+  "home_page": "https://github.com/a1eko/treem",
+  "download_filename": "treem-1.1.1.tar.gz",
+  "download_time": "2025-10-27T09:44:37.290079",
+  "package_url": "https://pypi.org/project/treem/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "batou",
+  "version": "2.6.2",
+  "summary": "A utility for automating multi-host, multi-environment software builds and deployments.",
+  "author": "Christian Theune",
+  "license": "BSD (2-clause)",
+  "home_page": "https://batou.readthedocs.io/en/latest/",
+  "download_filename": "batou-2.6.2.tar.gz",
+  "download_time": "2025-10-27T09:44:57.429077",
+  "package_url": "https://pypi.org/project/batou/"
+}
