@@ -1,0 +1,11 @@
+{
+  "name": "karabo",
+  "version": "3.0.9",
+  "summary": "The Karabo SCADA system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karabo-3.0.9.tar.gz",
+  "download_time": "2025-10-27T16:49:09.969461",
+  "package_url": "https://pypi.org/project/karabo/"
+}

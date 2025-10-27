@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-labs-mcp",
+  "version": "1.3.5",
+  "summary": "MCP server for Snowflake",
+  "author": "Carlos Serrano, Jason Summer, Tyler White",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowflake_labs_mcp-1.3.5.tar.gz",
+  "download_time": "2025-10-27T16:49:22.036445",
+  "package_url": "https://pypi.org/project/snowflake-labs-mcp/"
+}

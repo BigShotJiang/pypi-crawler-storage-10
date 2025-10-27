@@ -1,0 +1,11 @@
+{
+  "name": "spax",
+  "version": "0.2.0",
+  "summary": "Declarative search-space definition & exploration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spax-0.2.0.tar.gz",
+  "download_time": "2025-10-27T16:49:19.969133",
+  "package_url": "https://pypi.org/project/spax/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "octo-pipeline-backend-tar-python",
+  "version": "1.3.3",
+  "summary": "tar backend implementation for octo-pipeline",
+  "author": "Ofir Iluz",
+  "license": "MIT",
+  "home_page": "https://github.com/ofiriluz/octo-pipeline-python",
+  "download_filename": "octo_pipeline_backend_tar_python-1.3.3-py3-none-any.whl",
+  "download_time": "2025-10-27T16:48:50.394440",
+  "package_url": "https://pypi.org/project/octo-pipeline-backend-tar-python/"
+}

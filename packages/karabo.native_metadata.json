@@ -1,0 +1,11 @@
+{
+  "name": "karabo.native",
+  "version": "3.0.9",
+  "summary": "Karabo's native data Python types and models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karabo_native-3.0.9.tar.gz",
+  "download_time": "2025-10-27T16:49:13.706177",
+  "package_url": "https://pypi.org/project/karabo.native/"
+}

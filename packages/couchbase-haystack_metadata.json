@@ -1,0 +1,11 @@
+{
+  "name": "couchbase-haystack",
+  "version": "2.1.0",
+  "summary": "Couchbase haystack integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "couchbase_haystack-2.1.0.tar.gz",
+  "download_time": "2025-10-27T16:49:17.391713",
+  "package_url": "https://pypi.org/project/couchbase-haystack/"
+}

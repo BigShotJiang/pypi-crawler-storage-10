@@ -1,0 +1,11 @@
+{
+  "name": "karabo.bound",
+  "version": "3.0.9",
+  "summary": "Karabo's Bound Python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karabo_bound-3.0.9.tar.gz",
+  "download_time": "2025-10-27T16:49:10.507350",
+  "package_url": "https://pypi.org/project/karabo.bound/"
+}
