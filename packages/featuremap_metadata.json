@@ -1,0 +1,11 @@
+{
+  "name": "featuremap",
+  "version": "0.0.3",
+  "summary": "Feature-preserving Manifold Approximation and Projection",
+  "author": null,
+  "license": "GPL",
+  "home_page": "https://github.com/YYT1002/FeatureMAP",
+  "download_filename": "featuremap-0.0.3.tar.gz",
+  "download_time": "2025-10-27T04:34:15.312243",
+  "package_url": "https://pypi.org/project/featuremap/"
+}

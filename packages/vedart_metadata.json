@@ -1,0 +1,11 @@
+{
+  "name": "vedart",
+  "version": "1.0.0",
+  "summary": "Parallel runtime unifying Python's concurrency ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vedart-1.0.0.tar.gz",
+  "download_time": "2025-10-27T04:34:05.211219",
+  "package_url": "https://pypi.org/project/vedart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zarrnii",
+  "version": "0.8.0a1",
+  "summary": "Package for working with OME-Zarr and NIFTI images in a unified manner, with a focus on spatial transformations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zarrnii-0.8.0a1.tar.gz",
+  "download_time": "2025-10-27T04:34:01.057649",
+  "package_url": "https://pypi.org/project/zarrnii/"
+}
