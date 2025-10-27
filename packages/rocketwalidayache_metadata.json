@@ -1,0 +1,11 @@
+{
+  "name": "rocketwalidayache",
+  "version": "1.0.0",
+  "summary": "An awesome package that creates a rocket",
+  "author": "Abdelkrim Zitouni",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/<your_package_name>/",
+  "download_filename": "rocketwalidayache-1.0.0.tar.gz",
+  "download_time": "2025-10-27T11:42:44.063135",
+  "package_url": "https://pypi.org/project/rocketwalidayache/"
+}
