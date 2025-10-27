@@ -1,0 +1,11 @@
+{
+  "name": "biocsetup",
+  "version": "0.3.2",
+  "summary": "\"A CLI interface to quickly scaffold new BiocPy Python packages\"",
+  "author": "Jayaram Kancherla",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/biocsetup",
+  "download_filename": "biocsetup-0.3.2.tar.gz",
+  "download_time": "2025-10-27T17:33:47.643575",
+  "package_url": "https://pypi.org/project/biocsetup/"
+}

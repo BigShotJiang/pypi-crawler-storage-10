@@ -1,0 +1,11 @@
+{
+  "name": "langevals-azure",
+  "version": "0.1.15",
+  "summary": "LangEvals Azure Content Safety evaluator for LLM outputs.",
+  "author": "Rogerio Chaves",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langevals_azure-0.1.15.tar.gz",
+  "download_time": "2025-10-27T17:33:42.205695",
+  "package_url": "https://pypi.org/project/langevals-azure/"
+}

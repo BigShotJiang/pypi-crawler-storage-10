@@ -1,11 +1,11 @@
 {
   "name": "inspect-scout",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "AI Analysis",
   "author": "Meridian Labs",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "inspect_scout-0.2.1.tar.gz",
-  "download_time": "2025-10-27T13:21:48.776812",
+  "download_filename": "inspect_scout-0.2.2.tar.gz",
+  "download_time": "2025-10-27T17:34:06.064441",
   "package_url": "https://pypi.org/project/inspect-scout/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deepdoctection",
+  "version": "0.46.2",
+  "summary": "Repository for Document AI",
+  "author": "Dr. Janis Meyer",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/deepdoctection/deepdoctection",
+  "download_filename": "deepdoctection-0.46.2.tar.gz",
+  "download_time": "2025-10-27T17:33:22.385770",
+  "package_url": "https://pypi.org/project/deepdoctection/"
+}

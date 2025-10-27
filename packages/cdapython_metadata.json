@@ -1,11 +1,11 @@
 {
   "name": "cdapython",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "summary": "NCI CRDC CDA front-end user interface library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdapython-2.0.10.tar.gz",
-  "download_time": "2025-10-27T17:15:29.960202",
+  "download_filename": "cdapython-2.0.11.tar.gz",
+  "download_time": "2025-10-27T17:34:08.953374",
   "package_url": "https://pypi.org/project/cdapython/"
 }

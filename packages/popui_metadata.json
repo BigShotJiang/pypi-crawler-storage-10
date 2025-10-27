@@ -1,11 +1,11 @@
 {
   "name": "popui",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "A Python module for creating GUI popups with Dear PyGui and AutoHotkey on Windows",
   "author": "KyleTheScientist",
   "license": null,
   "home_page": "https://github.com/KyleTheScientist/popui",
-  "download_filename": "popui-0.0.14.tar.gz",
-  "download_time": "2025-10-27T17:15:40.531833",
+  "download_filename": "popui-0.0.15.tar.gz",
+  "download_time": "2025-10-27T17:33:45.406139",
   "package_url": "https://pypi.org/project/popui/"
 }
