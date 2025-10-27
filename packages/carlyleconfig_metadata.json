@@ -1,0 +1,11 @@
+{
+  "name": "carlyleconfig",
+  "version": "2025.43",
+  "summary": "Hierarchical config loader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "carlyleconfig-2025.43.tar.gz",
+  "download_time": "2025-10-27T20:17:44.502756",
+  "package_url": "https://pypi.org/project/carlyleconfig/"
+}

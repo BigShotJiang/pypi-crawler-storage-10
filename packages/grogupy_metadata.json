@@ -1,0 +1,11 @@
+{
+  "name": "grogupy",
+  "version": "0.4.0",
+  "summary": "Python package calculating relativistic magnetic interactions  for the generalised Heisenberg model.",
+  "author": "Gabriel  Martinez-Carracedo, Amador Garcia-Fuente, Laszlo Udvardi, Laszlo Szunyogh, Jaime, Ferrer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grogupy-0.4.0.tar.gz",
+  "download_time": "2025-10-27T20:17:53.788831",
+  "package_url": "https://pypi.org/project/grogupy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-ws",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A MCP server for WS tcg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_ws-0.1.2.tar.gz",
-  "download_time": "2025-10-27T19:38:29.180108",
+  "download_filename": "mcp_server_ws-0.1.4.tar.gz",
+  "download_time": "2025-10-27T20:17:17.841122",
   "package_url": "https://pypi.org/project/mcp-server-ws/"
 }

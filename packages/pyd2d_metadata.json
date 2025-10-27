@@ -1,0 +1,11 @@
+{
+  "name": "pyd2d",
+  "version": "0.1.3",
+  "summary": "A Python wrapper for the Windows Direct2D and DirectWrite APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyd2d-0.1.3.tar.gz",
+  "download_time": "2025-10-27T20:17:29.815839",
+  "package_url": "https://pypi.org/project/pyd2d/"
+}
