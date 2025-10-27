@@ -1,0 +1,11 @@
+{
+  "name": "omniedge-deepseek-ocr",
+  "version": "1.0.0",
+  "summary": "简单易用的DeepSeek-OCR文字识别模块",
+  "author": "智子边界(OmniEdge)",
+  "license": "MIT",
+  "home_page": "https://github.com/omniedge/deepseek-ocr",
+  "download_filename": "omniedge_deepseek_ocr-1.0.0.tar.gz",
+  "download_time": "2025-10-27T09:53:46.891076",
+  "package_url": "https://pypi.org/project/omniedge-deepseek-ocr/"
+}

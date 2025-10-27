@@ -1,12 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T09:44:58.442424
-- **Total Packages**: 84
-- **Total Size**: 41.57 MB
+- **Download Time**: 2025-10-27T09:54:36.482308
+- **Total Packages**: 88
+- **Total Size**: 8.27 MB
 
 ## Packages List
+- lmur
+- omniedge-deepseek-ocr
+- tuoni
+- clustertk
+- scipion-em-kiharalab
+- schedula-core
+- lift-tracker
+- apis-core-rdf
+- cleanframes
+- akshare
+- schedula
+- dash-tailwindcss-plugin
+- pysma
 - rocket-akramkd
+- linear-regression-from-scratch
+- iflow-mcp_excel-mcp-server
+- datapizza-ai-tools-filesystem
+- wypp
+- ohmyapi
+- agentic-fabriq-sdk
+- pypabhiveagent
+- ipykernel
+- odoo-addon-iot-oca
+- dask-stubs
+- bridgic-llms-openai-like
+- ayechat
+- bridgic-llms-openai
+- nakuritycore
+- pyquickshare
+- hamza-payments-query-sdk
+- yAchouriPackage
+- bridgic-core
 - work-utils-zxj
 - supervisely
 - viur-core
@@ -33,7 +64,6 @@
 - click-compose
 - sbatchman
 - nec-sol
-- pyquickshare
 - quantum-harvest
 - django-cfg
 - blueapi
@@ -64,29 +94,3 @@
 - reme-ai
 - biblematetc
 - hex-device
-- pgpack-dumper
-- various-api-tools
-- unieai-meeting-room-mcp
-- tbp-nightly
-- i2up-python-sdk
-- iflow-mcp_mcp-server-tree-sitter
-- sarvamai
-- diarama-api
-- cleanframes
-- flowllm
-- carabao
-- odoo-addon-stock-request
-- vibego
-- biblemate
-- mplang-nightly
-- ondine
-- chinadata
-- linguflow
-- UnderAutomation.Fanuc
-- dbhose-utils
-- volcengine-python-sdk
-- pagerduty-mcp
-- legit-api-client
-- ibm-aigov-facts-client
-- batou
-- wav-loo

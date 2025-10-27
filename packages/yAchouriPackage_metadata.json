@@ -1,0 +1,11 @@
+{
+  "name": "yAchouriPackage",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "yAchouriPackage",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/yAchouriPackage/",
+  "download_filename": "yachouripackage-1.0.0.tar.gz",
+  "download_time": "2025-10-27T09:54:03.512919",
+  "package_url": "https://pypi.org/project/yAchouriPackage/"
+}
