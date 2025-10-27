@@ -1,0 +1,11 @@
+{
+  "name": "splurge-typer",
+  "version": "2025.2.0",
+  "summary": "Type Inference and Conversion Library for Python",
+  "author": "Jim Schilling",
+  "license": null,
+  "home_page": null,
+  "download_filename": "splurge_typer-2025.2.0.tar.gz",
+  "download_time": "2025-10-27T03:59:54.998404",
+  "package_url": "https://pypi.org/project/splurge-typer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jaxlayerlumos",
+  "version": "0.3.4",
+  "summary": "A JAX-based Differentiable Optical and Radio Frequency Simulator for Multilayer Structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jaxlayerlumos-0.3.4.tar.gz",
+  "download_time": "2025-10-27T04:00:00.905210",
+  "package_url": "https://pypi.org/project/jaxlayerlumos/"
+}

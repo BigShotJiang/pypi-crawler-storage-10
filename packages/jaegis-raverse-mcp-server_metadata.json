@@ -1,0 +1,11 @@
+{
+  "name": "jaegis-raverse-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP Server for RAVERSE - AI Multi-Agent Binary Patching System with 35 tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jaegis_raverse_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-27T03:59:34.837620",
+  "package_url": "https://pypi.org/project/jaegis-raverse-mcp-server/"
+}

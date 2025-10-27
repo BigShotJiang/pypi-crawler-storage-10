@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-fnf20190315",
+  "version": "2.0.0",
+  "summary": "Alibaba Cloud Serverless Workflow (20190315) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_fnf20190315-2.0.0.tar.gz",
+  "download_time": "2025-10-27T03:59:39.519419",
+  "package_url": "https://pypi.org/project/alibabacloud-fnf20190315/"
+}

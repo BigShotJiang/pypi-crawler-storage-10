@@ -1,0 +1,11 @@
+{
+  "name": "pathling",
+  "version": "8.1.0",
+  "summary": "Python API for Pathling",
+  "author": "Australian e-Health Research Centre, CSIRO",
+  "license": "Apache License, version 2.0",
+  "home_page": "https://github.com/aehrc/pathling",
+  "download_filename": "pathling-8.1.0.tar.gz",
+  "download_time": "2025-10-27T03:59:51.906329",
+  "package_url": "https://pypi.org/project/pathling/"
+}
