@@ -1,0 +1,11 @@
+{
+  "name": "ttkbootstrap-icons-weather",
+  "version": "0.1.0",
+  "summary": "Weather Icons (font-based) provider for ttkbootstrap-icons",
+  "author": "Israel Dryer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttkbootstrap_icons_weather-0.1.0.tar.gz",
+  "download_time": "2025-10-27T03:05:49.996609",
+  "package_url": "https://pypi.org/project/ttkbootstrap-icons-weather/"
+}

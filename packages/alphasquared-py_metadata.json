@@ -1,0 +1,11 @@
+{
+  "name": "alphasquared-py",
+  "version": "0.4.0",
+  "summary": "The unofficial Python client for the AlphaSquared API",
+  "author": "Rhett Reisman",
+  "license": "MIT",
+  "home_page": "https://github.com/rhettre/alphasquared-py",
+  "download_filename": "alphasquared_py-0.4.0.tar.gz",
+  "download_time": "2025-10-27T03:05:42.654436",
+  "package_url": "https://pypi.org/project/alphasquared-py/"
+}

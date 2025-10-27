@@ -1,11 +1,11 @@
 {
   "name": "safe-view",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A terminal application to view safetensors files",
   "author": "Elinx",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "safe_view-0.3.0.tar.gz",
-  "download_time": "2025-10-26T13:50:50.495751",
+  "download_filename": "safe_view-0.3.1.tar.gz",
+  "download_time": "2025-10-27T03:06:13.114714",
   "package_url": "https://pypi.org/project/safe-view/"
 }
