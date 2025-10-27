@@ -1,0 +1,11 @@
+{
+  "name": "gemini-skills-lib",
+  "version": "0.1.0",
+  "summary": "A library of reusable AI skills for the Gemini CLI",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/your-username/gemini-skills-lib",
+  "download_filename": "gemini_skills_lib-0.1.0.tar.gz",
+  "download_time": "2025-10-27T14:18:38.168400",
+  "package_url": "https://pypi.org/project/gemini-skills-lib/"
+}

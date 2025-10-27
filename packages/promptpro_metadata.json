@@ -1,0 +1,11 @@
+{
+  "name": "promptpro",
+  "version": "0.1.0",
+  "summary": "PromptPro - A prompt versioning and management system with Python bindings",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/lucasjinreal/promptpro",
+  "download_filename": "promptpro-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-27T14:18:21.593291",
+  "package_url": "https://pypi.org/project/promptpro/"
+}

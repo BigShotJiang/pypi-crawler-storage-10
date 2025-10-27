@@ -1,11 +1,11 @@
 {
   "name": "vigorvision",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Advanced AI vision and object detection framework by Vigor Industries Limited.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vigorvision-2.0.0.tar.gz",
-  "download_time": "2025-10-27T13:50:06.751787",
+  "download_filename": "vigorvision-2.0.2.tar.gz",
+  "download_time": "2025-10-27T14:18:53.877928",
   "package_url": "https://pypi.org/project/vigorvision/"
 }

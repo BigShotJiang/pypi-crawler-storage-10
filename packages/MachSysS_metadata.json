@@ -1,0 +1,11 @@
+{
+  "name": "MachSysS",
+  "version": "0.7.6",
+  "summary": "Machinery System Structure for interface",
+  "author": "Kevin Koosup Yum",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/SINTEF/FEEMS",
+  "download_filename": "machsyss-0.7.6.tar.gz",
+  "download_time": "2025-10-27T14:18:25.235552",
+  "package_url": "https://pypi.org/project/MachSysS/"
+}

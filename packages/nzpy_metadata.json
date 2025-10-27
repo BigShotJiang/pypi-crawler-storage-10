@@ -1,0 +1,11 @@
+{
+  "name": "nzpy",
+  "version": "1.17.2",
+  "summary": "IBM Netezza python driver",
+  "author": "IBM",
+  "license": "IBM",
+  "home_page": "https://github.com/ibm/nzpy",
+  "download_filename": "nzpy-1.17.2.tar.gz",
+  "download_time": "2025-10-27T14:18:33.508984",
+  "package_url": "https://pypi.org/project/nzpy/"
+}

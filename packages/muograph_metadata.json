@@ -1,0 +1,11 @@
+{
+  "name": "muograph",
+  "version": "0.1.11",
+  "summary": "Muon tomography data analysis library",
+  "author": "Maxime Lagrange",
+  "license": "AGPL-3.0-only",
+  "home_page": "https://github.com/MaximeLagrange/muograph",
+  "download_filename": "muograph-0.1.11.tar.gz",
+  "download_time": "2025-10-27T14:18:23.695029",
+  "package_url": "https://pypi.org/project/muograph/"
+}

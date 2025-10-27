@@ -1,0 +1,11 @@
+{
+  "name": "selen-enchanted",
+  "version": "0.0.10.8",
+  "summary": "A selenium wrapper that makes it easier to use",
+  "author": "Andrew Naaem",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Andrew2077/SelenEnchanted",
+  "download_filename": "selen_enchanted-0.0.10.8.tar.gz",
+  "download_time": "2025-10-27T14:18:44.949154",
+  "package_url": "https://pypi.org/project/selen-enchanted/"
+}

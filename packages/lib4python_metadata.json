@@ -1,0 +1,11 @@
+{
+  "name": "lib4python",
+  "version": "25.10.1",
+  "summary": "个人工具综合平台，包含常用工具，网络爬虫，知识图谱，神经网络预测等工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lib4python-25.10.1.tar.gz",
+  "download_time": "2025-10-27T14:18:19.545011",
+  "package_url": "https://pypi.org/project/lib4python/"
+}

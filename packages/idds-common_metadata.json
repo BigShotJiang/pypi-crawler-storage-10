@@ -1,11 +1,11 @@
 {
   "name": "idds-common",
-  "version": "2.3.9",
+  "version": "2.3.10",
   "summary": "intelligent Data Delivery Service(iDDS) Package",
   "author": "IRIS-HEP Team",
   "license": "GPL",
   "home_page": null,
-  "download_filename": "idds_common-2.3.9.tar.gz",
-  "download_time": "2025-10-24T19:50:10.016458",
+  "download_filename": "idds_common-2.3.10.tar.gz",
+  "download_time": "2025-10-27T14:18:41.342606",
   "package_url": "https://pypi.org/project/idds-common/"
 }
