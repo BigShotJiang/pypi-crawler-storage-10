@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T12:37:46.574550
-- **Total Packages**: 89
-- **Total Size**: 44.38 MB
+- **Download Time**: 2025-10-27T13:22:11.762075
+- **Total Packages**: 88
+- **Total Size**: 11.19 MB
 
 ## Packages List
+- xl-pq-handler
+- mfd-const
+- orchestrator-core
+- quartzbio
+- modelFit
+- circleclust
+- genai-otel-instrument
+- dapla-toolbelt
+- vitax
+- dlt645
+- simple-regressionsara13
+- aiohomeconnect
+- hlit-dev
+- bbstat
+- shotgun-sh
+- ZipEDA
+- datadog-api-client
+- x10-python-trading-starknet
+- rocket-esi
+- true-noorm
+- wqdebug
+- dragon-ml-toolbox
+- rocket-sarraverse
+- vsquickview
+- ffpipe
 - nadag-innmelding-python-client
 - tsdm-benchmark
 - arcturus-buildkit
@@ -17,7 +42,6 @@
 - unieai-mcp-bookingroom
 - scmver
 - rocket-amina
-- hlit-dev
 - QuantumIntelligence
 - libfcast
 - apache-airflow
@@ -29,9 +53,7 @@
 - universal-mcp-agents
 - langchain-timbr
 - rtdi-kafkaavro
-- ZipEDA
 - pei-docker
-- dlt645
 - inspect-scout
 - weibo-api-sdk
 - django-cfg
@@ -41,7 +63,6 @@
 - transub
 - yta-numpy
 - dapla-toolbelt-automation
-- vitax
 - qwak-core
 - notion-objects
 - workflows-mcp
@@ -73,25 +94,3 @@
 - pyimouapi
 - rainfallqc
 - lightning-sdk
-- CAPE-parsers
-- data-transfer-cli
-- reachy-mini-motor-controller
-- aicp-helper
-- yta-editor-utils
-- toon-llm
-- spx-sdk
-- gui-utilities
-- seabirdfilehandler
-- xcpcio
-- kospex
-- opik
-- omniopt2
-- opendors
-- nonebot-plugin-jrrp3
-- loopretry
-- hid_data_transfer_lib
-- snakia
-- pyjolt
-- puyapy
-- autocoder-nano
-- eodc-faas-openeo

@@ -1,0 +1,11 @@
+{
+  "name": "vsquickview",
+  "version": "1.1.6",
+  "summary": "VapourSynth preview script for Jupyter Notebook",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vsquickview-1.1.6.tar.gz",
+  "download_time": "2025-10-27T13:21:32.881062",
+  "package_url": "https://pypi.org/project/vsquickview/"
+}

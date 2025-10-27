@@ -1,0 +1,11 @@
+{
+  "name": "quartzbio",
+  "version": "1.2.0",
+  "summary": "The QuartzBio Python client",
+  "author": "Precision for Medicine, Inc.",
+  "license": null,
+  "home_page": "https://github.com/quartzbio/quartzbio-python",
+  "download_filename": "quartzbio-1.2.0.tar.gz",
+  "download_time": "2025-10-27T13:21:17.713894",
+  "package_url": "https://pypi.org/project/quartzbio/"
+}

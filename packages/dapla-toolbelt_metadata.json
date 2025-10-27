@@ -1,0 +1,11 @@
+{
+  "name": "dapla-toolbelt",
+  "version": "4.1.0",
+  "summary": "Dapla Toolbelt",
+  "author": "Dapla Developers",
+  "license": "MIT",
+  "home_page": "https://github.com/statisticsnorway/dapla-toolbelt",
+  "download_filename": "dapla_toolbelt-4.1.0.tar.gz",
+  "download_time": "2025-10-27T13:21:20.238271",
+  "package_url": "https://pypi.org/project/dapla-toolbelt/"
+}

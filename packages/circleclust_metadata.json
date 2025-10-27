@@ -1,0 +1,11 @@
+{
+  "name": "circleclust",
+  "version": "0.0.2",
+  "summary": "Clustering on periodic circular coordinates.",
+  "author": "Tim Pyrkov",
+  "license": "MIT",
+  "home_page": "https://github.com/timpyrkov/circleclust",
+  "download_filename": "circleclust-0.0.2.tar.gz",
+  "download_time": "2025-10-27T13:21:19.011747",
+  "package_url": "https://pypi.org/project/circleclust/"
+}
