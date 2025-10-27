@@ -1,11 +1,11 @@
 {
   "name": "eclips-blossom-ai",
-  "version": "0.2.9",
+  "version": "0.2.92",
   "summary": "🌸 Beautiful and simple AI generation library for images, text, and audio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eclips_blossom_ai-0.2.9.tar.gz",
-  "download_time": "2025-10-26T13:50:35.598737",
+  "download_filename": "eclips_blossom_ai-0.2.92.tar.gz",
+  "download_time": "2025-10-27T07:17:43.062961",
   "package_url": "https://pypi.org/project/eclips-blossom-ai/"
 }

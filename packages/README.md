@@ -1,18 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T06:56:25.888986
-- **Total Packages**: 87
-- **Total Size**: 33.61 MB
+- **Download Time**: 2025-10-27T07:18:24.025836
+- **Total Packages**: 85
+- **Total Size**: 18.81 MB
 
 ## Packages List
+- tritonparse
+- OSCR-UI
+- finter
+- mtsql
+- otai_otobo_znuny
+- otai_hf_local
+- otai_base
+- open_ticket_ai
+- eradicate
+- efootprint
+- erioon
+- cliver
+- pitchlense-mcp
+- article-mcp
+- tf-models-nightly
+- meridian-crossing
+- eclips-blossom-ai
+- mongo-emb
+- garf-core
+- garf-io
+- garf-executors
+- garf-exporter
+- bluer-options
+- boldsign
+- jvs-cli
+- diffrays
+- seqmil
+- dekartifacts
+- termux-language-server
+- bayesianflow-for-chem
+- treesak
+- odoo-addon-odoo-coopcycle-connector
+- scapi
+- pyprocessors-chunk_sentences
+- claude-worktree
+- inset
+- sycommon-python-lib
+- mcp-framework
+- kuzu-memory
+- neuwo-api
+- scalebox-sdk
+- ry-pg-utils
+- bible-xml-parser
+- agnt5
+- diarama-api
+- crewplus
+- rota
 - finesse-benchmark
 - bizyui
 - plex-generate-previews
 - PyWebWinUI3
-- kuzu-memory
 - persidict
-- diarama-api
 - unsloth
 - pro-craft
 - vira-cli
@@ -26,22 +71,15 @@
 - mns-scheduler
 - biblemate
 - seigr-toolset-crypto
-- rota
 - alibabacloud-docmind-api20220711
 - unsloth-zoo
 - keylexbundles
 - ftf-cli
 - GameSentenceMiner
-- crewplus
 - datar
-- otai_otobo_znuny
-- otai_hf_local
-- otai_base
-- open_ticket_ai
 - beads-mcp
 - mtgeo
 - nakuritycore
-- pyprocessors-chunk_sentences
 - quartic-sdk
 - agentmake
 - bisos.tocsModules
@@ -53,43 +91,3 @@
 - swe-cli
 - yet-another-retry
 - bisos.uploadAsCs
-- tccbox
-- CompBase
-- pipeline-eds
-- mcp-framework
-- bisos.b
-- mcp-ticketer
-- datar-arrow
-- mingli-mcp
-- match-predicting-pub-api
-- fcs-order
-- match-predicting-ann-server-pub-api
-- aixtools
-- asynccpu
-- atrt
-- project-management-search-utils
-- tea-bond
-- nedo-vision-worker-core
-- ai-edge-litert-nightly
-- human-errors
-- zhkj-plugins-parent
-- pensivium
-- temporal-forecasting
-- statsnb
-- pyg-nightly
-- azure-mgmt-recoveryservices
-- aigroup-econ-mcp
-- docusign-esign
-- pcloud-sdk-python
-- hhcli-server
-- mem0ai-azure-mysql
-- why-tools
-- apgard
-- markdown-toc-creator
-- pyAgrum-nightly
-- jigsawwm
-- xkits-command
-- maleo-schemas
-- meridian-crossing
-- langmiddle
-- carver-feeds-sdk

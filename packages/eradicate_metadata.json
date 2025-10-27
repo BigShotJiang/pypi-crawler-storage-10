@@ -1,0 +1,11 @@
+{
+  "name": "eradicate",
+  "version": "3.0.1",
+  "summary": "Removes commented-out code.",
+  "author": "Steven Myint",
+  "license": "Expat License",
+  "home_page": "https://github.com/pycqa/eradicate",
+  "download_filename": "eradicate-3.0.1-py3-none-any.whl",
+  "download_time": "2025-10-27T07:17:37.742037",
+  "package_url": "https://pypi.org/project/eradicate/"
+}

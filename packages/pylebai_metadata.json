@@ -5,7 +5,7 @@
   "author": "liufang",
   "license": null,
   "home_page": null,
-  "download_filename": "pylebai-1.3.6-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-10-27T06:55:40.972193",
+  "download_filename": "pylebai-1.3.6-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-27T07:18:10.958034",
   "package_url": "https://pypi.org/project/pylebai/"
 }
