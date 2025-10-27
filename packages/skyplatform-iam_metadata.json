@@ -1,0 +1,11 @@
+{
+  "name": "skyplatform-iam",
+  "version": "1.2.2",
+  "summary": "SkyPlatform IAM认证SDK，提供FastAPI中间件和认证路由",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skyplatform_iam-1.2.2.tar.gz",
+  "download_time": "2025-10-27T15:51:24.838371",
+  "package_url": "https://pypi.org/project/skyplatform-iam/"
+}

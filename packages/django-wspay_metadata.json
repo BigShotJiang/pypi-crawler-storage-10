@@ -1,11 +1,11 @@
 {
   "name": "django-wspay",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "a payments Django app for WSPay",
   "author": "Vedran Vojvoda",
   "license": "MIT",
   "home_page": "https://github.com/portant-shop/django-wspay",
-  "download_filename": "django_wspay-0.3.8.tar.gz",
-  "download_time": "2025-10-27T15:40:22.566288",
+  "download_filename": "django_wspay-0.3.9.tar.gz",
+  "download_time": "2025-10-27T15:51:20.048852",
   "package_url": "https://pypi.org/project/django-wspay/"
 }

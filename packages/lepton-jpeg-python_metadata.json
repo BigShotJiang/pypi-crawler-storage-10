@@ -1,0 +1,11 @@
+{
+  "name": "lepton-jpeg-python",
+  "version": "0.5.5",
+  "summary": "Rust port of the Lepton JPEG compression library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lepton_jpeg_python-0.5.5-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-27T15:51:22.198325",
+  "package_url": "https://pypi.org/project/lepton-jpeg-python/"
+}

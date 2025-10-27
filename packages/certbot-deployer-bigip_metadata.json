@@ -1,0 +1,11 @@
+{
+  "name": "certbot-deployer-bigip",
+  "version": "2.0.0",
+  "summary": "Certbot Deployer plugin for deploying certificates to F5 BIG-IP devices",
+  "author": "IAS",
+  "license": null,
+  "home_page": "https://github.com/theias/certbot_deployer_bigip",
+  "download_filename": "certbot_deployer_bigip-2.0.0.tar.gz",
+  "download_time": "2025-10-27T15:51:12.348477",
+  "package_url": "https://pypi.org/project/certbot-deployer-bigip/"
+}

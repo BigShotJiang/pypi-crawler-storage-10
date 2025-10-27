@@ -1,11 +1,11 @@
 {
   "name": "m-promptune",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "DSPy acceleration",
   "author": "sign-of-fourier",
   "license": "MIT",
   "home_page": "https://mpromptune.com",
-  "download_filename": "m_promptune-0.2.4.tar.gz",
-  "download_time": "2025-10-27T15:39:53.922369",
+  "download_filename": "m_promptune-0.2.5.tar.gz",
+  "download_time": "2025-10-27T15:51:18.510924",
   "package_url": "https://pypi.org/project/m-promptune/"
 }
