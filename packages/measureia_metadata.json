@@ -1,0 +1,11 @@
+{
+  "name": "measureia",
+  "version": "0.2.1",
+  "summary": "Measureing tool for intrinsic alignment correlation functions.",
+  "author": "Marloes van Heukelum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "measureia-0.2.1.tar.gz",
+  "download_time": "2025-10-27T08:24:31.171442",
+  "package_url": "https://pypi.org/project/measureia/"
+}

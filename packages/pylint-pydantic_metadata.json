@@ -1,0 +1,11 @@
+{
+  "name": "pylint-pydantic",
+  "version": "0.4.1",
+  "summary": "A Pylint plugin to help Pylint understand the Pydantic",
+  "author": "fcfangcc",
+  "license": "GPLv3",
+  "home_page": "https://github.com/fcfangcc/pylint-pydantic",
+  "download_filename": "pylint_pydantic-0.4.1-py3-none-any.whl",
+  "download_time": "2025-10-27T08:24:27.542678",
+  "package_url": "https://pypi.org/project/pylint-pydantic/"
+}

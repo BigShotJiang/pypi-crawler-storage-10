@@ -1,0 +1,11 @@
+{
+  "name": "gba",
+  "version": "0.6.1",
+  "summary": "gbapy (Growth Balance Analysis for Python)",
+  "author": "Charles Rocabert",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/charlesrocabert/gbapy",
+  "download_filename": "gba-0.6.1.tar.gz",
+  "download_time": "2025-10-27T08:24:01.157542",
+  "package_url": "https://pypi.org/project/gba/"
+}

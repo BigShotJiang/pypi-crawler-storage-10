@@ -1,0 +1,11 @@
+{
+  "name": "agx-pypika",
+  "version": "0.1.1",
+  "summary": "Pika SDK for robotics applications",
+  "author": "Agilex Robotics RoboPPN",
+  "license": null,
+  "home_page": "https://github.com/agilexrobotics/pika_sdk",
+  "download_filename": "agx_pypika-0.1.1.tar.gz",
+  "download_time": "2025-10-27T08:24:05.271464",
+  "package_url": "https://pypi.org/project/agx-pypika/"
+}

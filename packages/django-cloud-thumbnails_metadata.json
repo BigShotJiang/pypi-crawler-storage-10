@@ -1,0 +1,11 @@
+{
+  "name": "django-cloud-thumbnails",
+  "version": "1.2.4",
+  "summary": "Django Cloud Thumbnails is a fork of django-image-cropping that uses django-cloud-storage, a custom Django storage backend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cloud_thumbnails-1.2.4.tar.gz",
+  "download_time": "2025-10-27T08:24:22.926698",
+  "package_url": "https://pypi.org/project/django-cloud-thumbnails/"
+}

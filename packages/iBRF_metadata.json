@@ -1,11 +1,11 @@
 {
   "name": "iBRF",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Improved Balanced Random Forest (iBRF) Classifier",
   "author": "Asif Newaz",
   "license": "MIT",
   "home_page": "https://github.com/newaz-aa/iBRF",
-  "download_filename": "ibrf-0.1.0.tar.gz",
-  "download_time": "2025-10-27T07:50:22.908218",
+  "download_filename": "ibrf-0.1.1.tar.gz",
+  "download_time": "2025-10-27T08:24:29.639267",
   "package_url": "https://pypi.org/project/iBRF/"
 }
