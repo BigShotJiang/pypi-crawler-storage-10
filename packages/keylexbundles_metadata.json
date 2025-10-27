@@ -1,0 +1,11 @@
+{
+  "name": "keylexbundles",
+  "version": "0.1.1",
+  "summary": "Compute key lexical bundles (4-grams) keyness between a target corpus and a reference corpus.",
+  "author": "Taehyeong Kim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keylexbundles-0.1.1.tar.gz",
+  "download_time": "2025-10-27T05:19:17.455596",
+  "package_url": "https://pypi.org/project/keylexbundles/"
+}

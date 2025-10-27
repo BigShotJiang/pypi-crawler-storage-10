@@ -1,0 +1,11 @@
+{
+  "name": "depsland",
+  "version": "0.10.0",
+  "summary": "User oriented dependency management and application distribution tool.",
+  "author": "Likianta",
+  "license": null,
+  "home_page": "https://github.com/likianta/depsland",
+  "download_filename": "depsland-0.10.0-py3-none-any.whl",
+  "download_time": "2025-10-27T05:19:24.263580",
+  "package_url": "https://pypi.org/project/depsland/"
+}

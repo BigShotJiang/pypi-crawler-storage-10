@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-spitch",
+  "version": "1.2.16",
+  "summary": "spitch plugin template for LiveKit Agents",
+  "author": "LiveKit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_spitch-1.2.16.tar.gz",
+  "download_time": "2025-10-27T05:18:55.775568",
+  "package_url": "https://pypi.org/project/livekit-plugins-spitch/"
+}
