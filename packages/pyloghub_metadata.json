@@ -1,0 +1,11 @@
+{
+  "name": "pyloghub",
+  "version": "0.1.8",
+  "summary": "The `pyloghub` package provides convinient access to various Log-hub API services for Supply Chain Visualization, Network Design Optimization, and Transport Optimization as well as access to the Log-hub platform data.",
+  "author": "Log-hub AG",
+  "license": "MIT",
+  "home_page": "https://github.com/log-hub/log-hub-python",
+  "download_filename": "pyloghub-0.1.8.tar.gz",
+  "download_time": "2025-10-27T10:21:37.706975",
+  "package_url": "https://pypi.org/project/pyloghub/"
+}

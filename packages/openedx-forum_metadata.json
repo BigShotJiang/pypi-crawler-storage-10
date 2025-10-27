@@ -1,0 +1,11 @@
+{
+  "name": "openedx-forum",
+  "version": "0.3.8",
+  "summary": "Open edX forum application",
+  "author": "Open edX Project",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/forum",
+  "download_filename": "openedx_forum-0.3.8.tar.gz",
+  "download_time": "2025-10-27T10:21:49.178296",
+  "package_url": "https://pypi.org/project/openedx-forum/"
+}

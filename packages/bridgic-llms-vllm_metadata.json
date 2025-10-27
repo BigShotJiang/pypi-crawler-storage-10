@@ -1,0 +1,11 @@
+{
+  "name": "bridgic-llms-vllm",
+  "version": "0.1.1",
+  "summary": "VLLM adapters for Bridgic, enabling connectivity with self-hosted LLM providers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bridgic_llms_vllm-0.1.1.tar.gz",
+  "download_time": "2025-10-27T10:21:45.178635",
+  "package_url": "https://pypi.org/project/bridgic-llms-vllm/"
+}

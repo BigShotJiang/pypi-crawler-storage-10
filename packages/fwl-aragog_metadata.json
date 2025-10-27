@@ -1,0 +1,11 @@
+{
+  "name": "fwl-aragog",
+  "version": "0.2.8a4",
+  "summary": "Aragog is a Python package that computes the 1-D interior dynamics of rocky mantles that are solid, liquid, or mixed phase.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fwl_aragog-0.2.8a4.tar.gz",
+  "download_time": "2025-10-27T10:21:42.899200",
+  "package_url": "https://pypi.org/project/fwl-aragog/"
+}

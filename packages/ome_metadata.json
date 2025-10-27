@@ -1,11 +1,11 @@
 {
   "name": "ome",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Oh My Event - Just a busybox for Event Camera",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ome-0.2.0.tar.gz",
-  "download_time": "2025-10-27T04:56:02.809657",
+  "download_filename": "ome-0.3.0.tar.gz",
+  "download_time": "2025-10-27T10:21:16.895282",
   "package_url": "https://pypi.org/project/ome/"
 }

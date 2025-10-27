@@ -1,0 +1,11 @@
+{
+  "name": "dissect.vmfs",
+  "version": "3.12",
+  "summary": "A Dissect module implementing a parser for the VMFS file system, used by VMware virtualization software",
+  "author": null,
+  "license": "Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "dissect_vmfs-3.12.tar.gz",
+  "download_time": "2025-10-27T10:21:07.625353",
+  "package_url": "https://pypi.org/project/dissect.vmfs/"
+}

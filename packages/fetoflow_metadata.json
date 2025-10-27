@@ -1,0 +1,11 @@
+{
+  "name": "fetoflow",
+  "version": "0.1.4",
+  "summary": "A Python library for fetoplacental vasculature modelling.",
+  "author": "Jordan Blennerhassett, Jude Beullens",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fetoflow-0.1.4.tar.gz",
+  "download_time": "2025-10-27T10:21:21.466203",
+  "package_url": "https://pypi.org/project/fetoflow/"
+}
