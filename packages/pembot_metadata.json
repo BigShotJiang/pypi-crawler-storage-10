@@ -1,11 +1,11 @@
 {
   "name": "pembot",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A Python Package to convert PEM blog content to usseful information by leveraging LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pembot-0.1.9.tar.gz",
-  "download_time": "2025-10-25T11:36:40.435142",
+  "download_filename": "pembot-0.1.10.tar.gz",
+  "download_time": "2025-10-27T04:56:03.381188",
   "package_url": "https://pypi.org/project/pembot/"
 }

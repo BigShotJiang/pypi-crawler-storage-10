@@ -1,0 +1,11 @@
+{
+  "name": "monthly-converter",
+  "version": "0.0.1",
+  "summary": "Get the Monthly Sales Data",
+  "author": "Aviral Srivastava",
+  "license": null,
+  "home_page": "https://github.com/A284viral/protections_v1",
+  "download_filename": "monthly_converter-0.0.1.tar.gz",
+  "download_time": "2025-10-27T04:56:02.241569",
+  "package_url": "https://pypi.org/project/monthly-converter/"
+}

@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T04:34:43.321805
-- **Total Packages**: 83
-- **Total Size**: 6.53 MB
+- **Download Time**: 2025-10-27T04:56:38.184102
+- **Total Packages**: 84
+- **Total Size**: 16.75 MB
 
 ## Packages List
+- phanterpwa
+- invokelint
+- iamdata
+- click-config-file-injection-utils
+- mcp-ticketer
+- ado-asana-sync
+- lance-namespace-urllib3-client
+- lance-namespace
+- dyngle
+- mingli-mcp
+- pro-craft
+- jaegis-raverse-mcp-server
+- pgpack
+- swe-cli
+- remindmail
+- lk-utils
+- mcp-server-vefaas-function
+- kailash
+- django-deep-translator
+- monthly-converter
+- ome
+- pembot
+- gcpds-cv-pykit
+- xdi-validator
+- alpha-berkeley-framework
+- claude-mpm
+- agentcenter
+- eless
+- vibego
+- openai-usage
+- grain-nightly
 - devstack-cli
 - fastdc
 - mwalib
@@ -14,7 +45,6 @@
 - keras-nlp-nightly
 - keras-hub-nightly
 - marketorestpython
-- swe-cli
 - ndbc-api
 - persidict
 - nquencolor
@@ -35,7 +65,6 @@
 - cb-flooddy
 - MicroEdit
 - radioactiveshrimp
-- invokelint
 - chromedriver-binary
 - featuremap
 - webresearcher
@@ -43,7 +72,6 @@
 - pypomes-crypto
 - riffy
 - langchain-trigger-server
-- jaegis-raverse-mcp-server
 - mcpcn-excel-mcp-server
 - xl-pq-handler
 - dstklib
@@ -62,30 +90,3 @@
 - isat-sam
 - ISED
 - nakuritycore
-- aftership-tracking-sdk
-- eventdispatch
-- simple-html
-- makitdone-lib
-- makitdone-web
-- mingli-mcp
-- terminal-tutor
-- pathling
-- web-queue2
-- keras-rs-nightly
-- cqc-quam-state
-- defog
-- StoryForge
-- splurge-typer
-- toastiepy
-- lanscape
-- pybliss
-- scrapyx-pkgs
-- scrapyx-mw
-- dify_plugin
-- GANDLF
-- scrapyx-core
-- mkdocs-htmlproofer-plugin
-- Radar-Range-Equation
-- jaxlayerlumos
-- xrpl-py-cheng
-- so-vits-svc-fork

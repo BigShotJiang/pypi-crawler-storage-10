@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": "https://github.com/MWATelescope/mwalib",
-  "download_filename": "mwalib-1.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-10-27T04:33:59.973992",
+  "download_filename": "mwalib-1.9.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-27T04:56:10.536285",
   "package_url": "https://pypi.org/project/mwalib/"
 }
