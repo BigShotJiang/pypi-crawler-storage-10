@@ -1,0 +1,11 @@
+{
+  "name": "bypass-ouo",
+  "version": "0.1.1",
+  "summary": "A Python package to bypass ouo.io URL shortener",
+  "author": "https://github.com/killcod3/",
+  "license": null,
+  "home_page": "https://github.com/killcod3/bypass_ouo",
+  "download_filename": "bypass_ouo-0.1.1.tar.gz",
+  "download_time": "2025-10-27T18:49:55.412250",
+  "package_url": "https://pypi.org/project/bypass-ouo/"
+}

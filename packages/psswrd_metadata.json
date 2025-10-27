@@ -1,0 +1,11 @@
+{
+  "name": "psswrd",
+  "version": "0.2.0",
+  "summary": "Simple script that generates pronounceable passwords.",
+  "author": "Dave Vandenbout",
+  "license": "MIT",
+  "home_page": "https://github.com/devbisme/psswrd",
+  "download_filename": "psswrd-0.2.0.tar.gz",
+  "download_time": "2025-10-27T18:49:23.886360",
+  "package_url": "https://pypi.org/project/psswrd/"
+}

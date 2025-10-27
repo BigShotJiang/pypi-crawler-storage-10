@@ -1,0 +1,11 @@
+{
+  "name": "bar-raiser",
+  "version": "0.0.11",
+  "summary": "Bar-Raiser is a cutting-edge framework designed to help engineering teams tackle technical debt, streamline development workflows, and elevate code quality.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bar_raiser-0.0.11.tar.gz",
+  "download_time": "2025-10-27T18:49:33.522215",
+  "package_url": "https://pypi.org/project/bar-raiser/"
+}

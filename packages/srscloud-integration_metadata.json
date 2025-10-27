@@ -1,0 +1,11 @@
+{
+  "name": "srscloud-integration",
+  "version": "0.4.1",
+  "summary": "Integração com SRS-Cloud para automação de processos.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srscloud_integration-0.4.1.tar.gz",
+  "download_time": "2025-10-27T18:49:18.080145",
+  "package_url": "https://pypi.org/project/srscloud-integration/"
+}

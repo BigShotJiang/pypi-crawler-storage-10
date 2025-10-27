@@ -1,0 +1,11 @@
+{
+  "name": "find-mfs",
+  "version": "0.2.0",
+  "summary": "A Python package for finding molecular formula candidates from a mass and error window",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "find_mfs-0.2.0.tar.gz",
+  "download_time": "2025-10-27T18:49:43.367017",
+  "package_url": "https://pypi.org/project/find-mfs/"
+}
