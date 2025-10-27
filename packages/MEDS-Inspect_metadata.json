@@ -1,0 +1,11 @@
+{
+  "name": "MEDS-Inspect",
+  "version": "0.0.11",
+  "summary": "MEDS-Inspect is an interactive data visualization app that supports you in your data exploration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meds_inspect-0.0.11.tar.gz",
+  "download_time": "2025-10-27T16:22:56.650709",
+  "package_url": "https://pypi.org/project/MEDS-Inspect/"
+}

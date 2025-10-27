@@ -1,0 +1,11 @@
+{
+  "name": "docx-mcp",
+  "version": "0.1.8",
+  "summary": "DOCX MCP处理器 - 完整的Word文档处理工具，支持图片编辑和表格操作",
+  "author": "rockcj",
+  "license": "MIT",
+  "home_page": "https://github.com/rockcj/Docx_MCP_cj",
+  "download_filename": "docx_mcp-0.1.8.tar.gz",
+  "download_time": "2025-10-27T16:23:03.925806",
+  "package_url": "https://pypi.org/project/docx-mcp/"
+}

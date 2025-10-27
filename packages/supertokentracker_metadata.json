@@ -1,0 +1,11 @@
+{
+  "name": "supertokentracker",
+  "version": "0.2.0",
+  "summary": "Google Gemini token tracker that automatically logs prompts, responses, and token usage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supertokentracker-0.2.0.tar.gz",
+  "download_time": "2025-10-27T16:23:01.844589",
+  "package_url": "https://pypi.org/project/supertokentracker/"
+}

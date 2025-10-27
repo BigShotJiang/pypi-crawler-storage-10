@@ -1,0 +1,11 @@
+{
+  "name": "inspire-classifier",
+  "version": "2.0.5",
+  "summary": "INSPIRE package aimed to automatically classify the new papers that are added to INSPIRE, such as if they are core or not.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inspire_classifier-2.0.5.tar.gz",
+  "download_time": "2025-10-27T16:22:24.964998",
+  "package_url": "https://pypi.org/project/inspire-classifier/"
+}

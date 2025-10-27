@@ -1,0 +1,11 @@
+{
+  "name": "bsccm",
+  "version": "1.2.1",
+  "summary": "Access the Berkeley Single Cell Computational Microscopy",
+  "author": "Henry Pinkard",
+  "license": null,
+  "home_page": "https://github.com/henrypinkard/BSCCM",
+  "download_filename": "bsccm-1.2.1.tar.gz",
+  "download_time": "2025-10-27T16:22:17.754794",
+  "package_url": "https://pypi.org/project/bsccm/"
+}

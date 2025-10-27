@@ -1,0 +1,11 @@
+{
+  "name": "pyShearLab-MIND",
+  "version": "0.0.2",
+  "summary": "Fork of the original pyShearLab libarary with minimal alterations specifically for the pyMIND package",
+  "author": "Stefan Loock",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JanVictor-Otte/pyShearLab-MIND",
+  "download_filename": "pyshearlab_mind-0.0.2.tar.gz",
+  "download_time": "2025-10-27T16:23:00.821978",
+  "package_url": "https://pypi.org/project/pyShearLab-MIND/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pykit-tools",
+  "version": "1.1.0",
+  "summary": "python tools",
+  "author": "SkylerHu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/SkylerHu/pykit-tools.git",
+  "download_filename": "pykit_tools-1.1.0.tar.gz",
+  "download_time": "2025-10-27T16:23:00.309339",
+  "package_url": "https://pypi.org/project/pykit-tools/"
+}

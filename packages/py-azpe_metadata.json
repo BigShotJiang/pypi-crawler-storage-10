@@ -1,0 +1,11 @@
+{
+  "name": "py-azpe",
+  "version": "0.1.0",
+  "summary": "Minimal Azure Policy engine with file and sdk backends",
+  "author": "(local)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_azpe-0.1.0.tar.gz",
+  "download_time": "2025-10-27T16:22:31.661733",
+  "package_url": "https://pypi.org/project/py-azpe/"
+}

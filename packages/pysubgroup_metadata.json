@@ -1,0 +1,11 @@
+{
+  "name": "pysubgroup",
+  "version": "0.9.0",
+  "summary": "pysubgroup is a Python library for the data analysis task of subgroup discovery.",
+  "author": "Florian Lemmerich, Felix Stamm, Martin Becker",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/flemmerich/pysubgroup",
+  "download_filename": "pysubgroup-0.9.0.tar.gz",
+  "download_time": "2025-10-27T16:22:22.907285",
+  "package_url": "https://pypi.org/project/pysubgroup/"
+}
