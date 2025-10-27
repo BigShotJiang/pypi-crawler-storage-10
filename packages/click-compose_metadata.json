@@ -1,11 +1,11 @@
 {
   "name": "click-compose",
-  "version": "2025.10.27.2",
+  "version": "2025.10.27.3",
   "summary": "Composable Click callback utilities for building flexible CLI applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "click_compose-2025.10.27.2.tar.gz",
-  "download_time": "2025-10-27T10:56:18.955047",
+  "download_filename": "click_compose-2025.10.27.3.tar.gz",
+  "download_time": "2025-10-27T11:52:35.416226",
   "package_url": "https://pypi.org/project/click-compose/"
 }

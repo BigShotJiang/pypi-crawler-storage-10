@@ -1,0 +1,11 @@
+{
+  "name": "datacrunch",
+  "version": "1.16.0",
+  "summary": "Official Python SDK for DataCrunch Public API",
+  "author": "DataCrunch Oy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datacrunch-1.16.0.tar.gz",
+  "download_time": "2025-10-27T11:52:42.700629",
+  "package_url": "https://pypi.org/project/datacrunch/"
+}

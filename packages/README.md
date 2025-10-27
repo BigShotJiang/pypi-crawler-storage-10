@@ -1,14 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T11:43:26.578994
-- **Total Packages**: 89
-- **Total Size**: 2.53 MB
+- **Download Time**: 2025-10-27T11:53:19.665495
+- **Total Packages**: 86
+- **Total Size**: 8.9 MB
 
 ## Packages List
+- donkit-ragops-ce
+- astreum
+- plip
+- mcp-airflow-api
+- yta-numpy
+- click-compose
+- aicp-helper
+- tree-sitter-analyzer
+- telescoop-backup
+- slaviclean
+- nucliadb-admin-assets
+- mcp-ambari-api
+- donkit-embeddings
+- py-directus2
+- glean-parser
+- mfd-network-adapter
+- sql-complexity
+- static-dicomweb-creator
+- team-secure-project
+- datacrunch
+- django-neuralyzer
+- logsentinelai
+- civilpy
+- hlit-dev
+- rocketKarim
+- mikezhou-package
+- sequifier
+- nexusai
+- mindformers
+- kabukit
 - phylogenie
 - promptlayer
-- aicp-helper
 - excel2pyral
 - stonefish-license-manager
 - scc-firewall-manager-sdk
@@ -36,7 +65,6 @@
 - torchx-nightly
 - splurge-sql-generator
 - dump-things-service
-- glean-parser
 - StreamDataPanel
 - rocket-vuln3rator
 - PythonBinder
@@ -62,36 +90,5 @@
 - apolo-app-types
 - aiomisc
 - splurge-sql-runner
-- donkit-ragops-ce
 - sphinx-prime-applets
 - summer-modules
-- toadr3
-- revolution-eda
-- spx-sdk
-- Orange-SNOM
-- graphql-mcp
-- example-package-coolport
-- io4it
-- magmeas
-- debiai-data-provider
-- alibabacloud-cloudfw20171207
-- odoo-apps-Odoo-Apps-Account-Financial-Reporting
-- odoo-addon-account_oss_report
-- dalia-dif
-- lucid-dl
-- hgraph
-- WebAppDIRAC
-- dbt-jobs-as-code
-- bbob-jax
-- odoo-addon-helpdesk-mgmt-merge
-- pyfcstm
-- easy-utils-dev
-- chemex
-- galtea
-- unique_sdk
-- xiaoya-teacher-mcp-server
-- jeap-pipeline
-- pyeasyphd
-- pyarchinit-mini
-- nsa-flow
-- odoo-addon-mgmtsystem-review-objective

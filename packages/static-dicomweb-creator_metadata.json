@@ -1,11 +1,11 @@
 {
   "name": "static-dicomweb-creator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool for creating static DICOM web applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "static_dicomweb_creator-0.1.1.tar.gz",
-  "download_time": "2025-10-26T13:50:42.291754",
+  "download_filename": "static_dicomweb_creator-0.1.2.tar.gz",
+  "download_time": "2025-10-27T11:52:41.676315",
   "package_url": "https://pypi.org/project/static-dicomweb-creator/"
 }

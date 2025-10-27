@@ -1,0 +1,11 @@
+{
+  "name": "rocketKarim",
+  "version": "1.0.0",
+  "summary": "An awesome package that creates a rocket",
+  "author": "Abdelkarim khalfaoui",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/<your_package_name>/",
+  "download_filename": "rocketkarim-1.0.0.tar.gz",
+  "download_time": "2025-10-27T11:52:45.572073",
+  "package_url": "https://pypi.org/project/rocketKarim/"
+}

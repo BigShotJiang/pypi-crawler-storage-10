@@ -1,0 +1,11 @@
+{
+  "name": "slaviclean",
+  "version": "0.1.1",
+  "summary": "Text filter designed to cleanse text of profanity and offensive language, specifically tailored for Ukrainian, Russian, and Surzhik.",
+  "author": "Tetiana Lytvynenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slaviclean-0.1.1.tar.gz",
+  "download_time": "2025-10-27T11:52:37.549205",
+  "package_url": "https://pypi.org/project/slaviclean/"
+}

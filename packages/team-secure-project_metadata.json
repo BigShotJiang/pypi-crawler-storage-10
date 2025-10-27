@@ -1,0 +1,11 @@
+{
+  "name": "team-secure-project",
+  "version": "3.0.0",
+  "summary": "团队安全项目 - 提供加密计算和数据处理功能",
+  "author": "Team Name",
+  "license": "PROPRIETARY",
+  "home_page": "https://github.com/team-name/team_secure_project",
+  "download_filename": "team_secure_project-3.0.0.tar.gz",
+  "download_time": "2025-10-27T11:52:42.188598",
+  "package_url": "https://pypi.org/project/team-secure-project/"
+}
