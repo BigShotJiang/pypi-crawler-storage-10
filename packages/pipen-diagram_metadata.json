@@ -1,0 +1,11 @@
+{
+  "name": "pipen-diagram",
+  "version": "0.13.4",
+  "summary": "Draw pipeline diagrams for pipen.",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/pipen-diagram",
+  "download_filename": "pipen_diagram-0.13.4.tar.gz",
+  "download_time": "2025-10-27T23:16:12.719135",
+  "package_url": "https://pypi.org/project/pipen-diagram/"
+}

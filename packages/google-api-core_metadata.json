@@ -1,0 +1,11 @@
+{
+  "name": "google-api-core",
+  "version": "2.28.0",
+  "summary": "Google API client core library",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "google_api_core-2.28.0.tar.gz",
+  "download_time": "2025-10-27T23:16:34.147604",
+  "package_url": "https://pypi.org/project/google-api-core/"
+}

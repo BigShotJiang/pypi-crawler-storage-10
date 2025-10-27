@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-app-core",
+  "version": "0.0.3",
+  "summary": "Core utilities and reusable patterns for FastHTML applications including page layouts, HTMX request handling, alerts, and navbar components.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-app-core",
+  "download_filename": "cjm_fasthtml_app_core-0.0.3.tar.gz",
+  "download_time": "2025-10-27T23:16:33.111458",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-app-core/"
+}
