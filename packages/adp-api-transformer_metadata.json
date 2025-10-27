@@ -1,0 +1,11 @@
+{
+  "name": "adp-api-transformer",
+  "version": "1.0.3",
+  "summary": "This package can be used to transform your openapi specs (json or yaml) to be used in the ADP1 apim repo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adp_api_transformer-1.0.3.tar.gz",
+  "download_time": "2025-10-27T15:39:54.455149",
+  "package_url": "https://pypi.org/project/adp-api-transformer/"
+}

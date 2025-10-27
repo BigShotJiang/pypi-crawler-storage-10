@@ -1,0 +1,11 @@
+{
+  "name": "reuse",
+  "version": "6.2.0",
+  "summary": "reuse is a tool for compliance with the REUSE recommendations.",
+  "author": "Free Software Foundation Europe",
+  "license": "Apache-2.0 AND CC0-1.0 AND CC-BY-SA-4.0 AND GPL-3.0-or-later",
+  "home_page": "https://reuse.software/",
+  "download_filename": "reuse-6.2.0.tar.gz",
+  "download_time": "2025-10-27T15:40:26.797140",
+  "package_url": "https://pypi.org/project/reuse/"
+}

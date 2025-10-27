@@ -1,0 +1,11 @@
+{
+  "name": "autotwin_pmswsgi",
+  "version": "1.0.0",
+  "summary": "Process Mining Service WSGI for Auto-Twin",
+  "author": "Lulai Zhu",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AutotwinEU/proc-mining-serv",
+  "download_filename": "autotwin_pmswsgi-1.0.0.tar.gz",
+  "download_time": "2025-10-27T15:39:53.388163",
+  "package_url": "https://pypi.org/project/autotwin_pmswsgi/"
+}

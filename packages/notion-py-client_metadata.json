@@ -1,0 +1,11 @@
+{
+  "name": "notion-py-client",
+  "version": "0.1.15",
+  "summary": "A Python client for Notion API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notion_py_client-0.1.15.tar.gz",
+  "download_time": "2025-10-27T15:39:55.617233",
+  "package_url": "https://pypi.org/project/notion-py-client/"
+}

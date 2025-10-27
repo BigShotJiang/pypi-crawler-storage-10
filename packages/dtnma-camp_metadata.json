@@ -1,0 +1,11 @@
+{
+  "name": "dtnma-camp",
+  "version": "3.1.0",
+  "summary": "C code generator for DTNMA tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtnma_camp-3.1.0.tar.gz",
+  "download_time": "2025-10-27T15:40:00.377710",
+  "package_url": "https://pypi.org/project/dtnma-camp/"
+}

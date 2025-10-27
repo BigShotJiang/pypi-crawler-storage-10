@@ -1,0 +1,11 @@
+{
+  "name": "airtable-client",
+  "version": "0.1.0",
+  "summary": "A Python client for the Airtable API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airtable_client-0.1.0.tar.gz",
+  "download_time": "2025-10-27T15:39:50.733420",
+  "package_url": "https://pypi.org/project/airtable-client/"
+}

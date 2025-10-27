@@ -1,0 +1,11 @@
+{
+  "name": "pynetcf",
+  "version": "0.5.2",
+  "summary": "Reading and writing netCDF files according to CF conventions",
+  "author": "TU Wien",
+  "license": "MIT",
+  "home_page": "http://geo.tuwien.ac.at/",
+  "download_filename": "pynetcf-0.5.2.tar.gz",
+  "download_time": "2025-10-27T15:40:13.713484",
+  "package_url": "https://pypi.org/project/pynetcf/"
+}

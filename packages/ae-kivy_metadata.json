@@ -1,0 +1,11 @@
+{
+  "name": "ae-kivy",
+  "version": "0.3.125",
+  "summary": "ae namespace package portion kivy: core application classes and widgets for GUIApp-conform Kivy apps",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_kivy",
+  "download_filename": "ae_kivy-0.3.125.tar.gz",
+  "download_time": "2025-10-27T15:40:07.339115",
+  "package_url": "https://pypi.org/project/ae-kivy/"
+}

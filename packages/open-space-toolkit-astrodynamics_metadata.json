@@ -1,0 +1,11 @@
+{
+  "name": "open-space-toolkit-astrodynamics",
+  "version": "16.10.0",
+  "summary": "Orbit, attitude, access.",
+  "author": "Open Space Collective",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "open_space_toolkit_astrodynamics-16.10.0-py310-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-10-27T15:40:34.709733",
+  "package_url": "https://pypi.org/project/open-space-toolkit-astrodynamics/"
+}

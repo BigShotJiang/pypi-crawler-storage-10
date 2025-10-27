@@ -1,0 +1,11 @@
+{
+  "name": "apc-hypaship",
+  "version": "0.1.10",
+  "summary": "Basic API client for APC-Hypaship platform",
+  "author": "paw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apc_hypaship-0.1.10.tar.gz",
+  "download_time": "2025-10-27T15:40:06.819788",
+  "package_url": "https://pypi.org/project/apc-hypaship/"
+}
