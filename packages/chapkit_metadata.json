@@ -1,11 +1,11 @@
 {
   "name": "chapkit",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "summary": "ML and data service modules built on servicekit - config, artifacts, tasks, and ML workflows",
   "author": "Morten Hansen",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "chapkit-0.4.10.tar.gz",
-  "download_time": "2025-10-27T21:15:47.219185",
+  "download_filename": "chapkit-0.4.11.tar.gz",
+  "download_time": "2025-10-27T21:31:43.211117",
   "package_url": "https://pypi.org/project/chapkit/"
 }

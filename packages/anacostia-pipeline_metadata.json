@@ -1,11 +1,11 @@
 {
   "name": "anacostia-pipeline",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "A framework for building MLOps pipelines",
   "author": "Minh-Quan Do",
   "license": null,
   "home_page": null,
-  "download_filename": "anacostia_pipeline-0.8.7.tar.gz",
-  "download_time": "2025-10-27T18:49:18.633049",
+  "download_filename": "anacostia_pipeline-0.8.8.tar.gz",
+  "download_time": "2025-10-27T21:31:33.367675",
   "package_url": "https://pypi.org/project/anacostia-pipeline/"
 }

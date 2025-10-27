@@ -1,11 +1,11 @@
 {
   "name": "rest-requests",
-  "version": "0.0.3",
-  "summary": "Asynchronous REST requests with proxy support.",
+  "version": "1.0.0",
+  "summary": "Lightweight asynchronous REST API requests. JSON bodies only. Proxy support.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rest_requests-0.0.3.tar.gz",
-  "download_time": "2025-10-27T12:37:29.951193",
+  "download_filename": "rest_requests-1.0.0.tar.gz",
+  "download_time": "2025-10-27T21:31:22.179132",
   "package_url": "https://pypi.org/project/rest-requests/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cpp-linter",
+  "version": "1.11.3",
+  "summary": "Run clang-format and clang-tidy on a batch of files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpp_linter-1.11.3.tar.gz",
+  "download_time": "2025-10-27T21:31:21.603984",
+  "package_url": "https://pypi.org/project/cpp-linter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hat-drivers",
-  "version": "0.9.28",
+  "version": "0.9.29",
   "summary": "Hat communication drivers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hat_drivers-0.9.28-cp310.cp311.cp312.cp313-abi3-manylinux_2_24_aarch64.whl",
-  "download_time": "2025-10-27T21:16:13.908605",
+  "download_filename": "hat_drivers-0.9.29-cp310.cp311.cp312.cp313-abi3-manylinux_2_24_aarch64.whl",
+  "download_time": "2025-10-27T21:31:26.739261",
   "package_url": "https://pypi.org/project/hat-drivers/"
 }

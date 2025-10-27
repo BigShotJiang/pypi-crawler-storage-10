@@ -1,0 +1,11 @@
+{
+  "name": "cryptopyx",
+  "version": "0.1.2",
+  "summary": "A python cryptography package written in Rust made for speed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptopyx-0.1.2.tar.gz",
+  "download_time": "2025-10-27T21:31:35.124116",
+  "package_url": "https://pypi.org/project/cryptopyx/"
+}

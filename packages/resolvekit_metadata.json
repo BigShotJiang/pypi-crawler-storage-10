@@ -1,0 +1,11 @@
+{
+  "name": "resolvekit",
+  "version": "0.0.1",
+  "summary": "A local, offline-first entity and place resolution system that maps messy place/entity strings and codes to canonical entities with calibrated confidence scores",
+  "author": "Jorge Rivera",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resolvekit-0.0.1.tar.gz",
+  "download_time": "2025-10-27T21:31:40.230285",
+  "package_url": "https://pypi.org/project/resolvekit/"
+}

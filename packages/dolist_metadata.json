@@ -1,0 +1,11 @@
+{
+  "name": "dolist",
+  "version": "0.4.1",
+  "summary": "To-Do list on Command Line Interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dolist-0.4.1.tar.gz",
+  "download_time": "2025-10-27T21:31:27.347398",
+  "package_url": "https://pypi.org/project/dolist/"
+}

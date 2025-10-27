@@ -1,0 +1,11 @@
+{
+  "name": "hat-gateway",
+  "version": "0.6.33",
+  "summary": "Hat gateway",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hat_gateway-0.6.33-cp310.cp311.cp312.cp313-none-any.whl",
+  "download_time": "2025-10-27T21:31:23.278115",
+  "package_url": "https://pypi.org/project/hat-gateway/"
+}
