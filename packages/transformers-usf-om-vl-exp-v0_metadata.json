@@ -1,0 +1,11 @@
+{
+  "name": "transformers-usf-om-vl-exp-v0",
+  "version": "0.0.1.post1",
+  "summary": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/huggingface/transformers",
+  "download_filename": "transformers_usf_om_vl_exp_v0-0.0.1.post1.tar.gz",
+  "download_time": "2025-10-27T22:51:09.871726",
+  "package_url": "https://pypi.org/project/transformers-usf-om-vl-exp-v0/"
+}

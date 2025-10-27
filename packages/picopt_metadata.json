@@ -1,0 +1,11 @@
+{
+  "name": "picopt",
+  "version": "5.2.2",
+  "summary": "A multi format lossless image optimizer that uses external tools",
+  "author": "AJ Slater",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "picopt-5.2.2.tar.gz",
+  "download_time": "2025-10-27T22:50:53.742631",
+  "package_url": "https://pypi.org/project/picopt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phagetrix",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Optimizer for degenerate codon use in phage library generation",
   "author": "Reto Stamm",
   "license": null,
   "home_page": null,
-  "download_filename": "phagetrix-1.0.4.tar.gz",
-  "download_time": "2025-10-27T22:34:52.304439",
+  "download_filename": "phagetrix-1.0.5.tar.gz",
+  "download_time": "2025-10-27T22:51:13.282070",
   "package_url": "https://pypi.org/project/phagetrix/"
 }
