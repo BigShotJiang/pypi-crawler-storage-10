@@ -1,0 +1,11 @@
+{
+  "name": "OBPlanner",
+  "version": "0.0.7",
+  "summary": "A path planning tool for Open Beam Path (OBP) files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obplanner-0.0.7.tar.gz",
+  "download_time": "2025-10-27T09:21:40.533365",
+  "package_url": "https://pypi.org/project/OBPlanner/"
+}
