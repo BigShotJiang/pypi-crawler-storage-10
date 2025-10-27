@@ -1,0 +1,11 @@
+{
+  "name": "sisypho",
+  "version": "0.1.0",
+  "summary": "An SDK for browser automation, workflow recording, and skill execution with MCP integration (macOS only)",
+  "author": "Harishguna S",
+  "license": null,
+  "home_page": "https://github.com/HarishgunaS/sisypho-sdk",
+  "download_filename": "sisypho-0.1.0.tar.gz",
+  "download_time": "2025-10-27T18:25:55.159527",
+  "package_url": "https://pypi.org/project/sisypho/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kaio",
+  "version": "0.1.7",
+  "summary": "Python client for the Kaio multi-tenant machine learning platform",
+  "author": "Kaio Platform",
+  "license": "MIT",
+  "home_page": "https://github.com/Kaion5-Compute/kaio",
+  "download_filename": "kaio-0.1.7.tar.gz",
+  "download_time": "2025-10-27T18:25:47.211493",
+  "package_url": "https://pypi.org/project/kaio/"
+}

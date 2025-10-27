@@ -1,0 +1,11 @@
+{
+  "name": "testrail-megamigrator",
+  "version": "0.0.3",
+  "summary": "Plugin to migrate your data from testrail",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testrail_megamigrator-0.0.3.tar.gz",
+  "download_time": "2025-10-27T18:26:10.855624",
+  "package_url": "https://pypi.org/project/testrail-megamigrator/"
+}

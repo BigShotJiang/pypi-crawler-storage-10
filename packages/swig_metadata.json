@@ -1,0 +1,11 @@
+{
+  "name": "swig",
+  "version": "4.4.0",
+  "summary": "SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.",
+  "author": null,
+  "license": "https://github.com/swig/swig/blob/master/LICENSE",
+  "home_page": null,
+  "download_filename": "swig-4.4.0.tar.gz",
+  "download_time": "2025-10-27T18:26:00.329677",
+  "package_url": "https://pypi.org/project/swig/"
+}

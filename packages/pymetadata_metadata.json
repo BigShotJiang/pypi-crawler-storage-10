@@ -1,11 +1,11 @@
 {
   "name": "pymetadata",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "pymetadata are python utilities for working with metadata.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymetadata-0.5.6.tar.gz",
-  "download_time": "2025-10-27T16:49:16.879468",
+  "download_filename": "pymetadata-0.5.7.tar.gz",
+  "download_time": "2025-10-27T18:25:49.875960",
   "package_url": "https://pypi.org/project/pymetadata/"
 }

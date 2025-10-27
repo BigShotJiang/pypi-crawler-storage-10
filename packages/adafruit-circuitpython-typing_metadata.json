@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-typing",
+  "version": "1.12.3",
+  "summary": "Types needed for type annotation that are not in `typing`",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_typing-1.12.3.tar.gz",
+  "download_time": "2025-10-27T18:25:43.487706",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-typing/"
+}

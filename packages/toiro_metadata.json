@@ -1,0 +1,11 @@
+{
+  "name": "toiro",
+  "version": "0.0.10",
+  "summary": "A comparison tool of Japanese tokenizers",
+  "author": "Taishi Ikeda",
+  "license": null,
+  "home_page": "https://github.com/taishi-i/toiro",
+  "download_filename": "toiro-0.0.10.tar.gz",
+  "download_time": "2025-10-27T18:25:40.833277",
+  "package_url": "https://pypi.org/project/toiro/"
+}

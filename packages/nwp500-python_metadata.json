@@ -1,11 +1,11 @@
 {
   "name": "nwp500-python",
-  "version": "3.1.4",
+  "version": "4.7",
   "summary": "A library for controlling Navien NWP500 Water Heaters via NaviLink",
   "author": "Emmanuel Levijarvi",
   "license": "MIT",
   "home_page": "https://github.com/eman/nwp500-python",
-  "download_filename": "nwp500_python-3.1.4.tar.gz",
-  "download_time": "2025-10-26T15:30:50.608162",
+  "download_filename": "nwp500_python-4.7.tar.gz",
+  "download_time": "2025-10-27T18:26:16.562323",
   "package_url": "https://pypi.org/project/nwp500-python/"
 }

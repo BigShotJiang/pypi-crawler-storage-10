@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-proc",
+  "version": "0.0.10",
+  "summary": "Python Process for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bsaltel/galaxy-py-proc",
+  "download_filename": "galaxy_py_proc-0.0.10.tar.gz",
+  "download_time": "2025-10-27T18:25:59.281940",
+  "package_url": "https://pypi.org/project/galaxy-py-proc/"
+}

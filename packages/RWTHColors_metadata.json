@@ -1,0 +1,11 @@
+{
+  "name": "RWTHColors",
+  "version": "0.3.0",
+  "summary": "Simple library that makes it easier to use RWTH CI colors in python projects",
+  "author": "Philipp Simon Leibner",
+  "license": "MIT",
+  "home_page": "https://github.com/ifs-rwth-aachen/RWTH-Colors",
+  "download_filename": "rwthcolors-0.3.0.tar.gz",
+  "download_time": "2025-10-27T18:25:34.518130",
+  "package_url": "https://pypi.org/project/RWTHColors/"
+}
