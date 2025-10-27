@@ -1,0 +1,11 @@
+{
+  "name": "parth-dl",
+  "version": "1.0.0",
+  "summary": "Instagram media downloader for public content (reels, posts, profile pictures)",
+  "author": "Parth",
+  "license": null,
+  "home_page": "https://github.com/parthmax2/parth-dl",
+  "download_filename": "parth_dl-1.0.0.tar.gz",
+  "download_time": "2025-10-27T19:27:47.363006",
+  "package_url": "https://pypi.org/project/parth-dl/"
+}

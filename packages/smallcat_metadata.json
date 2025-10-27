@@ -1,11 +1,11 @@
 {
   "name": "smallcat",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smallcat-0.2.3.tar.gz",
-  "download_time": "2025-10-27T11:16:11.167416",
+  "download_filename": "smallcat-0.3.0.tar.gz",
+  "download_time": "2025-10-27T19:27:45.288270",
   "package_url": "https://pypi.org/project/smallcat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qcinf",
+  "version": "0.2.1",
+  "summary": "Cheminformatics algorithms and structure utilities using standardized qcio data structures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcinf-0.2.1.tar.gz",
+  "download_time": "2025-10-27T19:27:54.646406",
+  "package_url": "https://pypi.org/project/qcinf/"
+}
