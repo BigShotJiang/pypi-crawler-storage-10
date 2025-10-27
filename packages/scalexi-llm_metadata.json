@@ -1,0 +1,11 @@
+{
+  "name": "scalexi-llm",
+  "version": "0.1.5",
+  "summary": "A comprehensive multi-provider LLM proxy library with unified interface",
+  "author": "scalex_innovation",
+  "license": null,
+  "home_page": "https://github.com/scalexi/scalexi_llm",
+  "download_filename": "scalexi_llm-0.1.5.tar.gz",
+  "download_time": "2025-10-27T08:48:37.287244",
+  "package_url": "https://pypi.org/project/scalexi-llm/"
+}

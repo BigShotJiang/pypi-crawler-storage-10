@@ -1,11 +1,11 @@
 {
   "name": "codex-usage-monitor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Monitor your Codex CLI token usage in real-time",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codex_usage_monitor-1.0.1.tar.gz",
-  "download_time": "2025-10-27T07:39:17.567349",
+  "download_filename": "codex_usage_monitor-1.0.2.tar.gz",
+  "download_time": "2025-10-27T08:49:01.949865",
   "package_url": "https://pypi.org/project/codex-usage-monitor/"
 }

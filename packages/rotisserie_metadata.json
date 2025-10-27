@@ -1,0 +1,11 @@
+{
+  "name": "rotisserie",
+  "version": "0.1.0",
+  "summary": "API key rotation + priority-aware scheduler layered on top of requests, httpx, and aiohttp.",
+  "author": "Ryan Delano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotisserie-0.1.0.tar.gz",
+  "download_time": "2025-10-27T08:48:47.899663",
+  "package_url": "https://pypi.org/project/rotisserie/"
+}

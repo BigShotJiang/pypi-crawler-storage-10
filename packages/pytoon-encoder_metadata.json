@@ -1,0 +1,11 @@
+{
+  "name": "pytoon-encoder",
+  "version": "0.1.1",
+  "summary": "Python port of the TOON encoder, producing a concise, human-readable data format.",
+  "author": "Bintang Pradana Erlangga Putra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytoon_encoder-0.1.1.tar.gz",
+  "download_time": "2025-10-27T08:48:49.458043",
+  "package_url": "https://pypi.org/project/pytoon-encoder/"
+}

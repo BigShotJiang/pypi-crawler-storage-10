@@ -1,0 +1,11 @@
+{
+  "name": "docker-monitor-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool to monitor and manage Docker containers on a host",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docker_monitor_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-27T08:48:42.663378",
+  "package_url": "https://pypi.org/project/docker-monitor-cli/"
+}

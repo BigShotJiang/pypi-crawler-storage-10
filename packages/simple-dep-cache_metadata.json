@@ -1,0 +1,11 @@
+{
+  "name": "simple-dep-cache",
+  "version": "0.2.0",
+  "summary": "Redis-based caching library with intelligent dependency tracking for Python applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_dep_cache-0.2.0.tar.gz",
+  "download_time": "2025-10-27T08:48:52.049869",
+  "package_url": "https://pypi.org/project/simple-dep-cache/"
+}

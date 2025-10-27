@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-chunk_sentences",
-  "version": "0.5.110",
+  "version": "0.5.112",
   "summary": "Sherpa sentence chunking processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_chunk_sentences/",
-  "download_filename": "pyprocessors_chunk_sentences-0.5.110.tar.gz",
-  "download_time": "2025-10-27T07:39:47.009562",
+  "download_filename": "pyprocessors_chunk_sentences-0.5.112.tar.gz",
+  "download_time": "2025-10-27T08:49:08.206001",
   "package_url": "https://pypi.org/project/pyprocessors-chunk_sentences/"
 }

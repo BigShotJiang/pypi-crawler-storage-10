@@ -1,0 +1,11 @@
+{
+  "name": "sharesansar-api",
+  "version": "0.2.0",
+  "summary": "An API for Nepali stock data from  Sharsansar For NEPSE Stock",
+  "author": "Paul Hembrom",
+  "license": null,
+  "home_page": "https://github.com/yourusername/sharesansar-api",
+  "download_filename": "sharesansar_api-0.2.0.tar.gz",
+  "download_time": "2025-10-27T08:48:41.101428",
+  "package_url": "https://pypi.org/project/sharesansar-api/"
+}

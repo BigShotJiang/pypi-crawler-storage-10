@@ -1,0 +1,11 @@
+{
+  "name": "dependency-injection-pattern",
+  "version": "0.0.6",
+  "summary": "Python implementation of the Dependency Injection pattern.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependency_injection_pattern-0.0.6.tar.gz",
+  "download_time": "2025-10-27T08:48:48.418486",
+  "package_url": "https://pypi.org/project/dependency-injection-pattern/"
+}

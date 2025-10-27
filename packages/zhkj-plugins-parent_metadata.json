@@ -1,11 +1,11 @@
 {
   "name": "zhkj-plugins-parent",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "插件管理",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zhkj_plugins_parent-0.1.13.tar.gz",
-  "download_time": "2025-10-27T08:24:14.171736",
+  "download_filename": "zhkj_plugins_parent-0.1.14.tar.gz",
+  "download_time": "2025-10-27T08:48:55.151030",
   "package_url": "https://pypi.org/project/zhkj-plugins-parent/"
 }

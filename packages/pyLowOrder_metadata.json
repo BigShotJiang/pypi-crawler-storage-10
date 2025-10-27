@@ -1,0 +1,11 @@
+{
+  "name": "pyLowOrder",
+  "version": "3.2.0",
+  "summary": "High-performance low-order modeling with Python",
+  "author": "Benet Eiximeno, Beka Begiashvili, Arnau Miro, Eusebio Valero, Oriol Lehmkuhl",
+  "license": null,
+  "home_page": "https://github.com/ArnauMiro/pyLowOrder",
+  "download_filename": "pyloworder-3.2.0.tar.gz",
+  "download_time": "2025-10-27T08:48:33.605099",
+  "package_url": "https://pypi.org/project/pyLowOrder/"
+}

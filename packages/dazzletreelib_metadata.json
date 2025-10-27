@@ -1,0 +1,11 @@
+{
+  "name": "dazzletreelib",
+  "version": "0.10.2",
+  "summary": "High-performance tree traversal library with blazing fast async support",
+  "author": "DazzleTreeLib Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dazzletreelib-0.10.2.tar.gz",
+  "download_time": "2025-10-27T08:49:00.378292",
+  "package_url": "https://pypi.org/project/dazzletreelib/"
+}
