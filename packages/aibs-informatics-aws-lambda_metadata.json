@@ -1,0 +1,11 @@
+{
+  "name": "aibs-informatics-aws-lambda",
+  "version": "0.0.13",
+  "summary": "Utility library for building validated and typed AWS Lambda functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aibs_informatics_aws_lambda-0.0.13.tar.gz",
+  "download_time": "2025-10-27T22:34:41.056112",
+  "package_url": "https://pypi.org/project/aibs-informatics-aws-lambda/"
+}

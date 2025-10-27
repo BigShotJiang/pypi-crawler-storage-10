@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-workers",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Background worker system for FastHTML with multiprocess job execution, cancellation support, and streaming capabilities.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-workers",
-  "download_filename": "cjm_fasthtml_workers-0.0.6.tar.gz",
-  "download_time": "2025-10-27T19:14:05.537787",
+  "download_filename": "cjm_fasthtml_workers-0.0.7.tar.gz",
+  "download_time": "2025-10-27T22:34:42.598342",
   "package_url": "https://pypi.org/project/cjm-fasthtml-workers/"
 }

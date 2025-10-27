@@ -1,11 +1,11 @@
 {
   "name": "madsci.workcell_manager",
-  "version": "0.4.7",
+  "version": "0.5.0",
   "summary": "The Modular Autonomous Discovery for Science (MADSci) Workcell Manager.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "madsci_workcell_manager-0.4.7.tar.gz",
-  "download_time": "2025-10-27T19:14:27.012172",
+  "download_filename": "madsci_workcell_manager-0.5.0.tar.gz",
+  "download_time": "2025-10-27T22:34:59.864135",
   "package_url": "https://pypi.org/project/madsci.workcell_manager/"
 }

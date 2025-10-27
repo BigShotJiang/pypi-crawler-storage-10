@@ -1,11 +1,11 @@
 {
   "name": "remarkable-update-fuse",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Userspace filesystem for remarkable update files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remarkable_update_fuse-1.2.5.tar.gz",
-  "download_time": "2025-10-25T20:17:12.510476",
+  "download_filename": "remarkable_update_fuse-1.2.6.tar.gz",
+  "download_time": "2025-10-27T22:34:35.684370",
   "package_url": "https://pypi.org/project/remarkable-update-fuse/"
 }

@@ -1,22 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T22:16:54.109677
-- **Total Packages**: 81
-- **Total Size**: 21.1 MB
+- **Download Time**: 2025-10-27T22:35:21.195810
+- **Total Packages**: 85
+- **Total Size**: 8.16 MB
 
 ## Packages List
-- lib-memvid
+- spytial-diagramming
+- tap-dbf
+- remarkable-update-fuse
+- tokysnatcher
+- tomtoolkit
+- oldaplib
+- dataclass-extensions
+- mhamp1-licenseauthority
+- ai-video-assistant
+- indent
+- librelane
+- predev-api
+- aibs-informatics-aws-lambda
+- cellarr-array
+- django-spire
+- cjm-fasthtml-workers
+- numta
+- diskimage-builder
+- open-rag-eval
+- tap-pushbullet
+- clustertk
+- dinnovos-agent
+- m-promptune
+- agentex-sdk
+- quantconnect-stubs
+- yapp
+- urdfz
+- dsf-quantum-sdk
+- flake8-unused-arguments
+- reflex-vite-config-plugin
+- langmem
+- sugar32
+- remarkable-update-image
 - phagetrix
+- gitlabbot
+- simexp
+- eqcctpro
+- GEOS5FP
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- genro-storage
+- sleipnirgroup-jormungandr
+- tobiko-cloud-helpers
+- madsci.experiment_application
+- madsci.data_manager
+- streamlit-sigmajs-component
+- madsci.workcell_manager
+- madsci.experiment_manager
+- madsci.resource_manager
+- madsci.event_manager
+- madsci.node_module
+- madsci.client
+- madsci.common
+- tiramisu-framework
+- lib-memvid
 - junkie-rfglab
 - rapporteur
 - oiplot
 - fairyfishnet
-- ai-video-assistant
 - atlas-quantum
 - cjm-fasthtml-settings
-- clustertk
-- m-promptune
 - cje-eval
 - plato-sdk
 - whatsapp-utilsFAPI
@@ -41,49 +91,3 @@
 - thds.adls
 - vivarium
 - wmill-pg
-- wmill
-- windmill-api
-- html2pdf-sdk
-- pantsonfire
-- decayshape
-- tiramisu-framework
-- byu-accounting
-- terminal-tutor
-- Radar-Range-Equation
-- neuroglia-python
-- jupyterlab-cursor-theme
-- guv-calcs
-- midi2song
-- chaiverse
-- pyconarr
-- returnn
-- django-model-values
-- semanticpy
-- easy-bitrix
-- django-fmd
-- cell-eval
-- pyTooling
-- vivarium-cluster-tools
-- GeneralManager
-- bwamem
-- textforge-tf
-- mofa-core
-- andco-wheelbarrow
-- kaqing
-- ontologytoapi
-- NEMO-CE
-- praetorian-cli
-- inspect-viz
-- attention-is-all-you-need
-- cortexdb
-- pyqir
-- python-license
-- clk
-- placeholder
-- httpayer
-- agentfoundry
-- biosteam
-- idds-workflow
-- idds-website
-- idds-monitor
-- idds-server
