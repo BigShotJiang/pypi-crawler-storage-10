@@ -1,0 +1,11 @@
+{
+  "name": "email-processor-cli",
+  "version": "2025.10.27.184824",
+  "summary": "CLI tool for email processing with domain migration",
+  "author": "Anderson Taguada",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hiperautomatization",
+  "download_filename": "email_processor_cli-2025.10.27.184824.tar.gz",
+  "download_time": "2025-10-27T23:51:12.117999",
+  "package_url": "https://pypi.org/project/email-processor-cli/"
+}

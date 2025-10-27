@@ -1,12 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T23:42:27.718477
+- **Download Time**: 2025-10-27T23:51:49.854731
 - **Total Packages**: 75
-- **Total Size**: 8.58 MB
+- **Total Size**: 2.74 MB
 
 ## Packages List
+- TableGUI
+- birdbrain-python-library-2
+- agentic-fabriq-sdk
+- email-processor-cli
+- abogen
+- h2ogpte
+- uipath
+- formidable
+- crcutil
 - plato-sdk
+- crispr-millipede
+- universal-mcp-applications
 - cirq-google
 - cirq
 - cirq-ionq
@@ -31,7 +42,6 @@
 - nv-ingest-api
 - deepseek-agent
 - ayechat
-- crcutil
 - infraweave
 - agnt5
 - nubrain
@@ -52,7 +62,6 @@
 - nemo-toolkit
 - mergething
 - core-extensions
-- crispr-millipede
 - p2gan
 - hpcflow-new2
 - uniprot-mcp
@@ -72,12 +81,3 @@
 - omextra
 - omdev
 - omdev-rs
-- omdev-cli
-- omdev-cext
-- parameterizable
-- athena-intelligence
-- ethyca-fides
-- oxl-ansible-webui
-- snakemake-executor-plugin-slurm
-- litellm
-- katana-mcp-server
