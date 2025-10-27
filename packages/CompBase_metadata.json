@@ -1,11 +1,11 @@
 {
   "name": "CompBase",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Base Class for Derived Researcher Class",
   "author": "Young",
   "license": null,
   "home_page": "https://github.com/ElenYoung/CompBase",
-  "download_filename": "compbase-0.1.2.tar.gz",
-  "download_time": "2025-10-27T05:43:46.579271",
+  "download_filename": "compbase-0.1.4.tar.gz",
+  "download_time": "2025-10-27T06:28:34.572797",
   "package_url": "https://pypi.org/project/CompBase/"
 }

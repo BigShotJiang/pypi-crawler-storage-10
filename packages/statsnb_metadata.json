@@ -1,0 +1,11 @@
+{
+  "name": "statsnb",
+  "version": "0.2.0",
+  "summary": "Flexible Naive Bayes classifiers using scipy.stats distributions",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/statsnb",
+  "download_filename": "statsnb-0.2.0.tar.gz",
+  "download_time": "2025-10-27T06:28:47.596154",
+  "package_url": "https://pypi.org/project/statsnb/"
+}
