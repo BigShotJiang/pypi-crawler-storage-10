@@ -1,11 +1,11 @@
 {
   "name": "materia-epd",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Generic EPD Aggregator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "materia_epd-0.2.2.tar.gz",
-  "download_time": "2025-10-27T10:46:27.329453",
+  "download_filename": "materia_epd-0.2.3.tar.gz",
+  "download_time": "2025-10-27T11:16:03.833608",
   "package_url": "https://pypi.org/project/materia-epd/"
 }

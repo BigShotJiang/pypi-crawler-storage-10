@@ -1,0 +1,11 @@
+{
+  "name": "ctdecon",
+  "version": "1.0.0",
+  "summary": "Reference-based cell type deconvolution in spatial transcriptomics.",
+  "author": "林景",
+  "license": "MIT",
+  "home_page": "https://github.com/linjing-lab/ctdecon",
+  "download_filename": "ctdecon-1.0.0.tar.gz",
+  "download_time": "2025-10-27T11:15:50.274383",
+  "package_url": "https://pypi.org/project/ctdecon/"
+}

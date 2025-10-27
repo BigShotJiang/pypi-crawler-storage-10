@@ -1,0 +1,11 @@
+{
+  "name": "name12345",
+  "version": "1.0.0",
+  "summary": "A simple rocket simulation package",
+  "author": "Sirine",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/my_space_package/",
+  "download_filename": "name12345-1.0.0.tar.gz",
+  "download_time": "2025-10-27T11:16:07.492331",
+  "package_url": "https://pypi.org/project/name12345/"
+}

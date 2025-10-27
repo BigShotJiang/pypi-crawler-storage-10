@@ -1,0 +1,11 @@
+{
+  "name": "wqgdb",
+  "version": "1.0.3",
+  "summary": "Python module for wuqi debug in GDB",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "wqgdb-1.0.3.tar.gz",
+  "download_time": "2025-10-27T11:15:54.448921",
+  "package_url": "https://pypi.org/project/wqgdb/"
+}
