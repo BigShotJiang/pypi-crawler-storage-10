@@ -1,0 +1,11 @@
+{
+  "name": "lhs-global-service-django",
+  "version": "1.0.5",
+  "summary": "A global logging and service utilities package for Python projects, designed for seamless integration with Django applications. Developed by Lighthouse Info System Pvt Ltd., this package provides robust logging, configuration, and service management tools to enhance reliability and maintainability in Django-based projects.",
+  "author": "Rohit Jagtap",
+  "license": "MIT",
+  "home_page": "https://github.com/NAT-TEAM-LIGHTHOUSE/Python-Projects/tree/python_global_django_pkg",
+  "download_filename": "lhs_global_service_django-1.0.5.tar.gz",
+  "download_time": "2025-10-27T12:37:22.325647",
+  "package_url": "https://pypi.org/project/lhs-global-service-django/"
+}

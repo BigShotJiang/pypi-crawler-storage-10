@@ -1,0 +1,11 @@
+{
+  "name": "inspire-json-merger",
+  "version": "11.0.45",
+  "summary": "INSPIRE-specific configuration of the JSON Merger.",
+  "author": "CERN",
+  "license": "GPLv3",
+  "home_page": "https://github.com/inspirehep/inspire-json-merger",
+  "download_filename": "inspire_json_merger-11.0.45.tar.gz",
+  "download_time": "2025-10-27T12:37:18.486981",
+  "package_url": "https://pypi.org/project/inspire-json-merger/"
+}

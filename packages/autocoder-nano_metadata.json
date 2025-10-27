@@ -1,11 +1,11 @@
 {
   "name": "autocoder-nano",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "AutoCoder Nano",
   "author": "moofs",
   "license": null,
   "home_page": null,
-  "download_filename": "autocoder_nano-0.3.7.tar.gz",
-  "download_time": "2025-10-27T04:00:08.929586",
+  "download_filename": "autocoder_nano-0.3.8.tar.gz",
+  "download_time": "2025-10-27T12:37:45.535701",
   "package_url": "https://pypi.org/project/autocoder-nano/"
 }

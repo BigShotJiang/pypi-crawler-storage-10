@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-voyageai",
+  "version": "0.5.0",
+  "summary": "llama-index embeddings voyageai integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_voyageai-0.5.0-py3-none-any.whl",
+  "download_time": "2025-10-27T12:37:06.005446",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-voyageai/"
+}
