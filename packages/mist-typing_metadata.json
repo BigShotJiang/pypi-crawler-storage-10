@@ -1,0 +1,11 @@
+{
+  "name": "mist-typing",
+  "version": "0.0.5",
+  "summary": "multi-locus sequence typing (MLST) and cgMLST",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mist_typing-0.0.5.tar.gz",
+  "download_time": "2025-10-27T07:50:20.457272",
+  "package_url": "https://pypi.org/project/mist-typing/"
+}

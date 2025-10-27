@@ -1,0 +1,11 @@
+{
+  "name": "delegate-events",
+  "version": "0.0.2",
+  "summary": "Python implementation of the Event Pattern",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "delegate_events-0.0.2.tar.gz",
+  "download_time": "2025-10-27T07:50:21.672986",
+  "package_url": "https://pypi.org/project/delegate-events/"
+}

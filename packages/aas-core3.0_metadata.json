@@ -1,0 +1,11 @@
+{
+  "name": "aas-core3.0",
+  "version": "1.1.3",
+  "summary": "Manipulate, verify and de/serialize Asset Administration Shells.",
+  "author": "Marko Ristin",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/aas-core-works/aas-core3.0-python",
+  "download_filename": "aas_core3_0-1.1.3.tar.gz",
+  "download_time": "2025-10-27T07:50:10.910835",
+  "package_url": "https://pypi.org/project/aas-core3.0/"
+}
