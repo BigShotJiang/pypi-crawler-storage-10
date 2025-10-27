@@ -1,11 +1,11 @@
 {
   "name": "biblematetc",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "summary": "BibleMate AI - Automate Your Bible Study",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://toolmate.ai",
-  "download_filename": "biblematetc-0.2.8.tar.gz",
-  "download_time": "2025-10-26T23:51:19.466997",
+  "download_filename": "biblematetc-0.2.10.tar.gz",
+  "download_time": "2025-10-27T07:39:29.649338",
   "package_url": "https://pypi.org/project/biblematetc/"
 }

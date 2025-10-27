@@ -1,11 +1,11 @@
 {
   "name": "otai_hf_local",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Hugging Face local text classification plugin for Open Ticket AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otai_hf_local-1.4.0.tar.gz",
-  "download_time": "2025-10-27T06:55:50.753054",
+  "download_filename": "otai_hf_local-1.4.1.tar.gz",
+  "download_time": "2025-10-27T07:40:04.150070",
   "package_url": "https://pypi.org/project/otai_hf_local/"
 }

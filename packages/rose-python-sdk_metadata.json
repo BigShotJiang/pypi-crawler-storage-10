@@ -1,0 +1,11 @@
+{
+  "name": "rose-python-sdk",
+  "version": "1.2.0",
+  "summary": "Python SDK for Rose Recommendation Service API",
+  "author": "luli",
+  "license": null,
+  "home_page": "https://github.com/luli0034/rose-python-sdk",
+  "download_filename": "rose_python_sdk-1.2.0.tar.gz",
+  "download_time": "2025-10-27T07:39:32.247226",
+  "package_url": "https://pypi.org/project/rose-python-sdk/"
+}

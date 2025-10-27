@@ -1,0 +1,11 @@
+{
+  "name": "nova-fileselector",
+  "version": "1.0.0",
+  "summary": "A minimal Tkinter-based file and directory selector module with min/max and extension filtering.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nova_fileselector-1.0.0.tar.gz",
+  "download_time": "2025-10-27T07:39:52.767174",
+  "package_url": "https://pypi.org/project/nova-fileselector/"
+}

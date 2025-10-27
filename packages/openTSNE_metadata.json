@@ -1,0 +1,11 @@
+{
+  "name": "openTSNE",
+  "version": "1.0.3",
+  "summary": "Extensible, parallel implementations of t-SNE",
+  "author": "Pavlin Poličar",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/pavlin-policar/openTSNE",
+  "download_filename": "opentsne-1.0.3.tar.gz",
+  "download_time": "2025-10-27T07:39:44.767549",
+  "package_url": "https://pypi.org/project/openTSNE/"
+}
