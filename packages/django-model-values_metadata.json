@@ -1,0 +1,11 @@
+{
+  "name": "django-model-values",
+  "version": "1.7",
+  "summary": "Taking the O out of ORM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_model_values-1.7.tar.gz",
+  "download_time": "2025-10-27T22:16:38.109061",
+  "package_url": "https://pypi.org/project/django-model-values/"
+}

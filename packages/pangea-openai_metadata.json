@@ -1,0 +1,11 @@
+{
+  "name": "pangea-openai",
+  "version": "0.3.0",
+  "summary": "A wrapper around the OpenAI Python library that wraps the Responses API with Pangea AI Guard",
+  "author": "Pangea",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pangea_openai-0.3.0.tar.gz",
+  "download_time": "2025-10-27T22:16:22.772788",
+  "package_url": "https://pypi.org/project/pangea-openai/"
+}

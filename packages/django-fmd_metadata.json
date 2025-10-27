@@ -1,0 +1,11 @@
+{
+  "name": "django-fmd",
+  "version": "0.9.0",
+  "summary": "Server for 'Find My Device' android app, implemented in Django/Python",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "django_fmd-0.9.0.tar.gz",
+  "download_time": "2025-10-27T22:16:39.676298",
+  "package_url": "https://pypi.org/project/django-fmd/"
+}

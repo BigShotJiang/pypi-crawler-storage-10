@@ -1,0 +1,11 @@
+{
+  "name": "fairyfishnet",
+  "version": "1.16.53",
+  "summary": "Distributed Fairy-Stockfish analysis for pychess-variants",
+  "author": "Bajusz Tamás",
+  "license": null,
+  "home_page": "https://github.com/gbtami/fairyfishnet",
+  "download_filename": "fairyfishnet-1.16.53.tar.gz",
+  "download_time": "2025-10-27T22:16:12.824693",
+  "package_url": "https://pypi.org/project/fairyfishnet/"
+}

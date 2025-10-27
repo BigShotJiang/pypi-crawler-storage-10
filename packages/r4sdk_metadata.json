@@ -1,11 +1,11 @@
 {
   "name": "r4sdk",
-  "version": "0.1.0",
-  "summary": "Client SDK for Re4ctoR verifiable RNG",
+  "version": "0.1.5",
+  "summary": "Re4ctoR Randomness SDK Client",
   "author": "Pavlo Tvardovskyi",
   "license": null,
-  "home_page": null,
-  "download_filename": "r4sdk-0.1.0.tar.gz",
-  "download_time": "2025-10-27T19:38:41.602380",
+  "home_page": "https://github.com/pipavlo82/r4-monorepo",
+  "download_filename": "r4sdk-0.1.5.tar.gz",
+  "download_time": "2025-10-27T22:16:20.160721",
   "package_url": "https://pypi.org/project/r4sdk/"
 }

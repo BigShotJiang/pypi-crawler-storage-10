@@ -1,11 +1,11 @@
 {
   "name": "Radar-Range-Equation",
-  "version": "2025.10.26.dev2",
+  "version": "2025.10.27",
   "summary": "A Radar Range Equation Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "radar_range_equation-2025.10.26.dev2.tar.gz",
-  "download_time": "2025-10-27T04:00:00.297586",
+  "download_filename": "radar_range_equation-2025.10.27.tar.gz",
+  "download_time": "2025-10-27T22:16:33.894911",
   "package_url": "https://pypi.org/project/Radar-Range-Equation/"
 }
