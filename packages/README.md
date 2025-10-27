@@ -1,20 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T06:29:18.411881
+- **Download Time**: 2025-10-27T06:56:25.888986
 - **Total Packages**: 87
-- **Total Size**: 31.12 MB
+- **Total Size**: 33.61 MB
 
 ## Packages List
+- finesse-benchmark
+- bizyui
+- plex-generate-previews
+- PyWebWinUI3
+- kuzu-memory
+- persidict
+- diarama-api
+- unsloth
+- pro-craft
+- vira-cli
+- code-scope-mcp
+- oceanbase-sqlalchemy
+- mtpandas
+- idzhiblavi-libdots
+- inventree-consolidated-shipment-lines
+- pylebai
+- vibego
+- mns-scheduler
+- biblemate
+- seigr-toolset-crypto
+- rota
+- alibabacloud-docmind-api20220711
+- unsloth-zoo
+- keylexbundles
+- ftf-cli
+- GameSentenceMiner
+- crewplus
+- datar
+- otai_otobo_znuny
+- otai_hf_local
+- otai_base
+- open_ticket_ai
+- beads-mcp
+- mtgeo
+- nakuritycore
+- pyprocessors-chunk_sentences
+- quartic-sdk
+- agentmake
+- bisos.tocsModules
+- prefect-event-process
+- ai-edge-litert-sdk-mediatek-nightly
+- simple-html
+- ai-edge-litert-sdk-qualcomm-nightly
+- canns-lib
+- swe-cli
 - yet-another-retry
 - bisos.uploadAsCs
-- nakuritycore
 - tccbox
 - CompBase
 - pipeline-eds
-- persidict
 - mcp-framework
-- seigr-toolset-crypto
 - bisos.b
 - mcp-ticketer
 - datar-arrow
@@ -33,7 +75,6 @@
 - zhkj-plugins-parent
 - pensivium
 - temporal-forecasting
-- kuzu-memory
 - statsnb
 - pyg-nightly
 - azure-mgmt-recoveryservices
@@ -52,44 +93,3 @@
 - meridian-crossing
 - langmiddle
 - carver-feeds-sdk
-- pyprocessors-chunk_sentences
-- pylibtemplate
-- diffrays
-- django-dmf
-- oxygent
-- devstack-cli
-- rocket-zahra
-- steindamm
-- sleipnirgroup-jormungandr
-- loom-agent
-- neo-data-svc
-- vibego
-- azcore
-- maleo-utils
-- lanscape
-- aio-lanraragi
-- maleo-logging
-- pokerkit
-- freyja
-- defog
-- maleo-enums
-- maleo-crypto
-- alibabacloud-sas20181203
-- vnc-agent-bridge
-- inopyutils
-- DIRAC
-- python-roborock
-- DIRACCommon
-- cytotrace2-py
-- pyqqq
-- fdc-shared-kernel
-- maleo-types
-- internal
-- azdev
-- ceres-llm
-- ynabkit
-- webresearcher
-- citrate-sdk
-- scrapyx-pkgs
-- scrapyx-mw
-- scrapyx-core

@@ -1,0 +1,11 @@
+{
+  "name": "quartic-sdk",
+  "version": "3.5.0",
+  "summary": "QuarticSDK is the SDK package which exposes the APIs to the user",
+  "author": "Quartic.ai engineering team",
+  "license": "MIT",
+  "home_page": "https://github.com/Quarticai/QuarticSDK/",
+  "download_filename": "quartic_sdk-3.5.0-py3-none-any.whl",
+  "download_time": "2025-10-27T06:55:55.487935",
+  "package_url": "https://pypi.org/project/quartic-sdk/"
+}

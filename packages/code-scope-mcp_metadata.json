@@ -1,0 +1,11 @@
+{
+  "name": "code-scope-mcp",
+  "version": "0.0.2",
+  "summary": "Code indexing and analysis tools for LLMs using MCP and CLI tools",
+  "author": "marksolly",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_scope_mcp-0.0.2.tar.gz",
+  "download_time": "2025-10-27T06:55:37.889946",
+  "package_url": "https://pypi.org/project/code-scope-mcp/"
+}
