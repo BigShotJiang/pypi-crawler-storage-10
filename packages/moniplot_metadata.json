@@ -1,0 +1,11 @@
+{
+  "name": "moniplot",
+  "version": "1.4.1",
+  "summary": "a Python data visualization library for (satellite) instrument monitoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moniplot-1.4.1.tar.gz",
+  "download_time": "2025-10-27T10:46:35.893189",
+  "package_url": "https://pypi.org/project/moniplot/"
+}

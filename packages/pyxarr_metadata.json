@@ -1,0 +1,11 @@
+{
+  "name": "pyxarr",
+  "version": "0.3.1",
+  "summary": "A light-weight class to work with multi-dimensional labeled arrays.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyxarr-0.3.1.tar.gz",
+  "download_time": "2025-10-27T10:46:38.742626",
+  "package_url": "https://pypi.org/project/pyxarr/"
+}

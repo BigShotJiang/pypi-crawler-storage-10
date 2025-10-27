@@ -1,0 +1,11 @@
+{
+  "name": "confuse",
+  "version": "2.1.0",
+  "summary": "Painless YAML config files",
+  "author": "Adrian Sampson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "confuse-2.1.0.tar.gz",
+  "download_time": "2025-10-27T10:46:42.221994",
+  "package_url": "https://pypi.org/project/confuse/"
+}

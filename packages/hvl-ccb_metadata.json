@@ -1,0 +1,11 @@
+{
+  "name": "hvl-ccb",
+  "version": "0.18.3",
+  "summary": "Python common code base to control research devices, in particular, as used in Christian Franck's High Voltage Lab (HVL), D-ITET, ETH Zurich",
+  "author": "Pit Bechtold, Fabian Bill, Alise Chachereau, Maria Del, Joseph Engelbrecht, Raphael Faerber, David Graber, Chi-Ching Hsu, Henning Janssen, Henrik Menne, Luca Nembrini, Mikołaj Rybiński, Ruben Stadler, David Taylor, Hanut Vemulapalli",
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "hvl_ccb-0.18.3.tar.gz",
+  "download_time": "2025-10-27T10:46:34.690503",
+  "package_url": "https://pypi.org/project/hvl-ccb/"
+}

@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T10:21:51.346511
-- **Total Packages**: 96
-- **Total Size**: 35.23 MB
+- **Download Time**: 2025-10-27T10:47:10.262377
+- **Total Packages**: 95
+- **Total Size**: 35.41 MB
 
 ## Packages List
+- krrood
+- GauChkParser
+- zhkj-plugins-parent
+- akmi-utils
+- sarvamai
+- weibull-mixture-em
+- flexynesis
+- halo-mcp-server
+- ohsome-filter-to-sql
+- dbt-platform-helper
+- stablehash
+- stream-translator-gpt
+- django-bulk-hooks
+- omnicoreagent
+- reg-zahra
+- upgini
+- moysklad-api-client
+- materia-epd
+- erioon
+- fine
+- arcturus-buildkit
+- fastpluggy-crud-tools
+- io4it
+- legit-api-client
+- opik
+- pulumi-extra
+- DIRAC
+- DIRACCommon
+- pys5p
+- hvl-ccb
+- sagemaker-core
+- moniplot
+- mofa-core
+- roksta
+- openedx-authz
+- eqdsk
+- pyxarr
+- cenreg
+- xgovuk-flask-admin
+- xarray-nanonis
+- h5yaml
+- avido
+- confuse
+- iocbio.fcs
+- bridgic
+- acryl-datahub-gx-plugin
+- zalfmas-common
+- acryl-datahub-dagster-plugin
+- acryl-datahub-actions
+- acryl-datahub-airflow-plugin
+- acryl-datahub
 - stonefish-license-manager
 - hk-cdp
 - prefect-datahub
@@ -31,7 +82,6 @@
 - dbt-jobs-as-code
 - biblematetc
 - metadata-crawler
-- stream-translator-gpt
 - arthur-client
 - zrb
 - roio-lite
@@ -51,54 +101,3 @@
 - omniopt2
 - agentsight
 - airweave-sdk
-- fetoflow
-- odoo-addon-spreadsheet-dashboard-oca
-- blogtuner
-- lessweb
-- data-science-document-ai
-- ozonapi-async
-- unieai-meeting-room-mcp
-- FORD
-- sindre
-- logdetective
-- sregression-abdou987654321
-- zalfmas-common
-- veadk-python
-- cashare
-- dbt-bouncer
-- django-lasuite
-- scalebox-sdk
-- wandelbots-isaacsim-api
-- machineconfig
-- chem-spectra
-- py2hackCraft2
-- hpfracc
-- linear-regression-laponjade
-- bbob-jax
-- brainsets
-- dbhose-airflow
-- holobit-sdk
-- eclips-blossom-ai
-- pyloghub
-- timbal
-- native-dumper
-- poutils
-- hdfmap
-- memory-graph
-- alaa-rocket
-- recurvedata-lib
-- potodo
-- fwl-aragog
-- airflow-unicore-integration
-- kaq-quant-common
-- bridgic-llms-vllm
-- pyfaup-rs
-- acedeploy
-- aixtools
-- llm-fuzz
-- jira2branch
-- clapper
-- openedx-forum
-- lmur
-- omniedge-deepseek-ocr
-- tuoni

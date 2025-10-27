@@ -1,0 +1,11 @@
+{
+  "name": "weibull-mixture-em",
+  "version": "1.0.0",
+  "summary": "Estimation de parametres de melange de Weibull par algorithme EM avec application a la fatigue",
+  "author": "Weibull EM Package",
+  "license": "MIT",
+  "home_page": "https://github.com/Pavlishenku/Weibull_Mixture_EM",
+  "download_filename": "weibull_mixture_em-1.0.0.tar.gz",
+  "download_time": "2025-10-27T10:46:19.992525",
+  "package_url": "https://pypi.org/project/weibull-mixture-em/"
+}

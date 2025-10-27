@@ -1,0 +1,11 @@
+{
+  "name": "moysklad-api-client",
+  "version": "0.1.1",
+  "summary": "Lightweight MoySklad API client built on httpx with retries",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "moysklad_api_client-0.1.1.tar.gz",
+  "download_time": "2025-10-27T10:46:26.786187",
+  "package_url": "https://pypi.org/project/moysklad-api-client/"
+}
