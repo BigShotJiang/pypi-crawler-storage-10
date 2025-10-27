@@ -1,0 +1,11 @@
+{
+  "name": "gesetze-im-internet",
+  "version": "0.0.1",
+  "summary": "Simple API for gesetze-im-internet.de's xml readout",
+  "author": "david",
+  "license": null,
+  "home_page": "https://pypi.org/project/gesetze-im-internet/",
+  "download_filename": "gesetze_im_internet-0.0.1.tar.gz",
+  "download_time": "2025-10-27T20:50:53.781374",
+  "package_url": "https://pypi.org/project/gesetze-im-internet/"
+}

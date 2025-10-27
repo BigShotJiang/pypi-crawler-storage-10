@@ -1,26 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T20:41:09.607414
-- **Total Packages**: 78
-- **Total Size**: 36.08 MB
+- **Download Time**: 2025-10-27T20:51:26.439010
+- **Total Packages**: 79
+- **Total Size**: 8.95 MB
 
 ## Packages List
+- large-image-converter
+- girder-large-image-annotation
+- girder-large-image
+- praetorian-cli
+- large-image
+- jsonshift
+- dawgie
+- naylence-core
+- python-sanity
+- bloky
+- locust
+- bagel
+- animl
+- mcp-server-ws
+- tson
+- cubevis
+- aiamplitudes-common-public
+- netbox-network-jacks-plugin
+- winipedia-utils
+- gesetze-im-internet
+- hippoformer
+- jupyterlab-mmd-to-png-extension
+- ontologytoapi
+- petrosa-data-manager-client
+- nono
+- langchain-sheetbase
+- openalgo
+- pytest-delta
+- tyro
+- chapkit
+- google-api-wrapper2
+- python-common-lib
+- bwamem
+- gac
 - newsflash
 - envoxy
 - dev-ecommerce
 - feast
 - db-connect-mcp
 - telerun
-- ontologytoapi
 - llama-index-llms-openai
-- cubevis
 - pynigeria
 - evenage
 - TempEst-NEXT
 - sleipnirgroup-jormungandr
 - saulochess
-- chapkit
 - cplearn
 - quran-ayah-lookup
 - TempEst-NEWT
@@ -31,9 +62,7 @@
 - kaqing
 - zscaler-mcp
 - sqlclz
-- winipedia-utils
 - odoo-addon-payment-redsys
-- bwamem
 - lmurg
 - VisAI
 - azure-quantum
@@ -56,31 +85,3 @@
 - cb-bsdl-parser
 - keras
 - bioimageio.spec
-- cocobase-framework
-- authentik-client
-- dranspose
-- arthur-client
-- sboxanalyzer
-- mas-devops
-- solace-ai-connector
-- ni.measurements.metadata.v1.proto
-- nn-gpt
-- calgebra
-- scriptwriter
-- slack-blocks-markdown
-- atlas-quantum
-- mcp-server-ws
-- smart-data-cleaner
-- stonefish-license-manager
-- uipath
-- faissknn
-- strongmind-deployment
-- deism
-- inspect-viz
-- launchdarkly-server-sdk
-- libtimecontrol
-- pierre-storage
-- istari-digital-client
-- bmtool
-- static-refl
-- adafruit-circuitpython-fruitjam
