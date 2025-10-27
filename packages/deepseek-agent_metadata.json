@@ -1,11 +1,11 @@
 {
   "name": "deepseek-agent",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Developer-focused DeepSeek command line tools",
   "author": "DeepSeek CLI Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "deepseek_agent-0.1.2.tar.gz",
-  "download_time": "2025-10-27T16:22:26.523655",
+  "download_filename": "deepseek_agent-0.1.5.tar.gz",
+  "download_time": "2025-10-27T23:41:58.538731",
   "package_url": "https://pypi.org/project/deepseek-agent/"
 }
