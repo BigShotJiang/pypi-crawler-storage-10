@@ -1,0 +1,11 @@
+{
+  "name": "hydraters",
+  "version": "0.1.3",
+  "summary": "Hydrate Python dictionaries with Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydraters-0.1.3.tar.gz",
+  "download_time": "2025-10-27T19:38:39.017028",
+  "package_url": "https://pypi.org/project/hydraters/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "newsflash",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A new library for Python dashboards and data apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "newsflash-0.1.17.tar.gz",
-  "download_time": "2025-10-24T18:23:35.387001",
+  "download_filename": "newsflash-0.1.18.tar.gz",
+  "download_time": "2025-10-27T19:38:35.934542",
   "package_url": "https://pypi.org/project/newsflash/"
 }

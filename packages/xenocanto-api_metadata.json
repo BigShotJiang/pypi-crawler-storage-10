@@ -1,11 +1,11 @@
 {
   "name": "xenocanto-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library for querying and downloading recordings from the Xeno-canto API.",
-  "author": "Burooj Ghani",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xenocanto_api-0.1.0.tar.gz",
-  "download_time": "2025-10-27T18:49:25.499923",
+  "download_filename": "xenocanto_api-0.1.1.tar.gz",
+  "download_time": "2025-10-27T19:38:39.529205",
   "package_url": "https://pypi.org/project/xenocanto-api/"
 }

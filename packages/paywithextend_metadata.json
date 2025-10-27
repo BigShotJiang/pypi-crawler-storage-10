@@ -1,0 +1,11 @@
+{
+  "name": "paywithextend",
+  "version": "2.0.0",
+  "summary": "Python client for the Extend API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paywithextend-2.0.0.tar.gz",
+  "download_time": "2025-10-27T19:38:26.337214",
+  "package_url": "https://pypi.org/project/paywithextend/"
+}
