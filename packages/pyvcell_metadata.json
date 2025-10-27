@@ -1,0 +1,11 @@
+{
+  "name": "pyvcell",
+  "version": "0.1.19",
+  "summary": "This is the python wrapper for vcell modeling and simulation",
+  "author": "Jim Schaff",
+  "license": null,
+  "home_page": "https://github.com/virtualcell/pyvcell",
+  "download_filename": "pyvcell-0.1.19.tar.gz",
+  "download_time": "2025-10-27T14:43:18.185083",
+  "package_url": "https://pypi.org/project/pyvcell/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "murey",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "Aimen Abdesselam",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/murey/",
+  "download_filename": "murey-1.0.0.tar.gz",
+  "download_time": "2025-10-27T14:43:10.627888",
+  "package_url": "https://pypi.org/project/murey/"
+}

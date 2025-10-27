@@ -1,0 +1,11 @@
+{
+  "name": "glance-store",
+  "version": "5.2.0",
+  "summary": "OpenStack Image Service Store Library",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/glance_store/latest/",
+  "download_filename": "glance_store-5.2.0.tar.gz",
+  "download_time": "2025-10-27T14:42:37.260943",
+  "package_url": "https://pypi.org/project/glance-store/"
+}

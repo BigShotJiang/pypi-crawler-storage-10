@@ -1,0 +1,11 @@
+{
+  "name": "spectral-connectivity",
+  "version": "2.0.0",
+  "summary": "Frequency domain functional and directed connectivity analysis tools for electrophysiological data",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "spectral_connectivity-2.0.0.tar.gz",
+  "download_time": "2025-10-27T14:42:38.403047",
+  "package_url": "https://pypi.org/project/spectral-connectivity/"
+}

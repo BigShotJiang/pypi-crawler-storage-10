@@ -1,0 +1,11 @@
+{
+  "name": "mcp-search-linkup",
+  "version": "0.1.6",
+  "summary": "A MCP server to search web with Linkup - **DEPRECATED** - Use the TypeScript version instead: https://github.com/LinkupPlatform/linkup-mcp-server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_search_linkup-0.1.6.tar.gz",
+  "download_time": "2025-10-27T14:42:47.567525",
+  "package_url": "https://pypi.org/project/mcp-search-linkup/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "guardcoreapi",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Guard Management Core Api Python lib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "guardcoreapi-0.2.3.tar.gz",
-  "download_time": "2025-10-25T23:28:49.935604",
+  "download_filename": "guardcoreapi-0.2.4.tar.gz",
+  "download_time": "2025-10-27T14:42:54.260136",
   "package_url": "https://pypi.org/project/guardcoreapi/"
 }

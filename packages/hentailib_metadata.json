@@ -1,11 +1,11 @@
 {
   "name": "hentailib",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Library for easy requests hentai sites",
   "author": "Onii-Chan",
   "license": null,
   "home_page": "https://github.com/SerJo2/hentailib",
-  "download_filename": "hentailib-0.5.1.tar.gz",
-  "download_time": "2025-10-27T14:18:20.564531",
+  "download_filename": "hentailib-0.5.2.tar.gz",
+  "download_time": "2025-10-27T14:42:35.290482",
   "package_url": "https://pypi.org/project/hentailib/"
 }

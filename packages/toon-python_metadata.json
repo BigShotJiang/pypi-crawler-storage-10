@@ -1,0 +1,11 @@
+{
+  "name": "toon-python",
+  "version": "0.1.1",
+  "summary": "Token-Oriented Object Notation (TOON) is a compact, human-readable format designed for passing structured data to Large Language Models with significantly reduced token usage. This specification outlines the requirements for porting the existing TypeScript implementation to Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toon_python-0.1.1.tar.gz",
+  "download_time": "2025-10-27T14:42:55.616011",
+  "package_url": "https://pypi.org/project/toon-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "file-parser-dto",
+  "version": "0.0.2",
+  "summary": "Парсит файлы txt в дто",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "file_parser_dto-0.0.2.tar.gz",
+  "download_time": "2025-10-27T14:42:29.835265",
+  "package_url": "https://pypi.org/project/file-parser-dto/"
+}

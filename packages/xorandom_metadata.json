@@ -1,0 +1,11 @@
+{
+  "name": "xorandom",
+  "version": "0.1.0",
+  "summary": "useless random libary",
+  "author": "Jimmy Luong",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xorandom-0.1.0.tar.gz",
+  "download_time": "2025-10-27T14:43:04.279004",
+  "package_url": "https://pypi.org/project/xorandom/"
+}

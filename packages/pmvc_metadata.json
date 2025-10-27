@@ -1,0 +1,11 @@
+{
+  "name": "pmvc",
+  "version": "0.0.1",
+  "summary": "Rails-style Python MVC framework: Starlette + SQLAlchemy, generators, Redis cache, security, admin.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pmvc-0.0.1.tar.gz",
+  "download_time": "2025-10-27T14:43:08.005487",
+  "package_url": "https://pypi.org/project/pmvc/"
+}
