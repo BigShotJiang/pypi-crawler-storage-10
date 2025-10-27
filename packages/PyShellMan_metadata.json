@@ -1,11 +1,11 @@
 {
   "name": "PyShellMan",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyshellman-0.2.0.tar.gz",
-  "download_time": "2025-10-24T19:30:39.654715",
+  "download_filename": "pyshellman-0.2.1.tar.gz",
+  "download_time": "2025-10-27T13:50:02.045339",
   "package_url": "https://pypi.org/project/PyShellMan/"
 }

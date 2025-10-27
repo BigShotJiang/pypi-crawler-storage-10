@@ -1,0 +1,11 @@
+{
+  "name": "edx-username-changer",
+  "version": "0.5.0",
+  "summary": "An edX plugin to change username of edx accounts through admin panel",
+  "author": "MIT Office of Digital Learning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edx_username_changer-0.5.0.tar.gz",
+  "download_time": "2025-10-27T13:50:38.902912",
+  "package_url": "https://pypi.org/project/edx-username-changer/"
+}

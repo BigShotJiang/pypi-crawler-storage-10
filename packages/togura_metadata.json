@@ -1,11 +1,11 @@
 {
   "name": "togura",
-  "version": "0.1.0a7",
+  "version": "0.1.0a8",
   "summary": "極めてシンプルな機関リポジトリ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "togura-0.1.0a7.tar.gz",
-  "download_time": "2025-10-26T10:34:35.428098",
+  "download_filename": "togura-0.1.0a8.tar.gz",
+  "download_time": "2025-10-27T13:50:29.112621",
   "package_url": "https://pypi.org/project/togura/"
 }

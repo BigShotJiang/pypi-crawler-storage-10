@@ -1,0 +1,11 @@
+{
+  "name": "starlette-cramjam",
+  "version": "0.5.1",
+  "summary": "Cramjam integration for Starlette ASGI framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_cramjam-0.5.1.tar.gz",
+  "download_time": "2025-10-27T13:50:29.625291",
+  "package_url": "https://pypi.org/project/starlette-cramjam/"
+}
