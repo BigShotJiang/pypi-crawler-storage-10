@@ -1,0 +1,11 @@
+{
+  "name": "uos-complex",
+  "version": "0.1.4",
+  "summary": "Python library for complex system and network science lab of University of Seoul.",
+  "author": "Jung-Hoon Jung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uos_complex-0.1.4.tar.gz",
+  "download_time": "2025-10-27T05:43:39.188068",
+  "package_url": "https://pypi.org/project/uos-complex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ceres-llm",
+  "version": "1.0.0",
+  "summary": "Ceres - The LLM Dataset Engine. Production-grade SDK for processing tabular datasets using LLMs with reliability, observability, and cost control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ceres_llm-1.0.0.tar.gz",
+  "download_time": "2025-10-27T05:43:33.483811",
+  "package_url": "https://pypi.org/project/ceres-llm/"
+}

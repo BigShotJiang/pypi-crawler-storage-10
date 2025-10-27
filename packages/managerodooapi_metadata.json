@@ -1,0 +1,11 @@
+{
+  "name": "managerodooapi",
+  "version": "0.1.0",
+  "summary": "Una librería de Python completa para gestionar conexiones y operaciones con Odoo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "managerodooapi-0.1.0.tar.gz",
+  "download_time": "2025-10-27T05:43:52.490704",
+  "package_url": "https://pypi.org/project/managerodooapi/"
+}

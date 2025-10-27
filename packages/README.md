@@ -1,20 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T05:19:37.686871
-- **Total Packages**: 98
-- **Total Size**: 24.44 MB
+- **Download Time**: 2025-10-27T05:44:20.630056
+- **Total Packages**: 95
+- **Total Size**: 10.54 MB
 
 ## Packages List
-- langchain-trigger-server
+- fdc-shared-kernel
+- maleo-types
+- internal
+- azdev
+- ceres-llm
+- ynabkit
+- webresearcher
+- citrate-sdk
+- scrapyx-pkgs
+- scrapyx-mw
+- scrapyx-core
+- persidict
+- modgud
+- ry-pg-utils
+- opendp
+- uos-complex
+- invokelint
+- gh-actions-tool-kit
 - p2gan
-- optimum-rbln
+- kaprese
+- django-nativemojo
+- orq-ai-sdk
+- booklab
+- LayerZero
+- flake8-digit-separator
+- nedo-vision-worker-core
+- pyprocessors-chunk_sentences
+- ros-mcp
+- endstone-qqsync-plugin
+- CompBase
+- npyt
+- python-forest
+- curlifier
 - rp
+- nurikit
+- dihlibs
+- aptapy
+- sleipnirgroup-jormungandr
+- vizpro
+- ardent-sdk
+- managerodooapi
+- nimo
+- legacy-cgi
+- chalkpy
+- langchain-trigger-server
+- optimum-rbln
 - zvolv-sdk-corp
 - loom-agent
 - open-flash
 - steindamm
-- webresearcher
 - digital-life
 - pyditor
 - reasonchain
@@ -60,47 +101,3 @@
 - livekit-plugins-baseten
 - livekit-plugins-azure
 - livekit-plugins-aws
-- livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- eless
-- livekit-agents
-- keylexbundles
-- lapx
-- maleo-identity
-- vizpro
-- test-chunk
-- cb-flooddy
-- mytot
-- pyxecm
-- datar-pandas
-- nlptklzxcvd
-- sleepless-agent
-- langmiddle
-- endstone-qqsync-plugin
-- depsland
-- finesse-benchmark
-- lanscape
-- spy-framework
-- phanterpwa
-- invokelint
-- iamdata
-- click-config-file-injection-utils
-- mcp-ticketer
-- ado-asana-sync
-- lance-namespace-urllib3-client
-- lance-namespace
-- dyngle
-- mingli-mcp
-- pro-craft
-- jaegis-raverse-mcp-server
-- pgpack
-- swe-cli
-- remindmail
-- lk-utils
-- mcp-server-vefaas-function
-- kailash
-- django-deep-translator
-- monthly-converter
-- ome
-- pembot
