@@ -1,0 +1,11 @@
+{
+  "name": "mkl-fft",
+  "version": "2.1.1",
+  "summary": "MKL-based FFT transforms for NumPy arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkl_fft-2.1.1-0-cp39-cp39-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-27T17:15:42.770363",
+  "package_url": "https://pypi.org/project/mkl-fft/"
+}

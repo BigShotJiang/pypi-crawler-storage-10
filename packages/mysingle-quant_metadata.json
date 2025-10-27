@@ -1,11 +1,11 @@
 {
   "name": "mysingle-quant",
-  "version": "0.1.119",
+  "version": "0.1.120",
   "summary": "Common utilities and configurations for Quant Platform microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mysingle_quant-0.1.119-py3-none-any.whl",
-  "download_time": "2025-10-27T11:16:10.129349",
+  "download_filename": "mysingle_quant-0.1.120-py3-none-any.whl",
+  "download_time": "2025-10-27T17:16:05.736686",
   "package_url": "https://pypi.org/project/mysingle-quant/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "shipaw",
-  "version": "0.3.24",
+  "version": "0.3.25",
   "summary": "Shipping client",
   "author": "pawrequest",
   "license": null,
   "home_page": null,
-  "download_filename": "shipaw-0.3.24.tar.gz",
-  "download_time": "2025-10-27T15:51:29.656607",
+  "download_filename": "shipaw-0.3.25.tar.gz",
+  "download_time": "2025-10-27T17:16:06.850770",
   "package_url": "https://pypi.org/project/shipaw/"
 }

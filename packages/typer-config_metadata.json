@@ -1,0 +1,11 @@
+{
+  "name": "typer-config",
+  "version": "1.4.3",
+  "summary": "Utilities for working with configuration files in typer CLIs. ",
+  "author": "Matt Anderson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typer_config-1.4.3.tar.gz",
+  "download_time": "2025-10-27T17:15:28.273314",
+  "package_url": "https://pypi.org/project/typer-config/"
+}

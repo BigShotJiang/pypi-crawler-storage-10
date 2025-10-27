@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-nestedlogger",
+  "version": "1.0.3",
+  "summary": "A Robot Framework library for nested keyword logging in Python implementations",
+  "author": "Artur Ziolkowski",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ajadach/robotframework-NestedLogger",
+  "download_filename": "robotframework_nestedlogger-1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-27T17:15:34.540176",
+  "package_url": "https://pypi.org/project/robotframework-nestedlogger/"
+}

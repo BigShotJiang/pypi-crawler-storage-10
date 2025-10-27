@@ -1,0 +1,11 @@
+{
+  "name": "cfn-lint",
+  "version": "1.40.3",
+  "summary": "Checks CloudFormation templates for practices and behaviour that could potentially be improved",
+  "author": "Kevin DeJong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfn_lint-1.40.3.tar.gz",
+  "download_time": "2025-10-27T17:15:55.509800",
+  "package_url": "https://pypi.org/project/cfn-lint/"
+}

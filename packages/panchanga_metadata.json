@@ -1,0 +1,11 @@
+{
+  "name": "panchanga",
+  "version": "0.1.2",
+  "summary": "Traditional Vedic calendar calculations based on Suryasiddhanta",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panchanga-0.1.2.tar.gz",
+  "download_time": "2025-10-27T17:15:43.862975",
+  "package_url": "https://pypi.org/project/panchanga/"
+}
