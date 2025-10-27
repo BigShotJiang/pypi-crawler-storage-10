@@ -1,0 +1,11 @@
+{
+  "name": "cocobase-framework",
+  "version": "0.1.0",
+  "summary": "Self-hosted Backend as a Service with real-time, events, and SQL power",
+  "author": "Patrick Chidera",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/cocobase",
+  "download_filename": "cocobase_framework-0.1.0.tar.gz",
+  "download_time": "2025-10-27T20:40:54.544427",
+  "package_url": "https://pypi.org/project/cocobase-framework/"
+}

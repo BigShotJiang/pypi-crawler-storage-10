@@ -1,11 +1,11 @@
 {
   "name": "envoxy",
-  "version": "0.5.10",
+  "version": "0.5.12",
   "summary": "Envoxy Platform Framework",
   "author": "Matheus (vorjdux) Santos",
   "license": null,
   "home_page": "https://github.com/habitio/envoxy",
-  "download_filename": "envoxy-0.5.10.tar.gz",
-  "download_time": "2025-10-27T20:17:41.751910",
+  "download_filename": "envoxy-0.5.12.tar.gz",
+  "download_time": "2025-10-27T20:40:27.983601",
   "package_url": "https://pypi.org/project/envoxy/"
 }

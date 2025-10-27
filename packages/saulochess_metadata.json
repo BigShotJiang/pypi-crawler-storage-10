@@ -1,11 +1,11 @@
 {
   "name": "saulochess",
-  "version": "0.1.6",
+  "version": "0.1.7.1",
   "summary": "Ferramentas de análise e revisão de partidas de xadrez baseadas em Stockfish.",
   "author": "Saulo",
   "license": "MIT",
   "home_page": "https://github.com/Git49-max/saulochess",
-  "download_filename": "saulochess-0.1.6.tar.gz",
-  "download_time": "2025-10-27T17:16:14.740495",
+  "download_filename": "saulochess-0.1.7.1.tar.gz",
+  "download_time": "2025-10-27T20:40:34.803855",
   "package_url": "https://pypi.org/project/saulochess/"
 }

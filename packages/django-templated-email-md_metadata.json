@@ -1,0 +1,11 @@
+{
+  "name": "django-templated-email-md",
+  "version": "2025.10.2",
+  "summary": "An extension for django-templated-email for creating emails with Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_templated_email_md-2025.10.2.tar.gz",
+  "download_time": "2025-10-27T20:40:48.755450",
+  "package_url": "https://pypi.org/project/django-templated-email-md/"
+}

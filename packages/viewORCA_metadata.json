@@ -1,0 +1,11 @@
+{
+  "name": "viewORCA",
+  "version": "0.3.0",
+  "summary": "This program is designed to allow the user to inspect calculations from ORCA. This is to be used along side the ORCA Reaction Mechanism Tutorial.",
+  "author": "Dr. Geoffrey R. Weal",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "home_page": "https://geoffreyweal.github.io/ORCA_Mechanism_Procedure/",
+  "download_filename": "vieworca-0.3.0.tar.gz",
+  "download_time": "2025-10-27T20:40:37.900270",
+  "package_url": "https://pypi.org/project/viewORCA/"
+}
