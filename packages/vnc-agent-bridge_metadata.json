@@ -1,0 +1,11 @@
+{
+  "name": "vnc-agent-bridge",
+  "version": "0.1.0",
+  "summary": "Open-source Python package for AI agents to interact with VNC servers",
+  "author": "GitHub Copilot",
+  "license": "MIT",
+  "home_page": "https://github.com/Ganzzi/vnc-agent-bridge",
+  "download_filename": "vnc_agent_bridge-0.1.0.tar.gz",
+  "download_time": "2025-10-27T05:52:51.537934",
+  "package_url": "https://pypi.org/project/vnc-agent-bridge/"
+}

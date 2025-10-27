@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T05:44:20.630056
+- **Download Time**: 2025-10-27T05:53:40.187227
 - **Total Packages**: 95
-- **Total Size**: 10.54 MB
+- **Total Size**: 8.15 MB
 
 ## Packages List
+- maleo-logging
+- pokerkit
+- freyja
+- defog
+- maleo-enums
+- temporal-forecasting
+- maleo-crypto
+- alibabacloud-sas20181203
+- vnc-agent-bridge
+- inopyutils
+- DIRAC
+- python-roborock
+- DIRACCommon
+- kuzu-memory
+- cytotrace2-py
+- pyqqq
 - fdc-shared-kernel
 - maleo-types
 - internal
@@ -85,19 +101,3 @@
 - livekit-plugins-langchain
 - livekit-plugins-inworld
 - livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-google
-- livekit-plugins-gladia
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- kailash-dataflow
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws

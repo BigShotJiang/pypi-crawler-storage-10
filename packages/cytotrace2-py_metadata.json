@@ -1,0 +1,11 @@
+{
+  "name": "cytotrace2-py",
+  "version": "1.1.0.4",
+  "summary": "CytoTRACE 2 is a computational method for predicting cellular potency categories and absolute developmental potential from single-cell RNA-sequencing data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cytotrace2_py-1.1.0.4.tar.gz",
+  "download_time": "2025-10-27T05:52:55.455275",
+  "package_url": "https://pypi.org/project/cytotrace2-py/"
+}
