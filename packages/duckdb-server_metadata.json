@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-server",
+  "version": "0.21.0",
+  "summary": "A DuckDB server for Mosaic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_server-0.21.0-py3-none-any.whl",
+  "download_time": "2025-10-27T23:30:53.522983",
+  "package_url": "https://pypi.org/project/duckdb-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "p2gan",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Project to Gantt - Convert markdown project plans to GanttProject files",
   "author": "Tensorworks LLC",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "p2gan-0.1.2.tar.gz",
-  "download_time": "2025-10-27T23:16:07.973578",
+  "download_filename": "p2gan-0.1.3.tar.gz",
+  "download_time": "2025-10-27T23:30:51.394792",
   "package_url": "https://pypi.org/project/p2gan/"
 }

@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T23:16:35.690919
-- **Total Packages**: 79
-- **Total Size**: 36.81 MB
+- **Download Time**: 2025-10-27T23:31:22.038522
+- **Total Packages**: 74
+- **Total Size**: 15.31 MB
 
 ## Packages List
+- plato-sdk
+- entropy-rag
+- aind-metadata-service-async-client
+- aind-metadata-service-client
+- machineconfig
+- gdsfactory
+- docuchango
+- clients
+- model-explain
+- triclick-doc-toolset
+- static-frame
+- epics-sumo
+- data-depth
+- nemo-toolkit
+- sboxanalyzer
+- mergething
+- core-extensions
+- crispr-millipede
+- p2gan
+- hpcflow-new2
+- uniprot-mcp
+- mosaic-widget
+- duckdb-server
+- featrixsphere
+- bidora
+- jupyterlab-cursor-theme
+- lt-tensor
+- pytest-b-logger
+- cb-events
+- openfisca-nouvelle-caledonie
+- omserv
+- ommlds
 - omlish
 - omlish-cext
 - ominfra
@@ -16,7 +48,6 @@
 - omdev-cext
 - parameterizable
 - athena-intelligence
-- plato-sdk
 - ethyca-fides
 - oxl-ansible-webui
 - snakemake-executor-plugin-slurm
@@ -33,7 +64,6 @@
 - progressista
 - servicenow-api
 - gitlab-api
-- p2gan
 - easymaker
 - csmlp
 - clusterscope
@@ -43,7 +73,6 @@
 - spiceypy
 - iam-policy-validator
 - pipen-diagram
-- bidora
 - dawgie
 - persidict
 - pyhubbledemo
@@ -51,37 +80,3 @@
 - reflex-agent
 - firex-blaze
 - nwp500-python
-- maniac
-- dsf-quantum-sdk
-- embedding-tools
-- fmot
-- vitax
-- pylhe
-- peakrdl-etana
-- ronbun
-- pathling
-- mcpower-proxy
-- pycarlo
-- pipen
-- exness-data-preprocess
-- tap-belvo
-- opendapi
-- sollol
-- cirq
-- cirq-pasqal
-- cirq-web
-- cirq-core
-- cirq-google
-- cirq-aqt
-- cirq-ionq
-- lazy-helper
-- radioactiveshrimp
-- clustertk
-- earthengine-api
-- magtrack
-- aind-data-access-api
-- cjm-fasthtml-app-core
-- machineconfig
-- google-api-core
-- pyramid-session-redis
-- evenage

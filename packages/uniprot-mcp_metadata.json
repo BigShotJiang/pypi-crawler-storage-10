@@ -1,0 +1,11 @@
+{
+  "name": "uniprot-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol server that surfaces UniProtKB data as MCP resources, tools, and prompts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uniprot_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-27T23:30:52.431158",
+  "package_url": "https://pypi.org/project/uniprot-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data-depth",
+  "version": "1.1.2.6",
+  "summary": "The package provides many procedures for calculating the depth of points in an empirical distribution for many notions of data depth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_depth-1.1.2.6-cp311-cp311-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-27T23:30:47.758698",
+  "package_url": "https://pypi.org/project/data-depth/"
+}
