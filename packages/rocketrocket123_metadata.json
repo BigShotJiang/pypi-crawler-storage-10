@@ -1,0 +1,11 @@
+{
+  "name": "rocketrocket123",
+  "version": "0.1.0",
+  "summary": "Un package contenant le module Rocket et CircleRocket",
+  "author": "Ton Nom",
+  "license": "MIT",
+  "home_page": "https://github.com/tonnom/rocket",
+  "download_filename": "rocketrocket123-0.1.0.tar.gz",
+  "download_time": "2025-10-27T10:55:56.259119",
+  "package_url": "https://pypi.org/project/rocketrocket123/"
+}

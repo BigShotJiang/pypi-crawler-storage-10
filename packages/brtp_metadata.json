@@ -1,11 +1,11 @@
 {
   "name": "brtp",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Collection of personal Python utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brtp-0.0.8.tar.gz",
-  "download_time": "2025-10-26T16:19:01.210782",
+  "download_filename": "brtp-0.0.9.tar.gz",
+  "download_time": "2025-10-27T10:56:08.162624",
   "package_url": "https://pypi.org/project/brtp/"
 }

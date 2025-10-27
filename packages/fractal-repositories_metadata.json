@@ -1,0 +1,11 @@
+{
+  "name": "fractal-repositories",
+  "version": "1.3.0",
+  "summary": "Fractal Repositories is an implementation of the repository pattern of Domain Driven Design (DDD) for building SOLID logic for your Python applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fractal_repositories-1.3.0.tar.gz",
+  "download_time": "2025-10-27T10:55:52.138365",
+  "package_url": "https://pypi.org/project/fractal-repositories/"
+}

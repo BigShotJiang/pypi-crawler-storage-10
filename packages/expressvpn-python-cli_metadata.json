@@ -1,0 +1,11 @@
+{
+  "name": "expressvpn-python-cli",
+  "version": "1.0.7",
+  "summary": "Fork of the expressvpn-python library by Philippe Remy, with CLI support",
+  "author": "Emanuele Carbone",
+  "license": "MIT",
+  "home_page": "https://github.com/ECarbone-ec001/expressvpn-python-cli",
+  "download_filename": "expressvpn_python_cli-1.0.7.tar.gz",
+  "download_time": "2025-10-27T10:56:19.465869",
+  "package_url": "https://pypi.org/project/expressvpn-python-cli/"
+}

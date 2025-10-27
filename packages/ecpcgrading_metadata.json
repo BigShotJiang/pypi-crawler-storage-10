@@ -1,0 +1,11 @@
+{
+  "name": "ecpcgrading",
+  "version": "1.5.0",
+  "summary": "Code grading tool for ECPC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecpcgrading-1.5.0.tar.gz",
+  "download_time": "2025-10-27T10:56:21.511850",
+  "package_url": "https://pypi.org/project/ecpcgrading/"
+}

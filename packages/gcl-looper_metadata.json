@@ -1,0 +1,11 @@
+{
+  "name": "gcl-looper",
+  "version": "1.1.0",
+  "summary": "Looper is a daemonizer library, it can help you with lifecycle of your daemon.",
+  "author": "Genesis Corporation",
+  "license": null,
+  "home_page": "https://github.com/infraguys/gcl_looper",
+  "download_filename": "gcl_looper-1.1.0.tar.gz",
+  "download_time": "2025-10-27T10:56:00.905606",
+  "package_url": "https://pypi.org/project/gcl-looper/"
+}

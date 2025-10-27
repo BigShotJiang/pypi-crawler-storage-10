@@ -1,0 +1,11 @@
+{
+  "name": "safe-s3-storage",
+  "version": "0.11.0",
+  "summary": "S3 safe storage",
+  "author": "community-of-python",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_s3_storage-0.11.0.tar.gz",
+  "download_time": "2025-10-27T10:56:16.904356",
+  "package_url": "https://pypi.org/project/safe-s3-storage/"
+}
