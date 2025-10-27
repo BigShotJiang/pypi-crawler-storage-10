@@ -1,0 +1,11 @@
+{
+  "name": "coinbase-advancedtrade-python",
+  "version": "0.6.0",
+  "summary": "The unofficial Python client for the Coinbase Advanced Trade API",
+  "author": "Rhett Reisman",
+  "license": "MIT",
+  "home_page": "https://github.com/rhettre/coinbase-advancedtrade-python",
+  "download_filename": "coinbase_advancedtrade_python-0.6.0.tar.gz",
+  "download_time": "2025-10-27T01:22:04.788883",
+  "package_url": "https://pypi.org/project/coinbase-advancedtrade-python/"
+}

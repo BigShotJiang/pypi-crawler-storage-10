@@ -1,0 +1,11 @@
+{
+  "name": "patientsim",
+  "version": "0.2.1",
+  "summary": "A Python package for simulating patient interactions.",
+  "author": "Jun-Min Lee",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "patientsim-0.2.1.tar.gz",
+  "download_time": "2025-10-27T01:22:30.385124",
+  "package_url": "https://pypi.org/project/patientsim/"
+}

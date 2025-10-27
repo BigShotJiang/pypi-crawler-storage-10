@@ -1,0 +1,11 @@
+{
+  "name": "umbrel-linter",
+  "version": "0.1.0",
+  "summary": "A Python linter for Umbrel app stores and applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umbrel_linter-0.1.0.tar.gz",
+  "download_time": "2025-10-27T01:22:45.909816",
+  "package_url": "https://pypi.org/project/umbrel-linter/"
+}

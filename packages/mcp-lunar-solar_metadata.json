@@ -1,11 +1,11 @@
 {
   "name": "mcp-lunar-solar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "一个基于MCP协议的阴阳历转换工具，支持阳历转阴历和阴历转阳历",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_lunar_solar-0.1.1.tar.gz",
-  "download_time": "2025-10-26T15:30:51.119714",
+  "download_filename": "mcp_lunar_solar-0.1.2.tar.gz",
+  "download_time": "2025-10-27T01:22:38.911584",
   "package_url": "https://pypi.org/project/mcp-lunar-solar/"
 }

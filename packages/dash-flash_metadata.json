@@ -1,0 +1,11 @@
+{
+  "name": "dash-flash",
+  "version": "1.3.2",
+  "summary": "Flash - async port of the Dash framework",
+  "author": "chgiesse",
+  "license": "MIT",
+  "home_page": "https://github.com/chgiesse/flash",
+  "download_filename": "dash_flash-1.3.2.tar.gz",
+  "download_time": "2025-10-27T01:22:42.927554",
+  "package_url": "https://pypi.org/project/dash-flash/"
+}

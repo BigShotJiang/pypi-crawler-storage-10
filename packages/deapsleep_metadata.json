@@ -1,0 +1,11 @@
+{
+  "name": "deapsleep",
+  "version": "1.0.0",
+  "summary": "DeapSleep is a DEAP-based evolutionary computation toolkit for testing dropout in genetic algorithms",
+  "author": "D. Ganci",
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": "https://github.com/dganci/deapsleep",
+  "download_filename": "deapsleep-1.0.0.tar.gz",
+  "download_time": "2025-10-27T01:22:21.366217",
+  "package_url": "https://pypi.org/project/deapsleep/"
+}

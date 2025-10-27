@@ -1,0 +1,11 @@
+{
+  "name": "ketu",
+  "version": "0.2.0",
+  "summary": "Library to compute astronomical bodies positions and planetary aspects between them",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ketu-0.2.0.tar.gz",
+  "download_time": "2025-10-27T01:22:17.104573",
+  "package_url": "https://pypi.org/project/ketu/"
+}

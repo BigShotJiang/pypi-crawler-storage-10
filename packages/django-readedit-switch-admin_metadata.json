@@ -1,0 +1,11 @@
+{
+  "name": "django-readedit-switch-admin",
+  "version": "0.4.8",
+  "summary": "Read item detail first, and click the Edit switch button to turn to edit view.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_readedit_switch_admin-0.4.8.tar.gz",
+  "download_time": "2025-10-27T01:22:10.017188",
+  "package_url": "https://pypi.org/project/django-readedit-switch-admin/"
+}

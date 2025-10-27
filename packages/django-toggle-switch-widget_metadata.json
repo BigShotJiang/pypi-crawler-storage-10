@@ -1,0 +1,11 @@
+{
+  "name": "django-toggle-switch-widget",
+  "version": "0.1.4",
+  "summary": "Display toggle switch in stead of checkbox for BooleanField in django admin site.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_toggle_switch_widget-0.1.4.tar.gz",
+  "download_time": "2025-10-27T01:22:13.536119",
+  "package_url": "https://pypi.org/project/django-toggle-switch-widget/"
+}

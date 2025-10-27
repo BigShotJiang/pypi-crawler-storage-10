@@ -1,0 +1,11 @@
+{
+  "name": "Fileseq",
+  "version": "2.2.1",
+  "summary": "A Python library for parsing frame ranges and file sequences commonly used in VFX and Animation applications.",
+  "author": "Matt Chambers",
+  "license": "MIT",
+  "home_page": "https://github.com/justinfx/fileseq",
+  "download_filename": "fileseq-2.2.1.tar.gz",
+  "download_time": "2025-10-27T01:22:26.990455",
+  "package_url": "https://pypi.org/project/Fileseq/"
+}

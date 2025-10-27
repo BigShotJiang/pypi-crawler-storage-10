@@ -1,11 +1,11 @@
 {
   "name": "miceforest",
-  "version": "6.0.4",
+  "version": "6.0.5",
   "summary": "Multiple Imputation by Chained Equations with LightGBM",
   "author": "Sam Von Wilson",
   "license": null,
   "home_page": null,
-  "download_filename": "miceforest-6.0.4.tar.gz",
-  "download_time": "2025-10-26T18:46:09.052421",
+  "download_filename": "miceforest-6.0.5.tar.gz",
+  "download_time": "2025-10-27T01:22:35.031887",
   "package_url": "https://pypi.org/project/miceforest/"
 }
