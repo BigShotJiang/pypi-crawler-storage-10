@@ -1,11 +1,11 @@
 {
   "name": "omu-chatprovider",
-  "version": "0.9.15",
+  "version": "0.9.16",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omu_chatprovider-0.9.15.tar.gz",
-  "download_time": "2025-10-27T14:18:15.926042",
+  "download_filename": "omu_chatprovider-0.9.16.tar.gz",
+  "download_time": "2025-10-27T15:19:47.830704",
   "package_url": "https://pypi.org/project/omu-chatprovider/"
 }

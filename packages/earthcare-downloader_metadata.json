@@ -1,0 +1,11 @@
+{
+  "name": "earthcare-downloader",
+  "version": "0.0.3",
+  "summary": "Download EarthCARE satellite data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "earthcare_downloader-0.0.3.tar.gz",
+  "download_time": "2025-10-27T15:19:31.857353",
+  "package_url": "https://pypi.org/project/earthcare-downloader/"
+}

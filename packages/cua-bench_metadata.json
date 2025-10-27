@@ -1,0 +1,11 @@
+{
+  "name": "cua-bench",
+  "version": "0.1.0",
+  "summary": "Platform for creating computer-use verifiable environments and training VLM agents to use them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cua_bench-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-27T15:19:17.042877",
+  "package_url": "https://pypi.org/project/cua-bench/"
+}

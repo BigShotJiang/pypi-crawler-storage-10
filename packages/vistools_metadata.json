@@ -1,0 +1,11 @@
+{
+  "name": "vistools",
+  "version": "0.4.1",
+  "summary": "Utility functionality for vtk and pyvista",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vistools-0.4.1.tar.gz",
+  "download_time": "2025-10-27T15:19:22.580092",
+  "package_url": "https://pypi.org/project/vistools/"
+}

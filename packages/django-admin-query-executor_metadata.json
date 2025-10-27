@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-query-executor",
+  "version": "1.2.0",
+  "summary": "Execute Django ORM queries directly from the admin interface",
+  "author": "Jeff Turner",
+  "license": "MIT",
+  "home_page": "https://github.com/j4rf/django-admin-query-executor",
+  "download_filename": "django_admin_query_executor-1.2.0.tar.gz",
+  "download_time": "2025-10-27T15:19:36.461925",
+  "package_url": "https://pypi.org/project/django-admin-query-executor/"
+}

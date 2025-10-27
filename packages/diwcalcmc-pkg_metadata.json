@@ -1,0 +1,11 @@
+{
+  "name": "diwcalcmc-pkg",
+  "version": "0.1.0",
+  "summary": "Monte Carlo simulations for fO2 (Delta IW and Delta Si-SiO2) calculations.",
+  "author": "Olivier Namur",
+  "license": "MIT",
+  "home_page": "https://github.com/YourUsername/dIWCalcMC_pkg",
+  "download_filename": "diwcalcmc_pkg-0.1.0.tar.gz",
+  "download_time": "2025-10-27T15:19:57.625103",
+  "package_url": "https://pypi.org/project/diwcalcmc-pkg/"
+}

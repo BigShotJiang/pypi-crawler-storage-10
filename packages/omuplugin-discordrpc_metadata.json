@@ -1,11 +1,11 @@
 {
   "name": "omuplugin-discordrpc",
-  "version": "0.9.15",
+  "version": "0.9.16",
   "summary": "Discord RPCの情報を取得するためのプラグイン",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omuplugin_discordrpc-0.9.15.tar.gz",
-  "download_time": "2025-10-27T14:18:14.898232",
+  "download_filename": "omuplugin_discordrpc-0.9.16.tar.gz",
+  "download_time": "2025-10-27T15:19:46.745256",
   "package_url": "https://pypi.org/project/omuplugin-discordrpc/"
 }

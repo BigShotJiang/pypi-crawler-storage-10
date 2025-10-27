@@ -1,11 +1,11 @@
 {
   "name": "Zlatomyra-my-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Custom sort command implementation",
   "author": "Zlatomyra",
   "license": null,
   "home_page": "https://github.com/Zlatomyra/sort-command.git",
-  "download_filename": "zlatomyra_my_sort-0.0.1.tar.gz",
-  "download_time": "2025-10-27T14:18:11.761468",
+  "download_filename": "zlatomyra_my_sort-0.0.2.tar.gz",
+  "download_time": "2025-10-27T15:19:43.671889",
   "package_url": "https://pypi.org/project/Zlatomyra-my-sort/"
 }

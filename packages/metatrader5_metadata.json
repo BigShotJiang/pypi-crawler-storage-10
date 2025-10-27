@@ -1,0 +1,11 @@
+{
+  "name": "metatrader5",
+  "version": "5.0.5387",
+  "summary": "API Connector to MetaTrader 5 Terminal",
+  "author": "MetaQuotes Ltd.",
+  "license": "MIT",
+  "home_page": "https://www.metatrader5.com",
+  "download_filename": "metatrader5-5.0.5387-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-27T15:19:26.202094",
+  "package_url": "https://pypi.org/project/metatrader5/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyltmapi",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "summary": "Add a short description here!",
   "author": "SINTEF Energy Research AS",
   "license": "MIT",
   "home_page": "https://github.com/pyscaffold/pyscaffold/",
-  "download_filename": "pyltmapi-0.18.3-py3-none-any.whl",
-  "download_time": "2025-10-27T14:42:38.995982",
+  "download_filename": "pyltmapi-0.18.4-py3-none-any.whl",
+  "download_time": "2025-10-27T15:19:25.180456",
   "package_url": "https://pypi.org/project/pyltmapi/"
 }
