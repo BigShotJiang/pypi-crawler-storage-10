@@ -1,0 +1,11 @@
+{
+  "name": "gdb-for-pwndbg",
+  "version": "16.3.0.post4",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/pwndbg/pypi-for-pwndbg",
+  "download_filename": "gdb_for_pwndbg-16.3.0.post4-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-27T21:51:41.061466",
+  "package_url": "https://pypi.org/project/gdb-for-pwndbg/"
+}

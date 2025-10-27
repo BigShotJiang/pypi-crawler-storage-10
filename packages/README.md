@@ -1,13 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-27T21:42:40.130849
-- **Total Packages**: 88
-- **Total Size**: 7.47 MB
+- **Download Time**: 2025-10-27T21:51:51.356524
+- **Total Packages**: 86
+- **Total Size**: 34.99 MB
 
 ## Packages List
-- nominal-api-protos
+- kaqing
+- textforge-tf
+- ontologytoapi
+- plato-sdk
+- NEMO-CE
+- praetorian-cli
+- inspect-viz
+- attention-is-all-you-need
+- cortexdb
+- pyqir
 - whatsapp-utilsFAPI
+- byu-accounting
+- python-license
+- clk
+- placeholder
+- httpayer
+- agentfoundry
+- biosteam
+- idds-workflow
+- idds-website
+- idds-monitor
+- idds-server
+- idds-doma
+- idds-common
+- idds-client
+- idds-atlas
+- reflex-vite-config-plugin
+- nominal-api-protos
 - nominal-api
 - slurm-requests
 - terminal-tutor
@@ -40,7 +66,6 @@
 - nucliadb-telemetry
 - nucliadb-sdk
 - nucliadb-protos
-- cortexdb
 - nucliadb-models
 - nucliadb-dataset
 - kmax
@@ -48,14 +73,13 @@
 - nidx-protos
 - core-mixins
 - nidx-binding
-- kaqing
+- gdb-for-pwndbg
 - Flask-MonitoringDashboard
 - hpcp
 - sboxanalyzer
 - azure-quantum
 - outbidd-lib
 - riveter
-- python-license
 - arkforge
 - cpp-linter
 - rest-requests
@@ -68,29 +92,3 @@
 - dolist
 - arbor-ai
 - turkanime-cli
-- muse2csv
-- publicdotcom-py
-- hummingbot
-- zaber-motion
-- dragonfly-radiance
-- jetdl
-- anacostia-pipeline
-- pydsmc
-- winipedia-utils
-- cryptopyx
-- hippoformer
-- spytial-diagramming
-- smoltrace
-- ssbc
-- specifyplus
-- dragonfly-energy
-- mongo-charms-single-kernel
-- python-sanity
-- resolvekit
-- checkdmarc
-- ivrit
-- ds-utilities-dkirby
-- sf-toolkit
-- chapkit
-- vantiqsdk
-- music-assistant-frontend
