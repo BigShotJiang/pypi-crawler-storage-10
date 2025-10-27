@@ -1,0 +1,11 @@
+{
+  "name": "timeline-craft",
+  "version": "0.0.3",
+  "summary": "A Python library for creating timeline visualizations in PowerPoint",
+  "author": "Don Yin",
+  "license": null,
+  "home_page": "https://github.com/Don-Yin/timeline-craft",
+  "download_filename": "timeline_craft-0.0.3.tar.gz",
+  "download_time": "2025-10-27T21:16:14.488748",
+  "package_url": "https://pypi.org/project/timeline-craft/"
+}

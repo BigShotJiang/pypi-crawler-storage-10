@@ -1,0 +1,11 @@
+{
+  "name": "phate",
+  "version": "2.0.0",
+  "summary": "PHATE",
+  "author": null,
+  "license": "GNU General Public License Version 2",
+  "home_page": null,
+  "download_filename": "phate-2.0.0.tar.gz",
+  "download_time": "2025-10-27T21:15:55.431979",
+  "package_url": "https://pypi.org/project/phate/"
+}

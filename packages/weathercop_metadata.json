@@ -1,0 +1,11 @@
+{
+  "name": "weathercop",
+  "version": "0.1.0",
+  "summary": "A Copula-based Weather Generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weathercop-0.1.0.tar.gz",
+  "download_time": "2025-10-27T21:16:16.803883",
+  "package_url": "https://pypi.org/project/weathercop/"
+}

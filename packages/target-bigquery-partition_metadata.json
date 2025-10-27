@@ -1,0 +1,11 @@
+{
+  "name": "target-bigquery-partition",
+  "version": "0.2.5",
+  "summary": "Google BigQuery target of singer.io framework.",
+  "author": "Daigo Tanaka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "target_bigquery_partition-0.2.5.tar.gz",
+  "download_time": "2025-10-27T21:16:17.954417",
+  "package_url": "https://pypi.org/project/target-bigquery-partition/"
+}

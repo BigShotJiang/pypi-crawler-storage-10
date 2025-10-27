@@ -1,11 +1,11 @@
 {
   "name": "bwamem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Bindings to bwa aligner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bwamem-0.0.2.tar.gz",
-  "download_time": "2025-10-27T20:51:01.169105",
+  "download_filename": "bwamem-0.0.3.tar.gz",
+  "download_time": "2025-10-27T21:15:50.135402",
   "package_url": "https://pypi.org/project/bwamem/"
 }

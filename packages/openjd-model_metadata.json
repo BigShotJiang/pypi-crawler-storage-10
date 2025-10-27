@@ -1,0 +1,11 @@
+{
+  "name": "openjd-model",
+  "version": "0.8.5",
+  "summary": "Provides a Python implementation of the data model for Open Job Description's template schemas.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openjd_model-0.8.5.tar.gz",
+  "download_time": "2025-10-27T21:16:15.060688",
+  "package_url": "https://pypi.org/project/openjd-model/"
+}

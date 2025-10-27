@@ -1,11 +1,11 @@
 {
   "name": "chromakitx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A comprehensive color manipulation library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chromakitx-1.0.1-py3-none-any.whl",
-  "download_time": "2025-10-27T19:38:43.653894",
+  "download_filename": "chromakitx-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-27T21:16:29.160766",
   "package_url": "https://pypi.org/project/chromakitx/"
 }
