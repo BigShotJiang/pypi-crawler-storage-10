@@ -1,0 +1,11 @@
+{
+  "name": "coolest",
+  "version": "0.1.10",
+  "summary": "Standard for Strong Gravitational Lensing Analyses",
+  "author": "Aymeric Galan & COOLEST contributors",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/aymgal/COOLEST",
+  "download_filename": "coolest-0.1.10.tar.gz",
+  "download_time": "2025-10-27T17:52:02.463425",
+  "package_url": "https://pypi.org/project/coolest/"
+}

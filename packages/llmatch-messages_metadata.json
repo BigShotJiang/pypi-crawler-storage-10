@@ -1,0 +1,11 @@
+{
+  "name": "llmatch-messages",
+  "version": "2025.10.271723",
+  "summary": "Reliable LLM interaction with pattern matching and retries.",
+  "author": "Eugene Evstafev",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/chigwell/llmatch-messages",
+  "download_filename": "llmatch_messages-2025.10.271723.tar.gz",
+  "download_time": "2025-10-27T17:51:57.732729",
+  "package_url": "https://pypi.org/project/llmatch-messages/"
+}

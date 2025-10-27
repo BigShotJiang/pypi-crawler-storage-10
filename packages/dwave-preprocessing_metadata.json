@@ -1,0 +1,11 @@
+{
+  "name": "dwave-preprocessing",
+  "version": "0.6.11",
+  "summary": "An API for preprocessing tools",
+  "author": "D-Wave Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dwavesystems/dwave-preprocessing",
+  "download_filename": "dwave_preprocessing-0.6.11.tar.gz",
+  "download_time": "2025-10-27T17:51:34.519574",
+  "package_url": "https://pypi.org/project/dwave-preprocessing/"
+}

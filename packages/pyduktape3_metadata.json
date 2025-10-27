@@ -1,11 +1,11 @@
 {
   "name": "pyduktape3",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Yet another pyduktape fork written in Cython wrapped around duktape 3.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyduktape3-0.1.1.tar.gz",
-  "download_time": "2025-10-26T04:41:45.508091",
+  "download_filename": "pyduktape3-0.1.2.tar.gz",
+  "download_time": "2025-10-27T17:51:32.581245",
   "package_url": "https://pypi.org/project/pyduktape3/"
 }

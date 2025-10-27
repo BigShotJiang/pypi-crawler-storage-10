@@ -1,0 +1,11 @@
+{
+  "name": "reflex",
+  "version": "0.8.17",
+  "summary": "Web apps in pure Python.",
+  "author": "Nikhil Rao, Alek Petuskey, Masen Furer, Elijah Ahianyo, Thomas Brandeho, Khaleel Al-Adhami",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "reflex-0.8.17.tar.gz",
+  "download_time": "2025-10-27T17:51:24.906394",
+  "package_url": "https://pypi.org/project/reflex/"
+}
