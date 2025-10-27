@@ -1,0 +1,11 @@
+{
+  "name": "graylog-api-client",
+  "version": "0.1.2",
+  "summary": "A Python wrapper for the Graylog REST API",
+  "author": "Chrxxxxs",
+  "license": null,
+  "home_page": "https://github.com/Chrxxxxs/graylog_api_client",
+  "download_filename": "graylog_api_client-0.1.2.tar.gz",
+  "download_time": "2025-10-27T19:14:09.702895",
+  "package_url": "https://pypi.org/project/graylog-api-client/"
+}

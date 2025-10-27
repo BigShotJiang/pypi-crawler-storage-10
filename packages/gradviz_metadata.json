@@ -1,0 +1,11 @@
+{
+  "name": "gradviz",
+  "version": "0.1.0",
+  "summary": "Lightweight gradient visualizer for PyTorch: record gradient norms and plot flows by layer/param.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gradviz-0.1.0.tar.gz",
+  "download_time": "2025-10-27T19:14:00.330546",
+  "package_url": "https://pypi.org/project/gradviz/"
+}

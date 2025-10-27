@@ -1,0 +1,11 @@
+{
+  "name": "ssnolib",
+  "version": "2.0.0.0",
+  "summary": "SSNOlib is a Python library for working with the Standard Name Ontology (SSNO).",
+  "author": "Matthias Probst",
+  "license": null,
+  "home_page": "https://github.com/matthiasprobst/ssnolib",
+  "download_filename": "ssnolib-2.0.0.0-py3-none-any.whl",
+  "download_time": "2025-10-27T19:13:57.159079",
+  "package_url": "https://pypi.org/project/ssnolib/"
+}

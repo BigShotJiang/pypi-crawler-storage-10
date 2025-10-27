@@ -1,11 +1,11 @@
 {
   "name": "pypugjs",
-  "version": "5.13.0",
+  "version": "6.0.0",
   "summary": "PugJS syntax template adapter for Django, Jinja2, Mako and Tornado templates",
   "author": "Andy Grabow",
   "license": "MIT",
   "home_page": "https://github.com/kakulukia/pypugjs",
-  "download_filename": "pypugjs-5.13.0.tar.gz",
-  "download_time": "2025-10-27T17:51:19.072327",
+  "download_filename": "pypugjs-6.0.0.tar.gz",
+  "download_time": "2025-10-27T19:14:23.862934",
   "package_url": "https://pypi.org/project/pypugjs/"
 }

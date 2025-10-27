@@ -1,11 +1,11 @@
 {
   "name": "naludaq",
-  "version": "0.34.0",
+  "version": "0.34.1",
   "summary": "Backend package for Nalu Scientific hardware",
   "author": "Thomas Yang, Emily Lum, Terry Pham",
   "license": null,
   "home_page": null,
-  "download_filename": "naludaq-0.34.0.tar.gz",
-  "download_time": "2025-10-24T20:18:39.585006",
+  "download_filename": "naludaq-0.34.1.tar.gz",
+  "download_time": "2025-10-27T19:14:05.004941",
   "package_url": "https://pypi.org/project/naludaq/"
 }

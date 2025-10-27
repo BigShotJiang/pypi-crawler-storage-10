@@ -1,11 +1,11 @@
 {
   "name": "boto3-session",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Wrapper library for python boto3.session.Session.",
   "author": "rcmdnk",
   "license": null,
   "home_page": null,
-  "download_filename": "boto3_session-0.2.0.tar.gz",
-  "download_time": "2025-10-27T18:49:46.540896",
+  "download_filename": "boto3_session-0.2.2.tar.gz",
+  "download_time": "2025-10-27T19:14:20.226889",
   "package_url": "https://pypi.org/project/boto3-session/"
 }

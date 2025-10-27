@@ -1,0 +1,11 @@
+{
+  "name": "ansible-builder",
+  "version": "3.1.1",
+  "summary": "\"A tool for building Ansible Execution Environments\"",
+  "author": "Ansible, Inc.",
+  "license": "Apache Software License, Version 2.0",
+  "home_page": "https://ansible-builder.readthedocs.io",
+  "download_filename": "ansible_builder-3.1.1.tar.gz",
+  "download_time": "2025-10-27T19:14:24.396528",
+  "package_url": "https://pypi.org/project/ansible-builder/"
+}
