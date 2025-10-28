@@ -1,0 +1,11 @@
+{
+  "name": "smart-redis-storage",
+  "version": "0.2.3",
+  "summary": "Convenient work with Redis.",
+  "author": "Alexander Suvorov",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/smartlegionlab/smart-redis-storage/",
+  "download_filename": "smart_redis_storage-0.2.3.tar.gz",
+  "download_time": "2025-10-28T11:15:30.192651",
+  "package_url": "https://pypi.org/project/smart-redis-storage/"
+}

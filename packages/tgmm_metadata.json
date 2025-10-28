@@ -1,0 +1,11 @@
+{
+  "name": "tgmm",
+  "version": "0.2.0",
+  "summary": "A Gaussian Mixture Model (GMM) based on Expectation-Maximisation (EM) implemented in PyTorch",
+  "author": "Adrián A. Sousa-Poza",
+  "license": null,
+  "home_page": "https://github.com/adriansousapoza/TorchGMM",
+  "download_filename": "tgmm-0.2.0.tar.gz",
+  "download_time": "2025-10-28T11:15:26.602342",
+  "package_url": "https://pypi.org/project/tgmm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omnidocbench",
+  "version": "0.1.0",
+  "summary": "Benchmark for document extraction tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnidocbench-0.1.0.tar.gz",
+  "download_time": "2025-10-28T11:15:35.820346",
+  "package_url": "https://pypi.org/project/omnidocbench/"
+}

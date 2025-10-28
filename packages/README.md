@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T10:56:37.654390
-- **Total Packages**: 86
-- **Total Size**: 26.8 MB
+- **Download Time**: 2025-10-28T11:16:02.361164
+- **Total Packages**: 84
+- **Total Size**: 24.07 MB
 
 ## Packages List
+- metabase-pix-mcp
+- meta-llama-haystack
+- webknossos
+- cluster_tools
+- metaflow
+- metaflow-stubs
+- cognite-toolkit
+- e2b
+- fasthtml-otel
+- mcp-rag
+- iflib-tools
+- apache-beam
+- hirmeos-clients
+- django-bulk-hooks
+- nonebot-plugin-anan-say
+- cognite-typed-functions
+- tgmm
+- yemot-api
+- odoo-addons-somit-helpdesk
+- iatoolkit
+- selfw
+- BotingTools
+- fastapi-maker
+- smart-redis-storage
+- edge-containers-cli
+- gazix
+- localstack-core
+- inoopa_utils
+- fastpluggy-tasks-worker
+- django-unicom
+- deepset-mcp
+- tooth-python
+- simli-ai
+- omnidocbench
+- chromakitx
+- tabpfn-client
+- poouli
+- chellow
+- lazyqsar
+- simple-icons-pack
+- tchu-tchu
+- web-poet
+- kaq-quant-common
+- tcgdex-sdk
+- queuinx
+- annet
+- compas-timber
 - prime-evals
 - instaui-tdesign
 - gladiaio-sdk
@@ -22,7 +69,6 @@
 - nvidia-nat-weave
 - stayactive
 - nvidia-nat-adk
-- hedge-bench
 - biblematetc
 - nvidia-nat-mem0ai
 - gpt2giga
@@ -36,7 +82,6 @@
 - soft-computing-uat
 - konduktor-nightly
 - kv-python
-- django-bulk-hooks
 - nvidia-nat-crewai
 - docker-captain
 - nvidia-nat-ingestion
@@ -45,50 +90,3 @@
 - nvidia-nat-mysql
 - pipeline-eds
 - trainy-policy-nightly
-- nvidia-nat-semantic-kernel
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- supervisely
-- nvidia-nat-ragaai
-- scientific-data-analyser
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- projen
-- nvidia-nat-langchain
-- gitlab-arc-fs
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-weave
-- mcputil
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- swing-schedule
-- aiqtoolkit-llama-index
-- letta-nightly
-- ctypes-mosquitto
-- orchestrator-core
-- unieai-mcp-bookingroom
-- aiqtoolkit
-- pysaten
-- aiqtoolkit-langchain
-- aiqtoolkit-crewai
-- aiqtoolkit-zep-cloud
-- fastpluggy-tasks-worker
-- nonebot-plugin-aitalk
-- aiqtoolkit-agno
-- canvas
-- oci-cli
-- buildgrid
-- x10-python-trading-starknet
-- jamlib
-- tsdm-benchmark
-- greenbone-feed-sync
-- dsp-tools
-- unico_device_setuper
-- dw-ai-x
-- django-downloadview
-- open-flash
-- rpcclient
-- parsec-cloud
-- orq-ai-sdk
-- jvs-cli
-- docling-ibm-models

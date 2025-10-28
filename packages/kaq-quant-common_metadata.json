@@ -1,11 +1,11 @@
 {
   "name": "kaq-quant-common",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "summary": null,
   "author": "kevinfuture",
   "license": null,
   "home_page": null,
-  "download_filename": "kaq_quant_common-0.1.45.tar.gz",
-  "download_time": "2025-10-28T10:20:05.614306",
+  "download_filename": "kaq_quant_common-0.1.46.tar.gz",
+  "download_time": "2025-10-28T11:15:40.465254",
   "package_url": "https://pypi.org/project/kaq-quant-common/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "webknossos",
+  "version": "3.0.0",
+  "summary": "Python API for working with WEBKNOSSOS datasets, annotations, and for WEBKNOSSOS server interaction.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "webknossos-3.0.0.tar.gz",
+  "download_time": "2025-10-28T11:15:18.795052",
+  "package_url": "https://pypi.org/project/webknossos/"
+}
