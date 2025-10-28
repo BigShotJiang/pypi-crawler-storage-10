@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-base-fontawesome-web-editor",
-  "version": "18.0.1.0.0.2",
+  "version": "18.0.1.0.0.3",
   "summary": "Integration between base_fontawesome and web_editor for FontAwesome >= 6.7.2 support.",
   "author": "=?utf-8?q?Heligr=C3=A0fics_Fotogrametr=C3=ADa_S=2EL=2E=2C_Odoo_Community_Association_=28OCA=29?=",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/server-tools",
-  "download_filename": "odoo_addon_base_fontawesome_web_editor-18.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-10-26T09:15:19.049264",
+  "download_filename": "odoo_addon_base_fontawesome_web_editor-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-28T04:28:15.234868",
   "package_url": "https://pypi.org/project/odoo-addon-base-fontawesome-web-editor/"
 }

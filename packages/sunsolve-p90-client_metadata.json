@@ -1,11 +1,11 @@
 {
   "name": "sunsolve-p90-client",
-  "version": "0.1.0.191",
-  "summary": "Python client library for PV Lighthouse p90 analysis service",
-  "author": null,
+  "version": "0.1.1.199",
+  "summary": "Python client library for SunSolve p90 analysis service",
+  "author": "SunSolve",
   "license": null,
   "home_page": null,
-  "download_filename": "sunsolve_p90_client-0.1.0.191.tar.gz",
-  "download_time": "2025-10-28T01:14:35.367790",
+  "download_filename": "sunsolve_p90_client-0.1.1.199.tar.gz",
+  "download_time": "2025-10-28T04:27:58.480888",
   "package_url": "https://pypi.org/project/sunsolve-p90-client/"
 }

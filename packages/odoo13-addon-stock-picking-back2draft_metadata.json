@@ -1,0 +1,11 @@
+{
+  "name": "odoo13-addon-stock-picking-back2draft",
+  "version": "13.0.1.0.1.dev10",
+  "summary": "Reopen cancelled pickings",
+  "author": "Agile Business Group, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo13_addon_stock_picking_back2draft-13.0.1.0.1.dev10-py3-none-any.whl",
+  "download_time": "2025-10-28T04:27:45.449594",
+  "package_url": "https://pypi.org/project/odoo13-addon-stock-picking-back2draft/"
+}
