@@ -1,0 +1,11 @@
+{
+  "name": "statblk",
+  "version": "1.32",
+  "summary": "Gather essential disk and partition info for block devices and print it in a nice table",
+  "author": "Yufei Pan",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/yufei-pan/statblk",
+  "download_filename": "statblk-1.32.tar.gz",
+  "download_time": "2025-10-28T09:19:15.483590",
+  "package_url": "https://pypi.org/project/statblk/"
+}

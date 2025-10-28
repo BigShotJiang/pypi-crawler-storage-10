@@ -1,0 +1,11 @@
+{
+  "name": "freshrss-api",
+  "version": "2.0.4",
+  "summary": "Easy to use python api to get data from FreshRSS",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/thiswillbeyourgithub/freshrss_python_api/",
+  "download_filename": "freshrss_api-2.0.4.tar.gz",
+  "download_time": "2025-10-28T09:19:35.050433",
+  "package_url": "https://pypi.org/project/freshrss-api/"
+}

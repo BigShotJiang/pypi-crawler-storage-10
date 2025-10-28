@@ -1,0 +1,11 @@
+{
+  "name": "idapro",
+  "version": "0.0.6",
+  "summary": "IDA Library Python module",
+  "author": "Hex-Rays SA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idapro-0.0.6.tar.gz",
+  "download_time": "2025-10-28T09:19:19.066710",
+  "package_url": "https://pypi.org/project/idapro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-quant",
+  "version": "0.5.0",
+  "summary": "Blazingly Fast Polars Quant Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_quant-0.5.0.tar.gz",
+  "download_time": "2025-10-28T09:19:19.578047",
+  "package_url": "https://pypi.org/project/polars-quant/"
+}

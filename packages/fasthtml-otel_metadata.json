@@ -1,0 +1,11 @@
+{
+  "name": "fasthtml-otel",
+  "version": "0.1.0",
+  "summary": "Real-time OpenTelemetry streaming components for FastHTML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasthtml_otel-0.1.0.tar.gz",
+  "download_time": "2025-10-28T09:19:23.698533",
+  "package_url": "https://pypi.org/project/fasthtml-otel/"
+}

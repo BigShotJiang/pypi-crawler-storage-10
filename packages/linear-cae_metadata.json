@@ -1,0 +1,11 @@
+{
+  "name": "linear-cae",
+  "version": "0.1.0",
+  "summary": "Linear Consistency Autoencoders",
+  "author": "Bernardo Torres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "linear_cae-0.1.0.tar.gz",
+  "download_time": "2025-10-28T09:19:28.296465",
+  "package_url": "https://pypi.org/project/linear-cae/"
+}

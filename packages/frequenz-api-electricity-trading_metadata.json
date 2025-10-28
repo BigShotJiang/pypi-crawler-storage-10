@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-api-electricity-trading",
+  "version": "0.9.0",
+  "summary": "Specification for Electricity Trading API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_api_electricity_trading-0.9.0.tar.gz",
+  "download_time": "2025-10-28T09:19:24.209220",
+  "package_url": "https://pypi.org/project/frequenz-api-electricity-trading/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_crypto-sentiment-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server that delivers cryptocurrency sentiment analysis to AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_crypto_sentiment_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-28T09:19:41.693582",
+  "package_url": "https://pypi.org/project/iflow-mcp_crypto-sentiment-mcp/"
+}
