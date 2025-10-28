@@ -1,11 +1,11 @@
 {
   "name": "qwak-core",
-  "version": "0.4.383",
+  "version": "0.4.385",
   "summary": "Qwak Core contains the necessary objects and communication tools for using the Qwak Platform",
   "author": "Qwak",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qwak_core-0.4.383.tar.gz",
-  "download_time": "2025-10-28T10:20:42.887156",
+  "download_filename": "qwak_core-0.4.385.tar.gz",
+  "download_time": "2025-10-28T14:19:33.508381",
   "package_url": "https://pypi.org/project/qwak-core/"
 }

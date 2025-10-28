@@ -1,0 +1,11 @@
+{
+  "name": "underpyx",
+  "version": "0.2.1",
+  "summary": "Fundamental utilities in python, such as encapsulation, immutability, service patterns, and JSON type hinting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "underpyx-0.2.1.tar.gz",
+  "download_time": "2025-10-28T14:19:21.482192",
+  "package_url": "https://pypi.org/project/underpyx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pathsdata-distributed",
+  "version": "43.0.0",
+  "summary": "PathsData Distributed Query Engine - Python client for distributed SQL execution",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/pathsdata/pathiq-engine-cluster.git/",
+  "download_filename": "pathsdata_distributed-43.0.0.tar.gz",
+  "download_time": "2025-10-28T14:20:01.385047",
+  "package_url": "https://pypi.org/project/pathsdata-distributed/"
+}

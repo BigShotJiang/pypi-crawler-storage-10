@@ -1,0 +1,11 @@
+{
+  "name": "matflow-new",
+  "version": "0.3.0a185",
+  "summary": "Computational workflows for materials science",
+  "author": "aplowman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matflow_new-0.3.0a185.tar.gz",
+  "download_time": "2025-10-28T14:19:30.587711",
+  "package_url": "https://pypi.org/project/matflow-new/"
+}

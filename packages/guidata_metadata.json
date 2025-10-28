@@ -1,11 +1,11 @@
 {
   "name": "guidata",
-  "version": "3.13.0",
+  "version": "3.13.1",
   "summary": "Automatic GUI generation for easy dataset editing and display",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "guidata-3.13.0.tar.gz",
-  "download_time": "2025-10-24T14:44:00.296096",
+  "download_filename": "guidata-3.13.1.tar.gz",
+  "download_time": "2025-10-28T14:19:46.266087",
   "package_url": "https://pypi.org/project/guidata/"
 }
