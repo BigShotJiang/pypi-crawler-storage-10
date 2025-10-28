@@ -1,0 +1,11 @@
+{
+  "name": "emunium",
+  "version": "2.1.1",
+  "summary": "A Python module for automating interactions to mimic human behavior in standalone apps or browsers when using Selenium, Pyppeteer, or Playwright.",
+  "author": "Maehdakvan",
+  "license": null,
+  "home_page": "https://github.com/DedInc/emunium",
+  "download_filename": "emunium-2.1.1.tar.gz",
+  "download_time": "2025-10-28T05:18:44.260649",
+  "package_url": "https://pypi.org/project/emunium/"
+}

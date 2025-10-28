@@ -1,11 +1,11 @@
 {
   "name": "pantsonfire",
-  "version": "0.2.8",
+  "version": "0.3.1",
   "summary": "Find wrong information in technical docs online",
   "author": "Sean McDonald",
   "license": null,
   "home_page": "https://github.com/seanmcdonald/pantsonfire",
-  "download_filename": "pantsonfire-0.2.8.tar.gz",
-  "download_time": "2025-10-28T04:45:38.705787",
+  "download_filename": "pantsonfire-0.3.1.tar.gz",
+  "download_time": "2025-10-28T05:18:28.014763",
   "package_url": "https://pypi.org/project/pantsonfire/"
 }

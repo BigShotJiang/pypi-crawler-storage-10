@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-lilypond",
+  "version": "2.5",
+  "summary": "Sphinx extension for embedding LilyPond scores",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_lilypond-2.5.tar.gz",
+  "download_time": "2025-10-28T05:18:34.833045",
+  "package_url": "https://pypi.org/project/sphinxnotes-lilypond/"
+}
