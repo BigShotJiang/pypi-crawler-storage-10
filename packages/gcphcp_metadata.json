@@ -1,0 +1,11 @@
+{
+  "name": "gcphcp",
+  "version": "0.1.0",
+  "summary": "A command-line interface for Google Cloud Platform Hosted Control Planes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcphcp-0.1.0.tar.gz",
+  "download_time": "2025-10-28T14:57:06.894919",
+  "package_url": "https://pypi.org/project/gcphcp/"
+}

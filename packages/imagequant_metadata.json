@@ -1,0 +1,11 @@
+{
+  "name": "imagequant",
+  "version": "1.1.5",
+  "summary": "Image Quantization Library",
+  "author": "Wanadev",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/wanadev/imagequant-python",
+  "download_filename": "imagequant-1.1.5.tar.gz",
+  "download_time": "2025-10-28T14:57:29.674289",
+  "package_url": "https://pypi.org/project/imagequant/"
+}

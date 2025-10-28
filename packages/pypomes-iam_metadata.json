@@ -1,11 +1,11 @@
 {
   "name": "pypomes-iam",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A collection of Python pomes, penyeach (IAM modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_iam-0.2.3.tar.gz",
-  "download_time": "2025-10-28T14:19:58.736635",
+  "download_filename": "pypomes_iam-0.2.4.tar.gz",
+  "download_time": "2025-10-28T14:57:21.537860",
   "package_url": "https://pypi.org/project/pypomes-iam/"
 }

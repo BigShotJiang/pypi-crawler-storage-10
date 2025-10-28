@@ -1,0 +1,11 @@
+{
+  "name": "svix",
+  "version": "1.81.0",
+  "summary": "Svix webhooks API client and webhook verification library",
+  "author": "Svix",
+  "license": "MIT",
+  "home_page": "https://www.svix.com",
+  "download_filename": "svix-1.81.0.tar.gz",
+  "download_time": "2025-10-28T14:57:11.339652",
+  "package_url": "https://pypi.org/project/svix/"
+}

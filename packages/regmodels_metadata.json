@@ -1,11 +1,11 @@
 {
   "name": "regmodels",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A regression model comparison and visualization library with statistical analysis and theme support.",
   "author": "Amna Talha",
   "license": null,
   "home_page": "https://github.com/yourusername/regmodels",
-  "download_filename": "regmodels-0.1.0.tar.gz",
-  "download_time": "2025-10-27T15:40:31.043293",
+  "download_filename": "regmodels-0.2.0.tar.gz",
+  "download_time": "2025-10-28T14:57:12.990686",
   "package_url": "https://pypi.org/project/regmodels/"
 }

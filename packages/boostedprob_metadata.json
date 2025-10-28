@@ -1,0 +1,11 @@
+{
+  "name": "boostedprob",
+  "version": "0.1.2",
+  "summary": "Utilities to identify dominant tokens and compute boosted model probabilities for Quality Estimation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boostedprob-0.1.2.tar.gz",
+  "download_time": "2025-10-28T14:57:24.213159",
+  "package_url": "https://pypi.org/project/boostedprob/"
+}

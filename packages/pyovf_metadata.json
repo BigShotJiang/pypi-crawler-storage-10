@@ -1,0 +1,11 @@
+{
+  "name": "pyovf",
+  "version": "0.2.6",
+  "summary": "Reading and writing binary OVF files for mumax3 or OOMMF.",
+  "author": "Flavio Abreu Araujo",
+  "license": "MIT",
+  "home_page": "https://gitlab.flavio.be/flavio/pyovf",
+  "download_filename": "pyovf-0.2.6.tar.gz",
+  "download_time": "2025-10-28T14:57:01.358301",
+  "package_url": "https://pypi.org/project/pyovf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "landmarker",
+  "version": "0.4.0",
+  "summary": "A PyTorch-based toolkit for (anatomical) landmark detection in images.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "landmarker-0.4.0.tar.gz",
+  "download_time": "2025-10-28T14:57:10.789287",
+  "package_url": "https://pypi.org/project/landmarker/"
+}

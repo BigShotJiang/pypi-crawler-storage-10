@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-dali-tf-plugin-cuda130",
+  "version": "1.52.0",
+  "summary": "NVIDIA DALI  TensorFlow plugin for CUDA 13.0. Git SHA: 85806edb1242b50545ccf097a38c4d0696a1ef83",
+  "author": "NVIDIA Corporation",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/NVIDIA/dali",
+  "download_filename": "nvidia_dali_tf_plugin_cuda130-1.52.0.tar.gz",
+  "download_time": "2025-10-28T14:57:20.455644",
+  "package_url": "https://pypi.org/project/nvidia-dali-tf-plugin-cuda130/"
+}
