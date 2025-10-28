@@ -1,0 +1,11 @@
+{
+  "name": "mednet",
+  "version": "2.0.2",
+  "summary": "Multi-task Library to Develop Computer-Aided Tools for Medical Data Analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mednet-2.0.2.tar.gz",
+  "download_time": "2025-10-28T17:18:25.752829",
+  "package_url": "https://pypi.org/project/mednet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deeplogit",
+  "version": "0.1.4",
+  "summary": "Mixed Logit Estimation with Text and Image Embeddings Extracted Using Deep Learning Models",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/deep-logit-demand/deeplogit",
+  "download_filename": "deeplogit-0.1.4.tar.gz",
+  "download_time": "2025-10-28T17:18:19.283577",
+  "package_url": "https://pypi.org/project/deeplogit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yymao-helpers",
+  "version": "1.0.0",
+  "summary": "A collection of some useful, but not necessarily related, Python scripts that carry out or accelerate various tasks, most of which involve dark matter simulations.",
+  "author": "Yao-Yuan Mao",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/yymao/helpers",
+  "download_filename": "yymao_helpers-1.0.0.tar.gz",
+  "download_time": "2025-10-28T17:18:45.165877",
+  "package_url": "https://pypi.org/project/yymao-helpers/"
+}
