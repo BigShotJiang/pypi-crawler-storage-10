@@ -1,11 +1,11 @@
 {
   "name": "pixe",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "A digital helper to keep your files neat and tidy",
   "author": "Chris Wells",
   "license": null,
   "home_page": null,
-  "download_filename": "pixe-0.8.1.tar.gz",
-  "download_time": "2025-10-28T20:54:34.406182",
+  "download_filename": "pixe-0.8.2.tar.gz",
+  "download_time": "2025-10-28T21:58:41.785947",
   "package_url": "https://pypi.org/project/pixe/"
 }

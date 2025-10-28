@@ -1,0 +1,11 @@
+{
+  "name": "modwrap",
+  "version": "1.1.5",
+  "summary": "Python module wrapper for dynamic loading and callable signature validation.",
+  "author": "n3rada",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/n3rada/modwrap",
+  "download_filename": "modwrap-1.1.5.tar.gz",
+  "download_time": "2025-10-28T21:58:25.289143",
+  "package_url": "https://pypi.org/project/modwrap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "home-assistant-intents",
+  "version": "2025.10.28",
+  "summary": "Intents for Home Assistant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "home_assistant_intents-2025.10.28.tar.gz",
+  "download_time": "2025-10-28T21:58:19.568424",
+  "package_url": "https://pypi.org/project/home-assistant-intents/"
+}

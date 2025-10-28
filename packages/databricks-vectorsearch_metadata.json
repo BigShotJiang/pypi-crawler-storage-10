@@ -1,0 +1,11 @@
+{
+  "name": "databricks-vectorsearch",
+  "version": "0.61",
+  "summary": "Databricks Vector Search Client",
+  "author": "Databricks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_vectorsearch-0.61-py3-none-any.whl",
+  "download_time": "2025-10-28T21:58:35.101982",
+  "package_url": "https://pypi.org/project/databricks-vectorsearch/"
+}
