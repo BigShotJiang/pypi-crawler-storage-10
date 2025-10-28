@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-purchase-request-to-requisition-operating-unit",
+  "version": "14.0.1.0.1.dev8",
+  "summary": "Purchase Request to Call for Bids with Operating Units",
+  "author": "Forgeflow,Ecosoft,Serpent Consulting Services Pvt. Ltd.,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_purchase_request_to_requisition_operating_unit-14.0.1.0.1.dev8-py3-none-any.whl",
+  "download_time": "2025-10-28T03:40:33.241757",
+  "package_url": "https://pypi.org/project/odoo14-addon-purchase-request-to-requisition-operating-unit/"
+}

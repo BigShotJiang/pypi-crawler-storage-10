@@ -1,0 +1,11 @@
+{
+  "name": "novnc",
+  "version": "1.1.6",
+  "summary": "noVNC is a Python-based server that integrates noVNC and websockify to provide a web-based VNC client, enabling remote desktop access via a web browser.",
+  "author": "Ankush Bhagat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "novnc-1.1.6.tar.gz",
+  "download_time": "2025-10-28T03:40:55.807939",
+  "package_url": "https://pypi.org/project/novnc/"
+}

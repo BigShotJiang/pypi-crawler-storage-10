@@ -1,0 +1,11 @@
+{
+  "name": "conversimple-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for Conversimple Conversational AI Platform",
+  "author": "Conversimple",
+  "license": null,
+  "home_page": "https://github.com/conversimple/conversimple-sdk",
+  "download_filename": "conversimple_sdk-0.2.1.tar.gz",
+  "download_time": "2025-10-28T03:41:12.486766",
+  "package_url": "https://pypi.org/project/conversimple-sdk/"
+}
