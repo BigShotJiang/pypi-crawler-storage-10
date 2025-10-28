@@ -1,0 +1,11 @@
+{
+  "name": "sbp",
+  "version": "6.3.1",
+  "summary": "Python bindings for Swift Binary Protocol",
+  "author": "Swift Navigation",
+  "license": null,
+  "home_page": "https://github.com/swift-nav/libsbp",
+  "download_filename": "sbp-6.3.1.tar.gz",
+  "download_time": "2025-10-28T19:40:30.117982",
+  "package_url": "https://pypi.org/project/sbp/"
+}

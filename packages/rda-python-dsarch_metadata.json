@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-dsarch",
+  "version": "1.0.31",
+  "summary": "RDA Python package for utility program dsarch archive RDA data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_dsarch-1.0.31.tar.gz",
+  "download_time": "2025-10-28T19:40:23.293797",
+  "package_url": "https://pypi.org/project/rda-python-dsarch/"
+}

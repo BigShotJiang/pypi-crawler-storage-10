@@ -1,17 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T19:29:53.743084
-- **Total Packages**: 88
-- **Total Size**: 26.13 MB
+- **Download Time**: 2025-10-28T19:40:55.722273
+- **Total Packages**: 79
+- **Total Size**: 18.95 MB
 
 ## Packages List
+- flet-charts
+- agent-framework-redis
+- agent-framework-purview
+- agent-framework-mem0
+- agent-framework-devui
+- agent-framework-core
+- agent-framework-copilotstudio
+- agent-framework-azure-ai
+- agent-framework-a2a
+- agent-framework
+- honeybee-energy
+- microlens-submit
+- honeybee-radiance
+- trello-cli-python
+- secure-passgenx-by
+- pyqrackising
+- arkforge
+- simphyni
+- ayechat
+- terminusgps-payments
+- rda-python-dsarch
+- OASYS2-SHADOW4-Advanced
+- notebook-to-code
+- fp-cate
+- mk2lib
+- swh.core
+- pyhausbus
+- pycarlo
+- lusid-sdk
+- pyfsviz
+- nnue-interface
+- base-api-utils
+- heatfall
+- sbp
+- api-dock
+- dlt-mcp
+- pytest-dbt-duckdb
+- prompt-clipboard
+- clubbi-utils
+- ll-la
+- spotpython
+- code-loader
+- gammapbh
+- datallog
 - dsjconvert
 - dbt-common
 - wipac-dev-actions-testbed
-- notebook-to-code
 - airweave-sdk
-- datallog
 - microsoft-agents-storage-cosmos
 - microsoft-agents-storage-blob
 - microsoft-agents-hosting-teams
@@ -29,7 +71,6 @@
 - pybliometrics
 - CliReport
 - clelandlab-quick
-- code-loader
 - django-query-builder-widget
 - rams-cli-app
 - static-refl
@@ -43,54 +84,4 @@
 - llama-deploy-appserver
 - jump-portrait
 - anyscale
-- terminusgps-payments
 - pulumi-http
-- cyberdesk
-- answerrocket-client
-- picopg
-- aero-lang
-- deeporigin
-- dynamic-data-reduction
-- promptsim
-- checkamg
-- PyOpenocdClient
-- matmalib
-- pytest-b-logger
-- lager-cli
-- pyspark-data-toolkit
-- framework3
-- amazon-braket-sdk
-- nexpylib
-- flask-selfheal
-- sayancpe586fa25
-- pulp-ostree
-- andco-wheelbarrow
-- cdk-factory
-- ccfx
-- anthropic
-- legit-api-client
-- pytest-dbt-duckdb
-- datastream-direct
-- pangea-boto3
-- segmentation-skeleton-metrics
-- dojo-sdk-client
-- repello-mcp-gateway
-- pulumi-digitalocean
-- ragas
-- ragas-examples
-- bambu-lab-cloud-api
-- nornir-nautobot
-- bandwidth-sdk
-- odoo-addon-rma-sale
-- odoo-addon-rma
-- batch-tamarin
-- primitive
-- linac
-- talc
-- pytmc
-- fastapi-pagination
-- hishel
-- py-me
-- pyncbitk
-- xbmpC
-- genie-flow-invoker-ollama

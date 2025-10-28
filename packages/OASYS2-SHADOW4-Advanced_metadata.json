@@ -1,11 +1,11 @@
 {
   "name": "OASYS2-SHADOW4-Advanced",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "oasys2-shadow4-advanced: Oasys 2 widgets for shadow4 - advanced tools",
   "author": "M. Sanchez del Rio, L. Rebuffi",
   "license": "MIT",
   "home_page": "https://github.com/oasys-kit/OASYS2-SHADOW4-Advanced",
-  "download_filename": "oasys2_shadow4_advanced-0.0.12.tar.gz",
-  "download_time": "2025-10-27T17:51:45.502909",
+  "download_filename": "oasys2_shadow4_advanced-0.0.14.tar.gz",
+  "download_time": "2025-10-28T19:40:23.811787",
   "package_url": "https://pypi.org/project/OASYS2-SHADOW4-Advanced/"
 }
