@@ -1,11 +1,11 @@
 {
   "name": "ftw.referencewidget",
-  "version": "4.4.1",
+  "version": "4.4.2",
   "summary": "A reference browser widget (Maintainer Mathias Leimgruber)",
   "author": "Mathias Leimgruber, webcloud7 ag",
   "license": "GPL2",
   "home_page": "https://github.com/webcloud7/ftw.referencewidget",
-  "download_filename": "ftw_referencewidget-4.4.1.tar.gz",
-  "download_time": "2025-10-28T21:16:30.775176",
+  "download_filename": "ftw_referencewidget-4.4.2.tar.gz",
+  "download_time": "2025-10-28T21:32:23.384692",
   "package_url": "https://pypi.org/project/ftw.referencewidget/"
 }

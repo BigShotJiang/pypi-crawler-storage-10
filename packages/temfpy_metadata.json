@@ -1,0 +1,11 @@
+{
+  "name": "temfpy",
+  "version": "0.1.2",
+  "summary": "TeMFpy (Tensor Networks for Mean Field States in Python) is a library for             converting mean-field fermionic wavefunctions into matrix product states (MPS).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "temfpy-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-28T21:33:01.978405",
+  "package_url": "https://pypi.org/project/temfpy/"
+}

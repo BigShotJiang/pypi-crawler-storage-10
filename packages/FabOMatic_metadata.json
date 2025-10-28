@@ -1,11 +1,11 @@
 {
   "name": "FabOMatic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Backend for Fab-O-Matic RFID boards",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabomatic-1.0.1-py3-none-any.whl",
-  "download_time": "2025-10-26T13:50:39.227850",
+  "download_filename": "fabomatic-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-28T21:33:00.314359",
   "package_url": "https://pypi.org/project/FabOMatic/"
 }

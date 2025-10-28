@@ -1,0 +1,11 @@
+{
+  "name": "v4-proto",
+  "version": "9.3.0",
+  "summary": "Protos for dYdX Chain protocol",
+  "author": "dYdX Trading Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "v4-proto-9.3.0.tar.gz",
+  "download_time": "2025-10-28T21:32:59.555882",
+  "package_url": "https://pypi.org/project/v4-proto/"
+}

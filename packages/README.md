@@ -1,42 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T21:17:01.571661
-- **Total Packages**: 86
-- **Total Size**: 62.1 MB
+- **Download Time**: 2025-10-28T21:33:14.923999
+- **Total Packages**: 87
+- **Total Size**: 17.78 MB
 
 ## Packages List
-- atomicds
-- airweave-sdk
-- liveisstracker
-- multiple-minimum-monte-carlo
-- loon-utils
-- multimodalsim-viewer
-- soia-client
-- tree-sitter-zsh
-- festutimetable
-- jaegis-raverse-mcp-server
-- oasis-sapphire-py
-- sugar32
-- secure-passgenx
-- napistu-torch
-- mne-qt-browser
-- tilayepdf
-- webtoolkit
-- webbed-duck
-- team-formation
-- kanji-to-number
-- changedetection.io
-- stonefish-license-manager
-- segmentation-skeleton-metrics
-- cjm-fasthtml-workers
-- bt-decode
-- altscore
-- singular-finance
 - auntie-sounds
 - rds-proxy-password-rotation
 - ftw.referencewidget
 - hatch-cpp
+- kanji-to-number
 - torch-c-dlpack-ext
 - qualrepair
 - ai_harmonization
@@ -81,6 +55,7 @@
 - d-vecdb
 - pixe
 - psm-utils
+- cjm-fasthtml-workers
 - scenario-characterization
 - lt-tensor
 - api-dock
@@ -92,3 +67,29 @@
 - cdk-factory
 - django-shopify-app
 - OntoCheck
+- tccli-intl-en
+- v4-proto
+- FabOMatic
+- iceprod
+- temfpy
+- qwak-core
+- zencognify
+- coiled
+- supabase-functions
+- supabase-auth
+- supabase
+- storage3
+- realtime
+- postgrest
+- instrumentaipdfsplitter
+- netpicker-netbox-plugin
+- sxc
+- railtracks-cli
+- railtracks
+- flex-evals
+- aiboosterqc
+- liveisstracker
+- agentmake
+- wipac-rest-tools
+- CHM
+- fastopp
