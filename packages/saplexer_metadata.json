@@ -1,11 +1,11 @@
 {
   "name": "saplexer",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "A simple and efficient package to display text files from folders A and B.",
   "author": "SeventyThree",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "saplexer-1.2.4.tar.gz",
-  "download_time": "2025-10-25T09:29:53.884965",
+  "download_filename": "saplexer-1.2.5.tar.gz",
+  "download_time": "2025-10-28T05:53:04.257437",
   "package_url": "https://pypi.org/project/saplexer/"
 }

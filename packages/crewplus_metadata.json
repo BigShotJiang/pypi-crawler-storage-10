@@ -1,11 +1,11 @@
 {
   "name": "crewplus",
-  "version": "0.2.74",
+  "version": "0.2.75",
   "summary": "Base services for CrewPlus AI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crewplus-0.2.74.tar.gz",
-  "download_time": "2025-10-28T03:41:05.174722",
+  "download_filename": "crewplus-0.2.75.tar.gz",
+  "download_time": "2025-10-28T05:53:04.771849",
   "package_url": "https://pypi.org/project/crewplus/"
 }

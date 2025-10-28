@@ -1,0 +1,11 @@
+{
+  "name": "pronet",
+  "version": "0.1.0",
+  "summary": "A Python library for building and analyzing protein interaction networks",
+  "author": "Sarah",
+  "license": "MIT",
+  "home_page": "https://github.com/username/pronet",
+  "download_filename": "pronet-0.1.0.tar.gz",
+  "download_time": "2025-10-28T05:53:05.796032",
+  "package_url": "https://pypi.org/project/pronet/"
+}
