@@ -1,0 +1,11 @@
+{
+  "name": "airflow-pydantic",
+  "version": "1.5.6",
+  "summary": "Pydantic models for Apache Airflow",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "airflow_pydantic-1.5.6.tar.gz",
+  "download_time": "2025-10-28T23:17:06.161297",
+  "package_url": "https://pypi.org/project/airflow-pydantic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ecco-access",
+  "version": "0.3.0",
+  "summary": "Access utilities for ECCO state estimate output hosted on PO.DAAC and in the AWS cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecco_access-0.3.0.tar.gz",
+  "download_time": "2025-10-28T23:16:51.001945",
+  "package_url": "https://pypi.org/project/ecco-access/"
+}

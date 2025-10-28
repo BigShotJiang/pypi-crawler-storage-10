@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "summary": "Model Context Protocol client and server library with optional Pydantic support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chuk_mcp-0.7.2.tar.gz",
-  "download_time": "2025-10-27T19:14:22.276786",
+  "download_filename": "chuk_mcp-0.8.0.tar.gz",
+  "download_time": "2025-10-28T23:16:45.235406",
   "package_url": "https://pypi.org/project/chuk-mcp/"
 }

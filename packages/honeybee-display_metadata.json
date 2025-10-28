@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-display",
+  "version": "0.6.0",
+  "summary": "Adds methods to translate honeybee objects to VisualizationSets.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-display",
+  "download_filename": "honeybee_display-0.6.0.tar.gz",
+  "download_time": "2025-10-28T23:16:44.191564",
+  "package_url": "https://pypi.org/project/honeybee-display/"
+}

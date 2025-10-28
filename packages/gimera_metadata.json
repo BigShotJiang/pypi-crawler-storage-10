@@ -1,0 +1,11 @@
+{
+  "name": "gimera",
+  "version": "0.7.106",
+  "summary": "Handling git submodules and patches per yml",
+  "author": "Marc-Christian Wimmer",
+  "license": "MIT",
+  "home_page": "https://github.com/marcwimmer/gimera",
+  "download_filename": "gimera-0.7.106.tar.gz",
+  "download_time": "2025-10-28T23:16:49.932136",
+  "package_url": "https://pypi.org/project/gimera/"
+}
