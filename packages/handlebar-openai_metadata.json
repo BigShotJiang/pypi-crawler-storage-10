@@ -1,0 +1,11 @@
+{
+  "name": "handlebar-openai",
+  "version": "0.0.1",
+  "summary": "Core governance layer for handlebar (https://gethandlebar.com)",
+  "author": "Handlebar Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "handlebar_openai-0.0.1.tar.gz",
+  "download_time": "2025-10-28T14:45:47.142460",
+  "package_url": "https://pypi.org/project/handlebar-openai/"
+}

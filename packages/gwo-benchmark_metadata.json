@@ -1,11 +1,11 @@
 {
   "name": "gwo-benchmark",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "A benchmark for Generalized Windowed Operations in neural networks.",
   "author": "Youngseong Kim",
   "license": "MIT",
   "home_page": "https://github.com/Kim-Ai-gpu/gwo-benchmark",
-  "download_filename": "gwo_benchmark-0.2.5.tar.gz",
-  "download_time": "2025-10-28T14:19:31.742308",
+  "download_filename": "gwo_benchmark-0.2.8.tar.gz",
+  "download_time": "2025-10-28T14:46:09.847075",
   "package_url": "https://pypi.org/project/gwo-benchmark/"
 }

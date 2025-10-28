@@ -1,0 +1,11 @@
+{
+  "name": "django-oscar-odin",
+  "version": "0.4.1",
+  "summary": "Odin Resources and mappings to Oscar models",
+  "author": "Tim Savage",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/django-oscar/oscar-odin",
+  "download_filename": "django_oscar_odin-0.4.1.tar.gz",
+  "download_time": "2025-10-28T14:46:17.979516",
+  "package_url": "https://pypi.org/project/django-oscar-odin/"
+}

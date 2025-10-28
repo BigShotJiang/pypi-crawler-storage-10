@@ -1,0 +1,11 @@
+{
+  "name": "ros-domain-coordinator",
+  "version": "0.12.0",
+  "summary": "A tool to coordinate unique ROS_DOMAIN_IDs across multiple processes",
+  "author": "Pete Baughman",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ros2/ament_cmake_ros",
+  "download_filename": "ros_domain_coordinator-0.12.0-py3-none-any.whl",
+  "download_time": "2025-10-28T14:46:24.979142",
+  "package_url": "https://pypi.org/project/ros-domain-coordinator/"
+}

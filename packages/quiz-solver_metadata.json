@@ -1,0 +1,11 @@
+{
+  "name": "quiz-solver",
+  "version": "1.0.0",
+  "summary": "Automated quiz solver using web scraping and search",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/quiz-solver",
+  "download_filename": "quiz_solver-1.0.0.tar.gz",
+  "download_time": "2025-10-28T14:45:53.660370",
+  "package_url": "https://pypi.org/project/quiz-solver/"
+}

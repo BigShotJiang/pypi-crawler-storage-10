@@ -1,11 +1,11 @@
 {
   "name": "light-mlt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight preprocessing and reversible Modular Linear Tokenization (MLT) utilities for categorical and continuous data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "light_mlt-0.1.1.tar.gz",
-  "download_time": "2025-10-28T14:19:17.455585",
+  "download_filename": "light_mlt-0.1.2.tar.gz",
+  "download_time": "2025-10-28T14:45:44.452848",
   "package_url": "https://pypi.org/project/light-mlt/"
 }

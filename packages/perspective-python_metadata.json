@@ -1,0 +1,11 @@
+{
+  "name": "perspective-python",
+  "version": "4.0.0",
+  "summary": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+  "author": "Andrew Stein <steinlink@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://perspective-dev.github.io",
+  "download_filename": "perspective_python-4.0.0.tar.gz",
+  "download_time": "2025-10-28T14:46:14.737517",
+  "package_url": "https://pypi.org/project/perspective-python/"
+}
