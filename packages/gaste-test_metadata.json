@@ -1,0 +1,11 @@
+{
+  "name": "gaste-test",
+  "version": "0.1.6",
+  "summary": "Gamma approximation of stratified truncated exact test",
+  "author": "Alexandre WENDLING",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaste_test-0.1.6-py3-none-any.whl",
+  "download_time": "2025-10-28T17:51:58.294177",
+  "package_url": "https://pypi.org/project/gaste-test/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "polymarket-apis",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Unified Polymarket APIs with Pydantic data validation - Clob, Gamma, Data, Web3, Websockets, GraphQL clients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polymarket_apis-0.3.4.tar.gz",
-  "download_time": "2025-10-27T17:15:52.104248",
+  "download_filename": "polymarket_apis-0.3.5.tar.gz",
+  "download_time": "2025-10-28T17:51:40.749139",
   "package_url": "https://pypi.org/project/polymarket-apis/"
 }

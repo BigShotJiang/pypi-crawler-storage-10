@@ -1,0 +1,11 @@
+{
+  "name": "qypi",
+  "version": "0.6.1.post1",
+  "summary": "Query PyPI from the command line",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qypi-0.6.1.post1.tar.gz",
+  "download_time": "2025-10-28T17:52:11.028792",
+  "package_url": "https://pypi.org/project/qypi/"
+}

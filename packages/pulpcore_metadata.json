@@ -1,0 +1,11 @@
+{
+  "name": "pulpcore",
+  "version": "3.92.0",
+  "summary": "Pulp Django Application and Related Modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulpcore-3.92.0.tar.gz",
+  "download_time": "2025-10-28T17:51:52.361784",
+  "package_url": "https://pypi.org/project/pulpcore/"
+}

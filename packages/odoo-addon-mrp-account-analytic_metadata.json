@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-account-analytic",
+  "version": "16.0.1.0.0.5",
+  "summary": "Consuming raw materials and operations generated Analytic Items",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_account_analytic-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-28T17:51:45.551721",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-account-analytic/"
+}

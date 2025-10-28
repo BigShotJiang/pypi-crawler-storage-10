@@ -1,0 +1,11 @@
+{
+  "name": "notebook-to-code",
+  "version": "3.0.0",
+  "summary": "Advanced Jupyter Notebook to Python script converter with round-trip support",
+  "author": "Notebook Converter Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notebook_to_code-3.0.0.tar.gz",
+  "download_time": "2025-10-28T17:51:54.475144",
+  "package_url": "https://pypi.org/project/notebook-to-code/"
+}

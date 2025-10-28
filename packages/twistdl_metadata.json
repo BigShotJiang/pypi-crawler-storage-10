@@ -1,0 +1,11 @@
+{
+  "name": "twistdl",
+  "version": "1.0.0",
+  "summary": "A comprehensive system monitoring tool similar to htop",
+  "author": "Michel Godar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "twistdl-1.0.0.tar.gz",
+  "download_time": "2025-10-28T17:52:14.728745",
+  "package_url": "https://pypi.org/project/twistdl/"
+}

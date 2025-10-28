@@ -1,11 +1,11 @@
 {
   "name": "magbox",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Solve lattice llg numerically",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magbox-0.2.3.tar.gz",
-  "download_time": "2025-10-28T08:57:54.208821",
+  "download_filename": "magbox-0.2.4.tar.gz",
+  "download_time": "2025-10-28T17:52:03.560784",
   "package_url": "https://pypi.org/project/magbox/"
 }

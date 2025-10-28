@@ -1,0 +1,11 @@
+{
+  "name": "awsebcli",
+  "version": "3.25.2",
+  "summary": "Command Line Interface for AWS EB.",
+  "author": "AWS Elastic Beanstalk",
+  "license": "Apache License 2.0",
+  "home_page": "http://aws.amazon.com/elasticbeanstalk/",
+  "download_filename": "awsebcli-3.25.2.tar.gz",
+  "download_time": "2025-10-28T17:52:04.091712",
+  "package_url": "https://pypi.org/project/awsebcli/"
+}

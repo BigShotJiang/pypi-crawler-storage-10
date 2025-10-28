@@ -1,0 +1,11 @@
+{
+  "name": "ducktools-lazyimporter",
+  "version": "0.8.4",
+  "summary": "LazyImporter class to manage imports on attribute access.",
+  "author": "David C Ellis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ducktools_lazyimporter-0.8.4.tar.gz",
+  "download_time": "2025-10-28T17:51:43.468445",
+  "package_url": "https://pypi.org/project/ducktools-lazyimporter/"
+}

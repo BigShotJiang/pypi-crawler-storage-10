@@ -1,11 +1,11 @@
 {
   "name": "greedos",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Advanced Cybersecurity Red Team Tool",
-  "author": "MrEchoFi_EbwerBrothers",
+  "author": "MrEchoFi_MdAbuNaserNayeem_TanjibIsham",
   "license": null,
   "home_page": null,
-  "download_filename": "greedos-0.1.0.tar.gz",
-  "download_time": "2025-10-28T16:23:36.218594",
+  "download_filename": "greedos-0.3.0.tar.gz",
+  "download_time": "2025-10-28T17:52:14.206271",
   "package_url": "https://pypi.org/project/greedos/"
 }
