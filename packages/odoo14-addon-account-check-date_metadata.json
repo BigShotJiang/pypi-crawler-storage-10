@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-check-date",
+  "version": "14.0.1.0.1.dev7",
+  "summary": "Add check date on payment for check printing",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo14_addon_account_check_date-14.0.1.0.1.dev7-py3-none-any.whl",
+  "download_time": "2025-10-28T02:46:44.811603",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-check-date/"
+}

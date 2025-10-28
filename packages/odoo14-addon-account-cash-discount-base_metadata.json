@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-cash-discount-base",
+  "version": "14.0.1.0.1.dev9",
+  "summary": "Account Cash Discount Base",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo14_addon_account_cash_discount_base-14.0.1.0.1.dev9-py3-none-any.whl",
+  "download_time": "2025-10-28T02:46:47.411100",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-cash-discount-base/"
+}

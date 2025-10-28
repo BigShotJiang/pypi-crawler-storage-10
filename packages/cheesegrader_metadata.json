@@ -1,0 +1,11 @@
+{
+  "name": "cheesegrader",
+  "version": "1.1.4",
+  "summary": "A collection of grading/quercus tools for University of Toronto instructors.",
+  "author": "Jesse Ward-Bond",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheesegrader-1.1.4.tar.gz",
+  "download_time": "2025-10-28T02:47:06.766756",
+  "package_url": "https://pypi.org/project/cheesegrader/"
+}

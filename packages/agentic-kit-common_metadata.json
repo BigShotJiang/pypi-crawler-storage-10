@@ -1,11 +1,11 @@
 {
   "name": "agentic-kit-common",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "summary": "Common utilities and tools for agentic kit ecosystem",
   "author": "manson",
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_kit_common-0.0.11.tar.gz",
-  "download_time": "2025-10-26T15:15:40.777565",
+  "download_filename": "agentic_kit_common-0.0.13.tar.gz",
+  "download_time": "2025-10-28T02:46:50.716352",
   "package_url": "https://pypi.org/project/agentic-kit-common/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-payment-term-partner-holiday",
+  "version": "14.0.1.0.1.dev5",
+  "summary": "Account Payment Term Partner Holiday",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo14_addon_account_payment_term_partner_holiday-14.0.1.0.1.dev5-py3-none-any.whl",
+  "download_time": "2025-10-28T02:46:44.299739",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-payment-term-partner-holiday/"
+}

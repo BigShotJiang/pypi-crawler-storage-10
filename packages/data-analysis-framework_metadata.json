@@ -1,0 +1,11 @@
+{
+  "name": "data-analysis-framework",
+  "version": "2.0.0",
+  "summary": "AI-powered analysis framework for structured data files and databases - part of the unified analysis framework suite",
+  "author": "Wes Jackson",
+  "license": "MIT",
+  "home_page": "https://github.com/rdwj/data-analysis-framework",
+  "download_filename": "data_analysis_framework-2.0.0.tar.gz",
+  "download_time": "2025-10-28T02:47:09.439009",
+  "package_url": "https://pypi.org/project/data-analysis-framework/"
+}

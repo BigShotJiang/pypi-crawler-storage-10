@@ -1,0 +1,11 @@
+{
+  "name": "repolish",
+  "version": "0.2.1",
+  "summary": "Maintain consistency across repositories",
+  "author": "hotdog-werx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repolish-0.2.1.tar.gz",
+  "download_time": "2025-10-28T02:47:06.252559",
+  "package_url": "https://pypi.org/project/repolish/"
+}

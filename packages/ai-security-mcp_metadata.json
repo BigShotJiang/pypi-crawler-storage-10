@@ -1,11 +1,11 @@
 {
   "name": "ai-security-mcp",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "summary": "Thin client MCP server for AI Security Scanner - connects to cloud-hosted 27 agents (100% OWASP coverage)",
   "author": "AI Security Team",
   "license": null,
   "home_page": "https://github.com/davidmatousek/CISO_Agent",
-  "download_filename": "ai_security_mcp-1.0.29.tar.gz",
-  "download_time": "2025-10-28T01:14:55.257995",
+  "download_filename": "ai_security_mcp-1.0.30.tar.gz",
+  "download_time": "2025-10-28T02:47:00.561408",
   "package_url": "https://pypi.org/project/ai-security-mcp/"
 }
