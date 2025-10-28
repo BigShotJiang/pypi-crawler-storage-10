@@ -1,11 +1,11 @@
 {
   "name": "psm-utils",
-  "version": "1.5.0",
+  "version": "1.5.0.post1",
   "summary": "Common utilities for parsing and handling peptide-spectrum matches and search engine results.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psm_utils-1.5.0.tar.gz",
-  "download_time": "2025-10-27T22:16:23.813462",
+  "download_filename": "psm_utils-1.5.0.post1.tar.gz",
+  "download_time": "2025-10-28T21:16:55.402135",
   "package_url": "https://pypi.org/project/psm-utils/"
 }

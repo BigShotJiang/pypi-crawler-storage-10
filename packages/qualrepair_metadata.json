@@ -1,0 +1,11 @@
+{
+  "name": "qualrepair",
+  "version": "1.0.0",
+  "summary": "Update the FASTQ quality scores from a subsequence FASTQ.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qualrepair-1.0.0.tar.gz",
+  "download_time": "2025-10-28T21:16:32.322483",
+  "package_url": "https://pypi.org/project/qualrepair/"
+}

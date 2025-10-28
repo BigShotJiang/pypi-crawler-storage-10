@@ -1,0 +1,11 @@
+{
+  "name": "mne-qt-browser",
+  "version": "0.7.4",
+  "summary": "PyQtGraph-based backend for MNE-Python's raw data browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mne_qt_browser-0.7.4.tar.gz",
+  "download_time": "2025-10-28T21:16:22.468851",
+  "package_url": "https://pypi.org/project/mne-qt-browser/"
+}

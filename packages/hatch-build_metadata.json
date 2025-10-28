@@ -1,11 +1,11 @@
 {
   "name": "hatch-build",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A minimal CLI wrapper around hatchling build",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hatch_build-0.2.0.tar.gz",
-  "download_time": "2025-10-28T19:51:25.687407",
+  "download_filename": "hatch_build-0.3.0.tar.gz",
+  "download_time": "2025-10-28T21:16:33.349799",
   "package_url": "https://pypi.org/project/hatch-build/"
 }

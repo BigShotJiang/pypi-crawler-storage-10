@@ -1,0 +1,11 @@
+{
+  "name": "nocturne-api",
+  "version": "0.2",
+  "summary": "Terminal API workbench for REST, GraphQL, and WebSockets using Textual.",
+  "author": "Superintendent2521",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nocturne_api-0.2.tar.gz",
+  "download_time": "2025-10-28T21:16:43.346071",
+  "package_url": "https://pypi.org/project/nocturne-api/"
+}

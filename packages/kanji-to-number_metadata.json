@@ -1,0 +1,11 @@
+{
+  "name": "kanji-to-number",
+  "version": "0.2.1",
+  "summary": "Convert kansuji to number",
+  "author": "Shinya Akagi",
+  "license": "PSF",
+  "home_page": "https://github.com/ShinyaAkagiI/kanji_to_number",
+  "download_filename": "kanji_to_number-0.2.1.tar.gz",
+  "download_time": "2025-10-28T21:16:25.053876",
+  "package_url": "https://pypi.org/project/kanji-to-number/"
+}

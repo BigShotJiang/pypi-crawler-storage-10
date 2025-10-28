@@ -1,11 +1,11 @@
 {
   "name": "d-vecdb-server",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Complete d-vecDB server package with embedded binaries - zero configuration required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "d_vecdb_server-0.1.7.tar.gz",
-  "download_time": "2025-10-28T12:35:58.847905",
+  "download_filename": "d_vecdb_server-0.1.8.tar.gz",
+  "download_time": "2025-10-28T21:16:52.823228",
   "package_url": "https://pypi.org/project/d-vecdb-server/"
 }

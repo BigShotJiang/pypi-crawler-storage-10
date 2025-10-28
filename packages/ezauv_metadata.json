@@ -1,0 +1,11 @@
+{
+  "name": "ezauv",
+  "version": "0.1.9",
+  "summary": "A library to make coding AUVs easier",
+  "author": "Andre Gordon",
+  "license": null,
+  "home_page": "https://github.com/beaver-auv/ezauv",
+  "download_filename": "ezauv-0.1.9.tar.gz",
+  "download_time": "2025-10-28T21:16:45.948371",
+  "package_url": "https://pypi.org/project/ezauv/"
+}

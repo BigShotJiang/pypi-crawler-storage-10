@@ -1,11 +1,11 @@
 {
   "name": "d-vecdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "High-performance Python client for d-vecDB vector database with WAL corruption protection and GPU acceleration support",
   "author": "d-vecDB Team",
   "license": null,
   "home_page": "https://github.com/rdmurugan/d-vecDB",
-  "download_filename": "d_vecdb-0.2.0.tar.gz",
-  "download_time": "2025-10-28T20:22:21.333521",
+  "download_filename": "d_vecdb-0.2.1.tar.gz",
+  "download_time": "2025-10-28T21:16:54.377546",
   "package_url": "https://pypi.org/project/d-vecdb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bt-decode",
+  "version": "0.8.0",
+  "summary": "A wrapper around the scale-codec crate for fast scale-decoding of Bittensor data structures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bt_decode-0.8.0.tar.gz",
+  "download_time": "2025-10-28T21:16:28.154476",
+  "package_url": "https://pypi.org/project/bt-decode/"
+}

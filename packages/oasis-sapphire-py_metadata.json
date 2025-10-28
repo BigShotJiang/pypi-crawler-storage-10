@@ -1,0 +1,11 @@
+{
+  "name": "oasis-sapphire-py",
+  "version": "0.4.1",
+  "summary": "Oasis Sapphire encryption middleware for Web3.py",
+  "author": "oasisprotocol",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/oasisprotocol/sapphire-paratime",
+  "download_filename": "oasis_sapphire_py-0.4.1-py3-none-any.whl",
+  "download_time": "2025-10-28T21:16:20.409823",
+  "package_url": "https://pypi.org/project/oasis-sapphire-py/"
+}
