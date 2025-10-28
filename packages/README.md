@@ -1,48 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T20:44:16.881975
-- **Total Packages**: 66
-- **Total Size**: 44.89 MB
+- **Download Time**: 2025-10-28T20:55:22.708189
+- **Total Packages**: 88
+- **Total Size**: 21.41 MB
 
 ## Packages List
-- zencognify
-- coiled
-- sqlite-vec-client
-- byu-accounting
-- supabase-functions
-- supabase-auth
-- supabase
-- storage3
-- realtime
-- postgrest
-- instrumentaipdfsplitter
-- netpicker-netbox-plugin
-- cjm-fasthtml-workers
-- sxc
-- railtracks-cli
-- railtracks
-- flex-evals
-- aiboosterqc
-- ftw.referencewidget
-- liveisstracker
-- agentmake
-- wipac-rest-tools
-- CHM
-- fastopp
-- dynamiq
-- mind-castle
-- moai-adk
-- flet-charts
-- aenet-gpr
-- fastreer
-- datachain
-- iceprod
-- genro-storage
 - graphiti-core-multi-turn-rag
 - r4u
 - allotropy
 - pixe
+- zencognify
+- cjm-fasthtml-workers
 - aa-payout
 - reax
 - bucketbase
@@ -51,9 +20,11 @@
 - botocore-stubs
 - netbox-data-flows
 - pydiscodb
+- sxc
 - ni.datastore
 - printfxpy
 - dnastack-client-library
+- sqlite-vec-client
 - cambio-promptai
 - multimodalsim-viewer
 - newsflash
@@ -72,3 +43,54 @@
 - defi-portal
 - caylent-devcontainer-cli
 - bittensor-wallet
+- pyfsviz
+- python-toolbox
+- fastworkflow
+- anyenv
+- genie-flow-invoker
+- openhive
+- leafmap
+- otai_otobo_znuny
+- otai_hf_local
+- otai_base
+- open_ticket_ai
+- molselector
+- ccfx
+- inception-helper-func
+- vstransitions
+- keeper-pam-webrtc-rs
+- databae
+- spec-check
+- quantconnect-stubs
+- django-cfg
+- prometheus-mcp-server
+- dictanykey
+- castnet
+- chromakitx
+- large-image-source-zarr
+- nnue-interface
+- large-image-source-vips
+- deployx
+- large-image-source-tifffile
+- gpuq
+- large-image-source-tiff
+- large-image-source-test
+- large-image-source-rasterio
+- cocnc
+- django-bulk-hooks
+- large-image-source-pil
+- simphyni
+- large-image-source-openslide
+- needs-config-writer
+- pulumi-random
+- datacosmos
+- large-image-source-openjpeg
+- sbase
+- fastapi-sqla
+- large-image-source-ometiff
+- basecase
+- large-image-source-nd2
+- pytest-seleniumbase
+- large-image-source-multi
+- pytest-sbase
+- large-image-source-mapnik
