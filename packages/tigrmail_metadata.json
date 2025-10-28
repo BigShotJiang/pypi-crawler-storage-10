@@ -1,0 +1,11 @@
+{
+  "name": "tigrmail",
+  "version": "0.3.0",
+  "summary": "API client for creating temporary email addresses to use in your E2E tests with Playwright, Cypress, and other frameworks.",
+  "author": "Furionix Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrmail-0.3.0.tar.gz",
+  "download_time": "2025-10-28T15:21:26.954410",
+  "package_url": "https://pypi.org/project/tigrmail/"
+}

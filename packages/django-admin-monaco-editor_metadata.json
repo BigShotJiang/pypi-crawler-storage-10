@@ -1,11 +1,11 @@
 {
   "name": "django-admin-monaco-editor",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Monaco Editor Widget for Django.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_admin_monaco_editor-1.0.1.tar.gz",
-  "download_time": "2025-10-28T14:57:23.141224",
+  "download_filename": "django_admin_monaco_editor-1.0.4.tar.gz",
+  "download_time": "2025-10-28T15:21:25.928996",
   "package_url": "https://pypi.org/project/django-admin-monaco-editor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-toolkit-plugin",
+  "version": "0.1.6",
+  "summary": "NetBox plugin for running pre-defined commands on network devices",
+  "author": "Andy Norwood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_toolkit_plugin-0.1.6.tar.gz",
+  "download_time": "2025-10-28T15:21:16.026749",
+  "package_url": "https://pypi.org/project/netbox-toolkit-plugin/"
+}

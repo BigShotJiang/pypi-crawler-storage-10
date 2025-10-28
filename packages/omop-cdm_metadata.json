@@ -1,0 +1,11 @@
+{
+  "name": "omop-cdm",
+  "version": "0.4.2",
+  "summary": "SQLAlchemy ORM of the OHDSI OMOP CDM",
+  "author": "Spayralbe",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "omop_cdm-0.4.2.tar.gz",
+  "download_time": "2025-10-28T15:21:35.245312",
+  "package_url": "https://pypi.org/project/omop-cdm/"
+}

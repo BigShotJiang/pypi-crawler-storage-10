@@ -1,0 +1,11 @@
+{
+  "name": "plc-tcpip-bridge",
+  "version": "0.1.0",
+  "summary": "PLC TCP/IP bridge with client/server, IEC types, and utilities",
+  "author": "Konstantinos Katsampiris Salgado",
+  "license": "MIT",
+  "home_page": "https://github.com/kkats-mech/plc-tcpip-bridge",
+  "download_filename": "plc_tcpip_bridge-0.1.0.tar.gz",
+  "download_time": "2025-10-28T15:21:51.678100",
+  "package_url": "https://pypi.org/project/plc-tcpip-bridge/"
+}

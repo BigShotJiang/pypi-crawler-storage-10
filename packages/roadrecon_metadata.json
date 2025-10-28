@@ -1,0 +1,11 @@
+{
+  "name": "roadrecon",
+  "version": "1.7.2",
+  "summary": "Azure AD recon for red and blue",
+  "author": "Dirk-jan Mollema",
+  "license": "MIT",
+  "home_page": "https://github.com/dirkjanm/ROADtools/",
+  "download_filename": "roadrecon-1.7.2.tar.gz",
+  "download_time": "2025-10-28T15:21:44.838497",
+  "package_url": "https://pypi.org/project/roadrecon/"
+}

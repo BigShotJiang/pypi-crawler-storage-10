@@ -1,0 +1,11 @@
+{
+  "name": "pyneuro-analyse",
+  "version": "0.1.13",
+  "summary": "Helper routines for stereotypical analysis of Neuroscience data, including Electrophysiological (Patch clamp), Behavioral and Ca-imaging (fiber photometry and single cell) data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyneuro_analyse-0.1.13.tar.gz",
+  "download_time": "2025-10-28T15:21:21.221263",
+  "package_url": "https://pypi.org/project/pyneuro-analyse/"
+}

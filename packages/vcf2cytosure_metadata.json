@@ -1,0 +1,11 @@
+{
+  "name": "vcf2cytosure",
+  "version": "0.9.3",
+  "summary": "Convert VCF with structural variations to CytoSure format",
+  "author": "Marcel Martin",
+  "license": "MIT",
+  "home_page": "https://github.com/NBISweden/vcf2cytosure",
+  "download_filename": "vcf2cytosure-0.9.3.tar.gz",
+  "download_time": "2025-10-28T15:21:09.266674",
+  "package_url": "https://pypi.org/project/vcf2cytosure/"
+}

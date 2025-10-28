@@ -1,11 +1,11 @@
 {
   "name": "canonicalwebteam.flask-vite",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "A Flask extension that integrates with Vite",
   "author": "Canonical Web Team",
   "license": null,
   "home_page": null,
-  "download_filename": "canonicalwebteam_flask_vite-0.2.2.tar.gz",
-  "download_time": "2025-10-28T14:45:54.735242",
+  "download_filename": "canonicalwebteam_flask_vite-0.3.0.tar.gz",
+  "download_time": "2025-10-28T15:21:27.467727",
   "package_url": "https://pypi.org/project/canonicalwebteam.flask-vite/"
 }
