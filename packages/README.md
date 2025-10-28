@@ -1,18 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T09:43:03.865533
-- **Total Packages**: 88
-- **Total Size**: 27.6 MB
+- **Download Time**: 2025-10-28T09:52:30.987690
+- **Total Packages**: 87
+- **Total Size**: 8.02 MB
 
 ## Packages List
+- mmar-utils
+- shotgun-sh
+- pycarlo
+- mns-common
+- django-bulk-hooks
+- iflow-mcp_crypto-rss-mcp
+- nnue-interface
+- alphadia
+- z4d-certified-devices
+- iflow-mcp_cricket-mcp-server
+- sqlfluffrs
+- flask-frame
+- mofa-core
+- iflow-mcp_polymarket_mcp
+- odoo-addon-ladirecta-odoo-keycloak-connector
+- ic-index
+- gllm-core-binary
+- mediacrop
+- acbox
+- legit-api-client
+- torchcodec
+- gr4vy
+- c2cwsgiutils
+- fastapi-scaff
+- bearishpy
+- port-pulumi
+- sqlfluff-templater-dbt
+- sqlfluff
+- miniflux-tui-py
+- graphframes-py
+- mrx-runway
+- cb-bsdl-parser
+- coo-optimization
 - kaq-quant-common
 - flagdataset
 - turn_by_turn
 - r4u
 - pyqqq
 - spec-check
-- django-bulk-hooks
 - pebble-cascade
 - pyxll-pycharm
 - httomolibgpu
@@ -37,11 +69,9 @@
 - clustertk
 - librelane
 - zood
-- shotgun-sh
 - mxcubecore
 - aton
 - itext2kg
-- flask-frame
 - noveum-trace
 - semantic-title-generator
 - pytfe
@@ -63,34 +93,3 @@
 - orca-gym
 - asset-auto-picker
 - pwnkit
-- mns-common
-- openshift-python-wrapper
-- jetto-tools
-- chargebee
-- pygridgain-dbapi
-- pyslise
-- ai-model-sentinel
-- tbp-nightly
-- fuckme
-- control-laser-tower
-- china-union-lotto
-- pykingenie
-- utils-msoffice
-- funlbm
-- pycommons
-- dissect.util
-- spider-download
-- mpsiemlib-axelpro
-- cas-toolbox
-- article-mcp
-- cardiac-geometriesx
-- gammasimtools
-- migrateit
-- nkunyim-util
-- fastapi-blocks-registry
-- taranis-models
-- jettask
-- qubership-pipelines-declarative-executor
-- eval-studio-client
-- statblk
-- slurm-executor
