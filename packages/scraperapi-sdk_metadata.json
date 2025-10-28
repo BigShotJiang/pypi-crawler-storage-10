@@ -1,0 +1,11 @@
+{
+  "name": "scraperapi-sdk",
+  "version": "1.6.0",
+  "summary": "ScraperAPI Python SDK",
+  "author": "ScraperAPI",
+  "license": null,
+  "home_page": "https://scraperapi.com",
+  "download_filename": "scraperapi_sdk-1.6.0.tar.gz",
+  "download_time": "2025-10-28T09:42:28.017524",
+  "package_url": "https://pypi.org/project/scraperapi-sdk/"
+}

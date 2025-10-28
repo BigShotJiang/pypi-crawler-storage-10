@@ -1,0 +1,11 @@
+{
+  "name": "mpsiemlib-axelpro",
+  "version": "1.5.4.0",
+  "summary": "MaxPatrol SIEM API SDK",
+  "author": "nikolaiav",
+  "license": "GPLv3",
+  "home_page": "https://github.com/axel-pro/mpsiemlib",
+  "download_filename": "mpsiemlib_axelpro-1.5.4.0-py3-none-any.whl",
+  "download_time": "2025-10-28T09:42:56.710408",
+  "package_url": "https://pypi.org/project/mpsiemlib-axelpro/"
+}

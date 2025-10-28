@@ -1,0 +1,11 @@
+{
+  "name": "roboreg",
+  "version": "0.4.6",
+  "summary": "Unified eye-in-hand / eye-to-hand calibration from RGB-D images using robot mesh as calibration target.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "roboreg-0.4.6.tar.gz",
+  "download_time": "2025-10-28T09:42:42.103427",
+  "package_url": "https://pypi.org/project/roboreg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "itext2kg",
+  "version": "1.0.0",
+  "summary": "AdapTive and OptiMized Dynamic Temporal Knowledge Graph Construction Using LLMs",
+  "author": "Auvalab - Yassir LAIRGI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "itext2kg-1.0.0.tar.gz",
+  "download_time": "2025-10-28T09:42:34.830727",
+  "package_url": "https://pypi.org/project/itext2kg/"
+}

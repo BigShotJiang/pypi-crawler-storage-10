@@ -1,0 +1,11 @@
+{
+  "name": "ai-model-sentinel",
+  "version": "2.0.0",
+  "summary": "Enterprise AI Model Monitoring and Security System",
+  "author": "Saleh Asaad Abughabr",
+  "license": null,
+  "home_page": "https://github.com/SalehAsaadAbughabraa/ai-model-sentinel",
+  "download_filename": "ai_model_sentinel-2.0.0.tar.gz",
+  "download_time": "2025-10-28T09:42:49.958088",
+  "package_url": "https://pypi.org/project/ai-model-sentinel/"
+}

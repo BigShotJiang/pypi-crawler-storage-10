@@ -1,11 +1,11 @@
 {
   "name": "mts-gendoc-cobol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Generate COBOL documentation using Copilot",
-  "author": "Your Name",
+  "author": "Ben Bastianelli, Kai Howley",
   "license": null,
   "home_page": null,
-  "download_filename": "mts_gendoc_cobol-1.0.0.tar.gz",
-  "download_time": "2025-10-28T09:19:26.761374",
+  "download_filename": "mts_gendoc_cobol-1.0.1.tar.gz",
+  "download_time": "2025-10-28T09:42:41.585133",
   "package_url": "https://pypi.org/project/mts-gendoc-cobol/"
 }

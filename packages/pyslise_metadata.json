@@ -1,0 +1,11 @@
+{
+  "name": "pyslise",
+  "version": "3.2.2",
+  "summary": "Python bindings for the C++ version of Matslise",
+  "author": "Toon Baeyens",
+  "license": null,
+  "home_page": "https://matslise.ugent.be/",
+  "download_filename": "pyslise-3.2.2-cp310-cp310-macosx_15_0_universal2.whl",
+  "download_time": "2025-10-28T09:42:49.438220",
+  "package_url": "https://pypi.org/project/pyslise/"
+}
