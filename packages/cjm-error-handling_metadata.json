@@ -1,0 +1,11 @@
+{
+  "name": "cjm-error-handling",
+  "version": "0.0.1",
+  "summary": "Structured error handling with context propagation, user-friendly messaging, and serialization support for reusable Python libraries.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-error-handling",
+  "download_filename": "cjm_error_handling-0.0.1.tar.gz",
+  "download_time": "2025-10-28T22:42:35.845596",
+  "package_url": "https://pypi.org/project/cjm-error-handling/"
+}

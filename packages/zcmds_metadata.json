@@ -1,11 +1,11 @@
 {
   "name": "zcmds",
-  "version": "1.5.37",
+  "version": "1.5.38",
   "summary": "Cross platform(ish) productivity commands written in python.",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/zackees/zcmds",
-  "download_filename": "zcmds-1.5.37-py3-none-any.whl",
-  "download_time": "2025-10-28T16:23:48.434271",
+  "download_filename": "zcmds-1.5.38-py3-none-any.whl",
+  "download_time": "2025-10-28T22:42:14.097982",
   "package_url": "https://pypi.org/project/zcmds/"
 }

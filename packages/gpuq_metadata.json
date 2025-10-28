@@ -1,11 +1,11 @@
 {
   "name": "gpuq",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "A multi-vendor GPU querying utility with minimal dependencies",
   "author": "Mako",
   "license": null,
   "home_page": "https://github.com/makodevai/gpuq",
-  "download_filename": "gpuq-1.5.2-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-28T20:21:39.565890",
+  "download_filename": "gpuq-1.5.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-28T22:42:36.904082",
   "package_url": "https://pypi.org/project/gpuq/"
 }

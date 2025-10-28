@@ -1,11 +1,11 @@
 {
   "name": "liveisstracker",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Interactive 3D globe showing live ISS location",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liveisstracker-2.2.0.tar.gz",
-  "download_time": "2025-10-28T21:33:12.133522",
+  "download_filename": "liveisstracker-2.2.1.tar.gz",
+  "download_time": "2025-10-28T22:42:22.322788",
   "package_url": "https://pypi.org/project/liveisstracker/"
 }

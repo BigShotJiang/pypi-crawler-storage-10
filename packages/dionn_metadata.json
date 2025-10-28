@@ -1,0 +1,11 @@
+{
+  "name": "dionn",
+  "version": "1.7.0",
+  "summary": "Detection Intra-class Outliers with Neural Networks (DIONN) algorithm",
+  "author": "Juan Zamora, Sebastian Vegas, Kerlyns Martínez, Daira Velandia, Sebastián Jara, Pascal Sigel",
+  "license": "MIT",
+  "home_page": "https://github.com/juanzamorai/intracluster-filtering",
+  "download_filename": "dionn-1.7.0.tar.gz",
+  "download_time": "2025-10-28T22:42:52.894316",
+  "package_url": "https://pypi.org/project/dionn/"
+}

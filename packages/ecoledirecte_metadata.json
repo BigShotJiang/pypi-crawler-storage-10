@@ -1,11 +1,11 @@
 {
   "name": "ecoledirecte",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "Async Python client to interact with Ecole Directe API.",
   "author": "Giga77",
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ecoledirecte-0.1.22.tar.gz",
-  "download_time": "2025-10-26T18:46:02.951109",
+  "download_filename": "ecoledirecte-0.1.23.tar.gz",
+  "download_time": "2025-10-28T22:42:41.717294",
   "package_url": "https://pypi.org/project/ecoledirecte/"
 }
