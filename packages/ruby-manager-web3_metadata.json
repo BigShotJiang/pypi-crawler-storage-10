@@ -1,11 +1,11 @@
 {
   "name": "ruby-manager-web3",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Python package for Ruby Web3 interactions with POA blockchain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ruby_manager_web3-0.1.2.tar.gz",
-  "download_time": "2025-10-28T07:39:53.938834",
+  "download_filename": "ruby_manager_web3-0.1.4.tar.gz",
+  "download_time": "2025-10-28T07:51:10.102452",
   "package_url": "https://pypi.org/project/ruby-manager-web3/"
 }

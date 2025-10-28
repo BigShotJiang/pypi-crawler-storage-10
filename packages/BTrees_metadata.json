@@ -1,0 +1,11 @@
+{
+  "name": "BTrees",
+  "version": "6.2",
+  "summary": "Scalable persistent object containers",
+  "author": "Zope Foundation",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/BTrees",
+  "download_filename": "btrees-6.2.tar.gz",
+  "download_time": "2025-10-28T07:51:46.653324",
+  "package_url": "https://pypi.org/project/BTrees/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "prostata",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library for tracking statistics with timers, counters, ratios, and attributes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prostata-0.1.0.tar.gz",
-  "download_time": "2025-10-26T11:12:53.253306",
+  "download_filename": "prostata-0.2.0.tar.gz",
+  "download_time": "2025-10-28T07:51:07.014464",
   "package_url": "https://pypi.org/project/prostata/"
 }

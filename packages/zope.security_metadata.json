@@ -1,0 +1,11 @@
+{
+  "name": "zope.security",
+  "version": "8.2",
+  "summary": "Zope Security Framework",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.security",
+  "download_filename": "zope_security-8.2.tar.gz",
+  "download_time": "2025-10-28T07:51:44.086055",
+  "package_url": "https://pypi.org/project/zope.security/"
+}

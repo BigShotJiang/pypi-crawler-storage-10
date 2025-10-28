@@ -1,0 +1,11 @@
+{
+  "name": "ml-management",
+  "version": "0.10.0",
+  "summary": "Python SDK for MLManagement platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml_management-0.10.0.tar.gz",
+  "download_time": "2025-10-28T07:51:46.133600",
+  "package_url": "https://pypi.org/project/ml-management/"
+}

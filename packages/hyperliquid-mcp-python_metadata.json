@@ -1,11 +1,11 @@
 {
   "name": "hyperliquid-mcp-python",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "HyperLiquid MCP Server with FastMCP - Trading tools and account management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyperliquid_mcp_python-0.1.6.tar.gz",
-  "download_time": "2025-10-27T15:19:50.935365",
+  "download_filename": "hyperliquid_mcp_python-0.1.7.tar.gz",
+  "download_time": "2025-10-28T07:51:30.742729",
   "package_url": "https://pypi.org/project/hyperliquid-mcp-python/"
 }

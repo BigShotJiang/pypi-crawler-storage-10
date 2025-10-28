@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.lingua",
+  "version": "1.0.1",
+  "summary": "YAFOWIL - Lingua message extrator for yafowil.yaml based forms.",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.lingua",
+  "download_filename": "yafowil_lingua-1.0.1.tar.gz",
+  "download_time": "2025-10-28T07:51:43.567550",
+  "package_url": "https://pypi.org/project/yafowil.lingua/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mujoco-scenes",
+  "version": "0.0.17",
+  "summary": "The mujoco-scenes project",
+  "author": "Benjamin Bolte",
+  "license": null,
+  "home_page": "https://github.com/kscalelabs/mujoco-scenes",
+  "download_filename": "mujoco_scenes-0.0.17.tar.gz",
+  "download_time": "2025-10-28T07:51:27.664694",
+  "package_url": "https://pypi.org/project/mujoco-scenes/"
+}

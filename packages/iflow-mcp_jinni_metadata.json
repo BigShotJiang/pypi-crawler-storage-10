@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jinni",
+  "version": "0.3.0",
+  "summary": "A tool to help LLMs efficiently read and understand project context.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_jinni-0.3.0.tar.gz",
+  "download_time": "2025-10-28T07:51:15.756385",
+  "package_url": "https://pypi.org/project/iflow-mcp_jinni/"
+}

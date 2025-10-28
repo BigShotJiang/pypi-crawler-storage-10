@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_llm-context",
+  "version": "0.5.2",
+  "summary": "Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is included as a standard feature.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_llm_context-0.5.2.tar.gz",
+  "download_time": "2025-10-28T07:51:26.056383",
+  "package_url": "https://pypi.org/project/iflow-mcp_llm-context/"
+}

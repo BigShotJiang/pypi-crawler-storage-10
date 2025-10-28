@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-classiq",
+  "version": "0.96.0",
+  "summary": "A JupyterLab Classiq extension.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "jupyterlab_classiq-0.96.0-py3-none-any.whl",
+  "download_time": "2025-10-28T07:51:03.396484",
+  "package_url": "https://pypi.org/project/jupyterlab-classiq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.webob",
+  "version": "1.5",
+  "summary": "WebOb Integration for YAFOWIL",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.webob",
+  "download_filename": "yafowil_webob-1.5.tar.gz",
+  "download_time": "2025-10-28T07:51:35.358274",
+  "package_url": "https://pypi.org/project/yafowil.webob/"
+}
