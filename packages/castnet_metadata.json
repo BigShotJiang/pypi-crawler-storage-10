@@ -1,11 +1,11 @@
 {
   "name": "castnet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CastNet is a schema based low level Neo4j connection interaction library your Python back end, enabling easy type conversions and generalized CRUD endpoints (including GraphQL).",
   "author": "Daniel S. Hitchcock",
   "license": "MIT",
   "home_page": "https://github.com/broadinstitute/castnet",
-  "download_filename": "castnet-0.1.1.tar.gz",
-  "download_time": "2025-10-28T16:51:16.225890",
+  "download_filename": "castnet-0.1.2.tar.gz",
+  "download_time": "2025-10-28T20:21:35.554168",
   "package_url": "https://pypi.org/project/castnet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "patternanalyzer",
+  "version": "0.1.0",
+  "summary": "A comprehensive, plugin-based framework for binary data analysis in Python.",
+  "author": "EdgeTypE",
+  "license": "MIT",
+  "home_page": "https://github.com/EdgeTypE/pattern-analyzer",
+  "download_filename": "patternanalyzer-0.1.0.tar.gz",
+  "download_time": "2025-10-28T20:21:58.482025",
+  "package_url": "https://pypi.org/project/patternanalyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vstransitions",
+  "version": "0.1.4",
+  "summary": "VapourSynth functions for making transitions and reanimating static shots",
+  "author": "Jaded Encoding Thaumaturgy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vstransitions-0.1.4.tar.gz",
+  "download_time": "2025-10-28T20:21:29.524033",
+  "package_url": "https://pypi.org/project/vstransitions/"
+}

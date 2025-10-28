@@ -1,11 +1,11 @@
 {
   "name": "inception-helper-func",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "inception_helper_func is a package that contains helper functions for the InceptionForce project",
   "author": "KhaduaBloom",
   "license": null,
   "home_page": "https://github.com/KhaduaBloom/inceptionforcepackages/tree/main/PythonPackage/inceptionHelperFunc",
-  "download_filename": "inception_helper_func-0.4.5.tar.gz",
-  "download_time": "2025-10-25T22:31:37.338672",
+  "download_filename": "inception_helper_func-0.4.6.tar.gz",
+  "download_time": "2025-10-28T20:21:28.947009",
   "package_url": "https://pypi.org/project/inception-helper-func/"
 }

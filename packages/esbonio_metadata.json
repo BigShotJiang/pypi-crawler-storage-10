@@ -1,0 +1,11 @@
+{
+  "name": "esbonio",
+  "version": "1.0.0",
+  "summary": "A language server for sphinx/docutils based documentation projects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "esbonio-1.0.0.tar.gz",
+  "download_time": "2025-10-28T20:22:14.964863",
+  "package_url": "https://pypi.org/project/esbonio/"
+}
