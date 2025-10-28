@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T04:28:21.492321
-- **Total Packages**: 73
-- **Total Size**: 23.53 MB
+- **Download Time**: 2025-10-28T04:46:04.163824
+- **Total Packages**: 74
+- **Total Size**: 11.35 MB
 
 ## Packages List
-- plato-sdk
-- odoo-addons-oca-stock-logistics-workflow
+- AutoStatLib
+- odoo-addons-oca-wms
+- flagdataset-eai
+- llms-py
+- conversation-tone-detector
+- openHealth
+- odoo-addons-oca-website
+- odoo-addons-oca-web-api-contrib
+- mtcli-vc
+- odoo-addons-oca-web-api
+- odoo-addons-oca-web
+- odoo-addon-web-form-banner
+- easypde
+- odoo-addon-web-chatter-camera
+- unieai-mcp-bookingroom
+- starbash
+- dihlibs
+- pipen-args
+- hiagent-api
+- odoo-addons-oca-vertical-edition
+- odoo-addons-oca-vertical-association
+- maleo-imaging
+- odoo-addons-oca-timesheet
+- formant
+- aicp-helper
 - mofa-core
+- petrosa-data-manager-client
+- flatcode
+- odoo-addons-oca-survey
+- pantsonfire
+- odoo-addons-oca-storage
+- plato-sdk
+- lattica
+- odoo-addons-oca-stock-logistics-workflow
+- odoo-addon-stock-partner-delivery-window
+- odoo-addons-oca-stock-weighing
+- akari-bot-webui
+- odoo-addon-stock-dynamic-routing-delivery
+- smart-chunker
 - pyhs3
 - odoo13-addon-stock-picking-back2draft
 - odoo13-addon-stock-picking-package-preparation
@@ -23,7 +59,6 @@
 - robhan-cdk-lib.aws-grafana
 - keras-nlp-nightly
 - keras-hub-nightly
-- openHealth
 - robhan-cdk-lib.utils
 - raster2dggs
 - odoo-addons-oca-stock-logistics-transport
@@ -37,7 +72,6 @@
 - odoo-addons-oca-stock-logistics-reporting
 - sunsolve-p90-client
 - iflow-mcp_ppt-translator
-- llms-py
 - odoo-addons-oca-stock-logistics-release-channel
 - odoo-addons-oca-stock-logistics-putaway
 - odoo-addons-oca-stock-logistics-orderpoint
@@ -46,36 +80,3 @@
 - cirq-ionq
 - cirq-google
 - odoo-addons-oca-stock-logistics-interfaces
-- cirq-core
-- cirq-aqt
-- odoo-addons-oca-stock-logistics-barcode
-- cirq-pasqal
-- pantsonfire
-- django-cfg
-- odoo-addons-oca-stock-logistics-availability
-- odoo-addons-oca-spreadsheet
-- odoo-addon-spreadsheet-dashboard-oca
-- odoo-addons-oca-social
-- cipherx
-- maleo-metadata
-- devstack-cli
-- odoo-addons-oca-sign
-- odoo-addons-oca-shopfloor-app
-- odoo-addons-oca-server-ux
-- odoo-addons-oca-shift-planning
-- odoo-addon-multisearch-field
-- emval
-- snowflake-connector-python-nightly
-- odoo-addons-oca-server-tools
-- odoo-addon-base-fontawesome-web-editor
-- flagdataset
-- odoo-addon-field-vector
-- pydra-tasks-mrtrix3
-- fileformats-vendor-mrtrix3-extras
-- deepagents
-- fileformats-vendor-mrtrix3
-- kaq-quant-common
-- odoo-addons-oca-server-env
-- video-toolkit-litouge
-- odoo-addons-oca-server-brand
-- odoo-addons-oca-server-backend

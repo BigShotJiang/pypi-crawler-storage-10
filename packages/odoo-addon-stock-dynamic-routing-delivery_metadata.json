@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-dynamic-routing-delivery",
+  "version": "18.0.1.1.0.2",
+  "summary": "Glue module between stock dynamic routing and delivery",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_dynamic_routing_delivery-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-28T04:45:43.410983",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-dynamic-routing-delivery/"
+}
