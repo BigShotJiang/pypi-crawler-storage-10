@@ -1,0 +1,11 @@
+{
+  "name": "fujitsu-quantum-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Fujitsu Quantum documentation access",
+  "author": "Fujitsu Limited",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fujitsu_quantum_mcp-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-28T11:40:25.088428",
+  "package_url": "https://pypi.org/project/fujitsu-quantum-mcp/"
+}

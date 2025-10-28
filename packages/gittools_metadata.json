@@ -1,0 +1,11 @@
+{
+  "name": "gittools",
+  "version": "0.7.0",
+  "summary": "Tools to get git version information on files and python modules/packages",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "gittools-0.7.0.tar.gz",
+  "download_time": "2025-10-28T11:40:33.046562",
+  "package_url": "https://pypi.org/project/gittools/"
+}

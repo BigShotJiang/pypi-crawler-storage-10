@@ -1,0 +1,11 @@
+{
+  "name": "numbin",
+  "version": "0.5.1",
+  "summary": "an efficient binary serialization format for numerical data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "numbin-0.5.1.tar.gz",
+  "download_time": "2025-10-28T11:40:27.717588",
+  "package_url": "https://pypi.org/project/numbin/"
+}
