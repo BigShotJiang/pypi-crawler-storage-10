@@ -1,0 +1,11 @@
+{
+  "name": "pytest-case-start-from",
+  "version": "1.0.0",
+  "summary": "A pytest plugin to start test execution from a specific test case",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pytest-case-start-from",
+  "download_filename": "pytest_case_start_from-1.0.0.tar.gz",
+  "download_time": "2025-10-28T03:59:14.039413",
+  "package_url": "https://pypi.org/project/pytest-case-start-from/"
+}

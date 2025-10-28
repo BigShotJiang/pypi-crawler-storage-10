@@ -1,0 +1,11 @@
+{
+  "name": "purl2src",
+  "version": "1.2.3",
+  "summary": "Translate Package URLs (PURLs) into validated download URLs for source code artifacts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "purl2src-1.2.3.tar.gz",
+  "download_time": "2025-10-28T03:59:03.303507",
+  "package_url": "https://pypi.org/project/purl2src/"
+}

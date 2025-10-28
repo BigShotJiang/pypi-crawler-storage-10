@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mysql_mcp_server_pro",
+  "version": "0.2.1",
+  "summary": "Support for SSE, STDIO in MySQL MCP server, includes CRUD, database anomaly analysis capabilities .支持SSE，STDIO；不仅止于mysql的增删改查功能； 还包含了数据库异常分析能力；且便于开发者们进行个性化的工具扩展",
+  "author": "wenb1n",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mysql_mcp_server_pro-0.2.1.tar.gz",
+  "download_time": "2025-10-28T03:58:52.024174",
+  "package_url": "https://pypi.org/project/iflow-mcp_mysql_mcp_server_pro/"
+}

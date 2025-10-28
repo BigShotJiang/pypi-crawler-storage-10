@@ -1,11 +1,11 @@
 {
   "name": "flagdataset-eai",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "summary": null,
   "author": "shihongguang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flagdataset_eai-1.1.4.tar.gz",
-  "download_time": "2025-10-27T07:50:24.702285",
+  "download_filename": "flagdataset_eai-1.1.6.tar.gz",
+  "download_time": "2025-10-28T03:58:54.069257",
   "package_url": "https://pypi.org/project/flagdataset-eai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llmcc",
-  "version": "0.2.24",
+  "version": "0.2.26",
   "summary": "LLM Context Compiler - Universal context builder for any language and document type",
   "author": "llmcc contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/allenanswerzq/llmcc",
-  "download_filename": "llmcc-0.2.24.tar.gz",
-  "download_time": "2025-10-26T20:39:44.769689",
+  "download_filename": "llmcc-0.2.26.tar.gz",
+  "download_time": "2025-10-28T03:58:46.370257",
   "package_url": "https://pypi.org/project/llmcc/"
 }

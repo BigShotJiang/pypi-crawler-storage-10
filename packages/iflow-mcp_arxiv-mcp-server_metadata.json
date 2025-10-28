@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_arxiv-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for accesing arXiv API",
+  "author": "Prashal Ruchiranga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_arxiv_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-28T03:58:56.625348",
+  "package_url": "https://pypi.org/project/iflow-mcp_arxiv-mcp-server/"
+}
