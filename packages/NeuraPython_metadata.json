@@ -1,0 +1,11 @@
+{
+  "name": "NeuraPython",
+  "version": "2.1.0",
+  "summary": "NeuraPython is a unified framework combining AI, Machine Learning, Data Science, Web Development, Scientific Computation, and Utility tools.",
+  "author": "Ibrahim Shahid",
+  "license": "MIT",
+  "home_page": "https://github.com/IbrahimShahid7767/neurapython",
+  "download_filename": "neurapython-2.1.0.tar.gz",
+  "download_time": "2025-10-28T13:48:37.081776",
+  "package_url": "https://pypi.org/project/NeuraPython/"
+}

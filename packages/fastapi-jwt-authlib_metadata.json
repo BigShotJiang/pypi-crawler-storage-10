@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-jwt-authlib",
+  "version": "0.8.5",
+  "summary": "A FastAPI JWT authentication library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_jwt_authlib-0.8.5.tar.gz",
+  "download_time": "2025-10-28T13:49:05.725279",
+  "package_url": "https://pypi.org/project/fastapi-jwt-authlib/"
+}

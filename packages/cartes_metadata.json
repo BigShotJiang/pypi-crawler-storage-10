@@ -1,0 +1,11 @@
+{
+  "name": "cartes",
+  "version": "0.8.5",
+  "summary": "A generic toolbox for building maps in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cartes-0.8.5.tar.gz",
+  "download_time": "2025-10-28T13:48:58.339601",
+  "package_url": "https://pypi.org/project/cartes/"
+}

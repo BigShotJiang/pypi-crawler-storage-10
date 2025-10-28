@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-markdown2img",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "可作为函数调用的Markdown渲染图片插件",
   "author": "ANGJustinl",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_markdown2img-0.0.5.tar.gz",
-  "download_time": "2025-10-26T11:12:50.195172",
+  "download_filename": "nonebot_plugin_markdown2img-0.0.6.tar.gz",
+  "download_time": "2025-10-28T13:49:07.354457",
   "package_url": "https://pypi.org/project/nonebot-plugin-markdown2img/"
 }

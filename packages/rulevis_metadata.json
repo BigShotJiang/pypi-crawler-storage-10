@@ -1,0 +1,11 @@
+{
+  "name": "rulevis",
+  "version": "1.0.0",
+  "summary": "Interactive Wazuh Rule Graph Explorer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rulevis-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-28T13:48:53.671748",
+  "package_url": "https://pypi.org/project/rulevis/"
+}

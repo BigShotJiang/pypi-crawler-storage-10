@@ -1,0 +1,11 @@
+{
+  "name": "vale",
+  "version": "3.13.0.0",
+  "summary": "Install and use Vale (grammar & style check tool) in python environments.",
+  "author": "Dani Perez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vale-3.13.0.0.tar.gz",
+  "download_time": "2025-10-28T13:49:04.035977",
+  "package_url": "https://pypi.org/project/vale/"
+}

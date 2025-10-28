@@ -1,11 +1,11 @@
 {
   "name": "sphinx-ai-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Sphinx extension that adds AI assistant features to documentation pages",
   "author": "Mladen Zagorac",
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_ai_assistant-0.1.0.tar.gz",
-  "download_time": "2025-10-28T13:20:38.817690",
+  "download_filename": "sphinx_ai_assistant-0.1.1.tar.gz",
+  "download_time": "2025-10-28T13:48:36.539916",
   "package_url": "https://pypi.org/project/sphinx-ai-assistant/"
 }

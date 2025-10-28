@@ -1,11 +1,11 @@
 {
   "name": "django-modern-csrf",
-  "version": "1.0.0",
-  "summary": "Modern CSRF protection for Django.",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "Modern CSRF protection for Django using Fetch metadata headers.",
+  "author": "Felipe R. de Almeida",
   "license": null,
   "home_page": null,
-  "download_filename": "django_modern_csrf-1.0.0.tar.gz",
-  "download_time": "2025-10-27T18:49:53.879179",
+  "download_filename": "django_modern_csrf-1.0.1.tar.gz",
+  "download_time": "2025-10-28T13:48:33.985232",
   "package_url": "https://pypi.org/project/django-modern-csrf/"
 }

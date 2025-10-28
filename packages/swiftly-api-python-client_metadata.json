@@ -1,0 +1,11 @@
+{
+  "name": "swiftly-api-python-client",
+  "version": "0.16.0",
+  "summary": "Hopthru's Swiftly API Python Client",
+  "author": "Swiftly",
+  "license": null,
+  "home_page": "https://github.com/Hopthru/swiftly-api-python-client",
+  "download_filename": "swiftly_api_python_client-0.16.0.tar.gz",
+  "download_time": "2025-10-28T13:49:12.044537",
+  "package_url": "https://pypi.org/project/swiftly-api-python-client/"
+}

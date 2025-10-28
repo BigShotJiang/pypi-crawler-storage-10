@@ -1,0 +1,11 @@
+{
+  "name": "easySCFpy",
+  "version": "0.2.4",
+  "summary": "The easySCFpy is a Python package for transformating single-cell data.",
+  "author": "Lei Cui",
+  "license": "MIT License",
+  "home_page": "https://github.com/xleizi/easySCFpy",
+  "download_filename": "easyscfpy-0.2.4.tar.gz",
+  "download_time": "2025-10-28T13:48:38.236773",
+  "package_url": "https://pypi.org/project/easySCFpy/"
+}
