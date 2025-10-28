@@ -1,11 +1,11 @@
 {
   "name": "linax",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "summary": "State Space Models in Jax",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linax-0.0.5.tar.gz",
-  "download_time": "2025-10-27T17:51:33.219984",
+  "download_filename": "linax-0.1.0.tar.gz",
+  "download_time": "2025-10-28T13:20:26.329876",
   "package_url": "https://pypi.org/project/linax/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-simli",
+  "version": "0.0.41",
+  "summary": "VideoSDK Agent Framework plugin for Simli Virtual Avatar",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_simli-0.0.41.tar.gz",
+  "download_time": "2025-10-28T13:20:50.377182",
+  "package_url": "https://pypi.org/project/videosdk-plugins-simli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mistrs",
+  "version": "0.1.8",
+  "summary": "A collection of basic functions to communicate with Mist API",
+  "author": "Rory Standage",
+  "license": "MIT License",
+  "home_page": "https://github.com/rstandage/mistrs",
+  "download_filename": "mistrs-0.1.8.tar.gz",
+  "download_time": "2025-10-28T13:21:10.529962",
+  "package_url": "https://pypi.org/project/mistrs/"
+}

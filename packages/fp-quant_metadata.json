@@ -1,0 +1,11 @@
+{
+  "name": "fp-quant",
+  "version": "0.3.1",
+  "summary": "A Python library for FP-Quant",
+  "author": "Andrei Panferov",
+  "license": null,
+  "home_page": "https://github.com/IST-DASLab/FP-Quant",
+  "download_filename": "fp_quant-0.3.1.tar.gz",
+  "download_time": "2025-10-28T13:20:47.092061",
+  "package_url": "https://pypi.org/project/fp-quant/"
+}
