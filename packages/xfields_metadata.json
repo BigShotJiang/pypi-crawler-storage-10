@@ -1,0 +1,11 @@
+{
+  "name": "xfields",
+  "version": "0.25.3",
+  "summary": "Field Maps and Particle In Cell",
+  "author": "G. Iadarola et al.",
+  "license": "Apache 2.0",
+  "home_page": "https://xsuite.readthedocs.io/",
+  "download_filename": "xfields-0.25.3.tar.gz",
+  "download_time": "2025-10-28T11:29:30.381355",
+  "package_url": "https://pypi.org/project/xfields/"
+}

@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T11:16:02.361164
-- **Total Packages**: 84
-- **Total Size**: 24.07 MB
+- **Download Time**: 2025-10-28T11:30:10.514137
+- **Total Packages**: 86
+- **Total Size**: 16.56 MB
 
 ## Packages List
+- torchx-nightly
+- withfinal
+- typer-invoke
+- pebble-lang
+- ethoPyRT
+- shotgun-sh
+- pulumi-bytepluscc
+- fakeitmakeit
+- torchft-nightly
+- xdeps
+- AgentService
+- nmaipy
+- ftw-lexwork
+- machineconfig
+- Moran-Imaging
+- xfields
+- ob-metaflow-stubs
+- ckan-pilot
+- hedge-bench
+- sae-lens
+- ComicGUISpider
+- pyeasyphd
+- vantage6-algorithm-store
+- vantage6-server
+- vantage6-backend-common
+- vantage6-node
+- vantage6
+- vantage6-algorithm-tools
+- vantage6-client
+- vantage6-common
+- maq-rai-sdk-test
+- bellatrex
+- r4u
+- fastapi-maker
+- ldpc
+- xobjects
+- ob-metaflow-extensions
+- openfold3
+- xtrack
+- smooth-py
+- pixel-renderer
+- plombery
+- coo-optimization
+- scapi
+- contextF
+- ob-metaflow
+- tdfs4ds
+- get-danmu
 - metabase-pix-mcp
 - meta-llama-haystack
 - webknossos
@@ -28,7 +76,6 @@
 - iatoolkit
 - selfw
 - BotingTools
-- fastapi-maker
 - smart-redis-storage
 - edge-containers-cli
 - gazix
@@ -45,48 +92,3 @@
 - poouli
 - chellow
 - lazyqsar
-- simple-icons-pack
-- tchu-tchu
-- web-poet
-- kaq-quant-common
-- tcgdex-sdk
-- queuinx
-- annet
-- compas-timber
-- prime-evals
-- instaui-tdesign
-- gladiaio-sdk
-- bhashini-client
-- neura-library
-- bwamem
-- contest-helper
-- nvidia-nat-llama-index
-- omniopt2
-- nvidia-nat-s3
-- aabpl
-- nvidia-nat
-- nvidia-nat-all
-- nvidia-nat-weave
-- stayactive
-- nvidia-nat-adk
-- biblematetc
-- nvidia-nat-mem0ai
-- gpt2giga
-- nvidia-nat-zep-cloud
-- nvidia-nat-mcp
-- aipyapp
-- activity-browser
-- flix-cli
-- nvidia-nat-phoenix
-- nvidia-nat-redis
-- soft-computing-uat
-- konduktor-nightly
-- kv-python
-- nvidia-nat-crewai
-- docker-captain
-- nvidia-nat-ingestion
-- nvidia-nat-test
-- cstructimpl
-- nvidia-nat-mysql
-- pipeline-eds
-- trainy-policy-nightly
