@@ -1,0 +1,11 @@
+{
+  "name": "siti-tools",
+  "version": "0.4.0",
+  "summary": "Functions to calculate Spatial Information / Temporal Information according to ITU-T P.910",
+  "author": "Werner Robitza, Lukas Krasula, Cosmin Stejerean",
+  "license": null,
+  "home_page": null,
+  "download_filename": "siti_tools-0.4.0.tar.gz",
+  "download_time": "2025-10-28T08:24:29.795419",
+  "package_url": "https://pypi.org/project/siti-tools/"
+}

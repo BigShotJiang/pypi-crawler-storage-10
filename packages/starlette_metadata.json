@@ -1,0 +1,11 @@
+{
+  "name": "starlette",
+  "version": "0.49.0",
+  "summary": "The little ASGI library that shines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette-0.49.0.tar.gz",
+  "download_time": "2025-10-28T08:24:30.836088",
+  "package_url": "https://pypi.org/project/starlette/"
+}

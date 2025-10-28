@@ -1,0 +1,11 @@
+{
+  "name": "clickorm-ch",
+  "version": "0.1.0",
+  "summary": "Lightweight ClickHouse ORM & query toolkit with tolerant identifiers and safe params",
+  "author": "Gagik Abovyan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clickorm_ch-0.1.0.tar.gz",
+  "download_time": "2025-10-28T08:24:44.738213",
+  "package_url": "https://pypi.org/project/clickorm-ch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_workspace-mcp",
+  "version": "1.5.2",
+  "summary": "Comprehensive, highly performant Google Workspace Streamable HTTP & SSE MCP Server for Calendar, Gmail, Docs, Sheets, Slides & Drive",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_workspace_mcp-1.5.2.tar.gz",
+  "download_time": "2025-10-28T08:24:40.044188",
+  "package_url": "https://pypi.org/project/iflow-mcp_workspace-mcp/"
+}

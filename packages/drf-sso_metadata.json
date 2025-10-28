@@ -1,0 +1,11 @@
+{
+  "name": "drf-sso",
+  "version": "0.0.2b4",
+  "summary": "Django DRF module for SSO authentication using CAS, OIDC, SAML, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_sso-0.0.2b4.tar.gz",
+  "download_time": "2025-10-28T08:24:05.080114",
+  "package_url": "https://pypi.org/project/drf-sso/"
+}

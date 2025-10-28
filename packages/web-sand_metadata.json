@@ -1,0 +1,11 @@
+{
+  "name": "web-sand",
+  "version": "4.3.0",
+  "summary": "UI for browsing/editing semantic descriptions",
+  "author": "Binh Vu",
+  "license": "MIT",
+  "home_page": "https://github.com/usc-isi-i2/sand",
+  "download_filename": "web_sand-4.3.0.tar.gz",
+  "download_time": "2025-10-28T08:24:37.411065",
+  "package_url": "https://pypi.org/project/web-sand/"
+}

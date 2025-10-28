@@ -1,0 +1,11 @@
+{
+  "name": "edx-enterprise-data",
+  "version": "10.21.12",
+  "summary": "Enterprise Reporting",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/edx-enterprise-data",
+  "download_filename": "edx_enterprise_data-10.21.12.tar.gz",
+  "download_time": "2025-10-28T08:24:25.687198",
+  "package_url": "https://pypi.org/project/edx-enterprise-data/"
+}

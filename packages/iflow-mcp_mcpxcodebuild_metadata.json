@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcpxcodebuild",
+  "version": "0.10.0",
+  "summary": "A MCP tool that builds iOS Xcode workspace/project and send error back. It also helps to run test and feed the error back to llm.",
+  "author": "Tim Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcpxcodebuild-0.10.0.tar.gz",
+  "download_time": "2025-10-28T08:24:04.060285",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcpxcodebuild/"
+}

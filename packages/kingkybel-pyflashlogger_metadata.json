@@ -1,0 +1,11 @@
+{
+  "name": "kingkybel-pyflashlogger",
+  "version": "1.0.0",
+  "summary": "Advanced console logging with color support",
+  "author": "Dieter J Kybelksties",
+  "license": null,
+  "home_page": "https://github.com/kingkybel/FlashLogger",
+  "download_filename": "kingkybel_pyflashlogger-1.0.0.tar.gz",
+  "download_time": "2025-10-28T08:24:37.920489",
+  "package_url": "https://pypi.org/project/kingkybel-pyflashlogger/"
+}
