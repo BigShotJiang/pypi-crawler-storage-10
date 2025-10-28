@@ -1,20 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T11:41:05.332752
-- **Total Packages**: 84
-- **Total Size**: 18.06 MB
+- **Download Time**: 2025-10-28T11:51:41.707042
+- **Total Packages**: 78
+- **Total Size**: 26.95 MB
 
 ## Packages List
+- scientific-data-analyser
+- doordeck-headless-sdk
+- coo-optimization
+- phantom-make
+- SnakeScan
+- material-interpretation
+- pulumi-xenorchestra
+- dls-dodal
+- matrice-analytics
+- vital
+- superagentx
+- scc-firewall-manager-sdk
+- battmo
+- zepben.ewb
+- moptipyapps
+- sciv
+- nirs4all
+- mirmod
+- kingkybel-pyflashlogger
 - mtproto
+- luna-quantum
+- datarobot-genai
+- py-tree-sitter-spthy
 - django-bulk-hooks
+- deepfence
+- openmetadata-managed-apis
+- fire-detection-system
+- anypytools
+- biblemate
+- molecule-hetznercloud
+- gllm-core-binary
+- bwamem
+- pyeasyphd
+- amor-eos
+- kitconcept.voltolighttheme
+- maq-rai-sdk
+- channels-rpc
+- quma
+- multiview-stitcher
+- allytools
 - pptagent
 - pebble-lang
 - withfinal
 - starbash
 - odoo-addon-stock-release-channel-shipment-lead-time
 - frametree
-- material-interpretation
 - yemot-api
 - fujitsu-quantum-mcp
 - sigyx
@@ -27,8 +64,6 @@
 - ckan-pilot
 - eclips-blossom-ai
 - miniflux-tui-py
-- bwamem
-- anypytools
 - tasty-agent
 - gittools
 - nautobot-app-vpn
@@ -49,44 +84,3 @@
 - Moran-Imaging
 - xfields
 - ob-metaflow-stubs
-- hedge-bench
-- sae-lens
-- ComicGUISpider
-- pyeasyphd
-- vantage6-algorithm-store
-- vantage6-server
-- vantage6-backend-common
-- vantage6-node
-- vantage6
-- vantage6-algorithm-tools
-- vantage6-client
-- vantage6-common
-- maq-rai-sdk-test
-- bellatrex
-- r4u
-- fastapi-maker
-- ldpc
-- xobjects
-- ob-metaflow-extensions
-- openfold3
-- xtrack
-- smooth-py
-- pixel-renderer
-- plombery
-- coo-optimization
-- scapi
-- contextF
-- ob-metaflow
-- tdfs4ds
-- get-danmu
-- metabase-pix-mcp
-- meta-llama-haystack
-- webknossos
-- cluster_tools
-- metaflow
-- metaflow-stubs
-- cognite-toolkit
-- e2b
-- fasthtml-otel
-- mcp-rag
-- iflib-tools

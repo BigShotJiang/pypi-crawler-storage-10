@@ -1,0 +1,11 @@
+{
+  "name": "py-tree-sitter-spthy",
+  "version": "1.2.2",
+  "summary": "Tree-sitter parser for Spthy language (Tamarin Prover)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_tree_sitter_spthy-1.2.2-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-28T11:51:10.437093",
+  "package_url": "https://pypi.org/project/py-tree-sitter-spthy/"
+}

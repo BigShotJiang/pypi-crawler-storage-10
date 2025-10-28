@@ -1,11 +1,11 @@
 {
   "name": "anypytools",
-  "version": "1.19.0",
+  "version": "1.19.1",
   "summary": "Python tools and utilities for working with the AnyBody Modeling System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anypytools-1.19.0.tar.gz",
-  "download_time": "2025-10-28T11:40:32.008048",
+  "download_filename": "anypytools-1.19.1.tar.gz",
+  "download_time": "2025-10-28T11:51:13.051654",
   "package_url": "https://pypi.org/project/anypytools/"
 }

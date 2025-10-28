@@ -1,11 +1,11 @@
 {
   "name": "maq-rai-sdk",
-  "version": "0.1.0",
-  "summary": "A Python SDK for reviewing and updating prompts, and generating test cases for faster Copilot development with comprehensive Responsible AI (RAI) compliance.",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "maq_rai_sdk-0.1.0.tar.gz",
-  "download_time": "2025-10-27T08:24:24.966729",
+  "version": "0.1.2",
+  "summary": "RAI Package contains a Prompt Reviewer and Updater and test case generator for faster Copilot Development",
+  "author": "MAQ Software",
+  "license": "MIT",
+  "home_page": "https://github.com/MAQ-Software-Solutions/maqraisdk",
+  "download_filename": "maq_rai_sdk-0.1.2.tar.gz",
+  "download_time": "2025-10-28T11:51:17.710634",
   "package_url": "https://pypi.org/project/maq-rai-sdk/"
 }
