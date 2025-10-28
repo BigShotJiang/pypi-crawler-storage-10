@@ -1,11 +1,11 @@
 {
   "name": "arcturus-buildkit",
-  "version": "1.4.2",
+  "version": "1.5.2",
   "summary": "A powerful, modular NLP toolkit for Python.",
   "author": "FlameZI0",
   "license": null,
   "home_page": "https://pypi.org/project/arcturus-buildkit/",
-  "download_filename": "arcturus_buildkit-1.4.2.tar.gz",
-  "download_time": "2025-10-28T04:55:01.868945",
+  "download_filename": "arcturus_buildkit-1.5.2.tar.gz",
+  "download_time": "2025-10-28T05:43:16.492161",
   "package_url": "https://pypi.org/project/arcturus-buildkit/"
 }

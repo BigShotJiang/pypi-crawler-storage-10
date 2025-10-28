@@ -1,0 +1,11 @@
+{
+  "name": "add-poc",
+  "version": "1.0.0",
+  "summary": "A simple CPython extension that adds two integers.",
+  "author": "Secuodsoft Dev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "add_poc-1.0.0.tar.gz",
+  "download_time": "2025-10-28T05:43:33.730973",
+  "package_url": "https://pypi.org/project/add-poc/"
+}

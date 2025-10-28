@@ -1,11 +1,11 @@
 {
   "name": "pdfctl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Simple web UI to merge/split/extract/rotate PDFs using pypdf + Streamlit.",
   "author": "Tamer Hamad Faour",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdfctl-0.1.1.tar.gz",
-  "download_time": "2025-10-28T05:18:48.446754",
+  "download_filename": "pdfctl-0.1.2.tar.gz",
+  "download_time": "2025-10-28T05:43:11.385628",
   "package_url": "https://pypi.org/project/pdfctl/"
 }

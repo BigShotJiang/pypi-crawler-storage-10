@@ -1,11 +1,11 @@
 {
   "name": "rlmesh",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "SDK for interfacing with SAI RL Infra.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rlmesh-0.0.4.tar.gz",
-  "download_time": "2025-10-28T05:18:26.439503",
+  "download_filename": "rlmesh-0.0.5.tar.gz",
+  "download_time": "2025-10-28T05:43:30.063851",
   "package_url": "https://pypi.org/project/rlmesh/"
 }

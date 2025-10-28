@@ -1,0 +1,11 @@
+{
+  "name": "meshcore-decoder",
+  "version": "0.1.0",
+  "summary": "Complete Python implementation of the MeshCore Packet Decoder",
+  "author": "Chris Davis",
+  "license": "MIT",
+  "home_page": "https://github.com/chrisdavis2110/meshcore-decoder-py",
+  "download_filename": "meshcore_decoder-0.1.0.tar.gz",
+  "download_time": "2025-10-28T05:43:35.380014",
+  "package_url": "https://pypi.org/project/meshcore-decoder/"
+}

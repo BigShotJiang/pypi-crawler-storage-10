@@ -1,11 +1,11 @@
 {
   "name": "unieai-mcp-bookingroom",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Internal MCP server with Booking Room for UnieAI",
   "author": "UnieAI",
   "license": "Proprietary",
   "home_page": "https://www.unieai.com/",
-  "download_filename": "unieai_mcp_bookingroom-0.0.15.tar.gz",
-  "download_time": "2025-10-28T04:55:03.409850",
+  "download_filename": "unieai_mcp_bookingroom-0.0.16.tar.gz",
+  "download_time": "2025-10-28T05:43:07.965037",
   "package_url": "https://pypi.org/project/unieai-mcp-bookingroom/"
 }

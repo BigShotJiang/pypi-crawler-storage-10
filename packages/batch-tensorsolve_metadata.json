@@ -1,0 +1,11 @@
+{
+  "name": "batch-tensorsolve",
+  "version": "1.0.2",
+  "summary": "Batched tensorsolve() for NumPy / PyTorch / JAX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "batch_tensorsolve-1.0.2.tar.gz",
+  "download_time": "2025-10-28T05:43:34.829670",
+  "package_url": "https://pypi.org/project/batch-tensorsolve/"
+}
