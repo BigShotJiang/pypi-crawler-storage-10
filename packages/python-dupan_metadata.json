@@ -1,0 +1,11 @@
+{
+  "name": "python-dupan",
+  "version": "0.0.2.2",
+  "summary": "Python wrapper for `baidu webdisk <https://pan.baidu.com>`.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/web-mount-packs/tree/main/python-dupan-client",
+  "download_filename": "python_dupan-0.0.2.2.tar.gz",
+  "download_time": "2025-10-28T07:17:44.507429",
+  "package_url": "https://pypi.org/project/python-dupan/"
+}

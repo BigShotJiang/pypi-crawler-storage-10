@@ -1,11 +1,11 @@
 {
   "name": "simler",
-  "version": "4.5.0",
+  "version": "5.0.0",
   "summary": "Universal lossless compressor — auto-detects text/binary",
   "author": "useragentatly",
   "license": null,
   "home_page": "https://github.com/useragentatly/Simler-v4.5.0",
-  "download_filename": "simler-4.5.0.tar.gz",
-  "download_time": "2025-10-28T06:53:28.932244",
+  "download_filename": "simler-5.0.0.tar.gz",
+  "download_time": "2025-10-28T07:17:45.020190",
   "package_url": "https://pypi.org/project/simler/"
 }

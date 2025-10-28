@@ -1,0 +1,11 @@
+{
+  "name": "mdformat_pyproject",
+  "version": "0.1.0",
+  "summary": "An mdformat plugin for reading configuration from ``pyproject.toml`` files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdformat_pyproject-0.1.0.tar.gz",
+  "download_time": "2025-10-28T07:17:52.255488",
+  "package_url": "https://pypi.org/project/mdformat_pyproject/"
+}

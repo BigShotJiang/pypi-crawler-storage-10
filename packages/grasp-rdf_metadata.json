@@ -1,0 +1,11 @@
+{
+  "name": "grasp-rdf",
+  "version": "0.2.0",
+  "summary": "GRASP: Generic Reasoning and SPARQL generation across knowledge graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grasp_rdf-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-28T07:18:13.052205",
+  "package_url": "https://pypi.org/project/grasp-rdf/"
+}

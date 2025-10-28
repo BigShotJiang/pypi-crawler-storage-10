@@ -1,0 +1,11 @@
+{
+  "name": "mongfontbuilder",
+  "version": "0.9.3",
+  "summary": "Mongolian Font Builder.",
+  "author": "Kushim Jiang, Liang Hai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mongfontbuilder-0.9.3.tar.gz",
+  "download_time": "2025-10-28T07:17:37.739063",
+  "package_url": "https://pypi.org/project/mongfontbuilder/"
+}

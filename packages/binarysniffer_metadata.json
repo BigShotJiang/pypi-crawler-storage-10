@@ -1,0 +1,11 @@
+{
+  "name": "binarysniffer",
+  "version": "1.11.2",
+  "summary": "A high-performance CLI and library for detecting open source components in binaries through semantic signature matching",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "binarysniffer-1.11.2.tar.gz",
+  "download_time": "2025-10-28T07:18:02.668603",
+  "package_url": "https://pypi.org/project/binarysniffer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sprout-cli",
+  "version": "0.7.0",
+  "summary": "CLI tool to automate git worktree and Docker Compose development workflows",
+  "author": "SecDevLab Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sprout_cli-0.7.0.tar.gz",
+  "download_time": "2025-10-28T07:17:35.132640",
+  "package_url": "https://pypi.org/project/sprout-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adversarial-lab",
+  "version": "0.0.6",
+  "summary": "A unified library for performing adversarial attacks on ML models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adversarial_lab-0.0.6.tar.gz",
+  "download_time": "2025-10-28T07:17:53.788307",
+  "package_url": "https://pypi.org/project/adversarial-lab/"
+}
