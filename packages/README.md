@@ -1,11 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T19:15:31.289743
-- **Total Packages**: 85
-- **Total Size**: 20.27 MB
+- **Download Time**: 2025-10-28T19:29:53.743084
+- **Total Packages**: 88
+- **Total Size**: 26.13 MB
 
 ## Packages List
+- dsjconvert
+- dbt-common
+- wipac-dev-actions-testbed
+- notebook-to-code
+- airweave-sdk
+- datallog
+- microsoft-agents-storage-cosmos
+- microsoft-agents-storage-blob
+- microsoft-agents-hosting-teams
+- microsoft-agents-hosting-core
+- microsoft-agents-hosting-aiohttp
+- microsoft-agents-copilotstudio-client
+- microsoft-agents-authentication-msal
+- microsoft-agents-activity
+- boto3
+- awscli
+- quest_qso
+- honeybee-core
+- pulumi-aws-native
+- fastapi_rlr
+- pybliometrics
+- CliReport
+- clelandlab-quick
+- code-loader
+- django-query-builder-widget
+- rams-cli-app
+- static-refl
+- akudasdk
+- pulumi-hcloud
+- kappybara
+- aiq-magnet
+- django-bulk-hooks
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- jump-portrait
+- anyscale
+- terminusgps-payments
+- pulumi-http
+- cyberdesk
+- answerrocket-client
+- picopg
+- aero-lang
+- deeporigin
+- dynamic-data-reduction
+- promptsim
+- checkamg
+- PyOpenocdClient
+- matmalib
+- pytest-b-logger
+- lager-cli
+- pyspark-data-toolkit
+- framework3
+- amazon-braket-sdk
+- nexpylib
+- flask-selfheal
+- sayancpe586fa25
+- pulp-ostree
+- andco-wheelbarrow
 - cdk-factory
 - ccfx
 - anthropic
@@ -15,13 +74,11 @@
 - pangea-boto3
 - segmentation-skeleton-metrics
 - dojo-sdk-client
-- sayancpe586fa25
 - repello-mcp-gateway
 - pulumi-digitalocean
 - ragas
 - ragas-examples
 - bambu-lab-cloud-api
-- wipac-dev-actions-testbed
 - nornir-nautobot
 - bandwidth-sdk
 - odoo-addon-rma-sale
@@ -37,57 +94,3 @@
 - pyncbitk
 - xbmpC
 - genie-flow-invoker-ollama
-- aiq-platform-api
-- pulumi-external
-- codechembook
-- nmdc-geoloc-tools
-- vercel-mgmt
-- trainingsample
-- moai-adk
-- ragdiff
-- framework3
-- bmpC
-- neuber-correction
-- loadforecasting-models
-- llama-index-workflows
-- CliReport
-- dag-simple
-- henrylabs
-- velocity-python
-- xqute
-- microplate
-- bidsschematools
-- pyhubblenetwork
-- scikit-bio
-- clubbi-utils
-- llama-index-utils-workflow
-- agentex-sdk
-- vouchsafe-python
-- SHARPlib
-- vedika
-- lager-legacy-cli
-- test-ylang
-- cognite-toolkit
-- rubin-sim
-- embed-anything-gpu
-- rulify
-- b24pysdk
-- simtypes
-- bella-lumiere
-- agenta
-- policy-weaver
-- nnue-interface
-- athena-intelligence
-- cubevis
-- imagectl
-- opengsq
-- matmalib
-- pi-ragbox
-- aldepyde
-- codeup
-- vital
-- django-bulk-hooks
-- arize-tracing-assistant
-- finlight-client
-- spdl
-- django-ninja-aio-crud

@@ -1,0 +1,11 @@
+{
+  "name": "pulp-ostree",
+  "version": "2.5.1",
+  "summary": "OSTree plugin for the Pulp Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_ostree-2.5.1.tar.gz",
+  "download_time": "2025-10-28T19:29:37.348857",
+  "package_url": "https://pypi.org/project/pulp-ostree/"
+}

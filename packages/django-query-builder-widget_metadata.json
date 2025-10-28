@@ -1,0 +1,11 @@
+{
+  "name": "django-query-builder-widget",
+  "version": "0.0.3",
+  "summary": "A Django admin widget for building complex queries using jQuery QueryBuilder",
+  "author": "MatheusBM",
+  "license": "MIT",
+  "home_page": "https://github.com/Matheus-BM/django-query-builder-widget",
+  "download_filename": "django_query_builder_widget-0.0.3.tar.gz",
+  "download_time": "2025-10-28T19:29:18.982250",
+  "package_url": "https://pypi.org/project/django-query-builder-widget/"
+}

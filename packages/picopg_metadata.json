@@ -1,11 +1,11 @@
 {
   "name": "picopg",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A lightweight, Pydantic-powered micro ORM for interacting with PostgreSQL databases, inspired by SQLModel but without the SQLAlchemy dependency.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "picopg-0.1.0.tar.gz",
-  "download_time": "2025-10-28T03:59:20.732555",
+  "download_filename": "picopg-0.1.2.tar.gz",
+  "download_time": "2025-10-28T19:29:28.434975",
   "package_url": "https://pypi.org/project/picopg/"
 }
