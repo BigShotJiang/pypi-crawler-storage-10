@@ -1,0 +1,11 @@
+{
+  "name": "maq-rai-sdk-v1",
+  "version": "0.3.0",
+  "summary": "RAI Package contains a Prompt Reviewer and Updater and test case generator for faster Copilot Development",
+  "author": "MAQ Software",
+  "license": "MIT",
+  "home_page": "https://github.com/MAQ-Software-Solutions/maqraisdk",
+  "download_filename": "maq_rai_sdk_v1-0.3.0.tar.gz",
+  "download_time": "2025-10-28T07:39:45.979314",
+  "package_url": "https://pypi.org/project/maq-rai-sdk-v1/"
+}

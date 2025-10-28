@@ -1,0 +1,11 @@
+{
+  "name": "yafowil",
+  "version": "3.1.2",
+  "summary": "YAFOWIL - declarative, framework independent, flexible HTML forms",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil",
+  "download_filename": "yafowil-3.1.2.tar.gz",
+  "download_time": "2025-10-28T07:39:53.369771",
+  "package_url": "https://pypi.org/project/yafowil/"
+}

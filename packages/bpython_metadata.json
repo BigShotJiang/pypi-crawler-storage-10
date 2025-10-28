@@ -1,0 +1,11 @@
+{
+  "name": "bpython",
+  "version": "0.26",
+  "summary": "A fancy curses interface to the Python interactive interpreter",
+  "author": "Bob Farrell, Andreas Stuehrk, Sebastian Ramacher, Thomas Ballinger, et al.",
+  "license": "MIT",
+  "home_page": "https://www.bpython-interpreter.org/",
+  "download_filename": "bpython-0.26.tar.gz",
+  "download_time": "2025-10-28T07:39:52.799637",
+  "package_url": "https://pypi.org/project/bpython/"
+}

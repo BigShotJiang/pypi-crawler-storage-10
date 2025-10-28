@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T07:18:19.688684
-- **Total Packages**: 88
-- **Total Size**: 28.82 MB
+- **Download Time**: 2025-10-28T07:40:37.548996
+- **Total Packages**: 93
+- **Total Size**: 10.52 MB
 
 ## Packages List
+- p115updatedb
+- BCBvcl4pyAPI
+- katcbf-vlbi-resample
+- maq-rai-sdk-v1
+- fastapi-blocks-registry
+- zope.meta
+- mkmavrykchain
+- snappi-ixnetwork
+- fileformats-extras
+- fileformats
+- nu-lpw-v
+- iflow-mcp_chess_mcp
+- deephyper
+- agentscope-runtime
+- iflow-mcp_geeknews-mcp-server
+- bpython
+- yafowil
+- ruby-manager-web3
+- reme-ai
+- moai-adk
+- completion-report
 - snakemake-executor-plugin-slurm
 - kingkybel-pyfundamentals
 - utils-seleniumxp
@@ -37,7 +58,6 @@
 - zhkj-plugins-parent
 - tf-models-nightly
 - unieai-mcp-bookingroom
-- ruby-manager-web3
 - pyelflabeler
 - adxp-sdk
 - ttkbootstrap-icons
@@ -79,18 +99,3 @@
 - ecss-chat-client
 - fileformats-medimage-extras
 - fileformats-medimage
-- brainannex-neo4jv5
-- innov8r
-- brainannex-neo4jv4
-- grasp-rdf
-- ComicGUISpider
-- librelane
-- tb-mqtt-client
-- bwamem
-- googleads-housekeeper
-- mcpower-proxy
-- synclub-mcp
-- trisul-ai-cli
-- dragon-ml-toolbox
-- agently
-- devstack-cli
