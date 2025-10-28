@@ -1,34 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T22:42:54.492551
+- **Download Time**: 2025-10-28T22:51:38.166033
 - **Total Packages**: 85
-- **Total Size**: 35.05 MB
+- **Total Size**: 2.0 MB
 
 ## Packages List
-- xfilepy
-- jats
-- datallog
-- howdy-br47
-- dbus-notification
-- aorta-sirius
-- aorta-sirius-dev
-- MAX17048-smbus
-- magnify
-- sdss-opscore
-- connector-py
-- yxf
-- llama-index-multi-modal-llms-anthropic
-- saniter
-- zcmds
-- aiobotocore
-- tmesh
 - toon-encoder
 - ai-pipeline-core
 - artifetch
 - assisted-service-client
 - contextual-client
 - arena-cam-config
+- saniter
 - log-surgeon-ffi
 - GridPath
 - debugpython
@@ -88,6 +72,22 @@
 - tastytrade
 - HardView
 - flywheel-sdk
+- datallog
 - dionn
 - sequins-inventory-tool
 - django-query-builder-widget
+- agentex-sdk
+- segment-downloader
+- singer-sdk
+- qBitrr2
+- poouli
+- polyglot-ffi
+- mcpath
+- ccflow
+- starlit-cli
+- rag-memory
+- truss
+- crossmark-jotform-api
+- anyscale
+- hassil
+- lazy-bear

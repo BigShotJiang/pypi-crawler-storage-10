@@ -1,0 +1,11 @@
+{
+  "name": "qBitrr2",
+  "version": "5.0.0",
+  "summary": "\"A simple Python script to talk to qBittorrent and Arr's\"",
+  "author": "Feramance",
+  "license": "MIT",
+  "home_page": "https://github.com/Feramance/qBitrr",
+  "download_filename": "qbitrr2-5.0.0.tar.gz",
+  "download_time": "2025-10-28T22:51:31.362845",
+  "package_url": "https://pypi.org/project/qBitrr2/"
+}

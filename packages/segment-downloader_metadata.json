@@ -1,0 +1,11 @@
+{
+  "name": "segment-downloader",
+  "version": "0.1.0",
+  "summary": "llows to fully download a Strava leaderboard and saves it into a CSV file for further statistical analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "segment_downloader-0.1.0.tar.gz",
+  "download_time": "2025-10-28T22:51:30.267247",
+  "package_url": "https://pypi.org/project/segment-downloader/"
+}
