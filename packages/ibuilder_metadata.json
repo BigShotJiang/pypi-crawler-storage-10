@@ -1,0 +1,11 @@
+{
+  "name": "ibuilder",
+  "version": "3.11.0",
+  "summary": "build, tag, and push docker images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibuilder-3.11.0.tar.gz",
+  "download_time": "2025-10-28T12:36:02.264505",
+  "package_url": "https://pypi.org/project/ibuilder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aitronos-freddy",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Freddy AI Assistant API",
+  "author": "Aitronos",
+  "license": "MIT",
+  "home_page": "https://freddy-api.aitronos.com",
+  "download_filename": "aitronos_freddy-0.1.1.tar.gz",
+  "download_time": "2025-10-28T12:36:09.260103",
+  "package_url": "https://pypi.org/project/aitronos-freddy/"
+}

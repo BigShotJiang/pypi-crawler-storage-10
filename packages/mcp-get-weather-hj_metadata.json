@@ -1,0 +1,11 @@
+{
+  "name": "mcp-get-weather-hj",
+  "version": "0.0.1",
+  "summary": "输入OpenWeather-API-KEY，获取天气信息。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_get_weather_hj-0.0.1.tar.gz",
+  "download_time": "2025-10-28T12:36:01.686847",
+  "package_url": "https://pypi.org/project/mcp-get-weather-hj/"
+}

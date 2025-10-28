@@ -1,11 +1,11 @@
 {
   "name": "omuplugin-nyanya",
-  "version": "0.9.16",
+  "version": "0.9.17",
   "summary": "にゃにゃにゃ？？",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omuplugin_nyanya-0.9.16.tar.gz",
-  "download_time": "2025-10-27T15:19:45.719978",
+  "download_filename": "omuplugin_nyanya-0.9.17.tar.gz",
+  "download_time": "2025-10-28T12:36:29.427344",
   "package_url": "https://pypi.org/project/omuplugin-nyanya/"
 }

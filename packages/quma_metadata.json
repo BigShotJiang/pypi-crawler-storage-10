@@ -1,11 +1,11 @@
 {
   "name": "quma",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A SQL/database library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quma-0.2.0.tar.gz",
-  "download_time": "2025-10-28T11:51:18.737517",
+  "download_filename": "quma-0.2.1.tar.gz",
+  "download_time": "2025-10-28T12:36:01.113291",
   "package_url": "https://pypi.org/project/quma/"
 }
