@@ -1,0 +1,11 @@
+{
+  "name": "ctypes-mosquitto",
+  "version": "0.1.0",
+  "summary": "A lightweight Python MQTT client implemented as a binding to libmosquitto via ctypes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctypes_mosquitto-0.1.0.tar.gz",
+  "download_time": "2025-10-28T10:56:23.130789",
+  "package_url": "https://pypi.org/project/ctypes-mosquitto/"
+}

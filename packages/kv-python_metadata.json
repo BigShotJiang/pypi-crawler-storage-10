@@ -1,0 +1,11 @@
+{
+  "name": "kv-python",
+  "version": "0.1.0",
+  "summary": "Python bindings for the Reynard KV service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kv_python-0.1.0.tar.gz",
+  "download_time": "2025-10-28T10:56:07.591044",
+  "package_url": "https://pypi.org/project/kv-python/"
+}
