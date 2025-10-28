@@ -1,0 +1,11 @@
+{
+  "name": "opengsq",
+  "version": "3.5.0",
+  "summary": "🐍 OpenGSQ - Python library for querying game servers",
+  "author": "OpenGSQ",
+  "license": "MIT",
+  "home_page": "https://github.com/opengsq/opengsq-python",
+  "download_filename": "opengsq-3.5.0.tar.gz",
+  "download_time": "2025-10-28T18:52:42.834852",
+  "package_url": "https://pypi.org/project/opengsq/"
+}

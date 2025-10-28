@@ -1,0 +1,11 @@
+{
+  "name": "ipython-cells",
+  "version": "5.2.2",
+  "summary": "Jupyter-like cell running in ipython",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "ipython_cells-5.2.2.tar.gz",
+  "download_time": "2025-10-28T18:52:58.673243",
+  "package_url": "https://pypi.org/project/ipython-cells/"
+}

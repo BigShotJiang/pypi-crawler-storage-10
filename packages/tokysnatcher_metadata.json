@@ -1,11 +1,11 @@
 {
   "name": "tokysnatcher",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "A simple audiobook downloader for tokybook.com",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokysnatcher-0.3.3.tar.gz",
-  "download_time": "2025-10-27T22:34:36.271942",
+  "download_filename": "tokysnatcher-0.4.0.tar.gz",
+  "download_time": "2025-10-28T18:53:08.664050",
   "package_url": "https://pypi.org/project/tokysnatcher/"
 }

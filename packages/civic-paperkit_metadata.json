@@ -1,0 +1,11 @@
+{
+  "name": "civic-paperkit",
+  "version": "0.0.2",
+  "summary": "Toolkit for civic paper production using Python and LaTeX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "civic_paperkit-0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-28T18:53:06.541296",
+  "package_url": "https://pypi.org/project/civic-paperkit/"
+}

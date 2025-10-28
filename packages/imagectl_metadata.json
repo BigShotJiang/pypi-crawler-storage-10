@@ -1,11 +1,11 @@
 {
   "name": "imagectl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Resize/mask/compress images (PNG/JPEG) via Streamlit + Pillow.",
   "author": "Tamer Hamad Faour",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imagectl-0.1.0.tar.gz",
-  "download_time": "2025-10-28T18:27:01.293310",
+  "download_filename": "imagectl-0.1.1.tar.gz",
+  "download_time": "2025-10-28T18:52:42.303521",
   "package_url": "https://pypi.org/project/imagectl/"
 }

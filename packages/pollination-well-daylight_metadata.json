@@ -1,0 +1,11 @@
+{
+  "name": "pollination-well-daylight",
+  "version": "0.0.16",
+  "summary": "WELL daylight recipe for Pollination.",
+  "author": "pollination",
+  "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
+  "home_page": "https://github.com/pollination/well-daylight",
+  "download_filename": "pollination_well_daylight-0.0.16.tar.gz",
+  "download_time": "2025-10-28T18:52:57.631214",
+  "package_url": "https://pypi.org/project/pollination-well-daylight/"
+}

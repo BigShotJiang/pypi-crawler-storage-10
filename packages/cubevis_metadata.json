@@ -1,11 +1,11 @@
 {
   "name": "cubevis",
-  "version": "1.0.6",
+  "version": "1.0.11",
   "summary": "visualization toolkit and apps for casa",
   "author": null,
   "license": "LGPL",
   "home_page": null,
-  "download_filename": "cubevis-1.0.6.tar.gz",
-  "download_time": "2025-10-27T20:50:51.171588",
+  "download_filename": "cubevis-1.0.11.tar.gz",
+  "download_time": "2025-10-28T18:52:41.255584",
   "package_url": "https://pypi.org/project/cubevis/"
 }

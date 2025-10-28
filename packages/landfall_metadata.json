@@ -1,11 +1,11 @@
 {
   "name": "landfall",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Easy to use functions to plot geospatial data on maps using staticmaps.",
   "author": "Odos Matthews",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "landfall-0.4.0.tar.gz",
-  "download_time": "2025-10-28T18:27:10.735743",
+  "download_filename": "landfall-0.4.1.tar.gz",
+  "download_time": "2025-10-28T18:53:00.782453",
   "package_url": "https://pypi.org/project/landfall/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "csa-header",
+  "version": "1.0.0",
+  "summary": "Parse Siemens CSA header information",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csa_header-1.0.0.tar.gz",
+  "download_time": "2025-10-28T18:52:52.887638",
+  "package_url": "https://pypi.org/project/csa-header/"
+}
