@@ -1,11 +1,11 @@
 {
   "name": "pyspark-data-toolkit",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "Modular toolkit for Data Engineering with PySpark and Delta Lake — schema management, auditing, profiling, normalization, JSON handling, window functions, and Delta Lake operations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyspark_data_toolkit-0.2.9.tar.gz",
-  "download_time": "2025-10-28T19:29:34.209126",
+  "download_filename": "pyspark_data_toolkit-0.2.11.tar.gz",
+  "download_time": "2025-10-28T20:44:12.219255",
   "package_url": "https://pypi.org/project/pyspark-data-toolkit/"
 }

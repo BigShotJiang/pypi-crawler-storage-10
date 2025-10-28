@@ -1,11 +1,11 @@
 {
   "name": "byu-accounting",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Package for use by BYU Accounting Students",
   "author": "Josh Lee",
   "license": "MIT",
   "home_page": "https://github.com/joshlee84/byu_accounting",
-  "download_filename": "byu_accounting-0.1.12.tar.gz",
-  "download_time": "2025-10-28T16:23:45.529584",
+  "download_filename": "byu_accounting-0.1.14.tar.gz",
+  "download_time": "2025-10-28T20:43:42.649362",
   "package_url": "https://pypi.org/project/byu-accounting/"
 }

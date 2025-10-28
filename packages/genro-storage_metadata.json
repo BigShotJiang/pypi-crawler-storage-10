@@ -1,11 +1,11 @@
 {
   "name": "genro-storage",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Unified storage abstraction for Genropy framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "genro_storage-0.1.0.tar.gz",
-  "download_time": "2025-10-27T22:34:56.430235",
+  "download_filename": "genro_storage-0.2.0.tar.gz",
+  "download_time": "2025-10-28T20:43:58.481997",
   "package_url": "https://pypi.org/project/genro-storage/"
 }

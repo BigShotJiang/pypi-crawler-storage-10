@@ -1,0 +1,11 @@
+{
+  "name": "graphiti-core-multi-turn-rag",
+  "version": "0.22.1",
+  "summary": "A temporal graph building library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphiti_core_multi_turn_rag-0.22.1.tar.gz",
+  "download_time": "2025-10-28T20:43:59.092245",
+  "package_url": "https://pypi.org/project/graphiti-core-multi-turn-rag/"
+}

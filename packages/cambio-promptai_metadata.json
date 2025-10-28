@@ -1,0 +1,11 @@
+{
+  "name": "cambio-promptai",
+  "version": "1.0.0",
+  "summary": "A comprehensive CLI tool for managing enterprise AI prompts with integrated Bitbucket workflow",
+  "author": "Shaithra Vilvarashah",
+  "license": "Proprietary",
+  "home_page": "https://scm.devops.cambio.se/scm/~shaithra.vilvarashah/prompt_lib_sdk_v0.1.git",
+  "download_filename": "cambio_promptai-1.0.0.tar.gz",
+  "download_time": "2025-10-28T20:44:06.899259",
+  "package_url": "https://pypi.org/project/cambio-promptai/"
+}

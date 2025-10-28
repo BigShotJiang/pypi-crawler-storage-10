@@ -1,0 +1,11 @@
+{
+  "name": "zencognify",
+  "version": "0.1.2",
+  "summary": "Document ingestion and processing package with vector store and graph capabilities",
+  "author": "Cognify Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zencognify-0.1.2.tar.gz",
+  "download_time": "2025-10-28T20:43:40.989696",
+  "package_url": "https://pypi.org/project/zencognify/"
+}
