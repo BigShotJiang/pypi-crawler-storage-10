@@ -1,0 +1,11 @@
+{
+  "name": "FMSHProjectGenerator",
+  "version": "0.0.26",
+  "summary": "FMSH(Fudan Microelectronics) general-purpose MCU families IDE project generator.",
+  "author": "Zean Huang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmshprojectgenerator-0.0.26.tar.gz",
+  "download_time": "2025-10-28T06:53:29.511562",
+  "package_url": "https://pypi.org/project/FMSHProjectGenerator/"
+}

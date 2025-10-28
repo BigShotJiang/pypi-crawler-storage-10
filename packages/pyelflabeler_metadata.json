@@ -1,0 +1,11 @@
+{
+  "name": "pyelflabeler",
+  "version": "0.2.1",
+  "summary": "ELF Binary Analysis Tool - Label malware or benignware datasets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyelflabeler-0.2.1.tar.gz",
+  "download_time": "2025-10-28T06:53:32.325997",
+  "package_url": "https://pypi.org/project/pyelflabeler/"
+}

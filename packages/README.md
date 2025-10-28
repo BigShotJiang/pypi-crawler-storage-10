@@ -1,18 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T06:28:14.828839
-- **Total Packages**: 88
-- **Total Size**: 46.63 MB
+- **Download Time**: 2025-10-28T06:54:00.789989
+- **Total Packages**: 79
+- **Total Size**: 25.17 MB
 
 ## Packages List
+- mcpower-proxy
+- synclub-mcp
+- unieai-mcp-bookingroom
+- trisul-ai-cli
+- china-union-lotto
+- dragon-ml-toolbox
+- agently
+- devstack-cli
+- securevibes
+- mofa-core
+- kaq-quant-common
+- iflow-mcp_geeknews-mcp-server
+- pycivil
+- cwb-utils
+- maleo-middlewares
+- flowllm
+- dayuanlib
+- atlas-research
+- maleo-google
+- code-aster-whale
+- chat-export
+- mathmaker
+- ewox
+- maleo-client
+- zhkj-plugins-parent
+- ttkbootstrap-icons-eva
+- simler
+- FMSHProjectGenerator
+- redis-viewer
+- ewoxdbgraph
+- investor-agent
+- ai-traffic-signal
+- pyelflabeler
+- gac
+- multimodal-timesfm
+- aigroup-econ-mcp
+- pronet
+- finesse-benchmark
+- promtree
+- pygridgain-dbapi
+- synapse-sdk
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- flask-frame
+- iflow-mcp_mcp-server-ida
+- imas-mcp
+- pulumi-aws-native
+- git-withme
+- comfyui-frontend-package
+- pantsonfire
 - opca
 - canns-lib
 - upils
 - spec-check
 - synapsia
 - aiospb
-- unieai-mcp-bookingroom
 - mspec
 - pypomes-iam
 - innov8r
@@ -24,7 +73,6 @@
 - iflow-mcp_blender-mcp
 - movoid-debug
 - mingli-mcp
-- zhkj-plugins-parent
 - iflow-mcp_mcp_server_azure
 - mcp-rag
 - pixell-kit
@@ -37,60 +85,3 @@
 - model-compose
 - siena_mls
 - iflow-mcp_prometheus_mcp_server
-- pantsonfire
-- instaui
-- lvglgdb
-- tonutils
-- iflow-mcp_tribal
-- pulumi-http
-- fowl
-- src2purl
-- ai-edge-litert-nightly
-- iflow-mcp_tidal-mcp
-- pyg-nightly
-- bluer-ugv
-- peacepie
-- sleipnirgroup-jormungandr
-- clippy-code
-- jobspy-enhanced-scraper
-- micrologai
-- mcp-notify
-- MeUtils
-- pulumi-aws-native
-- slsd
-- pdfctl
-- tsdtool
-- iflow-mcp_cve-search-mcp
-- django-cfg
-- oaktis
-- arpakitlib
-- maleo-infra
-- xl-docx
-- peakrdl-pybind11
-- tobot
-- fastapi-scaff
-- stocks-miner
-- pipen-dry
-- writer-pdf
-- realtimex_toolkit
-- agentruntime-cli
-- selectorllm
-- pulumi-external
-- agentruntime-mcp
-- ttkbootstrap-icons-weather
-- ttkbootstrap-icons-simple
-- ttkbootstrap-icons-remix
-- ttkbootstrap-icons-mat
-- gpjax
-- ttkbootstrap-icons-lucide
-- ttkbootstrap-icons-ion
-- ttkbootstrap-icons-gmi
-- ttkbootstrap-icons-fluent
-- ttkbootstrap-icons-fa
-- ttkbootstrap-icons-devicon
-- crewplus
-- iflow-mcp_mcp-server-obsidian-omnisearch
-- FlavorBuilder
-- carver-feeds-sdk
-- mofa-core
-- saplexer
