@@ -1,11 +1,11 @@
 {
   "name": "ttkbootstrap-icons-remix",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Remix Icons (font-based) provider for ttkbootstrap-icons",
   "author": "Israel Dryer",
   "license": null,
   "home_page": null,
-  "download_filename": "ttkbootstrap_icons_remix-0.1.0.tar.gz",
-  "download_time": "2025-10-27T03:05:51.047698",
+  "download_filename": "ttkbootstrap_icons_remix-0.2.0.tar.gz",
+  "download_time": "2025-10-28T06:28:07.124655",
   "package_url": "https://pypi.org/project/ttkbootstrap-icons-remix/"
 }

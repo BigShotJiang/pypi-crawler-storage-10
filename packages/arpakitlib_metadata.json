@@ -1,11 +1,11 @@
 {
   "name": "arpakitlib",
-  "version": "1.8.336",
+  "version": "1.8.343",
   "summary": "arpakitlib",
   "author": "arpakit_company",
   "license": null,
   "home_page": "https://github.com/ARPAKIT-Company/arpakitlib",
-  "download_filename": "arpakitlib-1.8.336.tar.gz",
-  "download_time": "2025-10-26T20:39:32.614055",
+  "download_filename": "arpakitlib-1.8.343.tar.gz",
+  "download_time": "2025-10-28T06:27:58.926988",
   "package_url": "https://pypi.org/project/arpakitlib/"
 }

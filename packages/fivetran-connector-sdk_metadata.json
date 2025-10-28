@@ -1,0 +1,11 @@
+{
+  "name": "fivetran-connector-sdk",
+  "version": "2.3.1",
+  "summary": "Build custom connectors on Fivetran platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fivetran_connector_sdk-2.3.1.tar.gz",
+  "download_time": "2025-10-28T06:27:40.696790",
+  "package_url": "https://pypi.org/project/fivetran-connector-sdk/"
+}

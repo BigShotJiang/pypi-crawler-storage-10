@@ -1,11 +1,11 @@
 {
   "name": "siena_mls",
-  "version": "29",
+  "version": "31",
   "summary": "Multimedia Environment for Students",
   "author": "Robin Flatland",
   "license": "aGPLv3",
   "home_page": "https://csis110.com/mls",
-  "download_filename": "siena_mls-29.tar.gz",
-  "download_time": "2025-10-28T05:43:13.632151",
+  "download_filename": "siena_mls-31.tar.gz",
+  "download_time": "2025-10-28T06:27:43.788725",
   "package_url": "https://pypi.org/project/siena_mls/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "canns-lib",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "High-performance computational acceleration library for CANNS, providing optimized implementations for topological data analysis and neural network computations",
   "author": null,
   "license": null,
   "home_page": "https://github.com/routhleck/canns-lib",
-  "download_filename": "canns_lib-0.5.0.tar.gz",
-  "download_time": "2025-10-27T06:55:59.533157",
+  "download_filename": "canns_lib-0.6.0-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-28T06:27:28.300639",
   "package_url": "https://pypi.org/project/canns-lib/"
 }

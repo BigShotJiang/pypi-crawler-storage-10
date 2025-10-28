@@ -1,0 +1,11 @@
+{
+  "name": "slsd",
+  "version": "0.0.1",
+  "summary": "Simple Last.fm Scrobbling Daemon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slsd-0.0.1.tar.gz",
+  "download_time": "2025-10-28T06:27:55.793976",
+  "package_url": "https://pypi.org/project/slsd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_prometheus_mcp_server",
+  "version": "1.4.3",
+  "summary": "MCP server for Prometheus integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_prometheus_mcp_server-1.4.3.tar.gz",
+  "download_time": "2025-10-28T06:27:44.299035",
+  "package_url": "https://pypi.org/project/iflow-mcp_prometheus_mcp_server/"
+}

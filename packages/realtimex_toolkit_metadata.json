@@ -1,11 +1,11 @@
 {
   "name": "realtimex_toolkit",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Lightweight internal utilities for LLM provider configuration and credential management",
   "author": "RealtimeX Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "realtimex_toolkit-1.1.6.tar.gz",
-  "download_time": "2025-10-28T05:53:07.334424",
+  "download_filename": "realtimex_toolkit-1.1.7.tar.gz",
+  "download_time": "2025-10-28T06:28:03.532599",
   "package_url": "https://pypi.org/project/realtimex_toolkit/"
 }

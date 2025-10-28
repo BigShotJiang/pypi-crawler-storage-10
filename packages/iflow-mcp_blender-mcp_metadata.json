@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_blender-mcp",
+  "version": "1.4",
+  "summary": "Blender integration through the Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_blender_mcp-1.4.tar.gz",
+  "download_time": "2025-10-28T06:27:36.602291",
+  "package_url": "https://pypi.org/project/iflow-mcp_blender-mcp/"
+}

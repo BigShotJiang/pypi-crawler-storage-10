@@ -1,0 +1,11 @@
+{
+  "name": "gpjax",
+  "version": "0.13.1",
+  "summary": "Gaussian processes in JAX.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpjax-0.13.1.tar.gz",
+  "download_time": "2025-10-28T06:28:08.178472",
+  "package_url": "https://pypi.org/project/gpjax/"
+}

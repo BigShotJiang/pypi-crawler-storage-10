@@ -1,0 +1,11 @@
+{
+  "name": "cblaster",
+  "version": "1.4.0",
+  "summary": null,
+  "author": "Cameron Gilchrist",
+  "license": "MIT",
+  "home_page": "https://github.com/gamcil/cblaster",
+  "download_filename": "cblaster-1.4.0.tar.gz",
+  "download_time": "2025-10-28T06:27:34.048409",
+  "package_url": "https://pypi.org/project/cblaster/"
+}
