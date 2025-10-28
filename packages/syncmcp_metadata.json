@@ -1,0 +1,11 @@
+{
+  "name": "syncmcp",
+  "version": "2.0.0",
+  "summary": "智能 MCP 配置同步工具 - Smart MCP Configuration Sync Tool",
+  "author": "SyncMCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "syncmcp-2.0.0.tar.gz",
+  "download_time": "2025-10-28T10:46:37.683193",
+  "package_url": "https://pypi.org/project/syncmcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plbm-liumou-Stable",
+  "version": "1.4.9",
+  "summary": "使用Python3进行编写的一个开源系统管理工具， 通过封装Linux系统都软件包管理、磁盘管理、文件管理、网络管理、安全管理、服务管理等内容从而实现快速开发的效果",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plbm_liumou_stable-1.4.9.tar.gz",
+  "download_time": "2025-10-28T10:47:14.176434",
+  "package_url": "https://pypi.org/project/plbm-liumou-Stable/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tf-keras-nightly",
-  "version": "2.21.0.dev2025102709",
+  "version": "2.21.0.dev2025102809",
   "summary": "Deep learning for humans.",
   "author": "Keras team",
   "license": "Apache 2.0",
   "home_page": "https://keras.io/",
-  "download_filename": "tf_keras_nightly-2.21.0.dev2025102709-py3-none-any.whl",
-  "download_time": "2025-10-27T10:21:03.376865",
+  "download_filename": "tf_keras_nightly-2.21.0.dev2025102809-py3-none-any.whl",
+  "download_time": "2025-10-28T10:47:00.850162",
   "package_url": "https://pypi.org/project/tf-keras-nightly/"
 }

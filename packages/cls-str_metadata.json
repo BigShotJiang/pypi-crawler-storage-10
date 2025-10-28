@@ -1,0 +1,11 @@
+{
+  "name": "cls-str",
+  "version": "0.1.1",
+  "summary": "Magic of class-to-str",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/cls-str",
+  "download_filename": "cls_str-0.1.1.tar.gz",
+  "download_time": "2025-10-28T10:46:56.241759",
+  "package_url": "https://pypi.org/project/cls-str/"
+}

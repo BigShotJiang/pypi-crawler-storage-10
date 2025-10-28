@@ -1,11 +1,11 @@
 {
   "name": "askcarl",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Gaussian mixture models with support for missing values and upper limits in some features.",
   "author": "Johannes Buchner",
   "license": "GNU General Public License v3",
   "home_page": "https://github.com/JohannesBuchner/askcarl",
-  "download_filename": "askcarl-3.0.0.tar.gz",
-  "download_time": "2025-10-28T09:42:26.451453",
+  "download_filename": "askcarl-3.0.1.tar.gz",
+  "download_time": "2025-10-28T10:46:53.354040",
   "package_url": "https://pypi.org/project/askcarl/"
 }

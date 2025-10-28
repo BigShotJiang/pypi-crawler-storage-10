@@ -1,0 +1,11 @@
+{
+  "name": "sekoia-automation-sdk",
+  "version": "1.21.1",
+  "summary": "SDK to create Sekoia.io playbook modules",
+  "author": "Sekoia.io",
+  "license": "MIT",
+  "home_page": "https://sekoia.io/",
+  "download_filename": "sekoia_automation_sdk-1.21.1.tar.gz",
+  "download_time": "2025-10-28T10:46:52.768047",
+  "package_url": "https://pypi.org/project/sekoia-automation-sdk/"
+}

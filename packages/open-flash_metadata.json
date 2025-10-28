@@ -1,11 +1,11 @@
 {
   "name": "open-flash",
-  "version": "0.2.9",
+  "version": "1.0.0",
   "summary": "A Python package for semi-analytical hydrodynamics modeling including matched eigenfunction expansion method",
-  "author": "SEA LAB",
+  "author": "SEA Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "open_flash-0.2.9.tar.gz",
-  "download_time": "2025-10-27T05:18:49.927450",
+  "download_filename": "open_flash-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-28T10:46:27.452911",
   "package_url": "https://pypi.org/project/open-flash/"
 }

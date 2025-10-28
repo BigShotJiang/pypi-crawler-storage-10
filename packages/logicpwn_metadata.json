@@ -1,0 +1,11 @@
+{
+  "name": "logicpwn",
+  "version": "0.4.0",
+  "summary": "LogicPwn represents a paradigm shift from traditional security testing toward intelligent, business-aware security automation. Its unique focus on business logic vulnerabilities, combined with enterprise-grade performance and comprehensive documentation, positions it as a leader in the next generation of security testing tools.",
+  "author": "Jash Naik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logicpwn-0.4.0.tar.gz",
+  "download_time": "2025-10-28T10:47:17.135711",
+  "package_url": "https://pypi.org/project/logicpwn/"
+}
