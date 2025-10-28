@@ -1,11 +1,11 @@
 {
   "name": "context-mcp",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "MCP server for project context integration - provides read-only filesystem operations for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "context_mcp-0.2.4.tar.gz",
-  "download_time": "2025-10-28T14:45:46.605860",
+  "download_filename": "context_mcp-0.2.6.tar.gz",
+  "download_time": "2025-10-28T15:44:50.390603",
   "package_url": "https://pypi.org/project/context-mcp/"
 }

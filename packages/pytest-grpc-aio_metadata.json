@@ -1,0 +1,11 @@
+{
+  "name": "pytest-grpc-aio",
+  "version": "0.3.0",
+  "summary": "pytest plugin for grpc.aio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_grpc_aio-0.3.0.tar.gz",
+  "download_time": "2025-10-28T15:44:57.118439",
+  "package_url": "https://pypi.org/project/pytest-grpc-aio/"
+}

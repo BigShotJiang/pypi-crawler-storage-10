@@ -1,0 +1,11 @@
+{
+  "name": "nextgen-kernels-api",
+  "version": "0.8.0",
+  "summary": "Next-generation Jupyter kernel management with decoupled client connections",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nextgen_kernels_api-0.8.0.tar.gz",
+  "download_time": "2025-10-28T15:44:23.960101",
+  "package_url": "https://pypi.org/project/nextgen-kernels-api/"
+}
