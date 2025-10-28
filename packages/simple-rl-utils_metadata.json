@@ -1,0 +1,11 @@
+{
+  "name": "simple-rl-utils",
+  "version": "0.1.0",
+  "summary": "A simple utility function for Reinforcement Learning, like the Q-learning update rule.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_rl_utils-0.1.0.tar.gz",
+  "download_time": "2025-10-28T08:57:31.425322",
+  "package_url": "https://pypi.org/project/simple-rl-utils/"
+}

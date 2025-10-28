@@ -1,0 +1,11 @@
+{
+  "name": "filo",
+  "version": "2.2.1",
+  "summary": "Managing files and file series",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "filo-2.2.1.tar.gz",
+  "download_time": "2025-10-28T08:58:02.098141",
+  "package_url": "https://pypi.org/project/filo/"
+}

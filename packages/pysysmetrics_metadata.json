@@ -1,0 +1,11 @@
+{
+  "name": "pysysmetrics",
+  "version": "0.1.4",
+  "summary": "CLI tool to monitor CPU and GPU memory usage of Python processes",
+  "author": "Aditya Thiyyagura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysysmetrics-0.1.4.tar.gz",
+  "download_time": "2025-10-28T08:57:35.851468",
+  "package_url": "https://pypi.org/project/pysysmetrics/"
+}

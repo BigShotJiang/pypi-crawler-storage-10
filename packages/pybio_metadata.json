@@ -1,0 +1,11 @@
+{
+  "name": "pybio",
+  "version": "0.8.4",
+  "summary": "pybio genomics",
+  "author": "Gregor Rot",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/grexor/pybio",
+  "download_filename": "pybio-0.8.4.tar.gz",
+  "download_time": "2025-10-28T08:57:57.055896",
+  "package_url": "https://pypi.org/project/pybio/"
+}
