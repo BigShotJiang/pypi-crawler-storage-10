@@ -1,11 +1,11 @@
 {
   "name": "jetto-tools",
-  "version": "2.0.9",
+  "version": "2.1.0",
   "summary": "Tools for plotting and manipulating JETTO runs.",
   "author": "Karel van de Plassche",
   "license": "MIT",
   "home_page": "https://gitlab.com/jintrac/jetto-pythontools",
-  "download_filename": "jetto_tools-2.0.9-py3-none-any.whl",
-  "download_time": "2025-10-28T09:42:47.878704",
+  "download_filename": "jetto_tools-2.1.0-py3-none-any.whl",
+  "download_time": "2025-10-28T15:55:39.013403",
   "package_url": "https://pypi.org/project/jetto-tools/"
 }

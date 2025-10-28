@@ -1,0 +1,11 @@
+{
+  "name": "litlm",
+  "version": "0.1.5",
+  "summary": "Minimalist litellm wrapper for simpler requests and better openrouter support",
+  "author": "Damien Sileo",
+  "license": null,
+  "home_page": "https://github.com/sileod/litlm",
+  "download_filename": "litlm-0.1.5.tar.gz",
+  "download_time": "2025-10-28T15:55:35.929116",
+  "package_url": "https://pypi.org/project/litlm/"
+}

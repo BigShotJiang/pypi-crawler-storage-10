@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T15:45:09.142496
+- **Download Time**: 2025-10-28T15:56:05.578766
 - **Total Packages**: 88
-- **Total Size**: 79.63 MB
+- **Total Size**: 22.63 MB
 
 ## Packages List
+- r4u
+- canonicalwebteam.flask-vite
+- b24pysdk
+- polyshell
+- tensorwatchext
+- jst-django
+- par-cc-usage
+- nanopyx
+- stigg-sidecar-sdk
+- dorothy-cci
+- quickslurm
+- aixtools
+- doordeck-headless-sdk
+- connector-sdk-types
+- tabeval
+- readylog
+- connector-py
+- dbt-platform-helper
+- dependamerge
+- unveil-python
+- notte-sdk
+- notte-mcp
+- notte-llm
+- notte-integrations
+- haiway
+- notte-eval
+- orq-ai-sdk
+- notte-core
+- notte-browser
+- notte-agent
+- notte
+- litlm
+- dao-scripts
+- pycarmat
+- pangea-azure-ai
+- plexos-coad-oet
+- bimdata-api-client
+- jetto-tools
+- machineconfig
+- yaraast
+- masai-framework
+- flix-cli
+- redlines
+- siat
+- opencrawll
+- rendercv
+- freezeee3
+- metripy
 - taskcluster
 - freshdesk-mcp-support
 - reasonchip
@@ -21,7 +69,6 @@
 - genie-flow-invoker-api
 - httpcore_request
 - poouli
-- tabeval
 - iqcc-qualibrate2cloud
 - openreview-py
 - mcp-ticketer
@@ -31,7 +78,6 @@
 - schematichq
 - yapi-mcp
 - injectq
-- par-cc-usage
 - freva-client
 - daytona_sdk
 - daytona
@@ -43,54 +89,8 @@
 - daytona_api_client_async
 - oc-python-sdk
 - discopat
-- flix-cli
-- dao-scripts
 - molcore
 - karellen-llvm-toolchain-tools
 - karellen-llvm-lldb
 - studybuddy-teamcedar
 - pydeseq2
-- mcp-demo-stdio
-- bymail
-- webtoolkit
-- xlsxdatagrid
-- gwo-benchmark
-- cmipcite
-- vellum-workflow-server
-- hevios
-- context-mcp
-- text2story
-- mimerpy
-- caerp-celery
-- redivis
-- reaktome
-- pyrudof
-- django-bulk-hooks
-- pyg-base
-- mcp-router
-- ae-core
-- ssh-auto-upgrade
-- localstack-core
-- pytest-grpc-aio
-- hermes-ai
-- schedula-core
-- moai-adk
-- django-bulk-drf
-- ScandEval
-- EuroEval
-- symbolic-regression-toolkit
-- spam
-- bluer-academy
-- infragraph
-- alita-sdk
-- schedula
-- TB2J
-- easySCFpy
-- biblematetc
-- ls-packers
-- HamiltonIO
-- mex-common
-- tm-data-types
-- devise-greenness
-- biblematesc
-- pyfsviz

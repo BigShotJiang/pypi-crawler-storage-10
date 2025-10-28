@@ -1,11 +1,11 @@
 {
   "name": "r4u",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Observability SDK for LLM applications",
   "author": "R4U Team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "r4u-0.1.5.tar.gz",
-  "download_time": "2025-10-28T11:29:39.946571",
+  "download_filename": "r4u-0.1.6.tar.gz",
+  "download_time": "2025-10-28T15:55:19.707570",
   "package_url": "https://pypi.org/project/r4u/"
 }

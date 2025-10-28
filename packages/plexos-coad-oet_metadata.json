@@ -1,0 +1,11 @@
+{
+  "name": "plexos-coad-oet",
+  "version": "0.1.0",
+  "summary": "Class-Object-Attribute Data manipulation tools for PLEXOS models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plexos_coad_oet-0.1.0.tar.gz",
+  "download_time": "2025-10-28T15:55:37.983027",
+  "package_url": "https://pypi.org/project/plexos-coad-oet/"
+}

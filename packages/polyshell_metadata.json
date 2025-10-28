@@ -1,0 +1,11 @@
+{
+  "name": "polyshell",
+  "version": "0.2.0",
+  "summary": "A high-performance coverage-preserving polygon reduction library for Python, written in Rust",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "polyshell-0.2.0.tar.gz",
+  "download_time": "2025-10-28T15:55:21.350676",
+  "package_url": "https://pypi.org/project/polyshell/"
+}

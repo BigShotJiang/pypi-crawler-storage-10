@@ -1,11 +1,11 @@
 {
   "name": "dorothy-cci",
-  "version": "0.0.62",
+  "version": "0.0.63",
   "summary": "A Creative Computing Python Library for Interactive Audio Generation and Audio Reactive Drawing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dorothy_cci-0.0.62.tar.gz",
-  "download_time": "2025-10-24T22:39:59.313859",
+  "download_filename": "dorothy_cci-0.0.63.tar.gz",
+  "download_time": "2025-10-28T15:55:24.497183",
   "package_url": "https://pypi.org/project/dorothy-cci/"
 }
