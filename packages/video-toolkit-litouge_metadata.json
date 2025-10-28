@@ -1,11 +1,11 @@
 {
   "name": "video-toolkit-litouge",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "批量压缩视频素材的 CLI 工具",
   "author": "Long",
   "license": null,
   "home_page": null,
-  "download_filename": "video_toolkit_litouge-0.1.4.tar.gz",
-  "download_time": "2025-10-28T04:28:19.900586",
+  "download_filename": "video_toolkit_litouge-0.1.5.tar.gz",
+  "download_time": "2025-10-28T04:55:08.851443",
   "package_url": "https://pypi.org/project/video-toolkit-litouge/"
 }

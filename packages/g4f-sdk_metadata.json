@@ -1,11 +1,11 @@
 {
   "name": "g4f-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The missing resilient and intelligent SDK for the g4f (GPT4Free) library.",
   "author": "ProgVM",
-  "license": null,
+  "license": "MIT License",
   "home_page": "https://github.com/ProgVM/g4f-sdk",
-  "download_filename": "g4f_sdk-0.1.0.tar.gz",
-  "download_time": "2025-10-28T03:58:59.185694",
+  "download_filename": "g4f_sdk-0.1.1.tar.gz",
+  "download_time": "2025-10-28T04:55:07.585698",
   "package_url": "https://pypi.org/project/g4f-sdk/"
 }

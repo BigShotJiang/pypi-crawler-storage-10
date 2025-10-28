@@ -1,16 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-28T04:46:04.163824
-- **Total Packages**: 74
-- **Total Size**: 11.35 MB
+- **Download Time**: 2025-10-28T04:55:38.700935
+- **Total Packages**: 73
+- **Total Size**: 3.28 MB
 
 ## Packages List
+- django-cfg
+- intentkit
+- arcturus-buildkit
+- pdfctl
+- conversation-tone-detector
+- unieai-mcp-bookingroom
+- persidict
+- streamlit-launcher
+- automation-ide-dev
+- mingli-mcp
+- alibabacloud-eds-aic20230930
+- LightAgent
+- iamdata
+- g4f-sdk
+- plato-sdk
+- video-toolkit-litouge
+- toastiepy
+- cellart
+- parameterizable
+- notifox
 - AutoStatLib
 - odoo-addons-oca-wms
 - flagdataset-eai
 - llms-py
-- conversation-tone-detector
 - openHealth
 - odoo-addons-oca-website
 - odoo-addons-oca-web-api-contrib
@@ -20,7 +39,6 @@
 - odoo-addon-web-form-banner
 - easypde
 - odoo-addon-web-chatter-camera
-- unieai-mcp-bookingroom
 - starbash
 - dihlibs
 - pipen-args
@@ -37,7 +55,6 @@
 - odoo-addons-oca-survey
 - pantsonfire
 - odoo-addons-oca-storage
-- plato-sdk
 - lattica
 - odoo-addons-oca-stock-logistics-workflow
 - odoo-addon-stock-partner-delivery-window
@@ -62,21 +79,3 @@
 - robhan-cdk-lib.utils
 - raster2dggs
 - odoo-addons-oca-stock-logistics-transport
-- odoo-addon-shipment-advice
-- odoo-addons-oca-stock-logistics-tracking
-- odoo-addons-oca-stock-logistics-shopfloor
-- iflow-mcp_things-mcp
-- odoo-addons-oca-stock-logistics-reservation
-- odoo-addons-oca-stock-logistics-request
-- cisco-ai-mcp-scanner
-- odoo-addons-oca-stock-logistics-reporting
-- sunsolve-p90-client
-- iflow-mcp_ppt-translator
-- odoo-addons-oca-stock-logistics-release-channel
-- odoo-addons-oca-stock-logistics-putaway
-- odoo-addons-oca-stock-logistics-orderpoint
-- cirq
-- cirq-web
-- cirq-ionq
-- cirq-google
-- odoo-addons-oca-stock-logistics-interfaces
