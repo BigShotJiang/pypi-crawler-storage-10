@@ -1,0 +1,11 @@
+{
+  "name": "hep-flare",
+  "version": "0.1.9",
+  "summary": "Framework for streamlining the FCC framework powered by b2luigi",
+  "author": "Cameron Harris",
+  "license": null,
+  "home_page": "https://github.com/CamCoop1/FLARE.git",
+  "download_filename": "hep_flare-0.1.9-py3-none-any.whl",
+  "download_time": "2025-10-28T01:14:46.793903",
+  "package_url": "https://pypi.org/project/hep-flare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chatmail2mastodon",
+  "version": "0.7.0",
+  "summary": "Mastodon/DeltaChat bridge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatmail2mastodon-0.7.0-py3-none-any.whl",
+  "download_time": "2025-10-28T01:15:14.066070",
+  "package_url": "https://pypi.org/project/chatmail2mastodon/"
+}

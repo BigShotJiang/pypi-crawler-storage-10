@@ -1,0 +1,11 @@
+{
+  "name": "compnet",
+  "version": "0.8.0",
+  "summary": "A package for market compression of network data.",
+  "author": "Luca Mingarelli",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/LucaMingarelli/compnet",
+  "download_filename": "compnet-0.8.0.tar.gz",
+  "download_time": "2025-10-28T01:14:55.778166",
+  "package_url": "https://pypi.org/project/compnet/"
+}

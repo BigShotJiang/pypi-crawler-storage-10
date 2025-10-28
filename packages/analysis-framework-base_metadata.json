@@ -1,0 +1,11 @@
+{
+  "name": "analysis-framework-base",
+  "version": "1.0.0",
+  "summary": "Base interfaces and models for document analysis frameworks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "analysis_framework_base-1.0.0.tar.gz",
+  "download_time": "2025-10-28T01:15:08.273454",
+  "package_url": "https://pypi.org/project/analysis-framework-base/"
+}

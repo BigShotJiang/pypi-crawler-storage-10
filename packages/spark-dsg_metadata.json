@@ -1,0 +1,11 @@
+{
+  "name": "spark-dsg",
+  "version": "1.1.2",
+  "summary": "Library for representing 3D scene graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_dsg-1.1.2.tar.gz",
+  "download_time": "2025-10-28T01:15:13.033803",
+  "package_url": "https://pypi.org/project/spark-dsg/"
+}

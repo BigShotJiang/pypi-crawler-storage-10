@@ -1,0 +1,11 @@
+{
+  "name": "pycwt",
+  "version": "0.5.0b0",
+  "summary": "Continuous wavelet transform module for Python.",
+  "author": "Nabil Freij, and contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycwt-0.5.0b0.tar.gz",
+  "download_time": "2025-10-28T01:14:32.755637",
+  "package_url": "https://pypi.org/project/pycwt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tombi",
-  "version": "0.6.39",
+  "version": "0.6.40",
   "summary": "🦅 TOML Toolkit 🦅",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tombi-0.6.39.tar.gz",
-  "download_time": "2025-10-25T17:50:30.289446",
+  "download_filename": "tombi-0.6.40.tar.gz",
+  "download_time": "2025-10-28T01:14:49.988324",
   "package_url": "https://pypi.org/project/tombi/"
 }

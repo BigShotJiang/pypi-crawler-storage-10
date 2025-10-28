@@ -1,0 +1,11 @@
+{
+  "name": "sageattention",
+  "version": "2.2.0",
+  "summary": "Accurate and efficient plug-and-play low-bit attention.",
+  "author": "SageAttention team",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/thu-ml/SageAttention",
+  "download_filename": "sageattention-2.2.0.tar.gz",
+  "download_time": "2025-10-28T01:14:47.316152",
+  "package_url": "https://pypi.org/project/sageattention/"
+}
