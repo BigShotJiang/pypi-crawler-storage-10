@@ -1,0 +1,11 @@
+{
+  "name": "glazing",
+  "version": "0.2.1",
+  "summary": "Unified data models and interfaces for syntactic and semantic frame ontologies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glazing-0.2.1.tar.gz",
+  "download_time": "2025-10-28T16:24:06.526985",
+  "package_url": "https://pypi.org/project/glazing/"
+}

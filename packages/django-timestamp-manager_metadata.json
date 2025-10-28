@@ -1,0 +1,11 @@
+{
+  "name": "django-timestamp-manager",
+  "version": "0.1.0",
+  "summary": "A lightweight Django mixin for automatic timestamps and soft deletes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_timestamp_manager-0.1.0.tar.gz",
+  "download_time": "2025-10-28T16:24:03.051324",
+  "package_url": "https://pypi.org/project/django-timestamp-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "saltimbanque",
+  "version": "1.2.2",
+  "summary": "Provides an HTTP API to convert Web pages to PDF",
+  "author": "Wanadev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "saltimbanque-1.2.2.tar.gz",
+  "download_time": "2025-10-28T16:24:08.231579",
+  "package_url": "https://pypi.org/project/saltimbanque/"
+}

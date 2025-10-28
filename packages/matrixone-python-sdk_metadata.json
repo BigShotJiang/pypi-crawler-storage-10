@@ -1,11 +1,11 @@
 {
   "name": "matrixone-python-sdk",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A comprehensive Python SDK for MatrixOne database operations with vector search, fulltext search, and advanced features",
   "author": "MatrixOne Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/matrixorigin/matrixone",
-  "download_filename": "matrixone_python_sdk-0.1.7.tar.gz",
-  "download_time": "2025-10-27T01:22:24.845710",
+  "download_filename": "matrixone_python_sdk-0.1.8.tar.gz",
+  "download_time": "2025-10-28T16:24:01.898369",
   "package_url": "https://pypi.org/project/matrixone-python-sdk/"
 }

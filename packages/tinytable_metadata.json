@@ -1,0 +1,11 @@
+{
+  "name": "tinytable",
+  "version": "0.18.1",
+  "summary": "Pure Python lite version of Pandas DataFrame.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinytable-0.18.1.tar.gz",
+  "download_time": "2025-10-28T16:23:55.428265",
+  "package_url": "https://pypi.org/project/tinytable/"
+}

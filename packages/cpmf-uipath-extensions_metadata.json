@@ -1,0 +1,11 @@
+{
+  "name": "cpmf-uipath-extensions",
+  "version": "0.0.5",
+  "summary": "Production-ready extensions for the UiPath Python SDK - bridges critical API gaps for assets, jobs, queues, processes, schedules, libraries, tasks, folders, and storage",
+  "author": "Christian Prior-Mamulyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpmf_uipath_extensions-0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-28T16:24:09.406788",
+  "package_url": "https://pypi.org/project/cpmf-uipath-extensions/"
+}

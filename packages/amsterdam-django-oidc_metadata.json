@@ -1,0 +1,11 @@
+{
+  "name": "amsterdam-django-oidc",
+  "version": "0.2.2",
+  "summary": "Extension of the authenctication backend of the mozilla-django-oidc package, with extra validation.",
+  "author": "Nino van der Laan, Youri Westerman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amsterdam_django_oidc-0.2.2.tar.gz",
+  "download_time": "2025-10-28T16:23:46.106583",
+  "package_url": "https://pypi.org/project/amsterdam-django-oidc/"
+}
