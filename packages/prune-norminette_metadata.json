@@ -1,0 +1,11 @@
+{
+  "name": "prune-norminette",
+  "version": "2.0.4",
+  "summary": "A tool to ensure that code adheres to Prune's coding standards.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prune_norminette-2.0.4.tar.gz",
+  "download_time": "2025-10-28T16:51:27.649694",
+  "package_url": "https://pypi.org/project/prune-norminette/"
+}

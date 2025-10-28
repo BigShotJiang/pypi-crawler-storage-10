@@ -1,0 +1,11 @@
+{
+  "name": "odoo13-addon-importar-lineas-compra",
+  "version": "13.0.1.1.0",
+  "summary": "=?utf-8?q?Importar_de_varias_maneras_l=C3=ADneas_de_compra_en_un_pedido=2E?=",
+  "author": "Colectivo DEVCONTROL",
+  "license": "AGPL-3",
+  "home_page": "https://framagit.org/devcontrol",
+  "download_filename": "odoo13_addon_importar_lineas_compra-13.0.1.1.0.tar.gz",
+  "download_time": "2025-10-28T16:51:15.202650",
+  "package_url": "https://pypi.org/project/odoo13-addon-importar-lineas-compra/"
+}

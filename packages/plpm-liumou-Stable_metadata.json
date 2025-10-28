@@ -1,11 +1,11 @@
 {
   "name": "plpm-liumou-Stable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A unified package management interface for Linux distributions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plpm_liumou_stable-1.0.1.tar.gz",
-  "download_time": "2025-10-28T14:46:13.642612",
+  "download_filename": "plpm_liumou_stable-1.0.2.tar.gz",
+  "download_time": "2025-10-28T16:51:21.392096",
   "package_url": "https://pypi.org/project/plpm-liumou-Stable/"
 }

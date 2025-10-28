@@ -1,0 +1,11 @@
+{
+  "name": "signalai",
+  "version": "0.0.8",
+  "summary": "A package for vibration signal analysis using AI",
+  "author": "Vitor Bonella",
+  "license": null,
+  "home_page": "https://github.com/VitorBonella/SignAI-Framework",
+  "download_filename": "signalai-0.0.8.tar.gz",
+  "download_time": "2025-10-28T16:51:40.574349",
+  "package_url": "https://pypi.org/project/signalai/"
+}

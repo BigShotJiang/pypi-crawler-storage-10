@@ -1,0 +1,11 @@
+{
+  "name": "exputil",
+  "version": "1.9.1",
+  "summary": "Experiment utilities",
+  "author": "snkas",
+  "license": "MIT",
+  "home_page": "https://github.com/yuanlott/exputilpy",
+  "download_filename": "exputil-1.9.1.tar.gz",
+  "download_time": "2025-10-28T16:51:08.471463",
+  "package_url": "https://pypi.org/project/exputil/"
+}

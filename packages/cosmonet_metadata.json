@@ -1,0 +1,11 @@
+{
+  "name": "cosmonet",
+  "version": "0.1.1",
+  "summary": "Astronomical Light Curve Classification using Physics-Informed Neural Networks",
+  "author": "CosmoNet Team (Ritvan Ritesh Partap Singh, Preet Gurshan Singh Chani, Raghav Sharma)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ritvanritesh/cosmonet",
+  "download_filename": "cosmonet-0.1.1.tar.gz",
+  "download_time": "2025-10-28T16:51:38.014540",
+  "package_url": "https://pypi.org/project/cosmonet/"
+}

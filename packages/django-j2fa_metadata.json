@@ -1,11 +1,11 @@
 {
   "name": "django-j2fa",
-  "version": "3.9.5",
+  "version": "3.9.6",
   "summary": "2-factor SMS authentication for Django projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_j2fa-3.9.5.tar.gz",
-  "download_time": "2025-10-28T14:57:08.613622",
+  "download_filename": "django_j2fa-3.9.6.tar.gz",
+  "download_time": "2025-10-28T16:51:12.635893",
   "package_url": "https://pypi.org/project/django-j2fa/"
 }

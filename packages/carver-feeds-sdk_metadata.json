@@ -1,11 +1,11 @@
 {
   "name": "carver-feeds-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for the Carver Feeds API - fetch, analyze, and query regulatory feed data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "carver_feeds_sdk-0.1.1-py3-none-any.whl",
-  "download_time": "2025-10-28T06:28:13.312372",
+  "download_filename": "carver_feeds_sdk-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-28T16:51:11.550759",
   "package_url": "https://pypi.org/project/carver-feeds-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "trashpandas",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Persistent Pandas DataFrame storage and retrieval using a SQL database, HDF5, CSV files, or pickle files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trashpandas-1.0.0.tar.gz",
-  "download_time": "2025-10-28T01:14:57.864004",
+  "download_filename": "trashpandas-1.0.2.tar.gz",
+  "download_time": "2025-10-28T16:51:46.238883",
   "package_url": "https://pypi.org/project/trashpandas/"
 }

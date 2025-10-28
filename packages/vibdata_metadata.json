@@ -1,0 +1,11 @@
+{
+  "name": "vibdata",
+  "version": "1.1.4",
+  "summary": "A package for vibration signal datasets",
+  "author": "Vitor Bonella",
+  "license": null,
+  "home_page": "https://github.com/ivarejao/vibdata/tree/signal_baseline",
+  "download_filename": "vibdata-1.1.4.tar.gz",
+  "download_time": "2025-10-28T16:51:43.659247",
+  "package_url": "https://pypi.org/project/vibdata/"
+}

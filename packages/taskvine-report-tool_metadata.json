@@ -1,0 +1,11 @@
+{
+  "name": "taskvine-report-tool",
+  "version": "2025.10.0",
+  "summary": "Visualization and analysis tool for TaskVine execution logs",
+  "author": "Collaborative Computing Lab (CCL), University of Notre Dame",
+  "license": null,
+  "home_page": "https://github.com/cooperative-computing-lab/taskvine-report-tool",
+  "download_filename": "taskvine_report_tool-2025.10.0.tar.gz",
+  "download_time": "2025-10-28T16:51:05.339072",
+  "package_url": "https://pypi.org/project/taskvine-report-tool/"
+}
