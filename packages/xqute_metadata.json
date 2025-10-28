@@ -1,0 +1,11 @@
+{
+  "name": "xqute",
+  "version": "0.10.17",
+  "summary": "A job management system for python",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/xqute",
+  "download_filename": "xqute-0.10.17.tar.gz",
+  "download_time": "2025-10-28T19:15:11.170694",
+  "package_url": "https://pypi.org/project/xqute/"
+}

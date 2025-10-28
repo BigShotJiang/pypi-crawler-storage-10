@@ -1,0 +1,11 @@
+{
+  "name": "nmdc-geoloc-tools",
+  "version": "0.3.0",
+  "summary": "NMDC library to request geolocation information including elevation, soil type, and landuse",
+  "author": "Brian Holderman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nmdc_geoloc_tools-0.3.0.tar.gz",
+  "download_time": "2025-10-28T19:15:03.609556",
+  "package_url": "https://pypi.org/project/nmdc-geoloc-tools/"
+}

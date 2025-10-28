@@ -1,0 +1,11 @@
+{
+  "name": "wipac-dev-actions-testbed",
+  "version": "1.1.63",
+  "summary": "A guinea pig for testing `wipac-dev-*-action` packages and workflows -- using python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wipac_dev_actions_testbed-1.1.63.tar.gz",
+  "download_time": "2025-10-28T19:14:52.773636",
+  "package_url": "https://pypi.org/project/wipac-dev-actions-testbed/"
+}

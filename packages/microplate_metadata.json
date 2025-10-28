@@ -1,0 +1,11 @@
+{
+  "name": "microplate",
+  "version": "1.8.1",
+  "summary": "A package for dealing with microtiter plates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microplate-1.8.1.tar.gz",
+  "download_time": "2025-10-28T19:15:11.706955",
+  "package_url": "https://pypi.org/project/microplate/"
+}

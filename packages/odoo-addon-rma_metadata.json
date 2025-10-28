@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-rma",
-  "version": "18.0.1.0.0.7",
+  "version": "18.0.1.1.0",
   "summary": "Return Merchandise Authorization (RMA)",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/rma",
-  "download_filename": "odoo_addon_rma-18.0.1.0.0.7-py3-none-any.whl",
-  "download_time": "2025-10-28T14:19:53.457566",
+  "download_filename": "odoo_addon_rma-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-10-28T19:14:54.935005",
   "package_url": "https://pypi.org/project/odoo-addon-rma/"
 }

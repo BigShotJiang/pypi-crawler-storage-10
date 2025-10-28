@@ -1,0 +1,11 @@
+{
+  "name": "lager-legacy-cli",
+  "version": "0.1.242",
+  "summary": "Lager Command Line Interface (Legacy Version)",
+  "author": "Lager Data LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/lagerdata/lager-cli",
+  "download_filename": "lager_legacy_cli-0.1.242.tar.gz",
+  "download_time": "2025-10-28T19:15:17.157781",
+  "package_url": "https://pypi.org/project/lager-legacy-cli/"
+}

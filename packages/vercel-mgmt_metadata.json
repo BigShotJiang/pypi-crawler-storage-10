@@ -1,0 +1,11 @@
+{
+  "name": "vercel-mgmt",
+  "version": "0.1.6",
+  "summary": "Cancel multiple builds right from the terminal",
+  "author": "Federico del Mazo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vercel_mgmt-0.1.6.tar.gz",
+  "download_time": "2025-10-28T19:15:04.161074",
+  "package_url": "https://pypi.org/project/vercel-mgmt/"
+}

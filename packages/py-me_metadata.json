@@ -1,0 +1,11 @@
+{
+  "name": "py-me",
+  "version": "2.1.2",
+  "summary": "Biblioteca Python com módulos para sons e interface gráfica e criação semi altomatica de projetos python",
+  "author": "isaias da silva nobrega",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_me-2.1.2.tar.gz",
+  "download_time": "2025-10-28T19:14:59.788980",
+  "package_url": "https://pypi.org/project/py-me/"
+}
