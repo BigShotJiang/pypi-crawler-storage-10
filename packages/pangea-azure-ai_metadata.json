@@ -1,11 +1,11 @@
 {
   "name": "pangea-azure-ai",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A wrapper around the Azure AI Inference SDK",
   "author": "Pangea",
   "license": null,
   "home_page": null,
-  "download_filename": "pangea_azure_ai-0.1.1.tar.gz",
-  "download_time": "2025-10-28T15:55:37.470084",
+  "download_filename": "pangea_azure_ai-0.2.0.tar.gz",
+  "download_time": "2025-10-28T18:27:33.114771",
   "package_url": "https://pypi.org/project/pangea-azure-ai/"
 }

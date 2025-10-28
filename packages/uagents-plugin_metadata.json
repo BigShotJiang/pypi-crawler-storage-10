@@ -1,0 +1,11 @@
+{
+  "name": "uagents-plugin",
+  "version": "0.1.0",
+  "summary": "Universal plugin for uAgents: connect LlamaIndex, CrewAI, LangChain, OpenAI, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uagents_plugin-0.1.0.tar.gz",
+  "download_time": "2025-10-28T18:27:12.928706",
+  "package_url": "https://pypi.org/project/uagents-plugin/"
+}

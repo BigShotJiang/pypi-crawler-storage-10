@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-es-verifactu-oca",
+  "version": "14.0.1.0.3",
+  "summary": "Comunicación VERI*FACTU",
+  "author": "Aures Tic,ForgeFlow,Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo14_addon_l10n_es_verifactu_oca-14.0.1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-28T18:27:39.726206",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-es-verifactu-oca/"
+}

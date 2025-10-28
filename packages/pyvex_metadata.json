@@ -1,0 +1,11 @@
+{
+  "name": "pyvex",
+  "version": "9.2.182",
+  "summary": "A Python interface to libVEX and VEX IR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvex-9.2.182.tar.gz",
+  "download_time": "2025-10-28T18:27:14.149066",
+  "package_url": "https://pypi.org/project/pyvex/"
+}

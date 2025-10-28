@@ -1,0 +1,11 @@
+{
+  "name": "aero-open-sdk",
+  "version": "0.1.0.dev0",
+  "summary": "This package provides an interface to control the Aero Hand Open robotic hand.",
+  "author": "Mohit Yadav",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "aero_open_sdk-0.1.0.dev0.tar.gz",
+  "download_time": "2025-10-28T18:27:18.303030",
+  "package_url": "https://pypi.org/project/aero-open-sdk/"
+}

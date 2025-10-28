@@ -1,0 +1,11 @@
+{
+  "name": "alpaca-py",
+  "version": "0.43.1",
+  "summary": "The Official Python SDK for Alpaca APIs",
+  "author": "Rahul Chowdhury",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/alpacahq/alpaca-py",
+  "download_filename": "alpaca_py-0.43.1.tar.gz",
+  "download_time": "2025-10-28T18:27:21.069258",
+  "package_url": "https://pypi.org/project/alpaca-py/"
+}

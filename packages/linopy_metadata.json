@@ -1,0 +1,11 @@
+{
+  "name": "linopy",
+  "version": "0.5.8",
+  "summary": "Linear optimization with N-D labeled arrays in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linopy-0.5.8.tar.gz",
+  "download_time": "2025-10-28T18:27:09.573417",
+  "package_url": "https://pypi.org/project/linopy/"
+}
