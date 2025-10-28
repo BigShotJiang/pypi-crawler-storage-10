@@ -1,0 +1,11 @@
+{
+  "name": "snakegram-up",
+  "version": "1.1.2",
+  "summary": "Full-featured Telegram client library for Python 3",
+  "author": "Amir:3",
+  "license": "MIT",
+  "home_page": "https://github.com/amirwolf5122/snakegram_up",
+  "download_filename": "snakegram_up-1.1.2-py3-none-any.whl",
+  "download_time": "2025-10-28T23:51:54.764479",
+  "package_url": "https://pypi.org/project/snakegram-up/"
+}

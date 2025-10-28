@@ -1,0 +1,11 @@
+{
+  "name": "minorminer",
+  "version": "0.2.20",
+  "summary": "Heuristic algorithm to find graph minor embeddings.",
+  "author": "Kelly Boothby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minorminer-0.2.20-cp310-cp310-macosx_10_13_x86_64.whl",
+  "download_time": "2025-10-28T23:51:43.573009",
+  "package_url": "https://pypi.org/project/minorminer/"
+}

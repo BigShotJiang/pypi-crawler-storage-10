@@ -1,11 +1,11 @@
 {
   "name": "mirror-dedupe",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Ubuntu mirror synchronisation with global deduplication",
   "author": "Tim Hosking",
   "license": "MIT",
   "home_page": "https://github.com/munger/mirror-dedupe",
-  "download_filename": "mirror_dedupe-0.1.0.tar.gz",
-  "download_time": "2025-10-28T21:58:22.720662",
+  "download_filename": "mirror_dedupe-0.2.0.tar.gz",
+  "download_time": "2025-10-28T23:52:07.667377",
   "package_url": "https://pypi.org/project/mirror-dedupe/"
 }

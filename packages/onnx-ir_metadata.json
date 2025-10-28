@@ -1,0 +1,11 @@
+{
+  "name": "onnx-ir",
+  "version": "0.1.12",
+  "summary": "Efficient in-memory representation for ONNX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx_ir-0.1.12.tar.gz",
+  "download_time": "2025-10-28T23:51:54.197357",
+  "package_url": "https://pypi.org/project/onnx-ir/"
+}
