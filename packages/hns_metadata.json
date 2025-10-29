@@ -1,0 +1,11 @@
+{
+  "name": "hns",
+  "version": "1.0.8",
+  "summary": "A simple, privacy-focused speech-to-text CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hns-1.0.8.tar.gz",
+  "download_time": "2025-10-29T17:18:24.758333",
+  "package_url": "https://pypi.org/project/hns/"
+}

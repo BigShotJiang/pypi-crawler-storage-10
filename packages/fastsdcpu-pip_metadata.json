@@ -1,0 +1,11 @@
+{
+  "name": "fastsdcpu-pip",
+  "version": "0.1.6",
+  "summary": "Fast stable diffusion on CPU and AI PC ported to a pip module",
+  "author": "Cuisset Mattéo",
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": "https://github.com/Flyns157/fastsdcpu/pip",
+  "download_filename": "fastsdcpu_pip-0.1.6.tar.gz",
+  "download_time": "2025-10-29T17:18:59.096376",
+  "package_url": "https://pypi.org/project/fastsdcpu-pip/"
+}

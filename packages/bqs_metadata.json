@@ -1,0 +1,11 @@
+{
+  "name": "bqs",
+  "version": "0.1.6",
+  "summary": "Better Quantum Software",
+  "author": "Michele Cattelan",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/MichiCatte/bqs.git",
+  "download_filename": "bqs-0.1.6.tar.gz",
+  "download_time": "2025-10-29T17:18:23.192289",
+  "package_url": "https://pypi.org/project/bqs/"
+}

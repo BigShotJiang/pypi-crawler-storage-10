@@ -1,0 +1,11 @@
+{
+  "name": "sonatype_iq_api_client",
+  "version": "0.196.2",
+  "summary": "Sonatype Lifecycle Public REST API",
+  "author": "Sonatype Community",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sonatype-nexus-community/nexus-iq-api-client",
+  "download_filename": "sonatype_iq_api_client-0.196.2.tar.gz",
+  "download_time": "2025-10-29T17:18:48.964694",
+  "package_url": "https://pypi.org/project/sonatype_iq_api_client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chronomeleon",
+  "version": "0.1.4",
+  "summary": "A python package to flexibly adapt start and end date(times) to your system background",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chronomeleon-0.1.4.tar.gz",
+  "download_time": "2025-10-29T17:18:53.147064",
+  "package_url": "https://pypi.org/project/chronomeleon/"
+}
