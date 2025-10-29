@@ -1,0 +1,11 @@
+{
+  "name": "spatialproteomics",
+  "version": "0.7.5",
+  "summary": "Spatialproteomics is an interoperable toolbox for analyzing highly multiplexed fluorescence image data",
+  "author": "Matthias Meyer-Bender, Harald Vohringer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spatialproteomics-0.7.5.tar.gz",
+  "download_time": "2025-10-29T12:38:56.465507",
+  "package_url": "https://pypi.org/project/spatialproteomics/"
+}

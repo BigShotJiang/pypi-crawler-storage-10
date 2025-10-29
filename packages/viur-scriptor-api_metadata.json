@@ -1,0 +1,11 @@
+{
+  "name": "viur-scriptor-api",
+  "version": "1.13.0",
+  "summary": "This is the internal Scriptor library that the viur-scriptor utilizes. The API includes components for networking as well as parts related to the Scriptor's files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viur_scriptor_api-1.13.0.tar.gz",
+  "download_time": "2025-10-29T12:39:23.143290",
+  "package_url": "https://pypi.org/project/viur-scriptor-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chains-py",
+  "version": "0.2.1",
+  "summary": "A unified, chainable interface for working with multiple LLM providers",
+  "author": "ohadr",
+  "license": null,
+  "home_page": "https://github.com/ohadr/chains",
+  "download_filename": "chains_py-0.2.1.tar.gz",
+  "download_time": "2025-10-29T12:39:00.537125",
+  "package_url": "https://pypi.org/project/chains-py/"
+}

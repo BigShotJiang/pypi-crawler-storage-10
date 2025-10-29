@@ -1,11 +1,11 @@
 {
   "name": "dapla-suv-tools",
-  "version": "0.1.82",
+  "version": "0.1.84",
   "summary": null,
   "author": "Anders Hagen",
   "license": null,
   "home_page": null,
-  "download_filename": "dapla_suv_tools-0.1.82.tar.gz",
-  "download_time": "2025-10-24T12:36:14.740221",
+  "download_filename": "dapla_suv_tools-0.1.84.tar.gz",
+  "download_time": "2025-10-29T12:38:41.593669",
   "package_url": "https://pypi.org/project/dapla-suv-tools/"
 }

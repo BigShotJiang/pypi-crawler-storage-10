@@ -1,0 +1,11 @@
+{
+  "name": "AminoExtract",
+  "version": "0.4.1",
+  "summary": "Extract amino acid sequences from a fasta file based on a GFF",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aminoextract-0.4.1.tar.gz",
+  "download_time": "2025-10-29T12:39:09.168564",
+  "package_url": "https://pypi.org/project/AminoExtract/"
+}
