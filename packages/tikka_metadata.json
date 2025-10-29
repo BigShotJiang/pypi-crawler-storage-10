@@ -1,11 +1,11 @@
 {
   "name": "tikka",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "summary": "Tikka is a fast and light Python/Tk client to manage your Ğ1 accounts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tikka-0.18.1.tar.gz",
-  "download_time": "2025-10-25T17:13:14.995815",
+  "download_filename": "tikka-0.18.2.tar.gz",
+  "download_time": "2025-10-29T14:58:28.228072",
   "package_url": "https://pypi.org/project/tikka/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "atomicshop",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "summary": "Atomic functions and classes to make developer life easier",
   "author": "Denis Kras",
   "license": null,
   "home_page": null,
-  "download_filename": "atomicshop-3.5.1-py3-none-any.whl",
-  "download_time": "2025-10-27T11:15:43.449574",
+  "download_filename": "atomicshop-3.5.2-py3-none-any.whl",
+  "download_time": "2025-10-29T14:58:18.947140",
   "package_url": "https://pypi.org/project/atomicshop/"
 }

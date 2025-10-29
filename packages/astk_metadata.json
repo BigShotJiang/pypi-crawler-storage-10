@@ -1,0 +1,11 @@
+{
+  "name": "astk",
+  "version": "0.1.4",
+  "summary": "A comprehensive toolkit for alternative splicing analysis",
+  "author": "huangsh",
+  "license": null,
+  "home_page": "https://github.com/huang-sh/astk/",
+  "download_filename": "astk-0.1.4.tar.gz",
+  "download_time": "2025-10-29T14:58:21.781933",
+  "package_url": "https://pypi.org/project/astk/"
+}

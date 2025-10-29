@@ -1,0 +1,11 @@
+{
+  "name": "eikonax",
+  "version": "0.4.0",
+  "summary": "Differentiable Solver for the Anisotropic Eikonal Equation on Triangulated Meshes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eikonax-0.4.0.tar.gz",
+  "download_time": "2025-10-29T14:58:38.410544",
+  "package_url": "https://pypi.org/project/eikonax/"
+}

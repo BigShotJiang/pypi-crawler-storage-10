@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T14:47:35.983818
-- **Total Packages**: 87
-- **Total Size**: 33.51 MB
+- **Download Time**: 2025-10-29T14:59:00.895532
+- **Total Packages**: 90
+- **Total Size**: 26.37 MB
 
 ## Packages List
+- pulumiverse-scaleway
+- siat
+- flypipe
+- birdbrain-python-library-2
+- llm-katan
+- code-loader
+- mixam-sdk
+- bank131-sdk
+- django-formset
+- shieldscan
+- FAIRLinked
+- mxcubeweb
+- svs-core
+- tinyshare
+- athena-intelligence
+- rebase-dashboard
+- cctk
+- openreview-py
+- amharic-tokenizer
+- atomicshop
+- draive
+- compass_api_sdk
+- dsa-helpers
+- astk
+- whatamithinking-jsonproto
+- bank131
+- hdn-research-environment
+- earthcare-downloader
+- twitterexplorer
+- pypcd4
+- skyborn
+- cybrid-api-bank-python
+- monolit-local-app
+- pysail
+- tikka
+- tricc-oo
+- methodwebscan
+- spec-driver
+- falcon-md
+- claude-worktree
+- fsai-proto-specs
+- finder-enrichment-orchestrator-api-client
+- pollination-well-daylight
+- cybrid-api-organization-python
+- cybrid-api-id-python
+- ssnolib
+- pychilaslasers
+- reaktome
+- lusid-sdk
+- opik
+- sampo
+- alibabacloud-companyreg20200306
+- eikonax
+- dominodatalab-data
+- pyonir
+- solana-fcg-tool
 - jmetalpy
 - reicore-sdk
 - tigre
@@ -13,7 +69,6 @@
 - metatrader5
 - emoji-annotations
 - bridgecrew
-- rebase-dashboard
 - pico-report
 - perfnexus
 - livetxt
@@ -41,55 +96,3 @@
 - pyail
 - textglue
 - fc-code-interpreter-mcp-server
-- superset-sqlalchemy-gizmosql-adbc-dialect
-- ocap
-- earthcare-downloader
-- bwamem
-- hestia-earth-validation
-- fnos
-- guardcoreapi
-- flywheel-sdk
-- parrots
-- flake8-import-guard
-- aioresonate
-- brynq-sdk-bob
-- pandahub
-- tdfs4ds
-- pytest-nhsd-apim
-- pulumi-aws
-- conan-server
-- conan
-- aixtools
-- orderman
-- pynusinov
-- celeries
-- analog-neural-training
-- webbed-duck
-- gr4vy
-- librelane
-- legit-api-client
-- dibber
-- code-loader
-- agent-inspector
-- owa-msgs
-- owa-env-gst
-- fastapi-voyager
-- agilab
-- agi-core
-- owa-env-desktop
-- agi-cluster
-- agi-node
-- owa-core
-- owa-cli
-- pyuda
-- synthefy
-- mcap-owa-support
-- strands-agents-tools
-- owa
-- importer-core
-- hass-nabucasa
-- codemie-plugins
-- scanoss
-- matmalib
-- django-db-lock
-- regula-documentreader-webclient

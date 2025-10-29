@@ -1,0 +1,11 @@
+{
+  "name": "finder-enrichment-orchestrator-api-client",
+  "version": "0.1.0",
+  "summary": "Lightweight API client for the Finder Enrichment Orchestrator service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finder_enrichment_orchestrator_api_client-0.1.0.tar.gz",
+  "download_time": "2025-10-29T14:58:32.011434",
+  "package_url": "https://pypi.org/project/finder-enrichment-orchestrator-api-client/"
+}

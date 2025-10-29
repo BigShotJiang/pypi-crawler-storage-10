@@ -1,0 +1,11 @@
+{
+  "name": "cctk",
+  "version": "0.2.27",
+  "summary": "computational chemistry toolkit",
+  "author": "Corin Wagen and Eugene Kwan",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ekwan/cctk",
+  "download_filename": "cctk-0.2.27.tar.gz",
+  "download_time": "2025-10-29T14:58:17.184927",
+  "package_url": "https://pypi.org/project/cctk/"
+}

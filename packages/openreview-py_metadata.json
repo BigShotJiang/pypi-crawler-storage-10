@@ -1,11 +1,11 @@
 {
   "name": "openreview-py",
-  "version": "1.53.0",
+  "version": "1.53.1",
   "summary": "OpenReview API Python client library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openreview_py-1.53.0-py3-none-any.whl",
-  "download_time": "2025-10-28T15:44:30.795927",
+  "download_filename": "openreview_py-1.53.1-py3-none-any.whl",
+  "download_time": "2025-10-29T14:58:17.766395",
   "package_url": "https://pypi.org/project/openreview-py/"
 }

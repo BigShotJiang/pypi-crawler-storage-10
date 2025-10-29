@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-companyreg20200306",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "Alibaba Cloud Company Registration (20200306) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_companyreg20200306-2.2.1.tar.gz",
-  "download_time": "2025-10-29T14:19:19.943812",
+  "download_filename": "alibabacloud_companyreg20200306-2.2.3.tar.gz",
+  "download_time": "2025-10-29T14:58:37.823111",
   "package_url": "https://pypi.org/project/alibabacloud-companyreg20200306/"
 }

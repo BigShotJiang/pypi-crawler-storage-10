@@ -1,11 +1,11 @@
 {
   "name": "reaktome",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Advisory-only setattr hooks with veto support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reaktome-0.1.20.tar.gz",
-  "download_time": "2025-10-28T23:17:15.019893",
+  "download_filename": "reaktome-0.1.21.tar.gz",
+  "download_time": "2025-10-29T14:58:35.510212",
   "package_url": "https://pypi.org/project/reaktome/"
 }
