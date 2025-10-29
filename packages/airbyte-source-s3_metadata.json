@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-s3",
+  "version": "4.15.0",
+  "summary": "Source implementation for S3.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_s3-4.15.0.tar.gz",
+  "download_time": "2025-10-29T23:40:22.852253",
+  "package_url": "https://pypi.org/project/airbyte-source-s3/"
+}

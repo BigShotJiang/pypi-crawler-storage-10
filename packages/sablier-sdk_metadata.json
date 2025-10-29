@@ -1,0 +1,11 @@
+{
+  "name": "sablier-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for Sablier Market Scenario Generator - Create scenario-conditioned synthetic financial data",
+  "author": "Sablier Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sablier_sdk-0.1.0.tar.gz",
+  "download_time": "2025-10-29T23:40:18.617443",
+  "package_url": "https://pypi.org/project/sablier-sdk/"
+}

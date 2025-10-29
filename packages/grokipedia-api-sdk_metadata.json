@@ -1,11 +1,11 @@
 {
   "name": "grokipedia-api-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Grokipedia API SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grokipedia_api_sdk-0.1.1.tar.gz",
-  "download_time": "2025-10-29T22:43:47.225298",
+  "download_filename": "grokipedia_api_sdk-0.1.2.tar.gz",
+  "download_time": "2025-10-29T23:40:24.408201",
   "package_url": "https://pypi.org/project/grokipedia-api-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-core",
+  "version": "2.5.0",
+  "summary": "Google Cloud API client core library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-cloud-core",
+  "download_filename": "google_cloud_core-2.5.0.tar.gz",
+  "download_time": "2025-10-29T23:40:27.012666",
+  "package_url": "https://pypi.org/project/google-cloud-core/"
+}

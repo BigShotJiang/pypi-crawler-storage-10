@@ -1,0 +1,11 @@
+{
+  "name": "dexcomm",
+  "version": "0.1.18",
+  "summary": "Communication library using Zenoh with ROS-like functionality",
+  "author": null,
+  "license": "Dual licensed: AGPL-3.0 and Commercial",
+  "home_page": null,
+  "download_filename": "dexcomm-0.1.18-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-29T23:40:02.025042",
+  "package_url": "https://pypi.org/project/dexcomm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simpler",
+  "version": "7.0.4",
+  "summary": "Makes Python simpler.",
+  "author": "Juan C. Roldán",
+  "license": "MIT",
+  "home_page": "https://github.com/juancroldan/simpler",
+  "download_filename": "simpler-7.0.4.tar.gz",
+  "download_time": "2025-10-29T23:40:00.468270",
+  "package_url": "https://pypi.org/project/simpler/"
+}

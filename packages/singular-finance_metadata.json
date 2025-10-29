@@ -1,11 +1,11 @@
 {
   "name": "singular-finance",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Uma biblioteca Python para análise financeira corporativa, valuation e indicadores",
   "author": "Singular Finance Team",
   "license": null,
   "home_page": "https://github.com/singular-finance/singular-finance",
-  "download_filename": "singular_finance-1.0.2.tar.gz",
-  "download_time": "2025-10-28T21:58:36.637936",
+  "download_filename": "singular_finance-1.0.3.tar.gz",
+  "download_time": "2025-10-29T23:40:20.160477",
   "package_url": "https://pypi.org/project/singular-finance/"
 }
