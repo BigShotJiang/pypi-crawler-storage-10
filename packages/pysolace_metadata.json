@@ -1,0 +1,11 @@
+{
+  "name": "pysolace",
+  "version": "0.9.53",
+  "summary": "Python client library for Solace PubSub+ event broker, enabling easy integration for messaging applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysolace-0.9.53-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-10-29T05:18:47.047865",
+  "package_url": "https://pypi.org/project/pysolace/"
+}

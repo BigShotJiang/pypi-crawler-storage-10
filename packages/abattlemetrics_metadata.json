@@ -1,11 +1,11 @@
 {
   "name": "abattlemetrics",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "An asyncio wrapper for the battlemetrics API.",
   "author": "thegamecracks",
   "license": null,
   "home_page": null,
-  "download_filename": "abattlemetrics-0.7.0.tar.gz",
-  "download_time": "2025-10-29T04:48:28.986305",
+  "download_filename": "abattlemetrics-0.7.1.tar.gz",
+  "download_time": "2025-10-29T05:19:09.464203",
   "package_url": "https://pypi.org/project/abattlemetrics/"
 }

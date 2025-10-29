@@ -1,11 +1,11 @@
 {
   "name": "nedo-vision-worker-core",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "Nedo Vision Worker Core Library for AI Vision Processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nedo_vision_worker_core-0.4.1.tar.gz",
-  "download_time": "2025-10-28T04:27:48.655927",
+  "download_filename": "nedo_vision_worker_core-0.4.3.tar.gz",
+  "download_time": "2025-10-29T05:18:43.756198",
   "package_url": "https://pypi.org/project/nedo-vision-worker-core/"
 }

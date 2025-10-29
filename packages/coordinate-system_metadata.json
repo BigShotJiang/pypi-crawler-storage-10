@@ -1,11 +1,11 @@
 {
   "name": "coordinate-system",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "High-performance 3D coordinate system library with machine-precision Gaussian curvature computation (0.000% error) using corrected antisymmetric extraction formula",
   "author": "PanGuoJun",
   "license": "MIT",
   "home_page": "https://github.com/panguojun/Coordinate-System",
-  "download_filename": "coordinate_system-2.4.0.tar.gz",
-  "download_time": "2025-10-29T03:51:30.310553",
+  "download_filename": "coordinate_system-2.4.1.tar.gz",
+  "download_time": "2025-10-29T05:18:51.246954",
   "package_url": "https://pypi.org/project/coordinate-system/"
 }
