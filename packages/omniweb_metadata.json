@@ -1,11 +1,11 @@
 {
   "name": "omniweb",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "One Framework, Every Platform - Web + Desktop in pure Python with Django's power and FastAPI's speed",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omniweb-0.1.0.tar.gz",
-  "download_time": "2025-10-29T10:46:57.493301",
+  "download_filename": "omniweb-0.2.0.tar.gz",
+  "download_time": "2025-10-29T11:17:15.776623",
   "package_url": "https://pypi.org/project/omniweb/"
 }
