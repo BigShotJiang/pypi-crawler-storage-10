@@ -1,11 +1,11 @@
 {
   "name": "edc-microscopy",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Microscopy model mixins in clinicedc/edc projects",
   "author": "Erik van Widenfelt",
   "license": null,
   "home_page": null,
-  "download_filename": "edc_microscopy-1.3.0.tar.gz",
-  "download_time": "2025-10-29T03:51:18.454610",
+  "download_filename": "edc_microscopy-1.3.1.tar.gz",
+  "download_time": "2025-10-29T04:26:00.556815",
   "package_url": "https://pypi.org/project/edc-microscopy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nonebot2",
+  "version": "2.4.4",
+  "summary": "An asynchronous python bot framework.",
+  "author": "yanyongyu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot2-2.4.4.tar.gz",
+  "download_time": "2025-10-29T04:26:04.783309",
+  "package_url": "https://pypi.org/project/nonebot2/"
+}

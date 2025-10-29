@@ -1,11 +1,11 @@
 {
   "name": "graze",
-  "version": "0.1.34",
+  "version": "0.1.35",
   "summary": "Cache (a tiny part of) the internet",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": "https://github.com/thorwhalen/graze",
-  "download_filename": "graze-0.1.34.tar.gz",
-  "download_time": "2025-10-29T01:20:27.005574",
+  "download_filename": "graze-0.1.35.tar.gz",
+  "download_time": "2025-10-29T04:26:01.600258",
   "package_url": "https://pypi.org/project/graze/"
 }

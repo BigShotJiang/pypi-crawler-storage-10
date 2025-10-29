@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dm20151123",
+  "version": "1.7.1",
+  "summary": "Alibaba Cloud Dm (20151123) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dm20151123-1.7.1.tar.gz",
+  "download_time": "2025-10-29T04:26:16.144525",
+  "package_url": "https://pypi.org/project/alibabacloud-dm20151123/"
+}

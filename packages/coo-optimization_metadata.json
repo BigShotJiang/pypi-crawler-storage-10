@@ -1,11 +1,11 @@
 {
   "name": "coo-optimization",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "Canine Olfactory Optimization Algorithm",
   "author": "Sandip Garai",
   "license": "MIT",
   "home_page": "https://github.com/SandipGarai/coo_optimization",
-  "download_filename": "coo_optimization-2.3.0.tar.gz",
-  "download_time": "2025-10-28T12:36:39.500303",
+  "download_filename": "coo_optimization-2.4.0.tar.gz",
+  "download_time": "2025-10-29T04:25:42.757538",
   "package_url": "https://pypi.org/project/coo-optimization/"
 }

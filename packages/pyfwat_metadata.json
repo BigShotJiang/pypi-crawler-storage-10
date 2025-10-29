@@ -1,0 +1,11 @@
+{
+  "name": "pyfwat",
+  "version": "0.2.1",
+  "summary": "Python interface for SpecFWAT (Full Waveform Adjoint Tomography)",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "pyfwat-0.2.1.tar.gz",
+  "download_time": "2025-10-29T04:25:42.246126",
+  "package_url": "https://pypi.org/project/pyfwat/"
+}

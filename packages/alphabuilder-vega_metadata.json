@@ -1,0 +1,11 @@
+{
+  "name": "alphabuilder-vega",
+  "version": "0.0.1.0",
+  "summary": "Derivative library for quantitative finance research",
+  "author": "Geet Mukherjee",
+  "license": null,
+  "home_page": "https://alphabuilder.xyz/",
+  "download_filename": "alphabuilder_vega-0.0.1.0.tar.gz",
+  "download_time": "2025-10-29T04:26:03.732151",
+  "package_url": "https://pypi.org/project/alphabuilder-vega/"
+}
