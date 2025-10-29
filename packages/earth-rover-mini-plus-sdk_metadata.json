@@ -1,11 +1,11 @@
 {
   "name": "earth-rover-mini-plus-sdk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "API for EarthRover Mini+. Allows interfacing and control over device through a simple interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "earth_rover_mini_plus_sdk-1.0.1.tar.gz",
-  "download_time": "2025-10-29T04:26:14.595118",
+  "download_filename": "earth_rover_mini_plus_sdk-1.0.3.tar.gz",
+  "download_time": "2025-10-29T04:48:31.880209",
   "package_url": "https://pypi.org/project/earth-rover-mini-plus-sdk/"
 }

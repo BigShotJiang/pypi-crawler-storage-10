@@ -1,20 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T04:26:20.192608
-- **Total Packages**: 86
-- **Total Size**: 36.37 MB
+- **Download Time**: 2025-10-29T04:49:13.150995
+- **Total Packages**: 87
+- **Total Size**: 17.03 MB
 
 ## Packages List
+- jararaca
+- workstack
+- dot-agent-kit
+- sleipnirgroup-jormungandr
+- moshpdfjend555
+- mchnpkg
+- pixeltable
+- iflow-mcp_desk3-service
+- chembfn-webui
+- abattlemetrics
+- prompt-scribe
+- AutoImblearn
+- gallagher
+- browser-use
+- earth-rover-mini-plus-sdk
+- aioesphomeapi
+- robhan-cdk-lib.aws-aps
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.utils
+- shudaodao
+- iflow-mcp_telegram-mcp
+- odoo14-addons-oca-website
+- ssbc
+- odoo-addon-hotel
+- nonebot-plugin-docs
+- sycommon-python-lib
+- langchain-serpex-python
+- localargo
+- keras-nlp-nightly
+- keras-hub-nightly
+- mcp-router
+- dragon-ml-toolbox
+- odoo-addon-fs-attachment
 - imgif
 - dandy
-- mchnpkg
 - starfix
 - graphql-to-httprunner
 - nanovdb-editor
 - snowflake-connector-python-nightly
 - alphabuilder-hub
-- shudaodao
 - airbyte-source-google-drive
 - airbyte-source-gcs
 - toologan
@@ -62,33 +93,3 @@
 - persidict
 - glchat-sdk
 - alphabuilder-vega
-- pulumi-okta
-- nonebot2
-- tobot
-- lava-lyra
-- simexp
-- tamar-file-hub-client
-- cutime
-- PySide6-QtAds
-- odoo-addon-rma
-- rw_math
-- odoo-addon-bi-sql-editor
-- continual-foragax
-- plsm
-- acdc_aws_etl_pipeline
-- jeans
-- digital-life
-- synqly
-- odoo-addon-repair-service
-- edc-qol
-- earth-rover-mini-plus-sdk
-- mentat-lss
-- publicsuffixlist
-- alibabacloud-dm20151123
-- mcstatusio
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.attrs-utils
-- thds.tabularasa
-- thds.core

@@ -1,0 +1,11 @@
+{
+  "name": "chembfn-webui",
+  "version": "1.2.3",
+  "summary": "WebUI for ChemBFN",
+  "author": "Nianze A. Tao",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/Augus1999/ChemBFN-WebUI",
+  "download_filename": "chembfn_webui-1.2.3.tar.gz",
+  "download_time": "2025-10-29T04:48:28.407548",
+  "package_url": "https://pypi.org/project/chembfn-webui/"
+}
