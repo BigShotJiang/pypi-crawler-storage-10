@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T09:43:19.885680
-- **Total Packages**: 93
-- **Total Size**: 50.55 MB
+- **Download Time**: 2025-10-29T09:52:28.307231
+- **Total Packages**: 89
+- **Total Size**: 21.1 MB
 
 ## Packages List
+- iflow-mcp_mcp-pandoc
+- abses
+- pyroSAR
+- hulu-evaluate
+- rebase-dashboard
+- orq-ai-sdk
+- mergify-cli
+- azulero
+- aggregation-agent
+- revengai
+- iden3math
+- clustertk
+- esp-ppq
+- writer
+- tai-keycloak
+- mcp-chenzhi
+- airweave-sdk
+- Blinter
+- drun
+- tbp-nightly
+- infn-ophyd-hal
+- keboola-mcp-server
+- apimatic-core-interfaces
+- iflow-mcp_mcp-applemusic
+- aiboosterqc
+- pptagent
+- openplx-bundles
 - mteb
 - jupyterlab-deepnote
 - flask-frame
@@ -16,7 +43,6 @@
 - py-browser-automation
 - cloudos-cli
 - student-tools
-- pptagent
 - vib-analysis
 - zhkj-plugins-parent
 - word-document-content-adder-mcp
@@ -32,7 +58,6 @@
 - bosa-server-plugins-binary
 - parrots
 - lanraragi-api
-- aiboosterqc
 - alibabacloud-dlfnext20250310
 - frogml
 - uv-secure
@@ -70,32 +95,3 @@
 - loadforecasting-models
 - microsoft-agents-storage-cosmos
 - pkboost
-- microsoft-agents-storage-blob
-- microsoft-agents-hosting-teams
-- microsoft-agents-hosting-fastapi
-- microsoft-agents-hosting-core
-- microsoft-agents-hosting-aiohttp
-- microsoft-agents-copilotstudio-client
-- microsoft-agents-authentication-msal
-- microsoft-agents-activity
-- drun
-- iflow-mcp_mcp-server-data-wrangler
-- coordinate-system
-- pymelcloudhome
-- ising-sdk
-- ibm-watsonx-ai
-- nectarengine
-- pylint-docstring-checker
-- dq-suite-amsterdam
-- sismic
-- tboxsdk
-- donkit-retriever
-- qwak-core
-- dokku-api
-- coeaidpml
-- meshcore-cli
-- jaxnasium
-- dogesec-commons
-- iflow-mcp_mcp-server-esignatures
-- iflow-mcp_yfmcp
-- iflow-mcp_crypto-feargreed-mcp

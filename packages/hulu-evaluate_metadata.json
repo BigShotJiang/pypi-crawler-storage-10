@@ -1,0 +1,11 @@
+{
+  "name": "hulu-evaluate",
+  "version": "0.0.5",
+  "summary": "Client library to fine-tune and evaluate models on the HuLU benchmark.",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "hulu_evaluate-0.0.5.tar.gz",
+  "download_time": "2025-10-29T09:51:37.296172",
+  "package_url": "https://pypi.org/project/hulu-evaluate/"
+}

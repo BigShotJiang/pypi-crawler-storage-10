@@ -1,0 +1,11 @@
+{
+  "name": "apimatic-core-interfaces",
+  "version": "0.1.8",
+  "summary": "An abstract layer of the functionalities provided by apimatic-core-library, requests-client-adapter and APIMatic SDKs.",
+  "author": "APIMatic",
+  "license": "MIT",
+  "home_page": "https://github.com/apimatic/core-interfaces-python",
+  "download_filename": "apimatic_core_interfaces-0.1.8.tar.gz",
+  "download_time": "2025-10-29T09:51:49.845435",
+  "package_url": "https://pypi.org/project/apimatic-core-interfaces/"
+}
