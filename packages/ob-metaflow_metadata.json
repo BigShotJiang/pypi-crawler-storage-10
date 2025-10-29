@@ -1,11 +1,11 @@
 {
   "name": "ob-metaflow",
-  "version": "2.19.3.1",
+  "version": "2.19.4.1",
   "summary": "Metaflow: More AI and ML, Less Engineering",
   "author": "Netflix, Outerbounds & the Metaflow Community",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "ob_metaflow-2.19.3.1.tar.gz",
-  "download_time": "2025-10-28T11:29:48.461109",
+  "download_filename": "ob_metaflow-2.19.4.1.tar.gz",
+  "download_time": "2025-10-29T19:29:10.702107",
   "package_url": "https://pypi.org/project/ob-metaflow/"
 }

@@ -1,13 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T19:15:39.707339
-- **Total Packages**: 89
-- **Total Size**: 16.56 MB
+- **Download Time**: 2025-10-29T19:29:38.301336
+- **Total Packages**: 83
+- **Total Size**: 19.49 MB
 
 ## Packages List
-- dol
+- knack-sleuth
+- ayechat
+- medilinda-ml
+- osism
+- fennec-asr
+- iacamp-common-lib
+- repoze.xmliter
+- mosaicprot
+- webtoolkit
+- vellum-workflow-server
+- FAIRLinked
+- vedika
+- athena-client
+- pyx3270
+- animeapi-py
+- for-django-projects
+- atomicds
+- moai-adk
+- importer-core
+- kani
+- pathql
+- bartiq
+- cell-AAP
+- vectome
+- apify
+- dominodatalab
+- saylt
+- redis-benchmarks-specification
+- lightcurvelynx
+- percylib
+- ncut-pytorch
+- ob-metaflow
+- arthur-client
+- easy-utils-dev
+- terraform-ingest
+- jet-django
+- jet-bridge
+- jet-bridge-base
+- jfjoch-client
 - fast-plaid
+- keycardai-mcp-fastmcp
+- pagerduty-mcp
+- keycardai-mcp
+- edat-utils
+- planet
+- dol
 - pysynthbio
 - h2o-text-2-everything
 - pytailwindcss
@@ -15,15 +59,11 @@
 - fastmikeio
 - deepagents
 - treehfd
-- arthur-client
-- fennec-asr
 - dqlib
 - pyliebherr
 - LAMAReg
 - network-security-audit
 - coron
-- importer-core
-- percylib
 - cdk-factory
 - nbtx
 - pxblat
@@ -49,49 +89,3 @@
 - MetaRpcMT4
 - pybamm
 - MetaRpcMT5
-- edat-utils
-- whisper-api-sdk
-- blueink-client-python
-- horcrux
-- render-engine-pg
-- dreamer4
-- meshcore-cli
-- cvtkit
-- cognite-typed-functions
-- dag-simple
-- aero-lang
-- mcpscanner
-- lfcdemolib
-- txjsonrpc-ng
-- datacommons-mcp
-- cioc4d
-- rdflib-ocdm
-- energy-converter
-- tokamesh
-- riveter
-- granian
-- linflex
-- matrix-filler
-- fastapi-constance
-- cool-seq-tool
-- mythic-container
-- science-mode-4
-- chutes
-- llmflowstack
-- netpicker-netbox-plugin
-- ipfabric
-- superset-sqlalchemy-gizmosql-adbc-dialect
-- csvalchemy
-- airflow-dbt-python
-- ezqlite
-- pyhausbus
-- html-to-markdown
-- petsc4py
-- st-styled
-- RNApysoforms
-- rtty-soda
-- wandelbots-api-client
-- broker
-- more-compute
-- mif
-- openhands-ai

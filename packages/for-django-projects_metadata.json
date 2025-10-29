@@ -1,0 +1,11 @@
+{
+  "name": "for-django-projects",
+  "version": "1.4.8",
+  "summary": "Package of libraries for Django projects",
+  "author": "Jasmany Sanchez Mendez",
+  "license": null,
+  "home_page": "https://github.com/jasmanysanchez/for-django-projects",
+  "download_filename": "for_django_projects-1.4.8.tar.gz",
+  "download_time": "2025-10-29T19:29:02.356012",
+  "package_url": "https://pypi.org/project/for-django-projects/"
+}
