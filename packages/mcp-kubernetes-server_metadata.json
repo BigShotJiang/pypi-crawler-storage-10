@@ -1,0 +1,11 @@
+{
+  "name": "mcp-kubernetes-server",
+  "version": "0.1.12",
+  "summary": "The mcp-kubernetes-server is a Model Context Protocol (MCP) server that enables AI assistants to interact with Kubernetes clusters. It serves as a bridge between AI tools (like Claude, Cursor, and GitHub Copilot) and Kubernetes, translating natural language requests into Kubernetes operations and returning the results in a format the AI tools can understand.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_kubernetes_server-0.1.12.tar.gz",
+  "download_time": "2025-10-29T07:43:24.527987",
+  "package_url": "https://pypi.org/project/mcp-kubernetes-server/"
+}

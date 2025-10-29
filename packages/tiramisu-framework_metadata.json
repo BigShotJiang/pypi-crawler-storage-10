@@ -1,11 +1,11 @@
 {
   "name": "tiramisu-framework",
-  "version": "1.0.0",
-  "summary": "AI-powered marketing analysis framework",
-  "author": "Tiramisu Team",
+  "version": "1.0.1",
+  "summary": "Multi-expert RAG framework for domain-specific consultancy",
+  "author": "Jony Wolff",
   "license": null,
   "home_page": "https://github.com/tiramisu-framework/tiramisu-framework",
-  "download_filename": "tiramisu_framework-1.0.0.tar.gz",
-  "download_time": "2025-10-27T22:35:03.830325",
+  "download_filename": "tiramisu_framework-1.0.1.tar.gz",
+  "download_time": "2025-10-29T07:43:22.892592",
   "package_url": "https://pypi.org/project/tiramisu-framework/"
 }

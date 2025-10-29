@@ -1,0 +1,11 @@
+{
+  "name": "labtex",
+  "version": "0.6.3",
+  "summary": "Lab report data analysis and LaTeX file generation",
+  "author": "CianLM",
+  "license": null,
+  "home_page": "https://github.com/CianLM/labtex",
+  "download_filename": "labtex-0.6.3.tar.gz",
+  "download_time": "2025-10-29T07:43:34.154393",
+  "package_url": "https://pypi.org/project/labtex/"
+}

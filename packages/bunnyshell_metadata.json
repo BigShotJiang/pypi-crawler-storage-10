@@ -1,11 +1,11 @@
 {
   "name": "bunnyshell",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Official Python SDK for Bunnyshell Sandboxes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bunnyshell-0.1.4.tar.gz",
-  "download_time": "2025-10-28T14:57:03.002075",
+  "download_filename": "bunnyshell-0.1.5.tar.gz",
+  "download_time": "2025-10-29T07:44:10.320259",
   "package_url": "https://pypi.org/project/bunnyshell/"
 }

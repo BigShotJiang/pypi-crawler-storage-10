@@ -1,0 +1,11 @@
+{
+  "name": "circle-schema",
+  "version": "0.10.1",
+  "summary": "Python bindings for circle schema for project ONE",
+  "author": "nnfw",
+  "license": null,
+  "home_page": "https://github.com/Samsung/ONE",
+  "download_filename": "circle_schema-0.10.1-py3-none-any.whl",
+  "download_time": "2025-10-29T07:43:20.440226",
+  "package_url": "https://pypi.org/project/circle-schema/"
+}

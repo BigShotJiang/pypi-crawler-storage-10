@@ -1,0 +1,11 @@
+{
+  "name": "simple-baserow-api",
+  "version": "0.1.6",
+  "summary": "Awesome simple_baserow_api created by KuechlerO",
+  "author": "KuechlerO",
+  "license": null,
+  "home_page": "https://github.com/KuechlerO/simple_baserow_api/",
+  "download_filename": "simple_baserow_api-0.1.6.tar.gz",
+  "download_time": "2025-10-29T07:43:40.260458",
+  "package_url": "https://pypi.org/project/simple-baserow-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ethoPyRT",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Helper function for analysis of Varian ETHOS data",
   "author": "Maximilian Knoll",
   "license": "MIT",
   "home_page": "https://github.com/mknoll/ethoPy",
-  "download_filename": "ethopyrt-0.1.7.tar.gz",
-  "download_time": "2025-10-28T11:29:24.172935",
+  "download_filename": "ethopyrt-0.1.8.tar.gz",
+  "download_time": "2025-10-29T07:43:46.830773",
   "package_url": "https://pypi.org/project/ethoPyRT/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dragon-ml-toolbox",
-  "version": "13.3.1",
+  "version": "13.3.2",
   "summary": "A collection of tools for data science and machine learning projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dragon_ml_toolbox-13.3.1.tar.gz",
-  "download_time": "2025-10-29T05:53:33.597062",
+  "download_filename": "dragon_ml_toolbox-13.3.2.tar.gz",
+  "download_time": "2025-10-29T07:43:41.928952",
   "package_url": "https://pypi.org/project/dragon-ml-toolbox/"
 }

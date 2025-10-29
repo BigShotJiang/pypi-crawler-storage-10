@@ -1,0 +1,11 @@
+{
+  "name": "simo-sonos",
+  "version": "1.2.17",
+  "summary": "SONOS integration for SIMO.io",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simo_sonos-1.2.17.tar.gz",
+  "download_time": "2025-10-29T07:43:30.882142",
+  "package_url": "https://pypi.org/project/simo-sonos/"
+}

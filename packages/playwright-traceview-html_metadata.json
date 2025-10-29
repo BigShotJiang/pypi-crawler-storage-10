@@ -1,0 +1,11 @@
+{
+  "name": "playwright-traceview-html",
+  "version": "0.3.1",
+  "summary": "Interactive local HTML report and server for Playwright trace results.",
+  "author": "Jaya Krishna",
+  "license": "MIT",
+  "home_page": "https://github.com/JK-JuLaYi/playwright-traceview-html",
+  "download_filename": "playwright_traceview_html-0.3.1.tar.gz",
+  "download_time": "2025-10-29T07:43:53.268247",
+  "package_url": "https://pypi.org/project/playwright-traceview-html/"
+}

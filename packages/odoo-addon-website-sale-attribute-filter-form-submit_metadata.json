@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-sale-attribute-filter-form-submit",
+  "version": "18.0.1.0.0.2",
+  "summary": "Allow to apply manually the filters on the e-commerce",
+  "author": "Studio73, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/e-commerce",
+  "download_filename": "odoo_addon_website_sale_attribute_filter_form_submit-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-29T07:43:45.810411",
+  "package_url": "https://pypi.org/project/odoo-addon-website-sale-attribute-filter-form-submit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "langchain-serpex-python",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "An integration package connecting SERPEX and LangChain (Python)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_serpex_python-0.1.0.tar.gz",
-  "download_time": "2025-10-29T04:48:38.816667",
+  "download_filename": "langchain_serpex_python-0.1.4.tar.gz",
+  "download_time": "2025-10-29T07:43:33.005689",
   "package_url": "https://pypi.org/project/langchain-serpex-python/"
 }

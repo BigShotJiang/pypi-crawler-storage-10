@@ -1,11 +1,11 @@
 {
   "name": "intelligent-work-assistant",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Personal Intelligent Work Assistant running on local computer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "intelligent_work_assistant-0.1.0.tar.gz",
-  "download_time": "2025-10-28T08:57:56.480177",
+  "download_filename": "intelligent_work_assistant-0.2.0.tar.gz",
+  "download_time": "2025-10-29T07:43:44.145269",
   "package_url": "https://pypi.org/project/intelligent-work-assistant/"
 }

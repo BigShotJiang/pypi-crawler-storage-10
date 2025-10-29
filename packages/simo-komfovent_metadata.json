@@ -1,0 +1,11 @@
+{
+  "name": "simo-komfovent",
+  "version": "1.1.8",
+  "summary": "Komfovent C6 integration for SIMO.io",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simo_komfovent-1.1.8.tar.gz",
+  "download_time": "2025-10-29T07:43:21.082468",
+  "package_url": "https://pypi.org/project/simo-komfovent/"
+}
