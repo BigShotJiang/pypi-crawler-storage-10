@@ -1,11 +1,11 @@
 {
   "name": "clinicedc-tests",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Shared test config and utils for clinicedc projects and related apps",
   "author": "Erik van Widenfelt, Jonathan Willitts",
   "license": null,
   "home_page": null,
-  "download_filename": "clinicedc_tests-0.3.0.tar.gz",
-  "download_time": "2025-10-29T18:27:22.792804",
+  "download_filename": "clinicedc_tests-0.4.0.tar.gz",
+  "download_time": "2025-10-29T23:17:53.438418",
   "package_url": "https://pypi.org/project/clinicedc-tests/"
 }

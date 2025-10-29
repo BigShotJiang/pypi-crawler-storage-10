@@ -1,11 +1,11 @@
 {
   "name": "sockett",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Sockett - Tek satırda socket programlama",
   "author": "Özgür",
   "license": null,
   "home_page": null,
-  "download_filename": "sockett-0.3.0.tar.gz",
-  "download_time": "2025-10-29T22:43:27.790569",
+  "download_filename": "sockett-0.3.2.tar.gz",
+  "download_time": "2025-10-29T23:17:40.134360",
   "package_url": "https://pypi.org/project/sockett/"
 }

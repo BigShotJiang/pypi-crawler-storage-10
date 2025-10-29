@@ -1,11 +1,11 @@
 {
   "name": "reachcollective-utils",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Utilities for developing RESTful API, Open API projects with FastAPI and Python",
   "author": "Juan Minaya",
   "license": null,
   "home_page": null,
-  "download_filename": "reachcollective_utils-0.1.13.tar.gz",
-  "download_time": "2025-10-29T22:43:55.365650",
+  "download_filename": "reachcollective_utils-0.1.14.tar.gz",
+  "download_time": "2025-10-29T23:17:55.015392",
   "package_url": "https://pypi.org/project/reachcollective-utils/"
 }
