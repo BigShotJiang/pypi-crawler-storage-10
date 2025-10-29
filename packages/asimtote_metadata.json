@@ -1,0 +1,11 @@
+{
+  "name": "asimtote",
+  "version": "1.0.0",
+  "summary": "Compare network device configuration files using contextual structures",
+  "author": "Robert Franklin",
+  "license": null,
+  "home_page": "https://gitlab.developers.cam.ac.uk/uis/netsys/udn/asimtote",
+  "download_filename": "asimtote-1.0.0.tar.gz",
+  "download_time": "2025-10-29T11:53:58.719814",
+  "package_url": "https://pypi.org/project/asimtote/"
+}

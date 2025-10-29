@@ -1,67 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T11:44:18.609830
-- **Total Packages**: 89
-- **Total Size**: 35.67 MB
+- **Download Time**: 2025-10-29T11:53:59.788571
+- **Total Packages**: 81
+- **Total Size**: 18.69 MB
 
 ## Packages List
-- kokoro-manim-voiceover
-- orca-lab
-- richx
-- sqlite-vec-client
-- orca-gym
-- unsealer-samsung
-- streamlit-nightly
-- donkit-vectorstore-loader
-- svs-core
-- cherry-etl
-- reinforced-lib
-- aspose-words-markitdown
-- stonefish-license-manager
-- mcp-chenzhi
-- zvamz
-- phardwareitk
-- entitysdk
-- apscale-blast
-- fastapi-blocks-registry
-- cb-bsdl-parser
-- ocpi-client
-- zkkdaily
-- odoo-addon-product-customerinfo
-- music2latent
-- iatoolkit
-- jupyter-nbmodel-client
-- agent-memory-ai
-- vibego
-- tap-zendesk
-- code-loader
-- ozonapi-async
-- hpcflow-new2
-- base64-python
-- aioflux
-- biotrainer
-- odoo-addon-mis-builder-cash-flow
-- buildgrid
-- mkdocs-sqlite-console
-- async-redis-rate-limiters
-- cinemagoerng
-- plotly-bootstrap-templates
-- pretix-zugferd
-- dogtail
-- nc-api
-- odoo-addon-product-sequence
-- pydocextractor
-- alibabacloud-agentrun20250910
-- torchx-nightly
-- domaintools-api
-- r2r-fixed
-- cherry-core
-- donkit-ragops-ce
-- passive_server
-- libxr
-- hazyhorizon
-- superagentx
 - torchft-nightly
 - palabra-ai
 - vbjax
@@ -76,6 +20,7 @@
 - otai_hf_local
 - otai_base
 - open_ticket_ai
+- donkit-ragops-ce
 - ssb-nudb-config
 - python-rootpath
 - booktest
@@ -95,3 +40,50 @@
 - scrapy-delta-guard
 - writer
 - liuembeddings
+- aioflux
+- aas-http-client
+- machineconfig
+- witrnhid
+- asynctor
+- sparkpipelineframework
+- alita-sdk
+- sqlite-vec-client
+- scc-firewall-manager-sdk
+- p1-taskqueue
+- pywebtask
+- module-qc-data-tools
+- aa-memberaudit-dc
+- openbayes-cli
+- zerobouncesdk
+- dq-suite-amsterdam
+- limrun-api
+- birdie
+- ssb-datadoc
+- pyfxp
+- optimum-rbln
+- nodriver
+- iatoolkit
+- qiskit-ibm-transpiler
+- roblox-vip-api
+- nc-api
+- plt
+- dogtail
+- bitmovin-api-sdk
+- ros-wheels-bootstrapper
+- vaarhaft-fraudscanner
+- comet-pip-utils
+- vital
+- mcp-chenzhi
+- criipto-signatures
+- timesat-cli
+- toucan-connectors
+- util-intelligence
+- azure-devops-test-manager
+- aixtools
+- basalam-sdk
+- zkzkdaily
+- PyDAXLexer
+- castor-extractor
+- airalogy
+- asimtote
+- kokoro-manim-voiceover

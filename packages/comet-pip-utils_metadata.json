@@ -1,0 +1,11 @@
+{
+  "name": "comet-pip-utils",
+  "version": "0.2.0",
+  "summary": "Utility functions for pip package management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "comet_pip_utils-0.2.0.tar.gz",
+  "download_time": "2025-10-29T11:53:49.940064",
+  "package_url": "https://pypi.org/project/comet-pip-utils/"
+}

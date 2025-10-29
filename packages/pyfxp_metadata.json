@@ -1,11 +1,11 @@
 {
   "name": "pyfxp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python fixed-point library..",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfxp-0.2.0.tar.gz",
-  "download_time": "2025-10-26T17:30:03.703794",
+  "download_filename": "pyfxp-0.2.1.tar.gz",
+  "download_time": "2025-10-29T11:53:42.307807",
   "package_url": "https://pypi.org/project/pyfxp/"
 }
