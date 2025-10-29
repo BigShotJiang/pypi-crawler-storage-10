@@ -1,0 +1,11 @@
+{
+  "name": "pyfhog",
+  "version": "0.1.0",
+  "summary": "Fast FHOG feature extraction for Python",
+  "author": "SplitFace Project",
+  "license": "Boost Software License 1.0",
+  "home_page": "https://github.com/johnwilsoniv/pyfhog",
+  "download_filename": "pyfhog-0.1.0.tar.gz",
+  "download_time": "2025-10-29T07:51:37.663516",
+  "package_url": "https://pypi.org/project/pyfhog/"
+}
