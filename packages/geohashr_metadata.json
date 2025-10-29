@@ -1,0 +1,11 @@
+{
+  "name": "geohashr",
+  "version": "1.6.0",
+  "summary": "Just another geohashing library",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/gi0baro/geohashr",
+  "download_filename": "geohashr-1.6.0.tar.gz",
+  "download_time": "2025-10-29T19:15:07.314035",
+  "package_url": "https://pypi.org/project/geohashr/"
+}

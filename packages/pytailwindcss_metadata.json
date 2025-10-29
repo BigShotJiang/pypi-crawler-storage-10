@@ -1,0 +1,11 @@
+{
+  "name": "pytailwindcss",
+  "version": "0.3.0",
+  "summary": "Standalone Tailwind CSS CLI, installable via pip. Use Tailwind CSS without Node.js.",
+  "author": "Tim Kamanin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytailwindcss-0.3.0.tar.gz",
+  "download_time": "2025-10-29T19:14:53.631263",
+  "package_url": "https://pypi.org/project/pytailwindcss/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blueink-client-python",
+  "version": "1.0.1",
+  "summary": "Python Client for Blueink eSignature API",
+  "author": "Blueink",
+  "license": null,
+  "home_page": "https://github.com/blueinkhq/blueink-client-python",
+  "download_filename": "blueink_client_python-1.0.1.tar.gz",
+  "download_time": "2025-10-29T19:15:16.303127",
+  "package_url": "https://pypi.org/project/blueink-client-python/"
+}

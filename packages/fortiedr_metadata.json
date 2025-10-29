@@ -1,0 +1,11 @@
+{
+  "name": "fortiedr",
+  "version": "3.9.5",
+  "summary": "This Fortiedr module is an open-source Python library that simplifies interaction with the FortiEDR Cloud API.",
+  "author": "Rafael Foster",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fortiedr-3.9.5.tar.gz",
+  "download_time": "2025-10-29T19:15:13.146504",
+  "package_url": "https://pypi.org/project/fortiedr/"
+}
