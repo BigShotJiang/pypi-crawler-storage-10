@@ -1,0 +1,11 @@
+{
+  "name": "unicrypto",
+  "version": "0.0.12",
+  "summary": "Unified interface for cryptographic libraries",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/skelsec/unicrypto",
+  "download_filename": "unicrypto-0.0.12.tar.gz",
+  "download_time": "2025-10-29T08:24:58.754014",
+  "package_url": "https://pypi.org/project/unicrypto/"
+}

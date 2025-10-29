@@ -1,0 +1,11 @@
+{
+  "name": "simo-zwave",
+  "version": "1.0.10",
+  "summary": "OpenZwave integration for SIMO.io",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simo_zwave-1.0.10.tar.gz",
+  "download_time": "2025-10-29T08:24:49.977710",
+  "package_url": "https://pypi.org/project/simo-zwave/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zope.i18nmessageid",
+  "version": "8.1",
+  "summary": "Message Identifiers for internationalization",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.i18nmessageid",
+  "download_filename": "zope_i18nmessageid-8.1.tar.gz",
+  "download_time": "2025-10-29T08:24:52.945016",
+  "package_url": "https://pypi.org/project/zope.i18nmessageid/"
+}

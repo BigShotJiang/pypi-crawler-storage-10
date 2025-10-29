@@ -1,0 +1,11 @@
+{
+  "name": "mlscat",
+  "version": "0.1.6",
+  "summary": "A small cat help you enjoy your side channel attack journal!",
+  "author": "i4mhmh",
+  "license": null,
+  "home_page": "https://github.com/i4mhmh/mlscat",
+  "download_filename": "mlscat-0.1.6.tar.gz",
+  "download_time": "2025-10-29T08:25:09.219240",
+  "package_url": "https://pypi.org/project/mlscat/"
+}

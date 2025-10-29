@@ -1,0 +1,11 @@
+{
+  "name": "netdriver-simunet",
+  "version": "0.3.0",
+  "summary": "Simulated ssh server for network device, used for testing netdriver agent and client.",
+  "author": "vincent@byntra.se",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenSecFlow/netdriver",
+  "download_filename": "netdriver_simunet-0.3.0-py3-none-any.whl",
+  "download_time": "2025-10-29T08:25:09.795111",
+  "package_url": "https://pypi.org/project/netdriver-simunet/"
+}

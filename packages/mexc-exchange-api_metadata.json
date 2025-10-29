@@ -1,11 +1,11 @@
 {
   "name": "mexc-exchange-api",
-  "version": "0.0.98",
+  "version": "0.0.99",
   "summary": "mexc crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mexc_exchange_api-0.0.98.tar.gz",
-  "download_time": "2025-10-27T17:33:58.417809",
+  "download_filename": "mexc_exchange_api-0.0.99.tar.gz",
+  "download_time": "2025-10-29T08:25:13.864807",
   "package_url": "https://pypi.org/project/mexc-exchange-api/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "smart-errorx",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Smart-errorx is the error handler library and help to detect the error and after detect the error give the solution of error.",
   "author": "Asad Maqbool",
   "license": null,
   "home_page": null,
-  "download_filename": "smart_errorx-0.1.5.tar.gz",
-  "download_time": "2025-10-28T14:57:18.213832",
+  "download_filename": "smart_errorx-0.1.6.tar.gz",
+  "download_time": "2025-10-29T08:25:02.264022",
   "package_url": "https://pypi.org/project/smart-errorx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "exasol-python-extension-common",
+  "version": "0.12.0",
+  "summary": "A collection of common utilities for Exasol extensions.",
+  "author": "Mikhail Beck",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exasol_python_extension_common-0.12.0.tar.gz",
+  "download_time": "2025-10-29T08:25:08.640478",
+  "package_url": "https://pypi.org/project/exasol-python-extension-common/"
+}
