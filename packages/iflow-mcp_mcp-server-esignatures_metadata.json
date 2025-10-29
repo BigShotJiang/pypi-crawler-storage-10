@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-esignatures",
+  "version": "0.1.0",
+  "summary": "MCP server for eSignatures (https://esignatures.com)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_esignatures-0.1.0.tar.gz",
+  "download_time": "2025-10-29T09:43:18.216915",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-esignatures/"
+}

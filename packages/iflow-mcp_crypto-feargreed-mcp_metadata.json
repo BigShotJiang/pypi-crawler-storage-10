@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_crypto-feargreed-mcp",
+  "version": "0.1.0",
+  "summary": "Providing real-time and historical Crypto Fear & Greed Index data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_crypto_feargreed_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-29T09:43:19.384797",
+  "package_url": "https://pypi.org/project/iflow-mcp_crypto-feargreed-mcp/"
+}

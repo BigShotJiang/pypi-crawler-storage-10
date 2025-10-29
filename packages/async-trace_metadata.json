@@ -1,11 +1,11 @@
 {
   "name": "async-trace",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Provides call stack frames for asyncio tasks, similar to how Python's traceback provides frames for synchronous code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "async_trace-0.1.1.tar.gz",
-  "download_time": "2025-10-29T08:50:01.008985",
+  "download_filename": "async_trace-0.1.2.tar.gz",
+  "download_time": "2025-10-29T09:42:58.797544",
   "package_url": "https://pypi.org/project/async-trace/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jouets",
+  "version": "0.7.0",
+  "summary": "Bric-à-brac de programmes mathématiques « amusants »",
+  "author": "Louis Paternault",
+  "license": "GPLv3 or any later version",
+  "home_page": "https://framagit.org/spalax/jouets",
+  "download_filename": "jouets-0.7.0.tar.gz",
+  "download_time": "2025-10-29T09:42:47.630689",
+  "package_url": "https://pypi.org/project/jouets/"
+}

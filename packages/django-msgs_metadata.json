@@ -1,0 +1,11 @@
+{
+  "name": "django-msgs",
+  "version": "1.7.4",
+  "summary": "Emails and SMSs managing framework for Django",
+  "author": "Alexander Yudkin",
+  "license": null,
+  "home_page": "https://github.com/san4ezy/django_msgs",
+  "download_filename": "django_msgs-1.7.4.tar.gz",
+  "download_time": "2025-10-29T09:42:32.570107",
+  "package_url": "https://pypi.org/project/django-msgs/"
+}

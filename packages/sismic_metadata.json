@@ -1,0 +1,11 @@
+{
+  "name": "sismic",
+  "version": "1.6.11",
+  "summary": "Sismic Interactive Statechart Model Interpreter and Checker",
+  "author": "Alexandre Decan",
+  "license": "LGPL3",
+  "home_page": "https://github.com/AlexandreDecan/sismic/",
+  "download_filename": "sismic-1.6.11.tar.gz",
+  "download_time": "2025-10-29T09:43:13.032680",
+  "package_url": "https://pypi.org/project/sismic/"
+}

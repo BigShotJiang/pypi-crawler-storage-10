@@ -1,0 +1,11 @@
+{
+  "name": "mklog",
+  "version": "1.4.1",
+  "summary": "Append date and time before text",
+  "author": "Louis Paternault",
+  "license": "GPLv3 or any later version",
+  "home_page": "http://framagit.org/spalax/mklog",
+  "download_filename": "mklog-1.4.1.tar.gz",
+  "download_time": "2025-10-29T09:42:45.268064",
+  "package_url": "https://pypi.org/project/mklog/"
+}

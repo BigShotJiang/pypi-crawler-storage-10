@@ -1,0 +1,11 @@
+{
+  "name": "scal",
+  "version": "2.4.1",
+  "summary": "LaTeX generation of school year calendars",
+  "author": "Louis Paternault",
+  "license": "GPLv3 or any later version",
+  "home_page": "http://framagit.org/spalax/scal",
+  "download_filename": "scal-2.4.1.tar.gz",
+  "download_time": "2025-10-29T09:42:39.025340",
+  "package_url": "https://pypi.org/project/scal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hiveio-schemas",
+  "version": "1.28.0",
+  "summary": "Tools for checking if message fits expected format",
+  "author": "Michał Kudela",
+  "license": null,
+  "home_page": "https://gitlab.syncad.com/hive/clive",
+  "download_filename": "hiveio_schemas-1.28.0-py3-none-any.whl",
+  "download_time": "2025-10-29T09:42:56.203869",
+  "package_url": "https://pypi.org/project/hiveio-schemas/"
+}

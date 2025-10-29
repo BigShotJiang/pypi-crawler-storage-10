@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-packages",
+  "version": "1.2.1",
+  "summary": "This packages contains the Packages sphinx extension, which provides directives to display packages installed on the host machine",
+  "author": "Louis Paternault",
+  "license": "AGPLv3 or any later version",
+  "home_page": "https://framagit.org/spalax/sphinxcontrib-packages",
+  "download_filename": "sphinxcontrib_packages-1.2.1.tar.gz",
+  "download_time": "2025-10-29T09:42:48.266266",
+  "package_url": "https://pypi.org/project/sphinxcontrib-packages/"
+}

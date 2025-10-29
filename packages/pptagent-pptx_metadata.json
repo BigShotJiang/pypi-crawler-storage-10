@@ -1,0 +1,11 @@
+{
+  "name": "pptagent-pptx",
+  "version": "0.0.1",
+  "summary": "Create, read, and update PowerPoint 2007+ (.pptx) files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pptagent_pptx-0.0.1.tar.gz",
+  "download_time": "2025-10-29T09:42:53.735153",
+  "package_url": "https://pypi.org/project/pptagent-pptx/"
+}

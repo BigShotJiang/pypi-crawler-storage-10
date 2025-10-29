@@ -1,0 +1,11 @@
+{
+  "name": "cued-speech",
+  "version": "0.4.1",
+  "summary": "Cued Speech Processing Tools - Decode and Generate cued speech videos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cued_speech-0.4.1.tar.gz",
+  "download_time": "2025-10-29T09:42:28.068434",
+  "package_url": "https://pypi.org/project/cued-speech/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flask-frame",
-  "version": "1.1.20",
+  "version": "1.1.21",
   "summary": "基于FLASK快速开发REST接口框架",
   "author": "wuhanchu",
   "license": null,
   "home_page": null,
-  "download_filename": "flask_frame-1.1.20.tar.gz",
-  "download_time": "2025-10-28T09:51:49.766764",
+  "download_filename": "flask_frame-1.1.21.tar.gz",
+  "download_time": "2025-10-29T09:42:19.781683",
   "package_url": "https://pypi.org/project/flask-frame/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "entise",
+  "version": "1.0.0",
+  "summary": "A tool for generating time series data related to energy systems and building operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entise-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-29T09:42:20.414702",
+  "package_url": "https://pypi.org/project/entise/"
+}

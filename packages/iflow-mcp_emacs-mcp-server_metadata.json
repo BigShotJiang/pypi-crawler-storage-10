@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_emacs-mcp-server",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol (MCP) server for Emacs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_emacs_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-29T09:42:54.940441",
+  "package_url": "https://pypi.org/project/iflow-mcp_emacs-mcp-server/"
+}
