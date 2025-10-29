@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-protobuf",
+  "version": "0.1.16",
+  "summary": "Setuptools protobuf extension plugin",
+  "author": null,
+  "license": "Apachev2",
+  "home_page": null,
+  "download_filename": "setuptools_protobuf-0.1.16.tar.gz",
+  "download_time": "2025-10-29T18:27:34.472106",
+  "package_url": "https://pypi.org/project/setuptools-protobuf/"
+}

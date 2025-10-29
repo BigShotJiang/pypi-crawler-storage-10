@@ -1,11 +1,11 @@
 {
   "name": "acoustotreams",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "A Python package for acoustic wave scattering based on the T-matrix method",
   "author": "Nikita Ustimenko",
   "license": "MIT",
   "home_page": "https://github.com/NikUstimenko/acoustotreams",
-  "download_filename": "acoustotreams-0.2.3.tar.gz",
-  "download_time": "2025-10-29T17:48:19.371590",
+  "download_filename": "acoustotreams-0.2.5.tar.gz",
+  "download_time": "2025-10-29T18:27:33.419198",
   "package_url": "https://pypi.org/project/acoustotreams/"
 }

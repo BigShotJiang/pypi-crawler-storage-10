@@ -1,11 +1,11 @@
 {
   "name": "cocnc",
-  "version": "0.2.39",
+  "version": "0.2.40",
   "summary": "CNC is the first framework for application deployment, a fully distributed and customizable PaaS developer experience, based on docker-compose config files",
   "author": "Adam Abdelaziz",
   "license": null,
   "home_page": null,
-  "download_filename": "cocnc-0.2.39.tar.gz",
-  "download_time": "2025-10-28T20:21:41.868521",
+  "download_filename": "cocnc-0.2.40.tar.gz",
+  "download_time": "2025-10-29T18:27:05.946018",
   "package_url": "https://pypi.org/project/cocnc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "whisper-lang",
+  "version": "1.0.0",
+  "summary": "A truly unique programming language with conversational, natural English syntax",
+  "author": "Ibrahim Mustafa Opu",
+  "license": "MIT",
+  "home_page": "https://whisper.ibrahimmustafaopu.com",
+  "download_filename": "whisper_lang-1.0.0.tar.gz",
+  "download_time": "2025-10-29T18:26:54.385142",
+  "package_url": "https://pypi.org/project/whisper-lang/"
+}

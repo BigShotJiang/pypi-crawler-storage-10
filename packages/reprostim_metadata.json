@@ -1,0 +1,11 @@
+{
+  "name": "reprostim",
+  "version": "0.7.17",
+  "summary": "ReproStim is a video capture and recording suite for neuroimaging and psychology experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reprostim-0.7.17.tar.gz",
+  "download_time": "2025-10-29T18:27:32.372544",
+  "package_url": "https://pypi.org/project/reprostim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "z3-solver",
+  "version": "4.15.4.0",
+  "summary": "an efficient SMT solver library",
+  "author": "The Z3 Theorem Prover Project",
+  "license": "MIT License",
+  "home_page": "https://github.com/Z3Prover/z3",
+  "download_filename": "z3_solver-4.15.4.0.tar.gz",
+  "download_time": "2025-10-29T18:27:23.340900",
+  "package_url": "https://pypi.org/project/z3-solver/"
+}

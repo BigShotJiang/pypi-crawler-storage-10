@@ -1,0 +1,11 @@
+{
+  "name": "rojo-watcher",
+  "version": "0.1.0",
+  "summary": "automatically updates Rojo project JSON when new folders are created",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rojo_watcher-0.1.0.tar.gz",
+  "download_time": "2025-10-29T18:27:20.170580",
+  "package_url": "https://pypi.org/project/rojo-watcher/"
+}

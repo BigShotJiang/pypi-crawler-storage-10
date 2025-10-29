@@ -1,11 +1,11 @@
 {
   "name": "urdfz",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Self-contained, portable, actually UNIFIED Robot Description Files (URDFs)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "urdfz-0.1.1.tar.gz",
-  "download_time": "2025-10-27T22:34:48.312508",
+  "download_filename": "urdfz-0.2.0.tar.gz",
+  "download_time": "2025-10-29T18:27:12.812205",
   "package_url": "https://pypi.org/project/urdfz/"
 }
