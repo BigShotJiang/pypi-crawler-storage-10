@@ -1,0 +1,11 @@
+{
+  "name": "suql",
+  "version": "1.1.8",
+  "summary": "Structured and Unstructured Query Language (SUQL) Python API",
+  "author": "Shicheng Liu",
+  "license": null,
+  "home_page": "https://github.com/stanford-oval/suql",
+  "download_filename": "suql-1.1.8.tar.gz",
+  "download_time": "2025-10-29T06:28:22.799863",
+  "package_url": "https://pypi.org/project/suql/"
+}

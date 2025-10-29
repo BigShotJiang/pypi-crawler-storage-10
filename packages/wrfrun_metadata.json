@@ -1,0 +1,11 @@
+{
+  "name": "wrfrun",
+  "version": "0.2.0",
+  "summary": "wrfrun is a comprehensive toolkit for managing and using WRF",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "wrfrun-0.2.0.tar.gz",
+  "download_time": "2025-10-29T06:28:38.262149",
+  "package_url": "https://pypi.org/project/wrfrun/"
+}

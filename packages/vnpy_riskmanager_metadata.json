@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_riskmanager",
+  "version": "2.0.0",
+  "summary": "Pre-trade risk management application for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_riskmanager-2.0.0.tar.gz",
+  "download_time": "2025-10-29T06:28:49.985454",
+  "package_url": "https://pypi.org/project/vnpy_riskmanager/"
+}
