@@ -1,0 +1,11 @@
+{
+  "name": "minknow-api",
+  "version": "6.8.3",
+  "summary": "MinKNOW RPC API bindings",
+  "author": "Oxford Nanopore Technologies PLC",
+  "license": null,
+  "home_page": "https://github.com/nanoporetech/minknow_api",
+  "download_filename": "minknow_api-6.8.3.tar.gz",
+  "download_time": "2025-10-29T10:46:31.901406",
+  "package_url": "https://pypi.org/project/minknow-api/"
+}

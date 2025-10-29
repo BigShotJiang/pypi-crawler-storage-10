@@ -1,0 +1,11 @@
+{
+  "name": "archive-mcp",
+  "version": "0.2.3",
+  "summary": "A comprehensive MCP server for file compression and extraction operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "archive_mcp-0.2.3.tar.gz",
+  "download_time": "2025-10-29T10:46:30.828775",
+  "package_url": "https://pypi.org/project/archive-mcp/"
+}

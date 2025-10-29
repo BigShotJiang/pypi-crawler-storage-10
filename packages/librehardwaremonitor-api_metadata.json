@@ -1,0 +1,11 @@
+{
+  "name": "librehardwaremonitor-api",
+  "version": "1.5.0",
+  "summary": "A Python API client for LibreHardwareMonitor",
+  "author": "Sab44",
+  "license": "MIT",
+  "home_page": "https://github.com/Sab44/librehardwaremonitor-api",
+  "download_filename": "librehardwaremonitor_api-1.5.0.tar.gz",
+  "download_time": "2025-10-29T10:46:27.622858",
+  "package_url": "https://pypi.org/project/librehardwaremonitor-api/"
+}

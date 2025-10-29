@@ -1,0 +1,11 @@
+{
+  "name": "prompt-template-manager",
+  "version": "1.0.1",
+  "summary": "A lightweight and extensible Python library for managing, versioning, and composing reusable prompt templates from YAML or text files.",
+  "author": "Dave Manufor",
+  "license": null,
+  "home_page": "https://promptmanager.davman.dev",
+  "download_filename": "prompt_template_manager-1.0.1.tar.gz",
+  "download_time": "2025-10-29T10:46:53.819432",
+  "package_url": "https://pypi.org/project/prompt-template-manager/"
+}

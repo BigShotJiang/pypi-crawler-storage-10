@@ -1,0 +1,11 @@
+{
+  "name": "qc2plus",
+  "version": "1.0.3",
+  "summary": "Data Quality Automation Framework with ML-powered anomaly detection",
+  "author": "QC2Plus Team",
+  "license": "MIT",
+  "home_page": "https://github.com/kheopsys/qc2plus-internal",
+  "download_filename": "qc2plus-1.0.3.tar.gz",
+  "download_time": "2025-10-29T10:46:31.363364",
+  "package_url": "https://pypi.org/project/qc2plus/"
+}

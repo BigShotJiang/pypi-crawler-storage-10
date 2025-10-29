@@ -1,11 +1,11 @@
 {
   "name": "googleads-housekeeper",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "description",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "googleads_housekeeper-0.4.0.tar.gz",
-  "download_time": "2025-10-28T07:18:15.631411",
+  "download_filename": "googleads_housekeeper-0.4.1.tar.gz",
+  "download_time": "2025-10-29T10:46:32.970135",
   "package_url": "https://pypi.org/project/googleads-housekeeper/"
 }
