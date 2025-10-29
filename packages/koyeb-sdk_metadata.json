@@ -1,11 +1,11 @@
 {
   "name": "koyeb-sdk",
-  "version": "2025.7.0",
-  "summary": "Koyeb Rest API",
+  "version": "1.0.2",
+  "summary": "Koyeb python sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "koyeb_sdk-2025.7.0-py3-none-any.whl",
-  "download_time": "2025-10-29T15:45:44.552821",
+  "download_filename": "koyeb_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-29T17:48:38.100161",
   "package_url": "https://pypi.org/project/koyeb-sdk/"
 }

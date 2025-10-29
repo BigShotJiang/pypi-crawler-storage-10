@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-adb20190315",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "summary": "Alibaba Cloud adb (20190315) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_adb20190315-5.0.8.tar.gz",
-  "download_time": "2025-10-27T17:51:46.917739",
+  "download_filename": "alibabacloud_adb20190315-5.0.9.tar.gz",
+  "download_time": "2025-10-29T17:48:23.505406",
   "package_url": "https://pypi.org/project/alibabacloud-adb20190315/"
 }

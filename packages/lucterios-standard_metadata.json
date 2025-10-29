@@ -1,0 +1,11 @@
+{
+  "name": "lucterios-standard",
+  "version": "2.7.0.25091513",
+  "summary": "Standard application for Lucterios.",
+  "author": "Lucterios",
+  "license": "GNU General Public License v3",
+  "home_page": "http://www.lucterios.org",
+  "download_filename": "lucterios_standard-2.7.0.25091513-py3-none-any.whl",
+  "download_time": "2025-10-29T17:48:03.933509",
+  "package_url": "https://pypi.org/project/lucterios-standard/"
+}

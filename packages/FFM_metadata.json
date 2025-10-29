@@ -1,0 +1,11 @@
+{
+  "name": "FFM",
+  "version": "0.1.0",
+  "summary": "Big Five personality test (IPIP-NEO-120)",
+  "author": "Shayan Firouzian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ffm-0.1.0.tar.gz",
+  "download_time": "2025-10-29T17:48:13.135908",
+  "package_url": "https://pypi.org/project/FFM/"
+}

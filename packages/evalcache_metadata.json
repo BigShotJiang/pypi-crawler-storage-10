@@ -1,0 +1,11 @@
+{
+  "name": "evalcache",
+  "version": "1.15.0",
+  "summary": "Lazy computing tree cache library",
+  "author": "mirmik",
+  "license": "MIT",
+  "home_page": "https://github.com/mirmik/evalcache",
+  "download_filename": "evalcache-1.15.0.tar.gz",
+  "download_time": "2025-10-29T17:48:48.492742",
+  "package_url": "https://pypi.org/project/evalcache/"
+}

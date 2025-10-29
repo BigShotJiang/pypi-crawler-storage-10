@@ -1,0 +1,11 @@
+{
+  "name": "balans",
+  "version": "2.0.0",
+  "summary": "Balans: Bandit-based Adaptive Large Neighborhood Search",
+  "author": "skadio",
+  "license": null,
+  "home_page": "https://github.com/skadio/balns",
+  "download_filename": "balans-2.0.0-py3-none-any.whl",
+  "download_time": "2025-10-29T17:48:03.403658",
+  "package_url": "https://pypi.org/project/balans/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hra-api-client",
+  "version": "0.17.0",
+  "summary": "HRA-API",
+  "author": "HuBMAP Help Desk",
+  "license": "MIT License",
+  "home_page": "https://pypi.org/project/hra-api-client/",
+  "download_filename": "hra_api_client-0.17.0-py3-none-any.whl",
+  "download_time": "2025-10-29T17:48:35.005171",
+  "package_url": "https://pypi.org/project/hra-api-client/"
+}

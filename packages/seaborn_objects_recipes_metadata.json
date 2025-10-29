@@ -1,0 +1,11 @@
+{
+  "name": "seaborn_objects_recipes",
+  "version": "0.2.0",
+  "summary": "A collection of recipes that can be used together with the seaborn library to create custom plots.",
+  "author": "Ofosu Osei",
+  "license": "MIT",
+  "home_page": "https://github.com/<you>/seaborn_objects_recipes",
+  "download_filename": "seaborn_objects_recipes-0.2.0.tar.gz",
+  "download_time": "2025-10-29T17:48:29.275843",
+  "package_url": "https://pypi.org/project/seaborn_objects_recipes/"
+}

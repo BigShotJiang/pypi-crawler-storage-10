@@ -1,0 +1,11 @@
+{
+  "name": "diacamma-financial",
+  "version": "2.7.6.25102914",
+  "summary": "Diacamma financial modules for Lucterios framework.",
+  "author": "Lucterios",
+  "license": "GNU General Public License v3",
+  "home_page": "http://www.diacamma.org",
+  "download_filename": "diacamma_financial-2.7.6.25102914-py3-none-any.whl",
+  "download_time": "2025-10-29T17:48:02.385672",
+  "package_url": "https://pypi.org/project/diacamma-financial/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lucterios-documents",
+  "version": "2.7.3.25091516",
+  "summary": "documents managment module for Lucterios framework.",
+  "author": "Lucterios",
+  "license": "GNU General Public License v3",
+  "home_page": "http://www.lucterios.org",
+  "download_filename": "lucterios_documents-2.7.3.25091516-py3-none-any.whl",
+  "download_time": "2025-10-29T17:48:04.450198",
+  "package_url": "https://pypi.org/project/lucterios-documents/"
+}

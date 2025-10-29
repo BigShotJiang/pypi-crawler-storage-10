@@ -1,11 +1,11 @@
 {
   "name": "mini-backtest",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A minimal, extensible backtesting toolkit (CAGR, Max Drawdown).",
   "author": "Mini Backtest Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "mini_backtest-0.1.0.tar.gz",
-  "download_time": "2025-10-29T17:18:22.669395",
+  "download_filename": "mini_backtest-0.1.2.tar.gz",
+  "download_time": "2025-10-29T17:48:19.882734",
   "package_url": "https://pypi.org/project/mini-backtest/"
 }
