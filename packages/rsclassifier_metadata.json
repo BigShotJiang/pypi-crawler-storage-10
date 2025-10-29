@@ -1,11 +1,11 @@
 {
   "name": "rsclassifier",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Package for training rule set classifiers for tabular data.",
   "author": "Reijo Jaakkola",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rsclassifier-2.0.0.tar.gz",
-  "download_time": "2025-10-26T21:14:48.715265",
+  "download_filename": "rsclassifier-2.1.0.tar.gz",
+  "download_time": "2025-10-29T20:45:17.542135",
   "package_url": "https://pypi.org/project/rsclassifier/"
 }

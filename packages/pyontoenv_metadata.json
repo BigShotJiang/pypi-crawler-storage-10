@@ -1,0 +1,11 @@
+{
+  "name": "pyontoenv",
+  "version": "0.3.0",
+  "summary": "Python bindings for the OntoEnv Rust library. Manages ontology-based environments for building knowledge graphs.",
+  "author": "Gabe Fierro <gtfierro@mines.edu>",
+  "license": "bsd-3-clause",
+  "home_page": "https://github.com/gtfierro/ontoenv-rs",
+  "download_filename": "pyontoenv-0.3.0.tar.gz",
+  "download_time": "2025-10-29T20:44:38.423375",
+  "package_url": "https://pypi.org/project/pyontoenv/"
+}

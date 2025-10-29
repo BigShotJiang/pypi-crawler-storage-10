@@ -1,11 +1,11 @@
 {
   "name": "pythonalsa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "ALSA C library bindings using ctypes for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonalsa-0.1.1.tar.gz",
-  "download_time": "2025-10-26T03:58:04.586784",
+  "download_filename": "pythonalsa-0.1.2.tar.gz",
+  "download_time": "2025-10-29T20:45:07.109422",
   "package_url": "https://pypi.org/project/pythonalsa/"
 }
