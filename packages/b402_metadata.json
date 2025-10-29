@@ -1,11 +1,11 @@
 {
   "name": "b402",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "b402 payments on BSC",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "b402-1.0.0.tar.gz",
-  "download_time": "2025-10-29T10:46:48.454352",
+  "download_filename": "b402-1.2.0.tar.gz",
+  "download_time": "2025-10-29T10:56:21.583444",
   "package_url": "https://pypi.org/project/b402/"
 }

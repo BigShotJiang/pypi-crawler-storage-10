@@ -1,11 +1,11 @@
 {
   "name": "omuplugin-obs",
-  "version": "0.9.18",
+  "version": "0.9.19",
   "summary": "OBS Studioの操作を行うためのOMUAPPSプラグイン",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omuplugin_obs-0.9.18.tar.gz",
-  "download_time": "2025-10-29T03:51:55.767802",
+  "download_filename": "omuplugin_obs-0.9.19-py3-none-any.whl",
+  "download_time": "2025-10-29T10:56:14.965381",
   "package_url": "https://pypi.org/project/omuplugin-obs/"
 }

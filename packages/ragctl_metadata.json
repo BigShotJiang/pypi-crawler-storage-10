@@ -1,11 +1,11 @@
 {
   "name": "ragctl",
-  "version": "0.1.1",
-  "summary": "Intelligent RAG system with advanced OCR, semantic chunking, and production-ready batch processing CLI",
+  "version": "0.1.2",
+  "summary": "RAG Studio - Production-ready RAG toolkit with advanced OCR, semantic chunking, and intelligent document processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ragctl-0.1.1.tar.gz",
-  "download_time": "2025-10-29T10:46:38.323141",
+  "download_filename": "ragctl-0.1.2.tar.gz",
+  "download_time": "2025-10-29T10:56:37.640838",
   "package_url": "https://pypi.org/project/ragctl/"
 }
