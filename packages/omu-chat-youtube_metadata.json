@@ -1,11 +1,11 @@
 {
   "name": "omu-chat-youtube",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "summary": "OMUAPPS Youtube Chat Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omu_chat_youtube-0.9.17.tar.gz",
-  "download_time": "2025-10-28T12:36:32.501457",
+  "download_filename": "omu_chat_youtube-0.9.18.tar.gz",
+  "download_time": "2025-10-29T03:51:59.556021",
   "package_url": "https://pypi.org/project/omu-chat-youtube/"
 }

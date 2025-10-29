@@ -1,0 +1,11 @@
+{
+  "name": "mr-kot",
+  "version": "0.9.2",
+  "summary": "Pytest-inspired invariant checker",
+  "author": "Alexander Presniakov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mr_kot-0.9.2.tar.gz",
+  "download_time": "2025-10-29T03:51:41.207985",
+  "package_url": "https://pypi.org/project/mr-kot/"
+}

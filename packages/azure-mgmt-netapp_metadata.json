@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-netapp",
+  "version": "13.7.0",
+  "summary": "Microsoft Azure NetApp Files Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_netapp-13.7.0.tar.gz",
+  "download_time": "2025-10-29T03:51:37.922889",
+  "package_url": "https://pypi.org/project/azure-mgmt-netapp/"
+}

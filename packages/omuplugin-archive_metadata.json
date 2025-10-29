@@ -1,11 +1,11 @@
 {
   "name": "omuplugin-archive",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "summary": "配信をアーカイブするためのOMUAPPSプラグイン",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omuplugin_archive-0.9.17.tar.gz",
-  "download_time": "2025-10-28T12:36:31.275734",
+  "download_filename": "omuplugin_archive-0.9.18.tar.gz",
+  "download_time": "2025-10-29T03:51:58.485381",
   "package_url": "https://pypi.org/project/omuplugin-archive/"
 }

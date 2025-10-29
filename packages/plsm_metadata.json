@@ -1,0 +1,11 @@
+{
+  "name": "plsm",
+  "version": "0.1.0",
+  "summary": "Python Linux Service Manager - 专注于Linux系统服务管理的Python库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plsm-0.1.0.tar.gz",
+  "download_time": "2025-10-29T03:51:19.519220",
+  "package_url": "https://pypi.org/project/plsm/"
+}
