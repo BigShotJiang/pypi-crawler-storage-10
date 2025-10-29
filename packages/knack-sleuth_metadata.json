@@ -1,11 +1,11 @@
 {
   "name": "knack-sleuth",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Investigate your Knack.app's metadata to find where data objects and fields are used throughout your application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "knack_sleuth-0.1.11.tar.gz",
-  "download_time": "2025-10-29T20:44:33.722082",
+  "download_filename": "knack_sleuth-0.1.12.tar.gz",
+  "download_time": "2025-10-29T22:17:57.180219",
   "package_url": "https://pypi.org/project/knack-sleuth/"
 }

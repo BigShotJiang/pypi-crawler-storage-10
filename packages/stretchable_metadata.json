@@ -1,0 +1,11 @@
+{
+  "name": "stretchable",
+  "version": "1.1.8",
+  "summary": "Layout library for Python (based on Taffy, a rust-powered implementation of CSS Grid/Flexbox)",
+  "author": "Kenneth Trelborg Vestergaard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stretchable-1.1.8-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-29T22:17:57.756476",
+  "package_url": "https://pypi.org/project/stretchable/"
+}

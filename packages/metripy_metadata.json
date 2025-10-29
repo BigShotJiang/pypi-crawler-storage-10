@@ -1,11 +1,11 @@
 {
   "name": "metripy",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A Python tool to generate multi project, multi language code metric reports",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metripy-0.2.7.tar.gz",
-  "download_time": "2025-10-29T07:43:35.260828",
+  "download_filename": "metripy-0.2.8.tar.gz",
+  "download_time": "2025-10-29T22:18:29.194581",
   "package_url": "https://pypi.org/project/metripy/"
 }

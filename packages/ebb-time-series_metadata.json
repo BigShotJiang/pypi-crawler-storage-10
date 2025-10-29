@@ -1,11 +1,11 @@
 {
   "name": "ebb-time-series",
-  "version": "0.5.9",
+  "version": "0.5.11",
   "summary": null,
   "author": "Ryan Bloom",
   "license": null,
   "home_page": null,
-  "download_filename": "ebb_time_series-0.5.9.tar.gz",
-  "download_time": "2025-10-29T21:52:32.381687",
+  "download_filename": "ebb_time_series-0.5.11.tar.gz",
+  "download_time": "2025-10-29T22:18:08.766889",
   "package_url": "https://pypi.org/project/ebb-time-series/"
 }

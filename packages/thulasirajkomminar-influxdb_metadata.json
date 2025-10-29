@@ -1,0 +1,11 @@
+{
+  "name": "thulasirajkomminar-influxdb",
+  "version": "1.6.0",
+  "summary": "A Pulumi package for creating and managing InfluxDB resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.influxdata.com",
+  "download_filename": "thulasirajkomminar_influxdb-1.6.0.tar.gz",
+  "download_time": "2025-10-29T22:17:55.469036",
+  "package_url": "https://pypi.org/project/thulasirajkomminar-influxdb/"
+}

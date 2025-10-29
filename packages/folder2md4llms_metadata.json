@@ -1,11 +1,11 @@
 {
   "name": "folder2md4llms",
-  "version": "0.5.11",
+  "version": "0.5.12",
   "summary": "A tool to convert folder structures and file contents into markdown for LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "folder2md4llms-0.5.11.tar.gz",
-  "download_time": "2025-10-29T15:23:49.596595",
+  "download_filename": "folder2md4llms-0.5.12.tar.gz",
+  "download_time": "2025-10-29T22:18:18.703372",
   "package_url": "https://pypi.org/project/folder2md4llms/"
 }

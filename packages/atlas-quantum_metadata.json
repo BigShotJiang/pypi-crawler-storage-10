@@ -1,11 +1,11 @@
 {
   "name": "atlas-quantum",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "GPU-accelerated quantum tensor network simulator with adaptive MPS, molecular chemistry, circuit cutting, PEPS 2D networks, and cuQuantum backend",
   "author": "ATLAS-Q Development Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "atlas_quantum-0.6.1.tar.gz",
-  "download_time": "2025-10-27T22:16:13.909280",
+  "download_filename": "atlas_quantum-0.6.2.tar.gz",
+  "download_time": "2025-10-29T22:17:58.417186",
   "package_url": "https://pypi.org/project/atlas-quantum/"
 }

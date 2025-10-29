@@ -1,0 +1,11 @@
+{
+  "name": "plain.vendor",
+  "version": "0.9.2",
+  "summary": "Download CDN scripts and styles as vendored dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plain_vendor-0.9.2.tar.gz",
+  "download_time": "2025-10-29T22:18:00.048382",
+  "package_url": "https://pypi.org/project/plain.vendor/"
+}

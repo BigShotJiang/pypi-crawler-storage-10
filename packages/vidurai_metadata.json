@@ -1,11 +1,11 @@
 {
   "name": "vidurai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Teaching AI the art of memory and forgetting - A Vedantic approach to AI memory management",
   "author": "Chandan",
   "license": null,
   "home_page": "https://github.com/chandantochandan/vidurai",
-  "download_filename": "vidurai-0.2.0.tar.gz",
-  "download_time": "2025-10-29T21:52:57.305625",
+  "download_filename": "vidurai-0.2.1.tar.gz",
+  "download_time": "2025-10-29T22:18:19.774129",
   "package_url": "https://pypi.org/project/vidurai/"
 }

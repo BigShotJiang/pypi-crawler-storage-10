@@ -1,0 +1,11 @@
+{
+  "name": "TableHockeyTools",
+  "version": "0.1.4",
+  "summary": "A collection of tools for working with TableHockey data.",
+  "author": "Benjamin Nygard",
+  "license": "MIT",
+  "home_page": "https://github.com/Benginy-lab/TableHockeyTools.git",
+  "download_filename": "tablehockeytools-0.1.4.tar.gz",
+  "download_time": "2025-10-29T22:18:15.347961",
+  "package_url": "https://pypi.org/project/TableHockeyTools/"
+}
