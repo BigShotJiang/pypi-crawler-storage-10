@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-fireworksai",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "summary": "LiveKit Agents Plugin for Fireworks AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_fireworksai-1.2.16.tar.gz",
-  "download_time": "2025-10-27T05:19:08.669541",
+  "download_filename": "livekit_plugins_fireworksai-1.2.17.tar.gz",
+  "download_time": "2025-10-29T15:57:54.050232",
   "package_url": "https://pypi.org/project/livekit-plugins-fireworksai/"
 }

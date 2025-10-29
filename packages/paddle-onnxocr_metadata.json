@@ -1,0 +1,11 @@
+{
+  "name": "paddle-onnxocr",
+  "version": "0.0.11",
+  "summary": "paddleOCR的onnx实现",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paddle_onnxocr-0.0.11.tar.gz",
+  "download_time": "2025-10-29T15:57:13.670795",
+  "package_url": "https://pypi.org/project/paddle-onnxocr/"
+}

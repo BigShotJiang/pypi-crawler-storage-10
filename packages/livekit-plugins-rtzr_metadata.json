@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-rtzr",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "summary": "Agent Framework plugin for RTZR Streaming STT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_rtzr-1.2.10.tar.gz",
-  "download_time": "2025-10-27T05:19:00.405290",
+  "download_filename": "livekit_plugins_rtzr-1.2.11.tar.gz",
+  "download_time": "2025-10-29T15:57:44.281600",
   "package_url": "https://pypi.org/project/livekit-plugins-rtzr/"
 }

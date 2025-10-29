@@ -1,11 +1,11 @@
 {
   "name": "d-vecdb-server",
-  "version": "0.2.0",
-  "summary": "Complete d-vecDB server package with recovery system, soft-delete protection, and embedded binaries - zero configuration required",
+  "version": "0.2.1",
+  "summary": "Complete d-vecDB server package with recovery system, soft-delete protection, persistent metadata, and embedded binaries - zero configuration required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "d_vecdb_server-0.2.0.tar.gz",
-  "download_time": "2025-10-29T15:23:21.399099",
+  "download_filename": "d_vecdb_server-0.2.1.tar.gz",
+  "download_time": "2025-10-29T15:57:32.390489",
   "package_url": "https://pypi.org/project/d-vecdb-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-minimax-ai",
+  "version": "1.2.17",
+  "summary": "LiveKit Agents Plugin for services from AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_minimax_ai-1.2.17.tar.gz",
+  "download_time": "2025-10-29T15:57:47.881137",
+  "package_url": "https://pypi.org/project/livekit-plugins-minimax-ai/"
+}

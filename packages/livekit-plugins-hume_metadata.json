@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-hume",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "summary": "Hume TTS plugin for LiveKit agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_hume-1.2.16.tar.gz",
-  "download_time": "2025-10-27T05:19:06.097818",
+  "download_filename": "livekit_plugins_hume-1.2.17.tar.gz",
+  "download_time": "2025-10-29T15:57:50.447515",
   "package_url": "https://pypi.org/project/livekit-plugins-hume/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "automesh",
+  "version": "0.3.5",
+  "summary": "automesh",
+  "author": "Chad B. Hovey, Michael R. Buche",
+  "license": null,
+  "home_page": "https://autotwin.github.io/automesh",
+  "download_filename": "automesh-0.3.5.tar.gz",
+  "download_time": "2025-10-29T15:57:16.310548",
+  "package_url": "https://pypi.org/project/automesh/"
+}

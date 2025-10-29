@@ -1,0 +1,11 @@
+{
+  "name": "pyscard",
+  "version": "2.3.1",
+  "summary": "Smartcard module for Python.",
+  "author": "Ludovic Rousseau",
+  "license": null,
+  "home_page": "https://github.com/LudovicRousseau/pyscard",
+  "download_filename": "pyscard-2.3.1.tar.gz",
+  "download_time": "2025-10-29T15:57:30.809123",
+  "package_url": "https://pypi.org/project/pyscard/"
+}
