@@ -1,35 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T22:44:08.887550
+- **Download Time**: 2025-10-29T22:53:51.963881
 - **Total Packages**: 86
-- **Total Size**: 12.65 MB
+- **Total Size**: 0.93 MB
 
 ## Packages List
-- fastloom
-- pySVModel
-- httptap
-- RockyRoad
-- pypomes-iam
 - trello-cli-python
-- AnimeGameRemap
-- fhiry
-- ollama-chat
-- coiled
-- mlx-embeddings
-- FixRaidenBoss2
-- sockett
-- certbot-dns-strato
-- reflex-agent
-- nextmv
-- speedyxml
-- qblox-instruments
-- stringsight
-- pyportainer
-- cdk-factory
-- anc
-- hummingbot-api-client
-- PyVALION
 - market-data-store
 - market-data-pipeline
 - stocktrim-openapi-client
@@ -45,6 +22,7 @@
 - docuchango
 - aixtools
 - sxc
+- stringsight
 - flyteplugins-pytorch
 - flyteplugins-spark
 - flyteplugins-openai
@@ -92,3 +70,25 @@
 - thulasirajkomminar-influxdb
 - tree-sitter-zsh
 - postgresdeploy
+- knack-sleuth
+- stretchable
+- atlas-quantum
+- mcpower-proxy
+- mpl-template
+- plain.vendor
+- django-query-builder-widget
+- regula-documentreader-webclient
+- kaqing
+- hefesto-ai
+- Wutta-Continuum
+- mlserve-sdk
+- terraform-ingest
+- mx8fs
+- llm-minimax
+- sbom-compliance-tool
+- accfg
+- llmcc
+- pycronado
+- blitzortung
+- lamindb_setup
+- triplethreading
