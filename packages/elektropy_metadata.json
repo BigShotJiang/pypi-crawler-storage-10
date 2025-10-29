@@ -1,11 +1,11 @@
 {
   "name": "elektropy",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "A Python library for circuit and digital electronics solving.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elektropy-1.0.0.tar.gz",
-  "download_time": "2025-10-29T20:55:00.785614",
+  "download_filename": "elektropy-1.0.3.tar.gz",
+  "download_time": "2025-10-29T21:17:25.814729",
   "package_url": "https://pypi.org/project/elektropy/"
 }

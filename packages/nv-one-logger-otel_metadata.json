@@ -1,0 +1,11 @@
+{
+  "name": "nv-one-logger-otel",
+  "version": "2.3.1",
+  "summary": "Extensions to onelogger library to use Open telemetry (OTEL) as a backend.",
+  "author": "HWInf-MLWFO",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nv_one_logger_otel-2.3.1.tar.gz",
+  "download_time": "2025-10-29T21:16:57.984047",
+  "package_url": "https://pypi.org/project/nv-one-logger-otel/"
+}

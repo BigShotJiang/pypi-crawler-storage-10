@@ -1,0 +1,11 @@
+{
+  "name": "aws-xray-sdk",
+  "version": "2.15.0",
+  "summary": "The AWS X-Ray SDK for Python (the SDK) enables Python developers to record and emit information from within their applications to the AWS X-Ray service.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/aws-xray-sdk-python",
+  "download_filename": "aws_xray_sdk-2.15.0.tar.gz",
+  "download_time": "2025-10-29T21:17:16.935487",
+  "package_url": "https://pypi.org/project/aws-xray-sdk/"
+}

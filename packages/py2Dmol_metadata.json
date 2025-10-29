@@ -1,11 +1,11 @@
 {
   "name": "py2Dmol",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "summary": "A Python library for visualizing protein structures in 2D.",
   "author": "sokrypton",
   "license": "BEER-WARE",
   "home_page": "https://github.com/sokrypton/py2Dmol",
-  "download_filename": "py2dmol-1.0.2.tar.gz",
-  "download_time": "2025-10-29T03:03:59.482718",
+  "download_filename": "py2dmol-1.1.1.tar.gz",
+  "download_time": "2025-10-29T21:17:01.130389",
   "package_url": "https://pypi.org/project/py2Dmol/"
 }

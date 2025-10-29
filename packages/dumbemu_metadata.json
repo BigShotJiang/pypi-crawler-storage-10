@@ -1,0 +1,11 @@
+{
+  "name": "dumbemu",
+  "version": "2.0.0",
+  "summary": "A lightweight, performant PE/ELF emulator built on Unicorn Engine",
+  "author": "Diefunction",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dumbemu-2.0.0.tar.gz",
+  "download_time": "2025-10-29T21:17:06.935369",
+  "package_url": "https://pypi.org/project/dumbemu/"
+}

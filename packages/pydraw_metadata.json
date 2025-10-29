@@ -1,0 +1,11 @@
+{
+  "name": "pydraw",
+  "version": "2.2",
+  "summary": "A package designed to make graphics with Python simple and easy!",
+  "author": "Noah Coetsee",
+  "license": "MIT",
+  "home_page": "https://github.com/pydraw/pydraw",
+  "download_filename": "pydraw-2.2-py3-none-any.whl",
+  "download_time": "2025-10-29T21:17:14.280661",
+  "package_url": "https://pypi.org/project/pydraw/"
+}

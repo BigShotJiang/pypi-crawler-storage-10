@@ -1,0 +1,11 @@
+{
+  "name": "pymodins",
+  "version": "3.0",
+  "summary": "A Python module installer for newcomers and seasoned developers.",
+  "author": "Nandhan K",
+  "license": null,
+  "home_page": "https://github.com/Nandhan-KA/pymodins",
+  "download_filename": "pymodins-3.0.tar.gz",
+  "download_time": "2025-10-29T21:17:09.576470",
+  "package_url": "https://pypi.org/project/pymodins/"
+}

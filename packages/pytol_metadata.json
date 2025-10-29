@@ -1,11 +1,11 @@
 {
   "name": "pytol",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Mission generation for VTOL VR with python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytol-0.4.0.tar.gz",
-  "download_time": "2025-10-27T01:22:17.765603",
+  "download_filename": "pytol-0.5.0.tar.gz",
+  "download_time": "2025-10-29T21:16:52.605096",
   "package_url": "https://pypi.org/project/pytol/"
 }

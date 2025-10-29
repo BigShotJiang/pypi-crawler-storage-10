@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-mermaid-x",
-  "version": "0.20.5",
+  "version": "0.20.6",
   "summary": "Mermaid diagram builder.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_mermaid_x-0.20.5.tar.gz",
-  "download_time": "2025-10-26T02:54:06.444485",
+  "download_filename": "x_4357_make_mermaid_x-0.20.6.tar.gz",
+  "download_time": "2025-10-29T21:17:22.671375",
   "package_url": "https://pypi.org/project/x-4357-make-mermaid-x/"
 }
