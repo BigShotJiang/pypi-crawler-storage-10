@@ -1,0 +1,11 @@
+{
+  "name": "postal",
+  "version": "1.1.11",
+  "summary": "Python bindings to libpostal for fast international address parsing/normalization",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/openvenues/pypostal",
+  "download_filename": "postal-1.1.11.tar.gz",
+  "download_time": "2025-10-29T05:43:45.323613",
+  "package_url": "https://pypi.org/project/postal/"
+}

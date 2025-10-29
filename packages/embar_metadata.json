@@ -1,0 +1,11 @@
+{
+  "name": "embar",
+  "version": "0.0.1",
+  "summary": "A SQL-y and well-typed ORM for Python",
+  "author": "Chris Arderne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "embar-0.0.1.tar.gz",
+  "download_time": "2025-10-29T05:43:48.598344",
+  "package_url": "https://pypi.org/project/embar/"
+}
