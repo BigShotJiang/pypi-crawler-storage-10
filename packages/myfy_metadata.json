@@ -1,11 +1,11 @@
 {
   "name": "myfy",
-  "version": "0.1.0a15",
+  "version": "0.1.0a17",
   "summary": "Opinionated Python framework with modularity, ergonomics, and power",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myfy-0.1.0a15.tar.gz",
-  "download_time": "2025-10-29T21:33:09.689734",
+  "download_filename": "myfy-0.1.0a17.tar.gz",
+  "download_time": "2025-10-29T21:52:51.764296",
   "package_url": "https://pypi.org/project/myfy/"
 }

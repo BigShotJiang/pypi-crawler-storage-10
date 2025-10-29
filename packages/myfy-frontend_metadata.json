@@ -1,11 +1,11 @@
 {
   "name": "myfy-frontend",
-  "version": "0.1.0a15",
+  "version": "0.1.0a17",
   "summary": "Frontend module for myfy with Tailwind 4, DaisyUI 5, and Vite",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "myfy_frontend-0.1.0a15.tar.gz",
-  "download_time": "2025-10-29T21:33:10.248750",
+  "download_filename": "myfy_frontend-0.1.0a17.tar.gz",
+  "download_time": "2025-10-29T21:52:52.281815",
   "package_url": "https://pypi.org/project/myfy-frontend/"
 }

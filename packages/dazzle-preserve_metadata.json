@@ -1,0 +1,11 @@
+{
+  "name": "dazzle-preserve",
+  "version": "0.5.2",
+  "summary": "A tool for preserving files with path normalization and verification",
+  "author": "Dustin Darcy",
+  "license": null,
+  "home_page": "https://github.com/djdarcy/preserve",
+  "download_filename": "dazzle_preserve-0.5.2.tar.gz",
+  "download_time": "2025-10-29T21:52:43.173544",
+  "package_url": "https://pypi.org/project/dazzle-preserve/"
+}
