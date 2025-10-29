@@ -1,11 +1,11 @@
 {
   "name": "mediaref",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mediaref-0.2.0.tar.gz",
-  "download_time": "2025-10-28T14:19:41.072580",
+  "download_filename": "mediaref-0.3.0.tar.gz",
+  "download_time": "2025-10-29T08:49:58.929190",
   "package_url": "https://pypi.org/project/mediaref/"
 }

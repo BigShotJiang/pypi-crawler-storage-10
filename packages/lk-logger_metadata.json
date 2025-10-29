@@ -1,0 +1,11 @@
+{
+  "name": "lk-logger",
+  "version": "6.0.7",
+  "summary": "Python print with source map and varnames.",
+  "author": "Likianta",
+  "license": null,
+  "home_page": "https://github.com/likianta/lk-logger",
+  "download_filename": "lk_logger-6.0.7-py3-none-any.whl",
+  "download_time": "2025-10-29T08:49:50.047010",
+  "package_url": "https://pypi.org/project/lk-logger/"
+}

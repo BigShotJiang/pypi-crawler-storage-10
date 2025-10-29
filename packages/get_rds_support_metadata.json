@@ -1,0 +1,11 @@
+{
+  "name": "get_rds_support",
+  "version": "1.2.1",
+  "summary": "Get RDS instance support details from AWS accounts.",
+  "author": "Ahmad Ferdaus Abd Razak",
+  "license": "GPL-2.0-only",
+  "home_page": "https://gitlab.com/fer1035_python/modules/pypi-get_rds_support",
+  "download_filename": "get_rds_support-1.2.1.tar.gz",
+  "download_time": "2025-10-29T08:50:07.262907",
+  "package_url": "https://pypi.org/project/get_rds_support/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_x-twitter-mcp",
+  "version": "0.1.11",
+  "summary": "Twitter search tool for FastMCP using Tweepy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_x_twitter_mcp-0.1.11.tar.gz",
+  "download_time": "2025-10-29T08:49:49.009156",
+  "package_url": "https://pypi.org/project/iflow-mcp_x-twitter-mcp/"
+}

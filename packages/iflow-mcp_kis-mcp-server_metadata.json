@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kis-mcp-server",
+  "version": "0.1.0",
+  "summary": "한국투자증권 REST API를 사용한 MCP(Model Context Protocol) 서버",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_kis_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-29T08:49:40.707239",
+  "package_url": "https://pypi.org/project/iflow-mcp_kis-mcp-server/"
+}

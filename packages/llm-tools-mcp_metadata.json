@@ -1,0 +1,11 @@
+{
+  "name": "llm-tools-mcp",
+  "version": "0.4",
+  "summary": "MCP support for LLM CLI",
+  "author": "Michal Fudala",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_tools_mcp-0.4.tar.gz",
+  "download_time": "2025-10-29T08:50:03.091704",
+  "package_url": "https://pypi.org/project/llm-tools-mcp/"
+}
