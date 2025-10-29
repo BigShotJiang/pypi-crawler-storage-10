@@ -1,0 +1,11 @@
+{
+  "name": "clean-transcribe",
+  "version": "1.1.0",
+  "summary": "A simple CLI to transcribe Youtube videos or local audio/video files and produce easy-to-use transcripts for analysis, reading, or subtitles.",
+  "author": "Victor Kreitmann",
+  "license": null,
+  "home_page": "https://github.com/itsmevictor/clean-transcribe",
+  "download_filename": "clean_transcribe-1.1.0.tar.gz",
+  "download_time": "2025-10-29T13:51:43.876323",
+  "package_url": "https://pypi.org/project/clean-transcribe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "minjiang-host-client",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Minjiang pulse-level measurement and control SDK for quantum computing.",
   "author": "ZWDX",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "minjiang_host_client-0.3.10-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-28T17:18:18.670482",
+  "download_filename": "minjiang_host_client-0.3.11-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-29T13:52:00.029771",
   "package_url": "https://pypi.org/project/minjiang-host-client/"
 }

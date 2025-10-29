@@ -1,11 +1,11 @@
 {
   "name": "deltares-coastal-structures-toolbox",
-  "version": "1.0.0rc1",
+  "version": "1.0.0",
   "summary": null,
   "author": "Joost den Bieman",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "deltares_coastal_structures_toolbox-1.0.0rc1.tar.gz",
-  "download_time": "2025-10-27T10:21:15.169010",
+  "download_filename": "deltares_coastal_structures_toolbox-1.0.0.tar.gz",
+  "download_time": "2025-10-29T13:52:02.078856",
   "package_url": "https://pypi.org/project/deltares-coastal-structures-toolbox/"
 }

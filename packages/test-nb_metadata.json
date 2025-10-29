@@ -1,0 +1,11 @@
+{
+  "name": "test-nb",
+  "version": "0.1.0",
+  "summary": "Custom utilities to convert notebooks to python files and test them",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_nb-0.1.0.tar.gz",
+  "download_time": "2025-10-29T13:52:09.037615",
+  "package_url": "https://pypi.org/project/test-nb/"
+}

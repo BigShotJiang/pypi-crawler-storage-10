@@ -1,11 +1,11 @@
 {
   "name": "pyimaprotect",
-  "version": "3.2.1",
+  "version": "3.2.3",
   "summary": "Get alarm status and informations from the IMA Protect API.",
   "author": "Pierre COURBIN",
   "license": "MIT license",
   "home_page": "https://github.com/pcourbin/pyimaprotect",
-  "download_filename": "pyimaprotect-3.2.1.tar.gz",
-  "download_time": "2025-10-26T22:16:43.052579",
+  "download_filename": "pyimaprotect-3.2.3.tar.gz",
+  "download_time": "2025-10-29T13:52:08.010849",
   "package_url": "https://pypi.org/project/pyimaprotect/"
 }

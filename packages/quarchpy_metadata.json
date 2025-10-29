@@ -1,0 +1,11 @@
+{
+  "name": "quarchpy",
+  "version": "2.2.15",
+  "summary": "This packpage offers Python support for Quarch Technology modules.",
+  "author": "Quarch Technology ltd",
+  "license": "Quarch Technology ltd",
+  "home_page": null,
+  "download_filename": "quarchpy-2.2.15-py2.py3-none-any.whl",
+  "download_time": "2025-10-29T13:52:03.888857",
+  "package_url": "https://pypi.org/project/quarchpy/"
+}

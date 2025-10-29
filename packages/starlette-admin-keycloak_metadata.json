@@ -1,11 +1,11 @@
 {
   "name": "starlette-admin-keycloak",
-  "version": "0.1.0.post0",
+  "version": "0.2.0",
   "summary": "Keycloak authentication provider for starlette-admin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "starlette_admin_keycloak-0.1.0.post0.tar.gz",
-  "download_time": "2025-10-27T13:50:44.152669",
+  "download_filename": "starlette_admin_keycloak-0.2.0.tar.gz",
+  "download_time": "2025-10-29T13:52:18.329639",
   "package_url": "https://pypi.org/project/starlette-admin-keycloak/"
 }

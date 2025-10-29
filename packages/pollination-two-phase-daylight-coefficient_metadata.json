@@ -1,11 +1,11 @@
 {
   "name": "pollination-two-phase-daylight-coefficient",
-  "version": "1.1.61",
+  "version": "1.1.62",
   "summary": "Two phase daylight coefficient recipe for Pollination.",
   "author": "ladybug-tools",
   "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
   "home_page": "https://github.com/pollination/two-phase-daylight-coefficient",
-  "download_filename": "pollination_two_phase_daylight_coefficient-1.1.61.tar.gz",
-  "download_time": "2025-10-29T12:39:10.324203",
+  "download_filename": "pollination_two_phase_daylight_coefficient-1.1.62.tar.gz",
+  "download_time": "2025-10-29T13:52:04.912062",
   "package_url": "https://pypi.org/project/pollination-two-phase-daylight-coefficient/"
 }

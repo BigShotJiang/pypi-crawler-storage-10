@@ -1,0 +1,11 @@
+{
+  "name": "bffuck",
+  "version": "3.0.3",
+  "summary": "Makes Brainfucking Easier!",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/none-None1/BFFuck",
+  "download_filename": "bffuck-3.0.3.tar.gz",
+  "download_time": "2025-10-29T13:51:54.055236",
+  "package_url": "https://pypi.org/project/bffuck/"
+}

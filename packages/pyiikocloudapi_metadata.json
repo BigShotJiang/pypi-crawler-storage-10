@@ -1,0 +1,11 @@
+{
+  "name": "pyiikocloudapi",
+  "version": "0.0.29",
+  "summary": "Python services for convenient work with iiko Transport / iiko cloud api",
+  "author": "kebrick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyiikocloudapi-0.0.29.tar.gz",
+  "download_time": "2025-10-29T13:51:47.538200",
+  "package_url": "https://pypi.org/project/pyiikocloudapi/"
+}

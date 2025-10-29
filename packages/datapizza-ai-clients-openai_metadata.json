@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-clients-openai",
+  "version": "0.0.7",
+  "summary": "OpenAI client for the datapizza-ai framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_clients_openai-0.0.7.tar.gz",
+  "download_time": "2025-10-29T13:52:14.219683",
+  "package_url": "https://pypi.org/project/datapizza-ai-clients-openai/"
+}

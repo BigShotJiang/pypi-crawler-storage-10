@@ -1,0 +1,11 @@
+{
+  "name": "orchid-python-api",
+  "version": "5.25.3",
+  "summary": "Defines and implements the Python API for Orchid*. (*Orchid is a mark of KAPPA.)",
+  "author": "KAPPA.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Reveal-Energy-Services/orchid-python-api",
+  "download_filename": "orchid_python_api-5.25.3.tar.gz",
+  "download_time": "2025-10-29T13:51:41.763054",
+  "package_url": "https://pypi.org/project/orchid-python-api/"
+}

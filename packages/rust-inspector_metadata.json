@@ -1,0 +1,11 @@
+{
+  "name": "rust-inspector",
+  "version": "0.2.1",
+  "summary": "rust-inspector is a scancode plugin to extract symbols and dependencies found in Rust binaries.",
+  "author": "nexB. Inc. and others",
+  "license": "Apache-2.0 AND MIT",
+  "home_page": "https://github.com/nexB/rust-inspector",
+  "download_filename": "rust_inspector-0.2.1.tar.gz",
+  "download_time": "2025-10-29T13:51:48.562704",
+  "package_url": "https://pypi.org/project/rust-inspector/"
+}
