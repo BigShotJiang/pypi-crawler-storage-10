@@ -1,11 +1,11 @@
 {
   "name": "gammapbh",
-  "version": "1.1.0",
-  "summary": "GammaPBHPlotter: a tool for calculating and visualizing Hawking radiation spectra from primordial black holes.",
-  "author": "Ilias Cholis",
+  "version": "1.1.1",
+  "summary": "GammaPBHPlotter: simulate and visualize Hawking gamma-ray spectra from PBHs",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gammapbh-1.1.0.tar.gz",
-  "download_time": "2025-10-28T19:40:35.801196",
+  "download_filename": "gammapbh-1.1.1.tar.gz",
+  "download_time": "2025-10-29T18:51:37.385855",
   "package_url": "https://pypi.org/project/gammapbh/"
 }

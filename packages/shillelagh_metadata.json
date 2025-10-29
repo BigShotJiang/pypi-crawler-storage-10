@@ -1,0 +1,11 @@
+{
+  "name": "shillelagh",
+  "version": "1.4.3",
+  "summary": "Making it easy to query APIs via SQL",
+  "author": "Beto Dealmeida",
+  "license": "mit",
+  "home_page": "https://github.com/betodealmeida/shillelagh/",
+  "download_filename": "shillelagh-1.4.3.tar.gz",
+  "download_time": "2025-10-29T18:51:31.591499",
+  "package_url": "https://pypi.org/project/shillelagh/"
+}

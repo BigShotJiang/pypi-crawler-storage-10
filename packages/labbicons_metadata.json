@@ -1,11 +1,11 @@
 {
   "name": "labbicons",
-  "version": "0.0.1a0",
+  "version": "0.0.1a2",
   "summary": "Icon components library for labb UI and django projects",
   "author": "zadiq",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "labbicons-0.0.1a0.tar.gz",
-  "download_time": "2025-10-26T16:19:06.473431",
+  "download_filename": "labbicons-0.0.1a2.tar.gz",
+  "download_time": "2025-10-29T18:51:43.791095",
   "package_url": "https://pypi.org/project/labbicons/"
 }

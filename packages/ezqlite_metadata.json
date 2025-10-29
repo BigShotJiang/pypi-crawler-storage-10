@@ -1,0 +1,11 @@
+{
+  "name": "ezqlite",
+  "version": "1.0.0",
+  "summary": "Helper utlility for SQLite3",
+  "author": "opzs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezqlite-1.0.0.tar.gz",
+  "download_time": "2025-10-29T18:51:20.826998",
+  "package_url": "https://pypi.org/project/ezqlite/"
+}
