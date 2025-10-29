@@ -1,11 +1,11 @@
 {
   "name": "oet-core",
-  "version": "1.1.0",
-  "summary": "Lightweight data processing toolkit - algorithms, utilities, and database helpers for ETL pipelines",
+  "version": "1.2.0",
+  "summary": "Lightweight data processing toolkit with algorithms, symbolic math (with arithmetic operators), text analysis, and database helpers for ETL pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oet_core-1.1.0.tar.gz",
-  "download_time": "2025-10-28T23:51:55.326775",
+  "download_filename": "oet_core-1.2.0.tar.gz",
+  "download_time": "2025-10-29T01:20:49.343647",
   "package_url": "https://pypi.org/project/oet-core/"
 }

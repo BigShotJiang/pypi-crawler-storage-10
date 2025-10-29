@@ -1,11 +1,11 @@
 {
   "name": "rustmssql-python",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Exporta consultas do SQL Server para arquivos Parquet de forma eficiente usando Rust.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustmssql_python-0.1.7.tar.gz",
-  "download_time": "2025-10-27T22:51:04.599675",
+  "download_filename": "rustmssql_python-0.1.8.tar.gz",
+  "download_time": "2025-10-29T01:20:38.338977",
   "package_url": "https://pypi.org/project/rustmssql-python/"
 }

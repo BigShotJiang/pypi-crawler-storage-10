@@ -1,11 +1,11 @@
 {
   "name": "topological-adam",
-  "version": "1.0.2",
-  "summary": "Energy-Stabilized Topological Adam Optimizer for PyTorch",
+  "version": "1.0.4",
+  "summary": "Energy-Stabilized Topological Adam Optimizer (MHD-inspired)",
   "author": "Steven Reid",
   "license": null,
   "home_page": "https://github.com/rrg314/topological-adam",
-  "download_filename": "topological_adam-1.0.2-py3-none-any.whl",
-  "download_time": "2025-10-27T16:49:00.710600",
+  "download_filename": "topological_adam-1.0.4.tar.gz",
+  "download_time": "2025-10-29T01:20:22.683245",
   "package_url": "https://pypi.org/project/topological-adam/"
 }

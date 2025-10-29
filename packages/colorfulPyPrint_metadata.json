@@ -1,0 +1,11 @@
+{
+  "name": "colorfulPyPrint",
+  "version": "0.2.1",
+  "summary": "Utility for colored print and input statements",
+  "author": "Kanad Rishiraj (RoamingSaint)",
+  "license": null,
+  "home_page": "https://github.com/roamingsaint/colorfulPyPrint.git",
+  "download_filename": "colorfulpyprint-0.2.1.tar.gz",
+  "download_time": "2025-10-29T01:20:24.318538",
+  "package_url": "https://pypi.org/project/colorfulPyPrint/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airthings-ble",
+  "version": "1.2.0",
+  "summary": "Manage Airthings BLE devices",
+  "author": "Vincent Giorgi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airthings_ble-1.2.0.tar.gz",
+  "download_time": "2025-10-29T01:20:43.965589",
+  "package_url": "https://pypi.org/project/airthings-ble/"
+}

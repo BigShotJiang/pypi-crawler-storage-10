@@ -1,0 +1,11 @@
+{
+  "name": "ingenia",
+  "version": "0.3.5",
+  "summary": "Python client sdk of [ingenia](https://gitlab.aws.dev/proserve-gcr-omniml/OmniLLM)",
+  "author": "Proserve",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "ingenia-0.3.5.tar.gz",
+  "download_time": "2025-10-29T01:20:27.527153",
+  "package_url": "https://pypi.org/project/ingenia/"
+}
