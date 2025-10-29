@@ -1,0 +1,11 @@
+{
+  "name": "python-http_request",
+  "version": "0.1.6.2",
+  "summary": "Python http request utils.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-http_request",
+  "download_filename": "python_http_request-0.1.6.2.tar.gz",
+  "download_time": "2025-10-29T14:19:33.590515",
+  "package_url": "https://pypi.org/project/python-http_request/"
+}

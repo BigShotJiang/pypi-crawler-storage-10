@@ -1,0 +1,11 @@
+{
+  "name": "petab",
+  "version": "0.7.0",
+  "summary": "Parameter estimation tabular data",
+  "author": "The PEtab developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "petab-0.7.0.tar.gz",
+  "download_time": "2025-10-29T14:19:34.655882",
+  "package_url": "https://pypi.org/project/petab/"
+}

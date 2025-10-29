@@ -1,0 +1,11 @@
+{
+  "name": "kurenai",
+  "version": "0.0.2",
+  "summary": "Thin wrapper of google-research's rouge-score; supports non-ascii by default",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "kurenai-0.0.2.tar.gz",
+  "download_time": "2025-10-29T14:19:30.462056",
+  "package_url": "https://pypi.org/project/kurenai/"
+}

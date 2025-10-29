@@ -1,0 +1,11 @@
+{
+  "name": "collective.big.bang",
+  "version": "1.1.0",
+  "summary": "Add-on which create Plone site into Zope",
+  "author": "Benoît Suttor",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.big.bang",
+  "download_filename": "collective_big_bang-1.1.0.tar.gz",
+  "download_time": "2025-10-29T14:19:59.131731",
+  "package_url": "https://pypi.org/project/collective.big.bang/"
+}

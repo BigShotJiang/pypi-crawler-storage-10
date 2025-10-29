@@ -1,0 +1,11 @@
+{
+  "name": "mcpscanner",
+  "version": "0.4.0",
+  "summary": "A command-line tool for analyzing MCP servers.",
+  "author": "Pangea",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpscanner-0.4.0.tar.gz",
+  "download_time": "2025-10-29T14:19:22.007561",
+  "package_url": "https://pypi.org/project/mcpscanner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dulwich-tree",
+  "version": "0.3",
+  "summary": "Library to help make and commit modifications to a tree with Dulwich.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dulwich_tree-0.3.tar.gz",
+  "download_time": "2025-10-29T14:19:41.010551",
+  "package_url": "https://pypi.org/project/dulwich-tree/"
+}

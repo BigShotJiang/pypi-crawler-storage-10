@@ -1,11 +1,11 @@
 {
   "name": "datacosmos",
-  "version": "0.0.18",
+  "version": "0.0.21",
   "summary": "A library for interacting with DataCosmos from Python code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datacosmos-0.0.18.tar.gz",
-  "download_time": "2025-10-28T20:21:45.931353",
+  "download_filename": "datacosmos-0.0.21.tar.gz",
+  "download_time": "2025-10-29T14:19:28.854363",
   "package_url": "https://pypi.org/project/datacosmos/"
 }

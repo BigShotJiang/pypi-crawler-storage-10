@@ -1,0 +1,11 @@
+{
+  "name": "quinex",
+  "version": "0.0.0",
+  "summary": "quinex extracts quantitative information (that is, quantities and their measurement context) from text",
+  "author": "Jan Göpfert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quinex-0.0.0.tar.gz",
+  "download_time": "2025-10-29T14:19:17.269333",
+  "package_url": "https://pypi.org/project/quinex/"
+}

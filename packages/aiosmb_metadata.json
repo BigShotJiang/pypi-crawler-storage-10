@@ -1,0 +1,11 @@
+{
+  "name": "aiosmb",
+  "version": "0.4.14",
+  "summary": "Asynchronous SMB protocol implementation",
+  "author": "Tamas Jos",
+  "license": "Modified Apache Software License 1.1",
+  "home_page": "https://github.com/skelsec/aiosmb",
+  "download_filename": "aiosmb-0.4.14.tar.gz",
+  "download_time": "2025-10-29T14:19:55.926647",
+  "package_url": "https://pypi.org/project/aiosmb/"
+}
