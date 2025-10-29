@@ -1,0 +1,11 @@
+{
+  "name": "greendirac",
+  "version": "0.0.0a4",
+  "summary": "GreenDIRAC is a DIRAC extension for the GreenDIGIT project",
+  "author": "GreenDIRAC",
+  "license": "GPLv3\n        Programming Language :: Python :: 3\n        Operating System :: OS Independent",
+  "home_page": "https://github.com/GreenDIGIT-project/GreenDIRAC",
+  "download_filename": "greendirac-0.0.0a4.tar.gz",
+  "download_time": "2025-10-29T11:44:14.636762",
+  "package_url": "https://pypi.org/project/greendirac/"
+}

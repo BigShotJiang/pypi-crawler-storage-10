@@ -1,0 +1,11 @@
+{
+  "name": "tap-zendesk",
+  "version": "2.7.1",
+  "summary": "Singer.io tap for extracting data from the Zendesk API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "https://singer.io",
+  "download_filename": "tap_zendesk-2.7.1.tar.gz",
+  "download_time": "2025-10-29T11:43:44.571787",
+  "package_url": "https://pypi.org/project/tap-zendesk/"
+}

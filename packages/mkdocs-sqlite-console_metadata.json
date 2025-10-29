@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-sqlite-console",
+  "version": "2.1.1",
+  "summary": "Mkdocs-SQLite-Console est un plugin pour MkDocs, qui permet d'afficher un IDE SQL (SQLite) permettant d'exécuter du code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_sqlite_console-2.1.1.tar.gz",
+  "download_time": "2025-10-29T11:43:49.938561",
+  "package_url": "https://pypi.org/project/mkdocs-sqlite-console/"
+}

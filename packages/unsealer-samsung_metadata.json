@@ -1,0 +1,11 @@
+{
+  "name": "unsealer-samsung",
+  "version": "0.1.0",
+  "summary": "Unsealer (Samsung): A command-line tool to decrypt Samsung Pass (.spass) backup files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unsealer_samsung-0.1.0.tar.gz",
+  "download_time": "2025-10-29T11:43:30.506957",
+  "package_url": "https://pypi.org/project/unsealer-samsung/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-delta-guard",
+  "version": "0.0.3",
+  "summary": "ScrapyDeltaGuard - data-drift detection for Scrapy",
+  "author": "Abdul Nazar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapy_delta_guard-0.0.3.tar.gz",
+  "download_time": "2025-10-29T11:44:17.080410",
+  "package_url": "https://pypi.org/project/scrapy-delta-guard/"
+}

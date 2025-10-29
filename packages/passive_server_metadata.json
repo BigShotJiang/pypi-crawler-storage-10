@@ -1,11 +1,11 @@
 {
   "name": "passive_server",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "作为服务端的设备",
   "author": "WeiLiu",
   "license": null,
   "home_page": null,
-  "download_filename": "passive_server-1.0.3.tar.gz",
-  "download_time": "2025-10-29T10:46:28.156896",
+  "download_filename": "passive_server-1.1.0.tar.gz",
+  "download_time": "2025-10-29T11:43:58.038549",
   "package_url": "https://pypi.org/project/passive_server/"
 }

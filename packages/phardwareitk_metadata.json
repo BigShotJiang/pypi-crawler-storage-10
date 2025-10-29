@@ -1,0 +1,11 @@
+{
+  "name": "phardwareitk",
+  "version": "0.1.4",
+  "summary": "PHardwareITK, or Pheonix Hardware Interface Toolkit, is a comprehensive Python module. This toolkit provides a variety of functions and utilities to assist developers in creating complex systems/programs. It provides many toolkits and extensions for all your needs, want to emulate c in python that actually works well PHardwareITK got your back, want to make a OS easily, PHardwareITK got your back, please use the Github Wiki to learn more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phardwareitk-0.1.4.tar.gz",
+  "download_time": "2025-10-29T11:43:37.384092",
+  "package_url": "https://pypi.org/project/phardwareitk/"
+}

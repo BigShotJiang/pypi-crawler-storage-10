@@ -1,0 +1,11 @@
+{
+  "name": "agent-memory-ai",
+  "version": "0.2.0",
+  "summary": "一个完整的、智能的、多层次的Agent记忆管理系统",
+  "author": "yixiaobai",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/agent-memory-ai/",
+  "download_filename": "agent_memory_ai-0.2.0.tar.gz",
+  "download_time": "2025-10-29T11:43:43.457636",
+  "package_url": "https://pypi.org/project/agent-memory-ai/"
+}

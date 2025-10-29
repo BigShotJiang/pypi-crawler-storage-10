@@ -1,0 +1,11 @@
+{
+  "name": "llm-ollama",
+  "version": "0.15.1",
+  "summary": "LLM plugin providing access to models running on an Ollama server",
+  "author": "Sergey Alexandrov",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_ollama-0.15.1.tar.gz",
+  "download_time": "2025-10-29T11:44:09.768096",
+  "package_url": "https://pypi.org/project/llm-ollama/"
+}

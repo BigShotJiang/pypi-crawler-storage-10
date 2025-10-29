@@ -1,0 +1,11 @@
+{
+  "name": "geo-skeletons",
+  "version": "0.21.0",
+  "summary": "Easily extended way to build classes for structured and unstructured geophysical data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_skeletons-0.21.0.tar.gz",
+  "download_time": "2025-10-29T11:44:13.052669",
+  "package_url": "https://pypi.org/project/geo-skeletons/"
+}

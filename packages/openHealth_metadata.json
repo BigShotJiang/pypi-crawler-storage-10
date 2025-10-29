@@ -1,11 +1,11 @@
 {
   "name": "openHealth",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A comprehensive health monitoring tool for backend and frontend services",
   "author": "Dhruv Karnwal",
   "license": null,
   "home_page": "https://github.com/Dhruv1969Karnwal/openHealth",
-  "download_filename": "openhealth-0.1.1.tar.gz",
-  "download_time": "2025-10-28T04:45:24.492022",
+  "download_filename": "openhealth-0.1.2.tar.gz",
+  "download_time": "2025-10-29T11:44:10.837982",
   "package_url": "https://pypi.org/project/openHealth/"
 }
