@@ -1,0 +1,11 @@
+{
+  "name": "adr",
+  "version": "0.4.1",
+  "summary": "This Python script is designed to help software development teams document their architecture decisions using Architecture Decision Records (ADRs).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adr-0.4.1.tar.gz",
+  "download_time": "2025-10-29T15:23:26.409301",
+  "package_url": "https://pypi.org/project/adr/"
+}

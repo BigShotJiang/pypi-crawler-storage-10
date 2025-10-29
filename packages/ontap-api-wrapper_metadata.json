@@ -1,0 +1,11 @@
+{
+  "name": "ontap-api-wrapper",
+  "version": "0.5.5",
+  "summary": "Python wrapper for NetApp Manageability SDK",
+  "author": "Andrew Leonard",
+  "license": "Apache License",
+  "home_page": "https://github.com/machalekj/ontap-api-wrapper",
+  "download_filename": "ontap_api_wrapper-0.5.5.tar.gz",
+  "download_time": "2025-10-29T15:23:15.838489",
+  "package_url": "https://pypi.org/project/ontap-api-wrapper/"
+}

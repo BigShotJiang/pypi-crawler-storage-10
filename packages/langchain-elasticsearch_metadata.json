@@ -1,0 +1,11 @@
+{
+  "name": "langchain-elasticsearch",
+  "version": "0.4.0",
+  "summary": "An integration package connecting Elasticsearch and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-elastic",
+  "download_filename": "langchain_elasticsearch-0.4.0.tar.gz",
+  "download_time": "2025-10-29T15:23:06.248591",
+  "package_url": "https://pypi.org/project/langchain-elasticsearch/"
+}

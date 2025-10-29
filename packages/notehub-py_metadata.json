@@ -1,0 +1,11 @@
+{
+  "name": "notehub-py",
+  "version": "2.2.1",
+  "summary": "Python-based library for accessing the Blues Notehub API.",
+  "author": "Blues Engineering",
+  "license": null,
+  "home_page": "https://github.com/blues/notehub-py",
+  "download_filename": "notehub_py-2.2.1.tar.gz",
+  "download_time": "2025-10-29T15:23:10.639742",
+  "package_url": "https://pypi.org/project/notehub-py/"
+}
