@@ -1,0 +1,11 @@
+{
+  "name": "actionsguard",
+  "version": "1.0.0",
+  "summary": "GitHub Actions security scanner using OpenSSF Scorecard",
+  "author": "Travis Felder",
+  "license": "MIT",
+  "home_page": "https://github.com/cybrking/actions-guard",
+  "download_filename": "actionsguard-1.0.0.tar.gz",
+  "download_time": "2025-10-29T03:03:51.411822",
+  "package_url": "https://pypi.org/project/actionsguard/"
+}

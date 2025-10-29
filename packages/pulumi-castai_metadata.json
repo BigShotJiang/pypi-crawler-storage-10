@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-castai",
+  "version": "7.73.1",
+  "summary": "A Pulumi package for creating and managing CAST AI cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://cast.ai",
+  "download_filename": "pulumi_castai-7.73.1.tar.gz",
+  "download_time": "2025-10-29T03:04:30.253348",
+  "package_url": "https://pypi.org/project/pulumi-castai/"
+}

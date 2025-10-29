@@ -1,0 +1,11 @@
+{
+  "name": "nacosx",
+  "version": "0.1.dev0",
+  "summary": "A decorator-based Python library for automatic Nacos service registration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nacosx-0.1.dev0.tar.gz",
+  "download_time": "2025-10-29T03:03:56.585587",
+  "package_url": "https://pypi.org/project/nacosx/"
+}

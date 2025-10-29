@@ -1,0 +1,11 @@
+{
+  "name": "thrml",
+  "version": "0.1.3",
+  "summary": "Thermodynamic HypergRaphical Model Library (THRML)",
+  "author": "Extropic AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thrml-0.1.3.tar.gz",
+  "download_time": "2025-10-29T03:04:23.390398",
+  "package_url": "https://pypi.org/project/thrml/"
+}

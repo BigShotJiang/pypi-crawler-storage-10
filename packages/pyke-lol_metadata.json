@@ -1,11 +1,11 @@
 {
   "name": "pyke-lol",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "summary": "A Riot API wrapper specifically for League of Legends.",
   "author": "diodemusic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyke_lol-1.3.1.tar.gz",
-  "download_time": "2025-10-25T19:50:38.783716",
+  "download_filename": "pyke_lol-1.4.0.tar.gz",
+  "download_time": "2025-10-29T03:03:49.555778",
   "package_url": "https://pypi.org/project/pyke-lol/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dash-tailwindcss-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Dash plugin for integrating TailwindCSS using Dash 3.x hooks",
   "author": "insistence",
   "license": null,
   "home_page": "https://github.com/HogaStack/dash-tailwindcss-plugin",
-  "download_filename": "dash_tailwindcss_plugin-0.1.2.tar.gz",
-  "download_time": "2025-10-27T09:53:52.652525",
+  "download_filename": "dash_tailwindcss_plugin-0.1.3.tar.gz",
+  "download_time": "2025-10-29T03:04:25.136958",
   "package_url": "https://pypi.org/project/dash-tailwindcss-plugin/"
 }

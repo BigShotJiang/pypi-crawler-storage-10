@@ -1,0 +1,11 @@
+{
+  "name": "sushi-batch",
+  "version": "0.2.0",
+  "summary": "Batch Subtitle Synchronization Tool",
+  "author": "C1fer",
+  "license": "MIT",
+  "home_page": "https://github.com/C1fer/sushi-batch",
+  "download_filename": "sushi_batch-0.2.0.tar.gz",
+  "download_time": "2025-10-29T03:03:54.802165",
+  "package_url": "https://pypi.org/project/sushi-batch/"
+}

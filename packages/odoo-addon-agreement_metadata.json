@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-agreement",
+  "version": "18.0.1.0.1.2",
+  "summary": "Adds an agreement object",
+  "author": "Akretion, Yves Goldberg (Ygol Internetwork), Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/agreement",
+  "download_filename": "odoo_addon_agreement-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-29T03:04:12.909731",
+  "package_url": "https://pypi.org/project/odoo-addon-agreement/"
+}

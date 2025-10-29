@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_stata-mcp",
+  "version": "1.11.1",
+  "summary": "Let LLM help you achieve your regression analysis with Stata",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_stata_mcp-1.11.1.tar.gz",
+  "download_time": "2025-10-29T03:04:03.569321",
+  "package_url": "https://pypi.org/project/iflow-mcp_stata-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "i3_find_or_open",
+  "version": "0.6.4",
+  "summary": "A command-line utility that helps you bind keys to find and display a window, or open it if there is no instance running, in i3wm.",
+  "author": "Hector Brown",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "i3_find_or_open-0.6.4.tar.gz",
+  "download_time": "2025-10-29T03:04:02.398526",
+  "package_url": "https://pypi.org/project/i3_find_or_open/"
+}

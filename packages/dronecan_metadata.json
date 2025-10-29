@@ -1,0 +1,11 @@
+{
+  "name": "dronecan",
+  "version": "1.0.27",
+  "summary": "Python implementation of the DroneCAN protocol stack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dronecan-1.0.27.tar.gz",
+  "download_time": "2025-10-29T03:04:40.760510",
+  "package_url": "https://pypi.org/project/dronecan/"
+}

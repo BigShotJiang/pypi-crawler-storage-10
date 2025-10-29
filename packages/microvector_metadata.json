@@ -1,11 +1,11 @@
 {
   "name": "microvector",
-  "version": "0.2.17",
+  "version": "0.3.0",
   "summary": "Lightweight local vector database with persistence to disk, supporting multiple similarity metrics and easy-to-use API.",
   "author": "John Dagdelen, Logan Powell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microvector-0.2.17.tar.gz",
-  "download_time": "2025-10-28T15:21:30.575546",
+  "download_filename": "microvector-0.3.0.tar.gz",
+  "download_time": "2025-10-29T03:04:29.130031",
   "package_url": "https://pypi.org/project/microvector/"
 }
