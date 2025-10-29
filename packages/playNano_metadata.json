@@ -1,0 +1,11 @@
+{
+  "name": "playNano",
+  "version": "0.2.0.post1",
+  "summary": "Python toolkit for processing and visualising high-speed AFM (Atomic Force Microscopy) video data.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "playnano-0.2.0.post1-py3-none-any.whl",
+  "download_time": "2025-10-29T15:45:51.625762",
+  "package_url": "https://pypi.org/project/playNano/"
+}

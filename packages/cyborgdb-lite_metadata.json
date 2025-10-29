@@ -1,0 +1,11 @@
+{
+  "name": "cyborgdb-lite",
+  "version": "0.13.0",
+  "summary": "[DEPRECATED] This package has been merged into cyborgdb-core. Please use cyborgdb-core instead.",
+  "author": "Cyborg Inc.",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cyborgdb_lite-0.13.0.tar.gz",
+  "download_time": "2025-10-29T15:46:20.543679",
+  "package_url": "https://pypi.org/project/cyborgdb-lite/"
+}

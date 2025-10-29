@@ -1,11 +1,11 @@
 {
   "name": "skintone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Kintone REST API helper for Python",
   "author": "sai",
   "license": "MIT",
   "home_page": "https://github.com/syakinman/skintone",
-  "download_filename": "skintone-0.0.2.tar.gz",
-  "download_time": "2025-10-29T14:19:21.477667",
+  "download_filename": "skintone-0.0.3.tar.gz",
+  "download_time": "2025-10-29T15:46:22.664643",
   "package_url": "https://pypi.org/project/skintone/"
 }

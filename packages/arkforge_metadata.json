@@ -1,11 +1,11 @@
 {
   "name": "arkforge",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Official Python SDK for ArkForge DeFi portfolio management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arkforge-0.0.5.tar.gz",
-  "download_time": "2025-10-28T20:22:20.750700",
+  "download_filename": "arkforge-0.0.6.tar.gz",
+  "download_time": "2025-10-29T15:45:46.727026",
   "package_url": "https://pypi.org/project/arkforge/"
 }

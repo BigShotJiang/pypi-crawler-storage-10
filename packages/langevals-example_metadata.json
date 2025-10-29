@@ -1,11 +1,11 @@
 {
   "name": "langevals-example",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "LangEvals boilerplate example evaluator for LLMs.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langevals_example-0.1.14.tar.gz",
-  "download_time": "2025-10-27T17:33:41.684850",
+  "download_filename": "langevals_example-0.1.15.tar.gz",
+  "download_time": "2025-10-29T15:46:17.821791",
   "package_url": "https://pypi.org/project/langevals-example/"
 }

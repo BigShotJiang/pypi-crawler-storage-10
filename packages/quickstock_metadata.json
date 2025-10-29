@@ -1,0 +1,11 @@
+{
+  "name": "quickstock",
+  "version": "1.0.3",
+  "summary": "QuickStock SDK - 现代化的金融数据获取SDK，提供统一的股票、基金、指数数据访问接口",
+  "author": "QuickStock Team",
+  "license": null,
+  "home_page": "https://github.com/quickstock/quickstock-sdk",
+  "download_filename": "quickstock-1.0.3.tar.gz",
+  "download_time": "2025-10-29T15:46:07.569447",
+  "package_url": "https://pypi.org/project/quickstock/"
+}
