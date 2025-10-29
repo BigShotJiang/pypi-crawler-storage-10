@@ -1,11 +1,11 @@
 {
   "name": "geofeed-validator",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Validator library for self-published geo feeds",
-  "author": "Stephan Peijnik-Steinwender",
+  "author": "Stephan Peijnik-Steinwender, Gerhard Bogner",
   "license": "AGPLv3+",
   "home_page": null,
-  "download_filename": "geofeed_validator-0.7.0-py3-none-any.whl",
-  "download_time": "2025-10-29T05:43:32.399636",
+  "download_filename": "geofeed_validator-0.7.1-py3-none-any.whl",
+  "download_time": "2025-10-29T06:54:18.381598",
   "package_url": "https://pypi.org/project/geofeed-validator/"
 }

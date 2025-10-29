@@ -1,0 +1,11 @@
+{
+  "name": "hyperseed",
+  "version": "0.1.0a3",
+  "summary": "An experimental tool for hyperspectral seed image analysis",
+  "author": "Nishad Thalhath, Deepa Kasaragod",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperseed-0.1.0a3.tar.gz",
+  "download_time": "2025-10-29T06:54:26.258251",
+  "package_url": "https://pypi.org/project/hyperseed/"
+}

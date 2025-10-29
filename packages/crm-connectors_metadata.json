@@ -1,0 +1,11 @@
+{
+  "name": "crm-connectors",
+  "version": "0.0.1",
+  "summary": "Utility classes to interact with CRMs like HubSpot, Salesforce, and Zoho using OAuth 2.0.",
+  "author": "Mukhtar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crm_connectors-0.0.1-py3-none-any.whl",
+  "download_time": "2025-10-29T06:54:01.136893",
+  "package_url": "https://pypi.org/project/crm-connectors/"
+}

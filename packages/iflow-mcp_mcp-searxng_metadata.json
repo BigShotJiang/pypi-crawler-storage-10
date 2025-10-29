@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-searxng",
+  "version": "0.1.0",
+  "summary": "MCP server for connecting agentic systems to search systems via searXNG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_searxng-0.1.0.tar.gz",
+  "download_time": "2025-10-29T06:54:07.444402",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-searxng/"
+}

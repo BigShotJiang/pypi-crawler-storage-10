@@ -1,0 +1,11 @@
+{
+  "name": "artefacts-sdk",
+  "version": "0.0.1",
+  "summary": "A client library for accessing Artefacts Platform API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "artefacts_sdk-0.0.1.tar.gz",
+  "download_time": "2025-10-29T06:54:13.687216",
+  "package_url": "https://pypi.org/project/artefacts-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jknife",
+  "version": "0.0.14",
+  "summary": "Custom FastAPI for luna-negra",
+  "author": "luna-negra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jknife-0.0.14.tar.gz",
+  "download_time": "2025-10-29T06:54:22.625379",
+  "package_url": "https://pypi.org/project/jknife/"
+}
