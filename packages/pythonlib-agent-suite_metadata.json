@@ -1,0 +1,11 @@
+{
+  "name": "pythonlib-agent-suite",
+  "version": "1.0.0",
+  "summary": "Otomatik analiz, düzeltme ve raporlama için agent tabanlı Python kütüphanesi.",
+  "author": "emrecnyngmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonlib_agent_suite-1.0.0.tar.gz",
+  "download_time": "2025-10-29T20:54:57.160254",
+  "package_url": "https://pypi.org/project/pythonlib-agent-suite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snaplogic-common-robot",
+  "version": "2025.10.29.1",
+  "summary": "Robot Framework library with keywords for SnapLogic API testing and automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snaplogic_common_robot-2025.10.29.1.tar.gz",
+  "download_time": "2025-10-29T20:55:31.902097",
+  "package_url": "https://pypi.org/project/snaplogic-common-robot/"
+}

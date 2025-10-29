@@ -1,0 +1,11 @@
+{
+  "name": "ndop-downloader",
+  "version": "0.1.10",
+  "summary": "NDOP Downloader is an application for downloading of records of occurence from official database of the Nature Conservation Agency of the Czech Republic (Nálezová databáze Agentury ochrany přírody a krajiny ČR - NDOP - AOPK).",
+  "author": "Oto Kaláb",
+  "license": "GNU/GPL3",
+  "home_page": "https://github.com/OpenGeoLabs/qgis-ndop-downloader",
+  "download_filename": "ndop_downloader-0.1.10-py3-none-any.whl",
+  "download_time": "2025-10-29T20:55:04.985823",
+  "package_url": "https://pypi.org/project/ndop-downloader/"
+}

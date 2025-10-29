@@ -1,11 +1,11 @@
 {
   "name": "abertpy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": "Valentin Kivachuk Burda",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "abertpy-0.1.0.tar.gz",
-  "download_time": "2025-10-29T17:18:19.427091",
+  "download_filename": "abertpy-0.1.1.tar.gz",
+  "download_time": "2025-10-29T20:55:04.466702",
   "package_url": "https://pypi.org/project/abertpy/"
 }

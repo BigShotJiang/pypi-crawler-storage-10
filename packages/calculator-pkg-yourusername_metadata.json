@@ -1,0 +1,11 @@
+{
+  "name": "calculator-pkg-yourusername",
+  "version": "0.1.0",
+  "summary": "Простой калькулятор на Python",
+  "author": "СТрахов Арсений Павлович",
+  "license": null,
+  "home_page": "https://github.com/kekeIRL/Practice2",
+  "download_filename": "calculator_pkg_yourusername-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-29T20:55:18.655824",
+  "package_url": "https://pypi.org/project/calculator-pkg-yourusername/"
+}
