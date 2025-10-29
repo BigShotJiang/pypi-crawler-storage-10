@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-dask",
+  "version": "2.0.0b26",
+  "summary": "Dask plugin for flyte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_dask-2.0.0b26-py3-none-any.whl",
+  "download_time": "2025-10-29T22:43:46.714734",
+  "package_url": "https://pypi.org/project/flyteplugins-dask/"
+}

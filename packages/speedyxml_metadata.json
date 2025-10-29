@@ -1,0 +1,11 @@
+{
+  "name": "speedyxml",
+  "version": "0.4.0.15",
+  "summary": "Speedy XML parser for Python",
+  "author": "kilroy",
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "speedyxml-0.4.0.15.tar.gz",
+  "download_time": "2025-10-29T22:43:29.939709",
+  "package_url": "https://pypi.org/project/speedyxml/"
+}

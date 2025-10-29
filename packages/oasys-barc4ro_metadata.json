@@ -1,0 +1,11 @@
+{
+  "name": "oasys-barc4ro",
+  "version": "2025.9.9",
+  "summary": "X-ray Refractive Optics Library for Physical Optics",
+  "author": "Rafael Celestre, Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/oasys-barc4ro",
+  "download_filename": "oasys_barc4ro-2025.9.9-py3-none-any.whl",
+  "download_time": "2025-10-29T22:44:01.484669",
+  "package_url": "https://pypi.org/project/oasys-barc4ro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "landingai-ade",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "summary": "The official Python library for the landingai-ade API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "landingai_ade-0.19.0.tar.gz",
-  "download_time": "2025-10-28T18:26:59.075394",
+  "download_filename": "landingai_ade-0.20.0.tar.gz",
+  "download_time": "2025-10-29T22:43:47.804078",
   "package_url": "https://pypi.org/project/landingai-ade/"
 }

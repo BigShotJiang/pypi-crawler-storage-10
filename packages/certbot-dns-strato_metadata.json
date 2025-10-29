@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-strato",
+  "version": "0.2.4",
+  "summary": "Strato DNS Authenticator plugin for Certbot",
+  "author": "Felix Maaß",
+  "license": "MIT",
+  "home_page": "https://github.com/flixma/certbot-dns-strato",
+  "download_filename": "certbot_dns_strato-0.2.4.tar.gz",
+  "download_time": "2025-10-29T22:43:28.301839",
+  "package_url": "https://pypi.org/project/certbot-dns-strato/"
+}

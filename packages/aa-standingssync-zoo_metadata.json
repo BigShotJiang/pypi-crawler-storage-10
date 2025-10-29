@@ -1,0 +1,11 @@
+{
+  "name": "aa-standingssync-zoo",
+  "version": "1.10.4",
+  "summary": "Alliance Auth app for cloning alliance standings and war targets to alts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aa_standingssync_zoo-1.10.4.tar.gz",
+  "download_time": "2025-10-29T22:43:58.649603",
+  "package_url": "https://pypi.org/project/aa-standingssync-zoo/"
+}
