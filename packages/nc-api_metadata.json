@@ -1,11 +1,11 @@
 {
   "name": "nc-api",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Nextcloud WebDAV client (files, directories, paths, users)",
   "author": "ODNA_SHESTA",
   "license": "MIT",
   "home_page": "https://github.com/odnashestaia/nc-api-python",
-  "download_filename": "nc_api-0.1.0.tar.gz",
-  "download_time": "2025-10-28T14:57:22.066329",
+  "download_filename": "nc_api-0.2.0.tar.gz",
+  "download_time": "2025-10-29T10:21:08.973200",
   "package_url": "https://pypi.org/project/nc-api/"
 }

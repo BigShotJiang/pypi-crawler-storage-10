@@ -1,0 +1,11 @@
+{
+  "name": "simaticai",
+  "version": "2.6.0",
+  "summary": "AI Software Development Kit",
+  "author": "Siemens AG",
+  "license": "MIT",
+  "home_page": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-ai/industrial-ai-suite.html",
+  "download_filename": "simaticai-2.6.0.tar.gz",
+  "download_time": "2025-10-29T10:21:15.185419",
+  "package_url": "https://pypi.org/project/simaticai/"
+}

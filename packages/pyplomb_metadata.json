@@ -1,0 +1,11 @@
+{
+  "name": "pyplomb",
+  "version": "1.6.0",
+  "summary": "Python adaptation of MATLAB's Lomb-Scargle periodogram (plomb) in C",
+  "author": "Benet Eiximeno, Arnau Miro",
+  "license": null,
+  "home_page": "https://gitlab.com/ArnauMiro/pyplomb",
+  "download_filename": "pyplomb-1.6.0.tar.gz",
+  "download_time": "2025-10-29T10:20:44.995853",
+  "package_url": "https://pypi.org/project/pyplomb/"
+}

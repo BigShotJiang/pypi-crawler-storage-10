@@ -1,11 +1,11 @@
 {
   "name": "contextuality",
-  "version": "1.0.1",
-  "summary": "A package for computing contextuality related stuff",
+  "version": "1.0.2",
+  "summary": "Contextuality is a package that allows to compute various contextuality related quantities and formalize scenarios in quantum theory.",
   "author": "Kim Vallée",
   "license": "CC BY-NC 4.0",
   "home_page": null,
-  "download_filename": "contextuality-1.0.1.tar.gz",
-  "download_time": "2025-10-28T09:42:40.017034",
+  "download_filename": "contextuality-1.0.2.tar.gz",
+  "download_time": "2025-10-29T10:20:37.699982",
   "package_url": "https://pypi.org/project/contextuality/"
 }

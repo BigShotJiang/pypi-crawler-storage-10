@@ -1,0 +1,11 @@
+{
+  "name": "tonilib",
+  "version": "0.1.1",
+  "summary": "Toninelli utility library: FastAPI standardized responses & exceptions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tonilib-0.1.1.tar.gz",
+  "download_time": "2025-10-29T10:21:06.910281",
+  "package_url": "https://pypi.org/project/tonilib/"
+}

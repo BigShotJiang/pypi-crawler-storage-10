@@ -1,0 +1,11 @@
+{
+  "name": "aesedb",
+  "version": "0.1.8",
+  "summary": "NTDS parser toolkit",
+  "author": "Tamas Jos",
+  "license": "Modified Apache Software License 1.1",
+  "home_page": "https://github.com/skelsec/aesedb",
+  "download_filename": "aesedb-0.1.8-py3-none-any.whl",
+  "download_time": "2025-10-29T10:21:16.207659",
+  "package_url": "https://pypi.org/project/aesedb/"
+}

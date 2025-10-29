@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-live",
+  "version": "3.9.75",
+  "summary": "The live module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_live-3.9.75-py2.py3-none-any.whl",
+  "download_time": "2025-10-29T10:20:38.212375",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-live/"
+}

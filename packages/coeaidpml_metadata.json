@@ -1,11 +1,11 @@
 {
   "name": "coeaidpml",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "summary": "LLM-powered schema analyzer and ML use case discovery engine for OCI AIDP",
   "author": "Nikesh Gogia",
   "license": "MIT",
   "home_page": "https://pypi.org/project/coe-aidp-ml-discovery/",
-  "download_filename": "coeaidpml-2.0.0.tar.gz",
-  "download_time": "2025-10-29T09:43:15.903575",
+  "download_filename": "coeaidpml-4.0.0.tar.gz",
+  "download_time": "2025-10-29T10:20:40.793590",
   "package_url": "https://pypi.org/project/coeaidpml/"
 }

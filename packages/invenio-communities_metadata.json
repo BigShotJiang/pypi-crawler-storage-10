@@ -1,0 +1,11 @@
+{
+  "name": "invenio-communities",
+  "version": "21.1.1",
+  "summary": "InvenioRDM module for the communities feature.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-communities",
+  "download_filename": "invenio_communities-21.1.1.tar.gz",
+  "download_time": "2025-10-29T10:20:43.888429",
+  "package_url": "https://pypi.org/project/invenio-communities/"
+}

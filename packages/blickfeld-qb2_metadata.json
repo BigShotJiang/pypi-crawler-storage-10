@@ -1,0 +1,11 @@
+{
+  "name": "blickfeld-qb2",
+  "version": "2.12.10",
+  "summary": "Python package to communicate securely with Qb2 LiDAR devices of the Blickfeld GmbH",
+  "author": "Blickfeld GmbH",
+  "license": null,
+  "home_page": "https://github.com/Blickfeld/blickfeld-qb2",
+  "download_filename": "blickfeld_qb2-2.12.10.tar.gz",
+  "download_time": "2025-10-29T10:21:09.997634",
+  "package_url": "https://pypi.org/project/blickfeld-qb2/"
+}

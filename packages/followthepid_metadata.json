@@ -1,0 +1,11 @@
+{
+  "name": "followthepid",
+  "version": "0.1.1",
+  "summary": "followThePid is a Python library for tracing the CPU usage and energy consumption of a running process using its PID.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "followthepid-0.1.1.tar.gz",
+  "download_time": "2025-10-29T10:20:51.642618",
+  "package_url": "https://pypi.org/project/followthepid/"
+}

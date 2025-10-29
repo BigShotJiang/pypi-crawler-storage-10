@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-prefect",
+  "version": "1.0.1",
+  "summary": "Airbyte integration for Prefect",
+  "author": "Abeeb Oladele",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/haybankz/airbyte-prefect",
+  "download_filename": "airbyte_prefect-1.0.1.tar.gz",
+  "download_time": "2025-10-29T10:20:46.526103",
+  "package_url": "https://pypi.org/project/airbyte-prefect/"
+}
