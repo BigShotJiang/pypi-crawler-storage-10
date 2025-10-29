@@ -1,0 +1,11 @@
+{
+  "name": "baddns",
+  "version": "1.12.294",
+  "summary": "Check subdomains for subdomain takeovers and other DNS tomfoolery",
+  "author": "liquidsec",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "baddns-1.12.294.tar.gz",
+  "download_time": "2025-10-29T19:51:49.684852",
+  "package_url": "https://pypi.org/project/baddns/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ariadne-router",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Intelligent quantum simulator router with automatic backend selection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ariadne_router-0.4.1.tar.gz",
-  "download_time": "2025-10-28T03:59:06.882686",
+  "download_filename": "ariadne_router-0.4.2.tar.gz",
+  "download_time": "2025-10-29T19:52:00.614981",
   "package_url": "https://pypi.org/project/ariadne-router/"
 }

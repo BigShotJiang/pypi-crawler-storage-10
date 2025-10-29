@@ -1,0 +1,11 @@
+{
+  "name": "excitingtools",
+  "version": "1.8.4",
+  "summary": "Utilities for aiding in the construction of exciting inputs and the postprocessing exciting outputs.",
+  "author": null,
+  "license": "GNU GENERAL PUBLIC LICENSE, see 'COPYING.md'",
+  "home_page": null,
+  "download_filename": "excitingtools-1.8.4.tar.gz",
+  "download_time": "2025-10-29T19:51:44.494606",
+  "package_url": "https://pypi.org/project/excitingtools/"
+}
