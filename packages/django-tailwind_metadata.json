@@ -1,11 +1,11 @@
 {
   "name": "django-tailwind",
-  "version": "4.3.0",
+  "version": "4.3.1",
   "summary": "Tailwind CSS Framework for Django projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_tailwind-4.3.0.tar.gz",
-  "download_time": "2025-10-29T17:18:43.733050",
+  "download_filename": "django_tailwind-4.3.1.tar.gz",
+  "download_time": "2025-10-29T20:20:57.447445",
   "package_url": "https://pypi.org/project/django-tailwind/"
 }

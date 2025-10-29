@@ -1,0 +1,11 @@
+{
+  "name": "harlequin-odbc",
+  "version": "0.4.0",
+  "summary": "A Harlequin adapter for ODBC drivers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harlequin_odbc-0.4.0.tar.gz",
+  "download_time": "2025-10-29T20:21:05.076566",
+  "package_url": "https://pypi.org/project/harlequin-odbc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toarray",
+  "version": "0.3.2",
+  "summary": "Small Python package for converting iterables to arrays.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toarray-0.3.2.tar.gz",
+  "download_time": "2025-10-29T20:21:12.617280",
+  "package_url": "https://pypi.org/project/toarray/"
+}

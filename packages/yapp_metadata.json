@@ -1,11 +1,11 @@
 {
   "name": "yapp",
-  "version": "0.2.0",
-  "summary": "Python SDK for Yapp Voice AI API - Speech-to-Text and Text-to-Speech",
-  "author": "Yapp",
+  "version": "0.3.0",
+  "summary": "Python SDK for Hathora Voice AI API - Speech-to-Text and Text-to-Speech (pip install yapp, import hathora)",
+  "author": "Hathora",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/yapp-sdk",
-  "download_filename": "yapp-0.2.0.tar.gz",
-  "download_time": "2025-10-27T22:34:47.798249",
+  "home_page": "https://github.com/hathora/yapp-sdk",
+  "download_filename": "yapp-0.3.0.tar.gz",
+  "download_time": "2025-10-29T20:20:59.944005",
   "package_url": "https://pypi.org/project/yapp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vedika",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "A comprehensive toolkit for Sanskrit text processing",
   "author": "Tanuj Saxena and Soumya Sharma",
   "license": null,
   "home_page": "https://github.com/tanuj437/Vedika",
-  "download_filename": "vedika-0.0.16.tar.gz",
-  "download_time": "2025-10-29T19:28:59.740417",
+  "download_filename": "vedika-0.0.17.tar.gz",
+  "download_time": "2025-10-29T20:21:10.767095",
   "package_url": "https://pypi.org/project/vedika/"
 }

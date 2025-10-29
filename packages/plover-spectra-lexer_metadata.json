@@ -1,0 +1,11 @@
+{
+  "name": "plover-spectra-lexer",
+  "version": "1.0.1",
+  "summary": "Plover plugin to analyze strokes and rules for stenography, based on spectra_lexer by fourshade",
+  "author": "fourshade",
+  "license": "GNU General Public License v2 or later (GPLv2+)",
+  "home_page": "https://github.com/openstenoproject/plover_spectra_lexer",
+  "download_filename": "plover_spectra_lexer-1.0.1.tar.gz",
+  "download_time": "2025-10-29T20:20:52.450387",
+  "package_url": "https://pypi.org/project/plover-spectra-lexer/"
+}
