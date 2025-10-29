@@ -1,11 +1,11 @@
 {
   "name": "shieldscan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Professional Web Security Assessment Tool",
-  "author": "Your Name",
+  "author": "Mohamed Amine Marzouk",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/shieldscan",
-  "download_filename": "shieldscan-1.0.0.tar.gz",
-  "download_time": "2025-10-29T14:58:13.148178",
+  "home_page": "https://github.com/Medamine-mzk/ShieldScan",
+  "download_filename": "shieldscan-1.0.2.tar.gz",
+  "download_time": "2025-10-29T16:24:44.276158",
   "package_url": "https://pypi.org/project/shieldscan/"
 }

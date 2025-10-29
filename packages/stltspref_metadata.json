@@ -1,0 +1,11 @@
+{
+  "name": "stltspref",
+  "version": "1.1.1",
+  "summary": "An MILP-based tool for generating diverse traces of execution of a model that satisfy a specification, as well as corner-cases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stltspref-1.1.1.tar.gz",
+  "download_time": "2025-10-29T16:24:49.967919",
+  "package_url": "https://pypi.org/project/stltspref/"
+}
