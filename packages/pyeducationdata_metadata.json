@@ -1,0 +1,11 @@
+{
+  "name": "pyeducationdata",
+  "version": "0.1.0",
+  "summary": "Python package for accessing the Urban Institute's Education Data Portal API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyeducationdata-0.1.0.tar.gz",
+  "download_time": "2025-10-29T21:33:12.477271",
+  "package_url": "https://pypi.org/project/pyeducationdata/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyegeria",
-  "version": "5.4.8.7",
+  "version": "5.4.8.8",
   "summary": "A python client for Egeria",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyegeria-5.4.8.7.tar.gz",
-  "download_time": "2025-10-29T17:18:38.486215",
+  "download_filename": "pyegeria-5.4.8.8.tar.gz",
+  "download_time": "2025-10-29T21:33:31.250167",
   "package_url": "https://pypi.org/project/pyegeria/"
 }

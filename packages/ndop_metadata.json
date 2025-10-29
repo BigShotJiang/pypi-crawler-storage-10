@@ -1,0 +1,11 @@
+{
+  "name": "ndop",
+  "version": "0.1.11",
+  "summary": "Python library for accessing and downloading data from The Species Occurrence Database of NCA CR",
+  "author": "Oto Kaláb",
+  "license": "MIT",
+  "home_page": "https://github.com/kalab-oto/ndop",
+  "download_filename": "ndop-0.1.11.tar.gz",
+  "download_time": "2025-10-29T21:33:04.455294",
+  "package_url": "https://pypi.org/project/ndop/"
+}

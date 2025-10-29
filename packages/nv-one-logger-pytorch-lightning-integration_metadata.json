@@ -1,0 +1,11 @@
+{
+  "name": "nv-one-logger-pytorch-lightning-integration",
+  "version": "2.3.1",
+  "summary": "Wrappers that facilitate enabling training job telemetry for a set of supported training frameworks.",
+  "author": "HWInf-MLWFO",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nv_one_logger_pytorch_lightning_integration-2.3.1.tar.gz",
+  "download_time": "2025-10-29T21:33:25.320557",
+  "package_url": "https://pypi.org/project/nv-one-logger-pytorch-lightning-integration/"
+}

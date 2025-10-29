@@ -1,11 +1,11 @@
 {
   "name": "pulp-file-client",
-  "version": "3.92.0",
+  "version": "3.92.1",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "pulp_file_client-3.92.0.tar.gz",
-  "download_time": "2025-10-28T17:51:51.818081",
+  "download_filename": "pulp_file_client-3.92.1.tar.gz",
+  "download_time": "2025-10-29T21:33:07.562757",
   "package_url": "https://pypi.org/project/pulp-file-client/"
 }

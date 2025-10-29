@@ -1,11 +1,11 @@
 {
   "name": "morestore",
-  "version": "0.1.1",
-  "summary": "Python CLI client for MoreStore.ai API - Generate perfect scenes for product images",
+  "version": "0.1.2",
+  "summary": "Python CLI client for MoreStore.ai API - AI-powered brand analysis, product intelligence, and photo generation tools",
   "author": "MoreStore",
   "license": "MIT",
   "home_page": "https://morestore.ai",
-  "download_filename": "morestore-0.1.1.tar.gz",
-  "download_time": "2025-10-29T21:16:59.550603",
+  "download_filename": "morestore-0.1.2.tar.gz",
+  "download_time": "2025-10-29T21:33:32.296433",
   "package_url": "https://pypi.org/project/morestore/"
 }
