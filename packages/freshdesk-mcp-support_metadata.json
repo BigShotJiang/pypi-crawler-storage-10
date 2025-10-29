@@ -1,11 +1,11 @@
 {
   "name": "freshdesk-mcp-support",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "An MCP server for Freshdesk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freshdesk_mcp_support-1.0.5.tar.gz",
-  "download_time": "2025-10-28T16:24:17.542929",
+  "download_filename": "freshdesk_mcp_support-1.0.7.tar.gz",
+  "download_time": "2025-10-29T16:51:50.257160",
   "package_url": "https://pypi.org/project/freshdesk-mcp-support/"
 }

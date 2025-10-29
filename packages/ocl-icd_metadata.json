@@ -1,0 +1,11 @@
+{
+  "name": "ocl-icd",
+  "version": "10.0.0",
+  "summary": "A useful Python package",
+  "author": "Nyein Chan Aung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocl_icd-10.0.0.tar.gz",
+  "download_time": "2025-10-29T16:52:20.832124",
+  "package_url": "https://pypi.org/project/ocl-icd/"
+}

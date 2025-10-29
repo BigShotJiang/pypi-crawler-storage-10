@@ -1,11 +1,11 @@
 {
   "name": "kucoin-futures-api",
-  "version": "0.0.98",
+  "version": "0.0.99",
   "summary": "kucoinfutures crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kucoin_futures_api-0.0.98.tar.gz",
-  "download_time": "2025-10-29T08:25:11.533215",
+  "download_filename": "kucoin_futures_api-0.0.99.tar.gz",
+  "download_time": "2025-10-29T16:52:00.772767",
   "package_url": "https://pypi.org/project/kucoin-futures-api/"
 }

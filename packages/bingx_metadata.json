@@ -1,11 +1,11 @@
 {
   "name": "bingx",
-  "version": "0.0.98",
+  "version": "0.0.99",
   "summary": "bingx crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bingx-0.0.98.tar.gz",
-  "download_time": "2025-10-29T08:25:16.189321",
+  "download_filename": "bingx-0.0.99.tar.gz",
+  "download_time": "2025-10-29T16:52:04.450585",
   "package_url": "https://pypi.org/project/bingx/"
 }

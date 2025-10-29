@@ -1,0 +1,11 @@
+{
+  "name": "stackit-cdn",
+  "version": "2.0.0",
+  "summary": "CDN API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_cdn-2.0.0.tar.gz",
+  "download_time": "2025-10-29T16:51:36.897751",
+  "package_url": "https://pypi.org/project/stackit-cdn/"
+}

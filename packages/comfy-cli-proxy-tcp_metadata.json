@@ -1,0 +1,11 @@
+{
+  "name": "comfy-cli-proxy-tcp",
+  "version": "0.3.74",
+  "summary": "Comfy device cli supporting plugin",
+  "author": "imi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfy_cli_proxy_tcp-0.3.74.tar.gz",
+  "download_time": "2025-10-29T16:52:21.871025",
+  "package_url": "https://pypi.org/project/comfy-cli-proxy-tcp/"
+}

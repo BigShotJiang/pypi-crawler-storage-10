@@ -1,0 +1,11 @@
+{
+  "name": "tssa",
+  "version": "0.0.0.2",
+  "summary": "A Python tool for traffic surrogate safety analysis",
+  "author": "Zhenyu Wang",
+  "license": "MIT",
+  "home_page": "https://its.cutr.usf.edu/dnt/",
+  "download_filename": "tssa-0.0.0.2.tar.gz",
+  "download_time": "2025-10-29T16:51:53.399807",
+  "package_url": "https://pypi.org/project/tssa/"
+}

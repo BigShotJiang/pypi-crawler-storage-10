@@ -1,0 +1,11 @@
+{
+  "name": "manga-scrape",
+  "version": "6.0.0",
+  "summary": "A python package used for automating finding manga chapters",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "manga_scrape-6.0.0.tar.gz",
+  "download_time": "2025-10-29T16:52:01.292639",
+  "package_url": "https://pypi.org/project/manga-scrape/"
+}
