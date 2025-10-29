@@ -1,27 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-29T05:44:22.919344
-- **Total Packages**: 87
-- **Total Size**: 20.26 MB
+- **Download Time**: 2025-10-29T05:54:16.039283
+- **Total Packages**: 84
+- **Total Size**: 3.64 MB
 
 ## Packages List
+- mspec
+- common-things
+- stable-cart
+- stream-translator-gpt
+- sad2xs
+- imgctl
+- agentdatashuttle-adspy
+- stac-mcp
+- dragon-ml-toolbox
+- ssbc
+- shancx
+- iflow-mcp_mcp-browser-use
+- email-service-toolkit
+- xl-pq-handler
+- first-dance-logs
 - geofeed-validator
 - zood
 - vibego
 - pdm
-- stream-translator-gpt
 - tamar-file-hub-client
 - fastcore
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
 - tradedangerous
-- imgctl
-- email-service-toolkit
 - srx-lib-llm
 - tbcp
-- sad2xs
 - magbox
 - drun
 - isolate-proto
@@ -58,9 +69,7 @@
 - innov8r
 - aegis-vision
 - lego-rendering
-- ssbc
 - smartwater
-- dragon-ml-toolbox
 - nnlogging
 - edupsyadmin
 - scalebench
@@ -81,15 +90,3 @@
 - macast2
 - tabular2mcap
 - meta-edc
-- llmcc
-- digital-life
-- abattlemetrics
-- clinicedc
-- streamstraight-server
-- iamdata
-- pythagoras
-- async-kernel
-- meshdb
-- jararaca
-- workstack
-- pyclipper2
