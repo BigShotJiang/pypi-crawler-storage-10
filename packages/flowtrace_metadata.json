@@ -1,11 +1,11 @@
 {
   "name": "flowtrace",
-  "version": "0.1.0",
-  "summary": "Visual Python execution analyzer using PEP 669 Monitoring API.",
+  "version": "0.1.1",
+  "summary": "System-level execution tracer for Python 3.12+ (PEP 669)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flowtrace-0.1.0.tar.gz",
-  "download_time": "2025-10-26T14:50:05.050652",
+  "download_filename": "flowtrace-0.1.1.tar.gz",
+  "download_time": "2025-10-29T14:46:44.434265",
   "package_url": "https://pypi.org/project/flowtrace/"
 }

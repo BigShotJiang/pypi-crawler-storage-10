@@ -1,0 +1,11 @@
+{
+  "name": "emoji-annotations",
+  "version": "0.0.0",
+  "summary": "Easy to read and edit text annotations for NLP tasks.",
+  "author": "Jan Göpfert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "emoji_annotations-0.0.0.tar.gz",
+  "download_time": "2025-10-29T14:46:45.601175",
+  "package_url": "https://pypi.org/project/emoji-annotations/"
+}

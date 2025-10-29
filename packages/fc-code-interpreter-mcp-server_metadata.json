@@ -1,11 +1,11 @@
 {
   "name": "fc-code-interpreter-mcp-server",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Code Interpreter MCP Server - Secure code execution via E2B on Function Compute",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fc_code_interpreter_mcp_server-0.1.11.tar.gz",
-  "download_time": "2025-10-29T14:19:16.199556",
+  "download_filename": "fc_code_interpreter_mcp_server-0.1.12.tar.gz",
+  "download_time": "2025-10-29T14:47:04.267780",
   "package_url": "https://pypi.org/project/fc-code-interpreter-mcp-server/"
 }

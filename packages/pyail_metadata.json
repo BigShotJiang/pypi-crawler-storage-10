@@ -1,11 +1,11 @@
 {
   "name": "pyail",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": null,
   "author": "Aurelien Thirion (terrtia)",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/ail-project/PyAIL",
-  "download_filename": "pyail-0.0.9.tar.gz",
-  "download_time": "2025-10-29T14:19:28.323972",
+  "download_filename": "pyail-0.0.10.tar.gz",
+  "download_time": "2025-10-29T14:47:03.061650",
   "package_url": "https://pypi.org/project/pyail/"
 }

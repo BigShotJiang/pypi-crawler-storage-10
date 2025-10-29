@@ -1,0 +1,11 @@
+{
+  "name": "tigre",
+  "version": "1.0.3",
+  "summary": "tigre - Tool for InterGenic Region Extraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigre-1.0.3.tar.gz",
+  "download_time": "2025-10-29T14:46:43.863381",
+  "package_url": "https://pypi.org/project/tigre/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "daemon-application",
+  "version": "2.0.1",
+  "summary": "A simple python package for creating daemon applications.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daemon_application-2.0.1.tar.gz",
+  "download_time": "2025-10-29T14:46:57.883627",
+  "package_url": "https://pypi.org/project/daemon-application/"
+}

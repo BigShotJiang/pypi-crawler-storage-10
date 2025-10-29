@@ -1,0 +1,11 @@
+{
+  "name": "analog-neural-training",
+  "version": "1.0.0",
+  "summary": "模拟计算启发式神经网络训练系统：基于ODE积分器的高能效训练框架",
+  "author": "Zhao Xuancan",
+  "license": "MIT",
+  "home_page": "https://github.com/EagleFandel/analog-neural-training",
+  "download_filename": "analog_neural_training-1.0.0.tar.gz",
+  "download_time": "2025-10-29T14:47:18.165200",
+  "package_url": "https://pypi.org/project/analog-neural-training/"
+}
