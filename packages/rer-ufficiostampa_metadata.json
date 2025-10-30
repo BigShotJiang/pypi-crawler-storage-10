@@ -1,0 +1,11 @@
+{
+  "name": "rer-ufficiostampa",
+  "version": "3.0.6",
+  "summary": "Policy for Ufficio Stampa",
+  "author": "RedTurtle Technology",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/RegioneER/rer.ufficiostampa",
+  "download_filename": "rer_ufficiostampa-3.0.6.tar.gz",
+  "download_time": "2025-10-30T10:20:51.296232",
+  "package_url": "https://pypi.org/project/rer-ufficiostampa/"
+}

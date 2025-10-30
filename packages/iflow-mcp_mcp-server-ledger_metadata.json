@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-ledger",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol server providing tools to execute Ledger, a powerful command-line accounting system, commands.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_ledger-0.1.0.tar.gz",
+  "download_time": "2025-10-30T10:21:12.900841",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-ledger/"
+}

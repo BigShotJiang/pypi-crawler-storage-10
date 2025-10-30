@@ -1,11 +1,11 @@
 {
   "name": "prac-tsec-sp",
-  "version": "1.0.2",
-  "summary": "AI algorithm implementations package. Install and check your venv/lib folder for all source codes.",
+  "version": "1.0.5",
+  "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prac_tsec_sp-1.0.2.tar.gz",
-  "download_time": "2025-10-28T18:52:59.198319",
+  "download_filename": "prac_tsec_sp-1.0.5.tar.gz",
+  "download_time": "2025-10-30T10:20:56.475060",
   "package_url": "https://pypi.org/project/prac-tsec-sp/"
 }

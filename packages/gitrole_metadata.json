@@ -1,0 +1,11 @@
+{
+  "name": "gitrole",
+  "version": "0.1.0",
+  "summary": "Switch between Git configurations based on role.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitrole-0.1.0.tar.gz",
+  "download_time": "2025-10-30T10:20:53.878428",
+  "package_url": "https://pypi.org/project/gitrole/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aspose-words-markitdown",
-  "version": "0.1.2",
-  "summary": "Aspose.Words plugin fo MarkItDown",
+  "version": "0.1.3",
+  "summary": "Aspose.Words plugin for MarkItDown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aspose_words_markitdown-0.1.2.tar.gz",
-  "download_time": "2025-10-29T11:43:35.123979",
+  "download_filename": "aspose_words_markitdown-0.1.3.tar.gz",
+  "download_time": "2025-10-30T10:20:54.520267",
   "package_url": "https://pypi.org/project/aspose-words-markitdown/"
 }

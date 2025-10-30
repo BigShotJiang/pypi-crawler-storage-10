@@ -1,0 +1,11 @@
+{
+  "name": "octobot",
+  "version": "2.0.14",
+  "summary": "Cryptocurrencies alert / trading bot",
+  "author": "Drakkar-Software",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot",
+  "download_filename": "octobot-2.0.14.tar.gz",
+  "download_time": "2025-10-30T10:20:27.424530",
+  "package_url": "https://pypi.org/project/octobot/"
+}

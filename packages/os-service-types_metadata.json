@@ -1,0 +1,11 @@
+{
+  "name": "os-service-types",
+  "version": "1.8.1",
+  "summary": "Python library for consuming OpenStack sevice-types-authority data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "os_service_types-1.8.1.tar.gz",
+  "download_time": "2025-10-30T10:21:06.214951",
+  "package_url": "https://pypi.org/project/os-service-types/"
+}

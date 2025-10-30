@@ -1,11 +1,11 @@
 {
   "name": "L2Learn",
-  "version": "1.0.0b0",
+  "version": "1.0.1b0",
   "summary": "L2L (Learning-to-learn) contains implementations of various gradient free optimization algorithms. It also makes it easy to optimize (hyper-)parameters for any task.",
   "author": "Anand Subramoney, Arjun Rao, Sandra Diaz-Pier, Franz Scherr, Darjan Salaj, Jakob Jordan, Nikolaus Kopp, Daniel Hackhofer, Sinisa Stekovic, Thomas Bohnstingl, Alper Yegenoglu, Michiel van der Vlag, Aaron Perez Martin, Hanna Mohr, Daniel Todt, Johannes Wilhelm, Aitor Morales-Gregorio, Cristian Jimenez-Romero, Thorsten Hater, Wouter Klijn, Pier Stanislao Paolucci, Elena Pastorelli",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "l2learn-1.0.0b0.tar.gz",
-  "download_time": "2025-10-30T09:53:11.931807",
+  "download_filename": "l2learn-1.0.1b0.tar.gz",
+  "download_time": "2025-10-30T10:20:38.343428",
   "package_url": "https://pypi.org/project/L2Learn/"
 }
