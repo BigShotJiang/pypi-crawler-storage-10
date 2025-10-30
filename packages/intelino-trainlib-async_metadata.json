@@ -1,0 +1,11 @@
+{
+  "name": "intelino-trainlib-async",
+  "version": "1.0.5",
+  "summary": "Asynchronous Python library (SDK) for interacting with the intelino smart train.",
+  "author": "intelino",
+  "license": "Intelino Public License",
+  "home_page": "https://intelino.com",
+  "download_filename": "intelino_trainlib_async-1.0.5.tar.gz",
+  "download_time": "2025-10-30T01:22:06.450629",
+  "package_url": "https://pypi.org/project/intelino-trainlib-async/"
+}

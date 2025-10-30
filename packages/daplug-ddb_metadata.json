@@ -1,11 +1,11 @@
 {
   "name": "daplug-ddb",
-  "version": "1.0.0b1",
+  "version": "1.0.0b4",
   "summary": "A DRY DynamoDB normalization layer extracted from Trellis Python.",
   "author": "Paul Cruse III",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/dual/daplug-ddb",
-  "download_filename": "daplug_ddb-1.0.0b1.tar.gz",
-  "download_time": "2025-10-29T23:51:31.791285",
+  "download_filename": "daplug_ddb-1.0.0b4.tar.gz",
+  "download_time": "2025-10-30T01:21:33.655904",
   "package_url": "https://pypi.org/project/daplug-ddb/"
 }
