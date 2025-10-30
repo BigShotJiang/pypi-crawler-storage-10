@@ -1,0 +1,11 @@
+{
+  "name": "pytoon-core",
+  "version": "0.1.1",
+  "summary": "Python implementation of TOON (Token-Oriented Object Notation) - a token-efficient JSON alternative for LLM prompts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytoon_core-0.1.1.tar.gz",
+  "download_time": "2025-10-30T04:31:31.887733",
+  "package_url": "https://pypi.org/project/pytoon-core/"
+}

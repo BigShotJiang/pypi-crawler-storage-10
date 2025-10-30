@@ -1,11 +1,11 @@
 {
   "name": "wind-linker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Wind 数据本地转发 API 客户端 - 简单易用的 Wind 金融数据接口",
   "author": "CDG",
   "license": "MIT",
   "home_page": "https://github.com/cdg/wind-linker",
-  "download_filename": "wind_linker-1.0.5.tar.gz",
-  "download_time": "2025-10-30T04:01:07.822877",
+  "download_filename": "wind_linker-1.0.6.tar.gz",
+  "download_time": "2025-10-30T04:31:27.157093",
   "package_url": "https://pypi.org/project/wind-linker/"
 }

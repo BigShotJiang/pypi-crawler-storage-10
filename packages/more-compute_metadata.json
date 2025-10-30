@@ -1,11 +1,11 @@
 {
   "name": "more-compute",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "An interactive notebook environment for local and GPU computing",
   "author": "MoreCompute Team",
   "license": "MIT",
   "home_page": "https://github.com/DannyMang/MORECOMPUTE",
-  "download_filename": "more_compute-0.2.6.tar.gz",
-  "download_time": "2025-10-29T20:44:40.800765",
+  "download_filename": "more_compute-0.3.0.tar.gz",
+  "download_time": "2025-10-30T04:31:17.638897",
   "package_url": "https://pypi.org/project/more-compute/"
 }

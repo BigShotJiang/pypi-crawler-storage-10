@@ -1,11 +1,11 @@
 {
   "name": "tidas-tools",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "tidas-tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tidas_tools-0.0.14.tar.gz",
-  "download_time": "2025-10-28T13:20:27.403852",
+  "download_filename": "tidas_tools-0.0.16.tar.gz",
+  "download_time": "2025-10-30T04:31:25.070502",
   "package_url": "https://pypi.org/project/tidas-tools/"
 }
