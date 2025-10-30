@@ -1,0 +1,11 @@
+{
+  "name": "mas-cli",
+  "version": "15.11.0",
+  "summary": "Python Admin CLI for Maximo Application Suite",
+  "author": "David Parker",
+  "license": "Eclipse Public License - v1.0",
+  "home_page": "https://github.com/ibm-mas/cli",
+  "download_filename": "mas_cli-15.11.0.tar.gz",
+  "download_time": "2025-10-30T15:24:57.740927",
+  "package_url": "https://pypi.org/project/mas-cli/"
+}

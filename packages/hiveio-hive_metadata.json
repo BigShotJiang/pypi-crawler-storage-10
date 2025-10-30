@@ -1,11 +1,11 @@
 {
   "name": "hiveio-hive",
-  "version": "1.28.0",
+  "version": "1.28.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hiveio_hive-1.28.0-py3-none-any.whl",
-  "download_time": "2025-10-27T07:39:25.447092",
+  "download_filename": "hiveio_hive-1.28.2-py3-none-any.whl",
+  "download_time": "2025-10-30T15:24:28.837615",
   "package_url": "https://pypi.org/project/hiveio-hive/"
 }

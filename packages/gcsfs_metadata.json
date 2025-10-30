@@ -1,0 +1,11 @@
+{
+  "name": "gcsfs",
+  "version": "2025.10.0",
+  "summary": "Convenient Filesystem interface over GCS",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/fsspec/gcsfs",
+  "download_filename": "gcsfs-2025.10.0.tar.gz",
+  "download_time": "2025-10-30T15:24:53.617256",
+  "package_url": "https://pypi.org/project/gcsfs/"
+}

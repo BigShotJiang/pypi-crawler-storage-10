@@ -1,0 +1,11 @@
+{
+  "name": "ocrd-segment",
+  "version": "0.2.2",
+  "summary": "Page segmentation and segmentation evaluation in the OCR-D framework",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "ocrd_segment-0.2.2.tar.gz",
+  "download_time": "2025-10-30T15:24:43.770680",
+  "package_url": "https://pypi.org/project/ocrd-segment/"
+}

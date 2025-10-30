@@ -1,0 +1,11 @@
+{
+  "name": "corpus-cli",
+  "version": "0.1.0",
+  "summary": "Corpus CLI to capture YouTube artifacts (metadata, transcripts, screenshots) and manage local corpora.",
+  "author": "Oreofe Olurin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "corpus_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-30T15:25:17.558964",
+  "package_url": "https://pypi.org/project/corpus-cli/"
+}

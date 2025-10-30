@@ -1,11 +1,11 @@
 {
   "name": "lego-rendering",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "LEGO rendering tools using Blender",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lego_rendering-0.1.4.tar.gz",
-  "download_time": "2025-10-29T05:18:55.385845",
+  "download_filename": "lego_rendering-0.1.5.tar.gz",
+  "download_time": "2025-10-30T15:24:51.364315",
   "package_url": "https://pypi.org/project/lego-rendering/"
 }

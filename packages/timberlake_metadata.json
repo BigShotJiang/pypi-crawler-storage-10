@@ -1,0 +1,11 @@
+{
+  "name": "timberlake",
+  "version": "1.0.6",
+  "summary": "AWS attack automation utility",
+  "author": "2XXE",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timberlake-1.0.6-py3-none-any.whl",
+  "download_time": "2025-10-30T15:25:02.904967",
+  "package_url": "https://pypi.org/project/timberlake/"
+}

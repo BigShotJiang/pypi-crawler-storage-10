@@ -1,0 +1,11 @@
+{
+  "name": "nip-config",
+  "version": "0.12.3",
+  "summary": "Advanced configs for python",
+  "author": "Ilya Vasiliev",
+  "license": null,
+  "home_page": "https://github.com/spairet/nip",
+  "download_filename": "nip_config-0.12.3.tar.gz",
+  "download_time": "2025-10-30T15:25:10.487563",
+  "package_url": "https://pypi.org/project/nip-config/"
+}

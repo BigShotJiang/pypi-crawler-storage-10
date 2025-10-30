@@ -1,11 +1,11 @@
 {
   "name": "data-science-document-ai",
-  "version": "1.43.3",
+  "version": "1.43.4",
   "summary": "\"Document AI repo for data science\"",
   "author": "Naomi Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "data_science_document_ai-1.43.3.tar.gz",
-  "download_time": "2025-10-29T15:23:49.019939",
+  "download_filename": "data_science_document_ai-1.43.4.tar.gz",
+  "download_time": "2025-10-30T15:24:57.159038",
   "package_url": "https://pypi.org/project/data-science-document-ai/"
 }

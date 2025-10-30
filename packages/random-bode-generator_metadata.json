@@ -1,0 +1,11 @@
+{
+  "name": "random-bode-generator",
+  "version": "1.2.2",
+  "summary": "package for generating random Bode plots intelligently",
+  "author": "Ryan Krauss",
+  "license": null,
+  "home_page": "https://github.com/ryanGT/random_bode_generator",
+  "download_filename": "random_bode_generator-1.2.2.tar.gz",
+  "download_time": "2025-10-30T15:24:39.232295",
+  "package_url": "https://pypi.org/project/random-bode-generator/"
+}

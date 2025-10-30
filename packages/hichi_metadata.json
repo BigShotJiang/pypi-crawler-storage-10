@@ -1,0 +1,11 @@
+{
+  "name": "hichi",
+  "version": "0.5.0",
+  "summary": "A CLI tool for AI interactions (Groq & Gemini) with Supreme Agent for CP/DSA & DBMS, and Beast Mode for multimodal chat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hichi-0.5.0.tar.gz",
+  "download_time": "2025-10-30T15:25:15.246126",
+  "package_url": "https://pypi.org/project/hichi/"
+}
