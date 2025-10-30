@@ -1,0 +1,11 @@
+{
+  "name": "toolforge-jobs-cli",
+  "version": "16.1.24",
+  "summary": "Command line interface for the Toolforge Jobs framework",
+  "author": "Arturo Borrero Gonzalez",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "toolforge_jobs_cli-16.1.24.tar.gz",
+  "download_time": "2025-10-30T16:52:05.935605",
+  "package_url": "https://pypi.org/project/toolforge-jobs-cli/"
+}

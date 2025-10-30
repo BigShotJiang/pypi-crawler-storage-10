@@ -1,0 +1,11 @@
+{
+  "name": "robo-goggles",
+  "version": "0.1.2",
+  "summary": "Observability framework for robotics research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robo_goggles-0.1.2.tar.gz",
+  "download_time": "2025-10-30T16:52:07.474196",
+  "package_url": "https://pypi.org/project/robo-goggles/"
+}

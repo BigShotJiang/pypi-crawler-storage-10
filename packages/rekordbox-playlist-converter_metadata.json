@@ -1,0 +1,11 @@
+{
+  "name": "rekordbox-playlist-converter",
+  "version": "0.1.0",
+  "summary": "Convert Rekordbox playlists with automatic format selection for Pioneer DJ CDJ/XDJ equipment",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "rekordbox_playlist_converter-0.1.0.tar.gz",
+  "download_time": "2025-10-30T16:51:42.518091",
+  "package_url": "https://pypi.org/project/rekordbox-playlist-converter/"
+}

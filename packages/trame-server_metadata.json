@@ -1,0 +1,11 @@
+{
+  "name": "trame-server",
+  "version": "3.8.1",
+  "summary": "Internal server side implementation of trame",
+  "author": "Kitware Inc.",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "trame_server-3.8.1.tar.gz",
+  "download_time": "2025-10-30T16:51:55.905848",
+  "package_url": "https://pypi.org/project/trame-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycloudlib",
+  "version": "1!10.14.0",
+  "summary": "Python library to launch, interact, and snapshot cloud instances",
+  "author": "pycloudlib-devs",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/canonical/pycloudlib",
+  "download_filename": "pycloudlib-1!10.14.0.tar.gz",
+  "download_time": "2025-10-30T16:51:59.363993",
+  "package_url": "https://pypi.org/project/pycloudlib/"
+}
