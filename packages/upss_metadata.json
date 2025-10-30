@@ -1,0 +1,11 @@
+{
+  "name": "upss",
+  "version": "2.0.0",
+  "summary": "Universal Prompt Security Standard - Python Implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "upss-2.0.0.tar.gz",
+  "download_time": "2025-10-30T09:20:55.771467",
+  "package_url": "https://pypi.org/project/upss/"
+}

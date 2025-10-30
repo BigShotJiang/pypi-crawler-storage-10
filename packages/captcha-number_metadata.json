@@ -1,0 +1,11 @@
+{
+  "name": "captcha-number",
+  "version": "0.1.2",
+  "summary": "Recognize numbers from images (captcha and others) using Tesseract OCR",
+  "author": "MiChen",
+  "license": null,
+  "home_page": "https://github.com/RuomiChen/captcha-number",
+  "download_filename": "captcha_number-0.1.2.tar.gz",
+  "download_time": "2025-10-30T09:20:21.293377",
+  "package_url": "https://pypi.org/project/captcha-number/"
+}

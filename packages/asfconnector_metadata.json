@@ -1,11 +1,11 @@
 {
   "name": "asfconnector",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Another Python wrapper of ArchiSteamFarm IPC API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asfconnector-0.0.1.tar.gz",
-  "download_time": "2025-10-29T15:46:09.690928",
+  "download_filename": "asfconnector-0.0.3.tar.gz",
+  "download_time": "2025-10-30T09:20:32.785192",
   "package_url": "https://pypi.org/project/asfconnector/"
 }

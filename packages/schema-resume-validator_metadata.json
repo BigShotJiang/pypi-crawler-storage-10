@@ -1,0 +1,11 @@
+{
+  "name": "schema-resume-validator",
+  "version": "1.1.0",
+  "summary": "JSON Schema validator for Schema Resume - comprehensive CV/Resume validation with JSON-LD support",
+  "author": "Schema Resume",
+  "license": "MIT",
+  "home_page": "https://schema-resume.org/",
+  "download_filename": "schema_resume_validator-1.1.0.tar.gz",
+  "download_time": "2025-10-30T09:20:46.836046",
+  "package_url": "https://pypi.org/project/schema-resume-validator/"
+}

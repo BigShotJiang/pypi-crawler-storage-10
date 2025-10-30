@@ -1,0 +1,11 @@
+{
+  "name": "alexPlot",
+  "version": "1.0.2",
+  "summary": "A simple plotting package for use with zfit",
+  "author": "Alex Marshall",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/amarshal/alexPlot",
+  "download_filename": "alexplot-1.0.2.tar.gz",
+  "download_time": "2025-10-30T09:20:28.586122",
+  "package_url": "https://pypi.org/project/alexPlot/"
+}
