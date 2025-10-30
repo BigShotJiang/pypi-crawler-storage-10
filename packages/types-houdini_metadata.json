@@ -1,0 +1,11 @@
+{
+  "name": "types-houdini",
+  "version": "21.0.512.0",
+  "summary": "Unofficial python stubs for SideFX Houdini",
+  "author": "Chad Dombrova, Ben Andersen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_houdini-21.0.512.0-py2.py3-none-any.whl",
+  "download_time": "2025-10-30T02:57:21.656132",
+  "package_url": "https://pypi.org/project/types-houdini/"
+}

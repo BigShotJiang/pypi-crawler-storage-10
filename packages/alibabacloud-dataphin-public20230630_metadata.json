@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dataphin-public20230630",
+  "version": "2.2.0",
+  "summary": "Alibaba Cloud dataphin-public (20230630) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dataphin_public20230630-2.2.0-py3-none-any.whl",
+  "download_time": "2025-10-30T02:57:13.126506",
+  "package_url": "https://pypi.org/project/alibabacloud-dataphin-public20230630/"
+}

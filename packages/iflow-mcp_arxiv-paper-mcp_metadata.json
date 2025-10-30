@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_arxiv-paper-mcp",
+  "version": "0.1.2",
+  "summary": "arXiv 논문 데이터를 Claude AI와 연동하는 MCP 서버",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_arxiv_paper_mcp-0.1.2.tar.gz",
+  "download_time": "2025-10-30T02:56:42.548539",
+  "package_url": "https://pypi.org/project/iflow-mcp_arxiv-paper-mcp/"
+}

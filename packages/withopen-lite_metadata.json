@@ -1,0 +1,11 @@
+{
+  "name": "withopen-lite",
+  "version": "1.5.2",
+  "summary": "A structure-aware and data type text file manager for Python that enforces type safety, 1D/2D consistency, and automatic backups.",
+  "author": "henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "withopen_lite-1.5.2.tar.gz",
+  "download_time": "2025-10-30T02:56:57.853851",
+  "package_url": "https://pypi.org/project/withopen-lite/"
+}

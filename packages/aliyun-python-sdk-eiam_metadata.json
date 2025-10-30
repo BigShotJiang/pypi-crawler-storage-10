@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-eiam",
+  "version": "1.0.5",
+  "summary": "The eiam module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_eiam-1.0.5-py2.py3-none-any.whl",
+  "download_time": "2025-10-30T02:57:11.033993",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-eiam/"
+}

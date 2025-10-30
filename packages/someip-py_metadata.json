@@ -1,11 +1,11 @@
 {
   "name": "someip-py",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "SOME/IP Libraries",
   "author": "weidong.huang",
   "license": null,
   "home_page": null,
-  "download_filename": "someip_py-0.0.14-py2.py3-none-any.whl",
-  "download_time": "2025-10-28T13:21:01.855841",
+  "download_filename": "someip_py-0.0.15-py2.py3-none-any.whl",
+  "download_time": "2025-10-30T02:56:44.713915",
   "package_url": "https://pypi.org/project/someip-py/"
 }

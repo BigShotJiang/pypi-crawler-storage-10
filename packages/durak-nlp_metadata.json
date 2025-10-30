@@ -1,11 +1,11 @@
 {
   "name": "durak-nlp",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Durak: modular Turkish NLP preprocessing toolkit.",
   "author": "Fatih Burak Karagöz",
   "license": null,
   "home_page": null,
-  "download_filename": "durak_nlp-0.2.1.tar.gz",
-  "download_time": "2025-10-29T18:27:28.679000",
+  "download_filename": "durak_nlp-0.2.4.tar.gz",
+  "download_time": "2025-10-30T02:57:07.886299",
   "package_url": "https://pypi.org/project/durak-nlp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "raspberrypi-tm1637",
+  "version": "1.3.8",
+  "summary": "Raspberry Pi Python port from MicroPython library for TM1637 LED driver.",
+  "author": "Mike Causer",
+  "license": "MIT",
+  "home_page": "https://github.com/depklyon/raspberrypi-tm1637",
+  "download_filename": "raspberrypi_tm1637-1.3.8.tar.gz",
+  "download_time": "2025-10-30T02:56:46.816251",
+  "package_url": "https://pypi.org/project/raspberrypi-tm1637/"
+}
