@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-greengrassv2",
+  "version": "1.40.63",
+  "summary": "Type annotations for boto3 GreengrassV2 1.40.63 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_greengrassv2-1.40.63.tar.gz",
+  "download_time": "2025-10-30T19:53:09.313390",
+  "package_url": "https://pypi.org/project/types-boto3-greengrassv2/"
+}

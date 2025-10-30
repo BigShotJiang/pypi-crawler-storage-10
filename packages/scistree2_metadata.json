@@ -1,11 +1,11 @@
 {
   "name": "scistree2",
-  "version": "0.3.0",
+  "version": "0.3.0.post0",
   "summary": "Large-scale Inference of Cell Lineage Trees and Genotype Calling from Noisy Single-Cell Data Using Efficient Local Search",
   "author": null,
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "scistree2-0.3.0.tar.gz",
-  "download_time": "2025-10-30T19:29:40.310686",
+  "download_filename": "scistree2-0.3.0.post0-py3-none-any.whl",
+  "download_time": "2025-10-30T19:52:31.112211",
   "package_url": "https://pypi.org/project/scistree2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hyperpod-jumpstart-inference-template",
+  "version": "1.0.3",
+  "summary": "Versioned JSON-schema + Pydantic models for JumpStart configs",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hyperpod_jumpstart_inference_template-1.0.3.tar.gz",
+  "download_time": "2025-10-30T19:52:39.470503",
+  "package_url": "https://pypi.org/project/hyperpod-jumpstart-inference-template/"
+}

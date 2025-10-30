@@ -1,0 +1,11 @@
+{
+  "name": "django-debug-toolbar",
+  "version": "6.0.0",
+  "summary": "A configurable set of panels that display various debug information about the current request/response.",
+  "author": "Rob Hudson",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_debug_toolbar-6.0.0.tar.gz",
+  "download_time": "2025-10-30T19:52:32.294056",
+  "package_url": "https://pypi.org/project/django-debug-toolbar/"
+}
