@@ -1,11 +1,11 @@
 {
   "name": "blazecache",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blazecache-1.3.6.tar.gz",
-  "download_time": "2025-10-29T13:52:17.307463",
+  "download_filename": "blazecache-1.3.7.tar.gz",
+  "download_time": "2025-10-30T15:56:32.149764",
   "package_url": "https://pypi.org/project/blazecache/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "appy",
+  "version": "1.0.20",
+  "summary": "The Appy framework",
+  "author": "Gaetan Delannay",
+  "license": "GPL",
+  "home_page": "https://appyframe.work",
+  "download_filename": "appy-1.0.20.tar.gz",
+  "download_time": "2025-10-30T15:56:19.563165",
+  "package_url": "https://pypi.org/project/appy/"
+}

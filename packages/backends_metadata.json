@@ -1,0 +1,11 @@
+{
+  "name": "backends",
+  "version": "1.8.0",
+  "summary": "A generic interface for linear algebra backends",
+  "author": "Wessel Bruinsma",
+  "license": "MIT",
+  "home_page": "https://github.com/wesselb/lab",
+  "download_filename": "backends-1.8.0.tar.gz",
+  "download_time": "2025-10-30T15:56:29.051028",
+  "package_url": "https://pypi.org/project/backends/"
+}

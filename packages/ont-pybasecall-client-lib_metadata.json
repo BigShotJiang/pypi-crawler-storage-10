@@ -1,11 +1,11 @@
 {
   "name": "ont-pybasecall-client-lib",
-  "version": "7.12.0",
+  "version": "7.11.2",
   "summary": "Python bindings for the BasecallClient library.",
   "author": "Oxford Nanopore Technologies plc",
   "license": null,
   "home_page": "http://www.nanoporetech.com",
-  "download_filename": "ont_pybasecall_client_lib-7.12.0-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-10-30T10:20:39.884641",
+  "download_filename": "ont_pybasecall_client_lib-7.11.2-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-30T15:56:15.913521",
   "package_url": "https://pypi.org/project/ont-pybasecall-client-lib/"
 }

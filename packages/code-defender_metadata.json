@@ -1,11 +1,11 @@
 {
   "name": "code-defender",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Intelligent code obfuscator to protect your code from AI-based analysis and reverse engineering",
   "author": "AIShield Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "code_defender-1.1.5.tar.gz",
-  "download_time": "2025-10-30T12:37:03.496560",
+  "download_filename": "code_defender-1.1.6.tar.gz",
+  "download_time": "2025-10-30T15:56:23.298690",
   "package_url": "https://pypi.org/project/code-defender/"
 }
