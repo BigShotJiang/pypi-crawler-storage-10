@@ -1,0 +1,11 @@
+{
+  "name": "boom-boot",
+  "version": "1.6.8",
+  "summary": "The Boom Boot Manager",
+  "author": "Bryn M. Reeves",
+  "license": "\"Apache-2.0\"",
+  "home_page": "https://github.com/snapshotmanager/boom",
+  "download_filename": "boom_boot-1.6.8.tar.gz",
+  "download_time": "2025-10-30T19:40:57.212418",
+  "package_url": "https://pypi.org/project/boom-boot/"
+}

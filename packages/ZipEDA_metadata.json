@@ -1,11 +1,11 @@
 {
   "name": "ZipEDA",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Quick and easy Exploratory Data Analysis package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zipeda-0.0.6.tar.gz",
-  "download_time": "2025-10-27T15:19:31.347681",
+  "download_filename": "zipeda-0.0.8.tar.gz",
+  "download_time": "2025-10-30T19:41:00.375727",
   "package_url": "https://pypi.org/project/ZipEDA/"
 }

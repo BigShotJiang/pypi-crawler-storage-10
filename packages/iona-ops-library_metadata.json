@@ -1,0 +1,11 @@
+{
+  "name": "iona-ops-library",
+  "version": "0.1.0",
+  "summary": "A short description of your library",
+  "author": "Gary James",
+  "license": "MIT",
+  "home_page": "https://github.com/ION-Analytics/iona-ops/Codebase/Libraries/pip_installable/iona_ops_library",
+  "download_filename": "iona_ops_library-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-30T19:41:06.335727",
+  "package_url": "https://pypi.org/project/iona-ops-library/"
+}

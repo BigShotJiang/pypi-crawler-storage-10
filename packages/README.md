@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T19:30:05.802562
-- **Total Packages**: 83
-- **Total Size**: 33.97 MB
+- **Download Time**: 2025-10-30T19:41:34.140731
+- **Total Packages**: 82
+- **Total Size**: 4.91 MB
 
 ## Packages List
+- prac-tsec-sp
+- dyff-client
+- context-portal-mcp
+- pyd-xml
+- aethermagic
+- mcp-browser
+- osdu-perf
+- datajunction
+- datajunction-reflection
+- datajunction-query
+- joyfl
+- datajunction-server
+- rigol-dho824-mcp
+- confuk
+- boom-boot
+- pixelemon
+- datamorphx
+- sentry-devenv
+- sapiopycommons
+- depsize
+- ZipEDA
+- boto3
+- awscli
+- ape-safe
+- agentsight
+- fractal-server
+- floria-snippets
+- tna-utilities
+- daplug-ddb
+- unique_internal_search
+- iona-ops-library
+- rpa-quaestvm
+- scatseisnet
 - encryption-vault
 - mcp-agent
 - cdklabs.generative-ai-cdk-constructs
@@ -15,12 +48,9 @@
 - megatron-core
 - megatron-fsdp
 - ul-pii-sdk
-- jcarlossc-teste
-- aethermagic
 - kani
 - openobd
 - abba-python
-- datamorphx
 - mcp-vector-search
 - chbe444umd
 - steeleagle_sdk
@@ -31,7 +61,6 @@
 - ssocket
 - DoSP
 - fast-sugiyama
-- rigol-dho824-mcp
 - free-cauculator
 - streamshatter
 - grasp_agents
@@ -39,7 +68,6 @@
 - proto-explorer
 - narada
 - webbed-duck
-- pixelemon
 - teramap
 - scistree2
 - scikit-bio
@@ -53,7 +81,6 @@
 - retention
 - moleditpy
 - rltutor
-- sapiopycommons
 - tomldiary
 - bittensor-cli
 - edison-client
@@ -61,31 +88,3 @@
 - regscale-cli
 - txdx
 - clustertk
-- formfyxer
-- payi
-- merge-imgs
-- sclogging
-- bioio-ome-zarr
-- odoo-addon-account-payment-return
-- nextmv
-- techlens-agent
-- deepagents-cli
-- foxglove-client
-- plinkformatter
-- deepagents
-- stllrent-bootstrap
-- alpha-berkeley-framework
-- unique_orchestrator
-- Gempyre
-- unique_toolkit
-- mcp-bear
-- calgebra
-- ibm-platform-services
-- aiohomematic-test-support
-- aiohomematic
-- site-scout
-- bluesky-tiled-plugins
-- aware-test-runner
-- nomad-normalizer-plugin-simulation-workflow
-- DBRobustClust
-- halsted-sdk

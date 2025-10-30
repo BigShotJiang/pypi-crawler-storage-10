@@ -1,0 +1,11 @@
+{
+  "name": "tna-utilities",
+  "version": "0.0.1rc1",
+  "summary": "A library of common National Archives Python functions",
+  "author": "Andrew Hosgood",
+  "license": null,
+  "home_page": "https://github.com/nationalarchives/python-utilities",
+  "download_filename": "tna_utilities-0.0.1rc1.tar.gz",
+  "download_time": "2025-10-30T19:41:04.772012",
+  "package_url": "https://pypi.org/project/tna-utilities/"
+}

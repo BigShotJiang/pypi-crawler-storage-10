@@ -1,11 +1,11 @@
 {
   "name": "datamorphx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Smart text augmentation for NLP and LLM fine-tuning.",
   "author": "Yesha Doshi",
   "license": "MIT",
   "home_page": "https://github.com/Yesha05/datamorph",
-  "download_filename": "datamorphx-0.1.1.tar.gz",
-  "download_time": "2025-10-30T19:29:28.677177",
+  "download_filename": "datamorphx-0.1.2.tar.gz",
+  "download_time": "2025-10-30T19:40:58.288730",
   "package_url": "https://pypi.org/project/datamorphx/"
 }
