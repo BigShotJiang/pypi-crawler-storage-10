@@ -1,11 +1,11 @@
 {
   "name": "astrbot-config",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "astrbot configuration ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrbot_config-0.1.2.tar.gz",
-  "download_time": "2025-10-28T14:57:45.981900",
+  "download_filename": "astrbot_config-0.1.4.tar.gz",
+  "download_time": "2025-10-30T18:26:33.033517",
   "package_url": "https://pypi.org/project/astrbot-config/"
 }

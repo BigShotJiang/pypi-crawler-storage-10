@@ -1,0 +1,11 @@
+{
+  "name": "wordcounter-tool",
+  "version": "1.0.1",
+  "summary": "A versatile word counting tool supporting multiple input methods",
+  "author": "fangtangbai",
+  "license": null,
+  "home_page": "https://github.com/baitang2233/wordcounter-tool",
+  "download_filename": "wordcounter_tool-1.0.1.tar.gz",
+  "download_time": "2025-10-30T18:26:20.417832",
+  "package_url": "https://pypi.org/project/wordcounter-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grid_feedback_optimizer",
+  "version": "0.1.9",
+  "summary": "Optimization methods for voltage and congestion management in modern power distribution grids.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grid_feedback_optimizer-0.1.9.tar.gz",
+  "download_time": "2025-10-30T18:26:26.193969",
+  "package_url": "https://pypi.org/project/grid_feedback_optimizer/"
+}

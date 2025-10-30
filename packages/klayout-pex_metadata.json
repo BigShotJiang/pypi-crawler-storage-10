@@ -1,11 +1,11 @@
 {
   "name": "klayout-pex",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Parasitic Extraction Tool for KLayout",
   "author": "Martin Köhler",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "klayout_pex-0.3.3.tar.gz",
-  "download_time": "2025-10-27T21:16:01.542738",
+  "download_filename": "klayout_pex-0.3.4.tar.gz",
+  "download_time": "2025-10-30T18:26:26.728793",
   "package_url": "https://pypi.org/project/klayout-pex/"
 }
