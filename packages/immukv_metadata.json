@@ -1,11 +1,11 @@
 {
   "name": "immukv",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "Lightweight immutable key-value store using S3 versioning",
   "author": "ImmuKV Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "immukv-0.1.2.tar.gz",
-  "download_time": "2025-10-30T15:24:41.823828",
+  "download_filename": "immukv-0.1.6.tar.gz",
+  "download_time": "2025-10-30T16:23:42.215937",
   "package_url": "https://pypi.org/project/immukv/"
 }

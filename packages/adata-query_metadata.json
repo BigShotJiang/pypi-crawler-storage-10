@@ -1,0 +1,11 @@
+{
+  "name": "adata-query",
+  "version": "0.2.1",
+  "summary": "Fetch and format data matrices from AnnData",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adata_query-0.2.1.tar.gz",
+  "download_time": "2025-10-30T16:24:16.997796",
+  "package_url": "https://pypi.org/project/adata-query/"
+}

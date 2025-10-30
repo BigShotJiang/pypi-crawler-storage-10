@@ -1,0 +1,11 @@
+{
+  "name": "picsl-vtk-affine-demo",
+  "version": "0.0.1",
+  "summary": "UPenn BE5370 Affine Transformations Teaching Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picsl_vtk_affine_demo-0.0.1.tar.gz",
+  "download_time": "2025-10-30T16:23:31.819441",
+  "package_url": "https://pypi.org/project/picsl-vtk-affine-demo/"
+}

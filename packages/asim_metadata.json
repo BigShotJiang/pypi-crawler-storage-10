@@ -1,0 +1,11 @@
+{
+  "name": "asim",
+  "version": "25.10.4",
+  "summary": "Automatic simulation system powered by neural networks",
+  "author": "SHUniversity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asim-25.10.4-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-10-30T16:24:12.840036",
+  "package_url": "https://pypi.org/project/asim/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-odoo-coopcycle-connector",
-  "version": "16.0.1.0.0.7",
+  "version": "16.0.1.0.0.8",
   "summary": "Coopcycle Connector",
   "author": "Coopdevs Treball SCCL",
   "license": "LGPL-3",
   "home_page": null,
-  "download_filename": "odoo_addon_odoo_coopcycle_connector-16.0.1.0.0.7.tar.gz",
-  "download_time": "2025-10-30T11:43:18.406703",
+  "download_filename": "odoo_addon_odoo_coopcycle_connector-16.0.1.0.0.8.tar.gz",
+  "download_time": "2025-10-30T16:24:17.575642",
   "package_url": "https://pypi.org/project/odoo-addon-odoo-coopcycle-connector/"
 }
