@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-python-interpreter",
+  "version": "1.2.3",
+  "summary": "MCP server for Python code execution and environment management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_python_interpreter-1.2.3.tar.gz",
+  "download_time": "2025-10-30T04:56:21.744414",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-python-interpreter/"
+}

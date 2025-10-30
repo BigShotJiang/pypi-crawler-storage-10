@@ -1,11 +1,11 @@
 {
   "name": "g-equations",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "A little package for working with equations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "g_equations-1.0.0.tar.gz",
-  "download_time": "2025-10-29T23:18:01.875892",
+  "download_filename": "g_equations-1.1.1.tar.gz",
+  "download_time": "2025-10-30T04:56:25.957287",
   "package_url": "https://pypi.org/project/g-equations/"
 }

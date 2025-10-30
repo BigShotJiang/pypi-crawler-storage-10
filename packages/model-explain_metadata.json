@@ -1,11 +1,11 @@
 {
   "name": "model-explain",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "A comprehensive Python package for interpreting and explaining machine learning and deep learning models. Includes support for feature attention mechanisms and integrates popular explanation methods such as LIME, SHAP, Grad-CAM, permutation importance, and saliency maps. Offers a unified interface for tabular, image, and other data types to enhance model transparency and interpretability.",
   "author": "Vaibhav Kulshrestha",
   "license": null,
   "home_page": "https://github.com/vaibhav-k/model_explain",
-  "download_filename": "model_explain-0.4.1.tar.gz",
-  "download_time": "2025-10-27T23:30:45.147366",
+  "download_filename": "model_explain-0.5.0.tar.gz",
+  "download_time": "2025-10-30T04:56:20.726484",
   "package_url": "https://pypi.org/project/model-explain/"
 }

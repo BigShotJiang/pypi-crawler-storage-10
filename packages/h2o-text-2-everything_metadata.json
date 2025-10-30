@@ -1,11 +1,11 @@
 {
   "name": "h2o-text-2-everything",
-  "version": "0.1.7rc4",
+  "version": "0.1.7",
   "summary": "Official Python SDK for the Text2Everything API",
   "author": "Text2Everything Team",
   "license": null,
   "home_page": "https://github.com/h2oai/text-2-everything",
-  "download_filename": "h2o_text_2_everything-0.1.7rc4.tar.gz",
-  "download_time": "2025-10-29T21:33:13.501912",
+  "download_filename": "h2o_text_2_everything-0.1.7.tar.gz",
+  "download_time": "2025-10-30T04:56:49.699473",
   "package_url": "https://pypi.org/project/h2o-text-2-everything/"
 }

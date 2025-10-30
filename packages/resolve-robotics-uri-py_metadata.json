@@ -1,0 +1,11 @@
+{
+  "name": "resolve-robotics-uri-py",
+  "version": "0.4.0",
+  "summary": "Pure python package to solve ROS-style package:// and Gazebo-style model:// URIs in absolute paths.",
+  "author": "Silvio Traversaro",
+  "license": "BSD",
+  "home_page": "https://github.com/ami-iit/resolve-robotics-uri-py",
+  "download_filename": "resolve_robotics_uri_py-0.4.0.tar.gz",
+  "download_time": "2025-10-30T04:56:25.419752",
+  "package_url": "https://pypi.org/project/resolve-robotics-uri-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stanlogic",
+  "version": "1.1.0",
+  "summary": "A Boolean simplification and inference library that integrates K-Map simplification and logical inference.",
+  "author": "Stan's Technologies",
+  "license": "MIT NC",
+  "home_page": null,
+  "download_filename": "stanlogic-1.1.0.tar.gz",
+  "download_time": "2025-10-30T04:56:46.054431",
+  "package_url": "https://pypi.org/project/stanlogic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sungrow-http-config",
+  "version": "0.2.1",
+  "summary": "A package to manipulate settings on Sungrow Inverters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sungrow_http_config-0.2.1.tar.gz",
+  "download_time": "2025-10-30T04:56:35.518334",
+  "package_url": "https://pypi.org/project/sungrow-http-config/"
+}
