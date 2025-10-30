@@ -1,11 +1,11 @@
 {
   "name": "donkit-read-engine",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Document loading helpers for Donkit RagOps",
   "author": "Donkit AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "donkit_read_engine-0.1.8.tar.gz",
-  "download_time": "2025-10-30T14:47:24.038374",
+  "download_filename": "donkit_read_engine-0.1.10.tar.gz",
+  "download_time": "2025-10-30T15:45:57.997668",
   "package_url": "https://pypi.org/project/donkit-read-engine/"
 }
