@@ -1,0 +1,11 @@
+{
+  "name": "zhinst-seqc-compiler",
+  "version": "25.10.0.274",
+  "summary": "Zurich Instruments SeqC compiler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zhinst_seqc_compiler-25.10.0.274-cp310-cp310-macosx_10_11_x86_64.whl",
+  "download_time": "2025-10-30T08:48:46.248743",
+  "package_url": "https://pypi.org/project/zhinst-seqc-compiler/"
+}

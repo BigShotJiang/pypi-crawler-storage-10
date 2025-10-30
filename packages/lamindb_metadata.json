@@ -1,11 +1,11 @@
 {
   "name": "lamindb",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "summary": "A data framework for biology.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lamindb-1.14.0.tar.gz",
-  "download_time": "2025-10-27T08:48:39.385771",
+  "download_filename": "lamindb-1.15.0.tar.gz",
+  "download_time": "2025-10-30T08:49:27.446862",
   "package_url": "https://pypi.org/project/lamindb/"
 }

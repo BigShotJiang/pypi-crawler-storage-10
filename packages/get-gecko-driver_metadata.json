@@ -1,0 +1,11 @@
+{
+  "name": "get-gecko-driver",
+  "version": "1.5.1",
+  "summary": "A tool to download and install GeckoDriver.",
+  "author": "Zairon Jacobs",
+  "license": "MIT",
+  "home_page": "https://github.com/zaironjacobs/get-gecko-driver",
+  "download_filename": "get_gecko_driver-1.5.1.tar.gz",
+  "download_time": "2025-10-30T08:49:10.526417",
+  "package_url": "https://pypi.org/project/get-gecko-driver/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "char-index-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Model Context Protocol server for character-level index-based string manipulation",
   "author": "Claude (Anthropic)",
   "license": null,
   "home_page": null,
-  "download_filename": "char_index_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-30T05:42:57.749161",
+  "download_filename": "char_index_mcp-0.2.0.tar.gz",
+  "download_time": "2025-10-30T08:49:12.581934",
   "package_url": "https://pypi.org/project/char-index-mcp/"
 }

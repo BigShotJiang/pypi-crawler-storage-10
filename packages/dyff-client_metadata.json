@@ -1,11 +1,11 @@
 {
   "name": "dyff-client",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "summary": "Python client for the Dyff AI auditing platform.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dyff_client-0.23.0.tar.gz",
-  "download_time": "2025-10-29T20:20:53.091835",
+  "download_filename": "dyff_client-0.23.1.tar.gz",
+  "download_time": "2025-10-30T08:49:05.912660",
   "package_url": "https://pypi.org/project/dyff-client/"
 }

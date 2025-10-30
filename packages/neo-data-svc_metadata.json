@@ -1,11 +1,11 @@
 {
   "name": "neo-data-svc",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A data base svc",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "neo_data_svc-0.5.0.tar.gz",
-  "download_time": "2025-10-30T08:24:34.053766",
+  "download_filename": "neo_data_svc-0.6.0.tar.gz",
+  "download_time": "2025-10-30T08:49:05.400991",
   "package_url": "https://pypi.org/project/neo-data-svc/"
 }

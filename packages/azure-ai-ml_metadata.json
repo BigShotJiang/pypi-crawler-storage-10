@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-ml",
+  "version": "1.30.0",
+  "summary": "Microsoft Azure Machine Learning Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_ai_ml-1.30.0.tar.gz",
+  "download_time": "2025-10-30T08:48:55.637207",
+  "package_url": "https://pypi.org/project/azure-ai-ml/"
+}

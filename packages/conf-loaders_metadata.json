@@ -1,0 +1,11 @@
+{
+  "name": "conf-loaders",
+  "version": "0.4.0",
+  "summary": "configuration loading utils",
+  "author": "Demetry Pascal",
+  "license": null,
+  "home_page": "https://github.com/PasaOpasen/conf-loaders",
+  "download_filename": "conf_loaders-0.4.0-py3-none-any.whl",
+  "download_time": "2025-10-30T08:49:01.798598",
+  "package_url": "https://pypi.org/project/conf-loaders/"
+}

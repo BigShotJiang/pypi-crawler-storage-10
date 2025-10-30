@@ -1,11 +1,11 @@
 {
   "name": "libentry",
-  "version": "1.31.1",
+  "version": "1.32.0",
   "summary": "Entries for experimental utilities.",
   "author": "xi",
   "license": "Apache-2.0 license ",
   "home_page": "https://github.com/XoriieInpottn/libentry",
-  "download_filename": "libentry-1.31.1-py3-none-any.whl",
-  "download_time": "2025-10-24T10:52:28.237813",
+  "download_filename": "libentry-1.32.0-py3-none-any.whl",
+  "download_time": "2025-10-30T08:49:16.683264",
   "package_url": "https://pypi.org/project/libentry/"
 }

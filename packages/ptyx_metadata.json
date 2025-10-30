@@ -1,0 +1,11 @@
+{
+  "name": "ptyx",
+  "version": "30.0.0",
+  "summary": "pTyX is a python precompiler for LaTeX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ptyx-30.0.0.tar.gz",
+  "download_time": "2025-10-30T08:49:19.247114",
+  "package_url": "https://pypi.org/project/ptyx/"
+}
