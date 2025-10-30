@@ -1,0 +1,11 @@
+{
+  "name": "ssocket",
+  "version": "0.1",
+  "summary": "ssocket - Tek satırda socket programlama",
+  "author": "Özgür",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssocket-0.1.tar.gz",
+  "download_time": "2025-10-30T19:29:33.099197",
+  "package_url": "https://pypi.org/project/ssocket/"
+}

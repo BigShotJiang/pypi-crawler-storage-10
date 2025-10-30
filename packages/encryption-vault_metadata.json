@@ -1,11 +1,11 @@
 {
   "name": "encryption-vault",
-  "version": "0.7.8",
+  "version": "0.8.0",
   "summary": "Tkinter desktop app for managing PGP keys, AES vault, and credential storage.",
   "author": "PDFSage",
   "license": null,
   "home_page": null,
-  "download_filename": "encryption_vault-0.7.8.tar.gz",
-  "download_time": "2025-10-30T19:17:03.140464",
+  "download_filename": "encryption_vault-0.8.0.tar.gz",
+  "download_time": "2025-10-30T19:29:19.898445",
   "package_url": "https://pypi.org/project/encryption-vault/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rltutor",
+  "version": "0.0.1",
+  "summary": "Beginner-friendly reinforcement learning tutorial toolkit",
+  "author": "Vian Gandhi",
+  "license": "MIT",
+  "home_page": "https://github.com/viangandhi/rltutor",
+  "download_filename": "rltutor-0.0.1.tar.gz",
+  "download_time": "2025-10-30T19:29:46.318499",
+  "package_url": "https://pypi.org/project/rltutor/"
+}

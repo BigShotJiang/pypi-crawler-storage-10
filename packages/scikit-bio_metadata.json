@@ -1,11 +1,11 @@
 {
   "name": "scikit-bio",
-  "version": "0.7.1",
+  "version": "0.7.1.post1",
   "summary": "Data structures, algorithms and educational resources for bioinformatics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scikit_bio-0.7.1.tar.gz",
-  "download_time": "2025-10-28T19:15:13.372392",
+  "download_filename": "scikit_bio-0.7.1.post1.tar.gz",
+  "download_time": "2025-10-30T19:29:40.876383",
   "package_url": "https://pypi.org/project/scikit-bio/"
 }

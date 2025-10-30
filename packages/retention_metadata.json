@@ -1,0 +1,11 @@
+{
+  "name": "retention",
+  "version": "1.0.6",
+  "summary": "Retention-based next-generation kernels for long-context models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retention-1.0.6-py3-none-any.whl",
+  "download_time": "2025-10-30T19:29:45.235846",
+  "package_url": "https://pypi.org/project/retention/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkcollage",
+  "version": "1.0.0",
+  "summary": "A simple grid collage maker for creating image collages from a folder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkcollage-1.0.0.tar.gz",
+  "download_time": "2025-10-30T19:29:21.656967",
+  "package_url": "https://pypi.org/project/mkcollage/"
+}
