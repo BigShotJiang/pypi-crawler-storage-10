@@ -1,0 +1,11 @@
+{
+  "name": "ggml-py",
+  "version": "0.9.4",
+  "summary": "Python bindings for ggml. Fork of the original project to use the latest version of ggml.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ggml_py-0.9.4.tar.gz",
+  "download_time": "2025-10-30T17:43:09.528498",
+  "package_url": "https://pypi.org/project/ggml-py/"
+}

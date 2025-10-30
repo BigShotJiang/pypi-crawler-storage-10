@@ -1,11 +1,11 @@
 {
   "name": "FlexiLogger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A customizable logger and traceback handler for Python applications",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "flexilogger-1.0.4.tar.gz",
-  "download_time": "2025-10-30T17:17:56.648171",
+  "download_filename": "flexilogger-1.0.5.tar.gz",
+  "download_time": "2025-10-30T17:43:44.882283",
   "package_url": "https://pypi.org/project/FlexiLogger/"
 }

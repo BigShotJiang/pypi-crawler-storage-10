@@ -1,0 +1,11 @@
+{
+  "name": "crazycontext",
+  "version": "0.1.0",
+  "summary": "The ultimate context builder for LLM applications - multi-source gathering (web, papers, GitHub) with optional semantic search",
+  "author": "CrazyContext Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "crazycontext-0.1.0.tar.gz",
+  "download_time": "2025-10-30T17:43:13.799447",
+  "package_url": "https://pypi.org/project/crazycontext/"
+}

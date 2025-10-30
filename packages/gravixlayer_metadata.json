@@ -1,11 +1,11 @@
 {
   "name": "gravixlayer",
-  "version": "0.0.46",
+  "version": "0.0.48",
   "summary": "GravixLayer Python SDK - Official Python client for GravixLayer API",
   "author": "Team Gravix",
   "license": "Apache-2.0",
   "home_page": "https://github.com/gravixlayer/gravixlayer-python",
-  "download_filename": "gravixlayer-0.0.46.tar.gz",
-  "download_time": "2025-10-30T11:31:43.360388",
+  "download_filename": "gravixlayer-0.0.48.tar.gz",
+  "download_time": "2025-10-30T17:43:12.728358",
   "package_url": "https://pypi.org/project/gravixlayer/"
 }
