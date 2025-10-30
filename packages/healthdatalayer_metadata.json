@@ -1,11 +1,11 @@
 {
   "name": "healthdatalayer",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Health Datalayer to access data from different sources",
   "author": "Jesus Martinez",
   "license": null,
   "home_page": null,
-  "download_filename": "healthdatalayer-1.5.3.tar.gz",
-  "download_time": "2025-10-30T05:18:15.444949",
+  "download_filename": "healthdatalayer-1.5.4.tar.gz",
+  "download_time": "2025-10-30T05:42:51.889150",
   "package_url": "https://pypi.org/project/healthdatalayer/"
 }

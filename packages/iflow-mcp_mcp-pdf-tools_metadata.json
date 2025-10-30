@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-pdf-tools",
+  "version": "0.1.0",
+  "summary": "MCP server for PDF manipulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_pdf_tools-0.1.0.tar.gz",
+  "download_time": "2025-10-30T05:42:49.761234",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-pdf-tools/"
+}

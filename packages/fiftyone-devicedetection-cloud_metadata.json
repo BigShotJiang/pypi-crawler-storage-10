@@ -1,11 +1,11 @@
 {
   "name": "fiftyone-devicedetection-cloud",
-  "version": "4.4.152",
+  "version": "4.4.153",
   "summary": "51Degrees Device Detection parses HTTP headers to return detailed hardware, operating system, browser, and crawler information for the devices used to access your website or service. This package retrieves device detection results by consuming the 51Degrees cloud service.",
   "author": "51Degrees Engineering",
   "license": "EUPL-1.2",
   "home_page": "https://51degrees.com/",
-  "download_filename": "fiftyone_devicedetection_cloud-4.4.152.tar.gz",
-  "download_time": "2025-10-27T04:34:09.450265",
+  "download_filename": "fiftyone_devicedetection_cloud-4.4.153.tar.gz",
+  "download_time": "2025-10-30T05:43:02.022339",
   "package_url": "https://pypi.org/project/fiftyone-devicedetection-cloud/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lowmind",
+  "version": "0.6.0",
+  "summary": "Ultra-lightweight Deep Learning Framework for Raspberry Pi",
+  "author": "VEDRA",
+  "license": null,
+  "home_page": "https://github.com/dhaval-gamet/lowmind",
+  "download_filename": "lowmind-0.6.0.tar.gz",
+  "download_time": "2025-10-30T05:42:53.488000",
+  "package_url": "https://pypi.org/project/lowmind/"
+}
