@@ -1,18 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T05:43:32.594913
-- **Total Packages**: 89
-- **Total Size**: 4.37 MB
+- **Download Time**: 2025-10-30T05:52:14.827717
+- **Total Packages**: 85
+- **Total Size**: 4.27 MB
 
 ## Packages List
+- nshutils
+- zhkj-plugins-parent
+- tour-agent
+- shannon-sdk
+- simtoolsz
+- es2
+- tgz-message-sdk
+- pyfemtet-opt-gui
+- match-predicting-ann-server-pub-api
+- victron-mqtt
+- robox-sdk-lite
+- dokku-api
+- iflow-mcp_mcp-redis
 - pip-fc
 - aura-compression
 - iflow-mcp_dbt-cli-mcp
-- zhkj-plugins-parent
 - supremo-lite
 - django-honeyguard
-- tour-agent
 - iflow-mcp_build-unblocker-mcp
 - langchain-dev-utils
 - HexSS
@@ -26,7 +37,6 @@
 - lowmind
 - match-predicting-pub-api
 - mcp-server-gaode-thy-sse-2
-- match-predicting-ann-server-pub-api
 - iflow-mcp_tidal-mcp
 - flatiron-cleaner
 - kt-ds-api
@@ -81,17 +91,3 @@
 - metorial-mcp-session
 - metorial-mistral
 - metorial-util-endpoint
-- metorial-anthropic
-- pypomes-iam
-- cloudru-ml-cli
-- semantics.py3
-- maleo-schemas
-- iflow-mcp_mcp-tool-builder
-- toltecmk
-- bbot
-- nercone-modern
-- skypilot-nightly
-- winipedia-utils
-- usb-inspector
-- medvision-classification
-- TSMasterAPI

@@ -1,0 +1,11 @@
+{
+  "name": "robox-sdk-lite",
+  "version": "1.0.3",
+  "summary": "Robox SDK Lite for Intedigo RoIO Robot System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robox_sdk_lite-1.0.3.tar.gz",
+  "download_time": "2025-10-30T05:51:35.736725",
+  "package_url": "https://pypi.org/project/robox-sdk-lite/"
+}
