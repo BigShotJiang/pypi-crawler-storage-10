@@ -1,0 +1,11 @@
+{
+  "name": "hwinfo-tui",
+  "version": "1.0.2",
+  "summary": "A gping-inspired terminal visualization tool for monitoring real-time hardware sensor data from HWInfo",
+  "author": "JuanjoFuchs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hwinfo_tui-1.0.2.tar.gz",
+  "download_time": "2025-10-30T17:18:19.956614",
+  "package_url": "https://pypi.org/project/hwinfo-tui/"
+}

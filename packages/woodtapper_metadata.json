@@ -1,11 +1,11 @@
 {
   "name": "woodtapper",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "A Python toolbox for interpretable and explainable tree ensembles.",
   "author": "Abdoulaye SAKHO",
   "license": null,
   "home_page": null,
-  "download_filename": "woodtapper-0.0.8.tar.gz",
-  "download_time": "2025-10-30T14:31:53.486057",
+  "download_filename": "woodtapper-0.0.10.tar.gz",
+  "download_time": "2025-10-30T17:18:26.641896",
   "package_url": "https://pypi.org/project/woodtapper/"
 }

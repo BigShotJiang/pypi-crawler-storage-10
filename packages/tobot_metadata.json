@@ -1,11 +1,11 @@
 {
   "name": "tobot",
-  "version": "2",
+  "version": "3",
   "summary": "bot in reverse !",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tobot-2.tar.gz",
-  "download_time": "2025-10-29T04:26:05.808145",
+  "download_filename": "tobot-3.tar.gz",
+  "download_time": "2025-10-30T17:18:24.988056",
   "package_url": "https://pypi.org/project/tobot/"
 }

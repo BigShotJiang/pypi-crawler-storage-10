@@ -1,0 +1,11 @@
+{
+  "name": "DBRobustClust",
+  "version": "0.0.2",
+  "summary": "For more information, check out the official documentation of `DBRobustClust` at: https://fabioscielzoortiz.github.io/DBRobustClust-docu/intro.html",
+  "author": "Fabio Scielzo Ortiz",
+  "license": null,
+  "home_page": "https://github.com/FabioScielzoOrtiz/DBRobustClust-package",
+  "download_filename": "dbrobustclust-0.0.2.tar.gz",
+  "download_time": "2025-10-30T17:18:29.814819",
+  "package_url": "https://pypi.org/project/DBRobustClust/"
+}

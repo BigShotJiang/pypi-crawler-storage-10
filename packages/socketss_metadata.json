@@ -1,0 +1,11 @@
+{
+  "name": "socketss",
+  "version": "0.1.0",
+  "summary": "socketss - Tek satırda socket programlama",
+  "author": "Özgür",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socketss-0.1.0.tar.gz",
+  "download_time": "2025-10-30T17:18:20.482932",
+  "package_url": "https://pypi.org/project/socketss/"
+}

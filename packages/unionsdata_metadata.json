@@ -1,0 +1,11 @@
+{
+  "name": "unionsdata",
+  "version": "0.1.0",
+  "summary": "Download imaging data from the UNIONS survey.",
+  "author": "Nick Heesters",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unionsdata-0.1.0.tar.gz",
+  "download_time": "2025-10-30T17:17:48.585302",
+  "package_url": "https://pypi.org/project/unionsdata/"
+}
