@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ilograph-mcp-server",
+  "version": "0.1.0",
+  "summary": "FastMCP server providing AI agents with Ilograph diagram creation and validation capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_ilograph_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-30T06:26:52.470639",
+  "package_url": "https://pypi.org/project/iflow-mcp_ilograph-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fast-model-server",
+  "version": "1.2.3.0",
+  "summary": "python基础服务框架",
+  "author": "yes_bobo",
+  "license": "MIT",
+  "home_page": "https://codeup.aliyun.com/64650c96168f0a5963451dec/lib/fast-model-server/blob/master/README.md",
+  "download_filename": "fast_model_server-1.2.3.0.tar.gz",
+  "download_time": "2025-10-30T06:26:44.171432",
+  "package_url": "https://pypi.org/project/fast-model-server/"
+}

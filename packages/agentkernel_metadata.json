@@ -1,11 +1,11 @@
 {
   "name": "agentkernel",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Agent Kernel - Unified AI Agents Runtime",
   "author": "Yaala Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentkernel-0.2.0.tar.gz",
-  "download_time": "2025-10-24T16:20:51.576844",
+  "download_filename": "agentkernel-0.2.2.tar.gz",
+  "download_time": "2025-10-30T06:27:01.797888",
   "package_url": "https://pypi.org/project/agentkernel/"
 }

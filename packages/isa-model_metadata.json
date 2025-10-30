@@ -1,11 +1,11 @@
 {
   "name": "isa-model",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "Unified AI model serving framework with API streaming support",
   "author": "isA_Model Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "isa_model-0.5.6.tar.gz",
-  "download_time": "2025-10-29T15:23:37.516234",
+  "download_filename": "isa_model-0.5.7-py3-none-any.whl",
+  "download_time": "2025-10-30T06:26:40.045745",
   "package_url": "https://pypi.org/project/isa-model/"
 }

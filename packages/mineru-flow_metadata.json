@@ -1,0 +1,11 @@
+{
+  "name": "mineru-flow",
+  "version": "1.0.0a4",
+  "summary": "a mineru tool for enhancing your rag workflow",
+  "author": "shenguanlin",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/OpenDataLab/MineruFlow",
+  "download_filename": "mineru_flow-1.0.0a4.tar.gz",
+  "download_time": "2025-10-30T06:26:41.087303",
+  "package_url": "https://pypi.org/project/mineru-flow/"
+}
