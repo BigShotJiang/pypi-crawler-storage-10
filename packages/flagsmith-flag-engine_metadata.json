@@ -1,11 +1,11 @@
 {
   "name": "flagsmith-flag-engine",
-  "version": "10.0.0",
+  "version": "10.0.2",
   "summary": "Flag engine for the Flagsmith API.",
   "author": "Flagsmith",
   "license": "BSD3",
   "home_page": "https://github.com/Flagsmith/flagsmith-engine",
-  "download_filename": "flagsmith_flag_engine-10.0.0.tar.gz",
-  "download_time": "2025-10-24T16:47:31.814126",
+  "download_filename": "flagsmith_flag_engine-10.0.2.tar.gz",
+  "download_time": "2025-10-30T11:32:09.590420",
   "package_url": "https://pypi.org/project/flagsmith-flag-engine/"
 }

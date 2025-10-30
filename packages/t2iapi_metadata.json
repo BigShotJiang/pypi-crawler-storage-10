@@ -1,0 +1,11 @@
+{
+  "name": "t2iapi",
+  "version": "4.4.0",
+  "summary": "T2I API for device communication in test scenarios",
+  "author": "T2I Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Draegerwerk/t2iapi",
+  "download_filename": "t2iapi-4.4.0.tar.gz",
+  "download_time": "2025-10-30T11:31:50.982545",
+  "package_url": "https://pypi.org/project/t2iapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "besapi",
+  "version": "4.1.2",
+  "summary": "Library for working with the BigFix REST API",
+  "author": "Matt Hansen, James Stewart",
+  "license": "MIT",
+  "home_page": "https://github.com/jgstew/besapi",
+  "download_filename": "besapi-4.1.2.tar.gz",
+  "download_time": "2025-10-30T11:31:53.555814",
+  "package_url": "https://pypi.org/project/besapi/"
+}
