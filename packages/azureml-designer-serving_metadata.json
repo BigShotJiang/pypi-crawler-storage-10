@@ -1,0 +1,11 @@
+{
+  "name": "azureml-designer-serving",
+  "version": "0.0.18",
+  "summary": "Provide functionalities to invoke Azure Machine Learning designer built-in modules in deployment service.",
+  "author": "Microsoft Crop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azureml_designer_serving-0.0.18-py3-none-any.whl",
+  "download_time": "2025-10-30T23:17:38.219973",
+  "package_url": "https://pypi.org/project/azureml-designer-serving/"
+}

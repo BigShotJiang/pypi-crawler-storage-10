@@ -1,11 +1,11 @@
 {
   "name": "utpgetools",
-  "version": "0.1.3",
+  "version": "0.1.3.1",
   "summary": "A collection of utility tools for your UT PGE projects.",
   "author": "Brecken Runquist",
   "license": "Custom Academic Use License",
   "home_page": "https://github.com/bRunquist/utpgetools",
-  "download_filename": "utpgetools-0.1.3.tar.gz",
-  "download_time": "2025-10-30T20:21:31.375085",
+  "download_filename": "utpgetools-0.1.3.1.tar.gz",
+  "download_time": "2025-10-30T23:17:27.066966",
   "package_url": "https://pypi.org/project/utpgetools/"
 }

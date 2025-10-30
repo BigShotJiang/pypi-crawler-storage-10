@@ -1,0 +1,11 @@
+{
+  "name": "flowscript-lang",
+  "version": "0.1.2",
+  "summary": "FlowScript - The Concise Calculus Programming Language",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/qdyg-vn/FlowScript",
+  "download_filename": "flowscript_lang-0.1.2.tar.gz",
+  "download_time": "2025-10-30T23:17:22.510561",
+  "package_url": "https://pypi.org/project/flowscript-lang/"
+}

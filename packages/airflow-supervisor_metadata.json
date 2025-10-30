@@ -1,0 +1,11 @@
+{
+  "name": "airflow-supervisor",
+  "version": "1.10.2",
+  "summary": "Supervisor operators and configuration for long-running tasks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "airflow_supervisor-1.10.2.tar.gz",
+  "download_time": "2025-10-30T23:17:34.329894",
+  "package_url": "https://pypi.org/project/airflow-supervisor/"
+}

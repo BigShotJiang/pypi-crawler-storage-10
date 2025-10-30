@@ -1,0 +1,11 @@
+{
+  "name": "pybomwater",
+  "version": "0.1.4",
+  "summary": "A python tool for requesting data from BoM Sensor Observation Service (SOS2, as WaterML 2.0 format)",
+  "author": "Andrew Freebairn",
+  "license": "CSIRO Open Source Software Licence Agreement (variation of the BSD / MIT License)",
+  "home_page": null,
+  "download_filename": "pybomwater-0.1.4.tar.gz",
+  "download_time": "2025-10-30T23:17:59.842744",
+  "package_url": "https://pypi.org/project/pybomwater/"
+}

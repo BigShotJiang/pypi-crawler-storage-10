@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-display",
-  "version": "0.3.12",
+  "version": "0.4.0",
   "summary": "Adds methods to translate dragonfly objects to VisualizationSets.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-display",
-  "download_filename": "dragonfly_display-0.3.12.tar.gz",
-  "download_time": "2025-10-30T20:21:13.218301",
+  "download_filename": "dragonfly_display-0.4.0.tar.gz",
+  "download_time": "2025-10-30T23:17:43.330536",
   "package_url": "https://pypi.org/project/dragonfly-display/"
 }

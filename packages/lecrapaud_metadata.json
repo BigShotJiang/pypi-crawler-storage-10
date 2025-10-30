@@ -1,11 +1,11 @@
 {
   "name": "lecrapaud",
-  "version": "0.21.1",
+  "version": "0.21.2",
   "summary": "Framework for machine and deep learning, with regression, classification and time series analysis",
   "author": "Pierre H. Gallet",
   "license": "Apache License",
   "home_page": null,
-  "download_filename": "lecrapaud-0.21.1.tar.gz",
-  "download_time": "2025-10-30T17:52:42.697200",
+  "download_filename": "lecrapaud-0.21.2.tar.gz",
+  "download_time": "2025-10-30T23:18:00.935093",
   "package_url": "https://pypi.org/project/lecrapaud/"
 }

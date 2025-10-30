@@ -1,0 +1,11 @@
+{
+  "name": "agt-lab-server",
+  "version": "0.1.2",
+  "summary": "AGT Lab Server for Game Theory Competitions - A tournament server for game theory lab competitions",
+  "author": "AGT Server Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agt_lab_server-0.1.2.tar.gz",
+  "download_time": "2025-10-30T23:17:57.028156",
+  "package_url": "https://pypi.org/project/agt-lab-server/"
+}

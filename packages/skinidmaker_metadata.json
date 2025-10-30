@@ -1,0 +1,11 @@
+{
+  "name": "skinidmaker",
+  "version": "1.0.0",
+  "summary": "A tool to create and compile SkinID files for Cube Run: Halloween Edition.",
+  "author": "Pixelated Studios",
+  "license": null,
+  "home_page": "https://github.com/Chayce22315/SkinIDMaker",
+  "download_filename": "skinidmaker-1.0.0.tar.gz",
+  "download_time": "2025-10-30T23:17:49.130626",
+  "package_url": "https://pypi.org/project/skinidmaker/"
+}

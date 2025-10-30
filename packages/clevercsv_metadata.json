@@ -1,0 +1,11 @@
+{
+  "name": "clevercsv",
+  "version": "0.8.4",
+  "summary": "A Python package for handling messy CSV files",
+  "author": "Gertjan van den Burg",
+  "license": "MIT",
+  "home_page": "https://github.com/alan-turing-institute/CleverCSV",
+  "download_filename": "clevercsv-0.8.4.tar.gz",
+  "download_time": "2025-10-30T23:17:34.893527",
+  "package_url": "https://pypi.org/project/clevercsv/"
+}

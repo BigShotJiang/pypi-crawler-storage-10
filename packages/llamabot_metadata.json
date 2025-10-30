@@ -1,0 +1,11 @@
+{
+  "name": "llamabot",
+  "version": "0.16.2",
+  "summary": "A Pythonic interface to LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llamabot-0.16.2.tar.gz",
+  "download_time": "2025-10-30T23:18:02.725397",
+  "package_url": "https://pypi.org/project/llamabot/"
+}
