@@ -1,0 +1,11 @@
+{
+  "name": "libsh",
+  "version": "0.2.0",
+  "summary": "Scott Hyndman's reusable common package for Python projects. Provides opinionated structured logging with custom rendering (24-bit colors, relative timestamps, compact levels) and type-safe value formatting utilities (time units, ranges, pretty-printing).",
+  "author": "shyndman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libsh-0.2.0.tar.gz",
+  "download_time": "2025-10-30T22:24:30.354002",
+  "package_url": "https://pypi.org/project/libsh/"
+}

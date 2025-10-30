@@ -1,0 +1,11 @@
+{
+  "name": "termcolorxcore",
+  "version": "0.1.0",
+  "summary": "Colorful, styled terminal output with ASCII banners and emoji support",
+  "author": "Luka",
+  "license": null,
+  "home_page": "https://github.com/Luka12-dev/termcolorx",
+  "download_filename": "termcolorxcore-0.1.0.tar.gz",
+  "download_time": "2025-10-30T22:24:05.199379",
+  "package_url": "https://pypi.org/project/termcolorxcore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibe-llama-core",
+  "version": "0.2.0",
+  "summary": "vibe-llama-core is a reduced version of vibe-llama containing only the code for downloading documentation and templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_llama_core-0.2.0.tar.gz",
+  "download_time": "2025-10-30T22:24:44.583529",
+  "package_url": "https://pypi.org/project/vibe-llama-core/"
+}

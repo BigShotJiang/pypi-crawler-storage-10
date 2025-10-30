@@ -1,0 +1,11 @@
+{
+  "name": "edam-ontology",
+  "version": "1.25.3",
+  "summary": "Versioned, Python packaged EDAM ontology (http://edamontology.org/) data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edam_ontology-1.25.3.tar.gz",
+  "download_time": "2025-10-30T22:24:50.121974",
+  "package_url": "https://pypi.org/project/edam-ontology/"
+}

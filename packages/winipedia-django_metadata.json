@@ -1,11 +1,11 @@
 {
   "name": "winipedia-django",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": "A utils package for django",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "winipedia_django-0.2.14.tar.gz",
-  "download_time": "2025-10-30T04:31:19.803486",
+  "download_filename": "winipedia_django-0.2.15.tar.gz",
+  "download_time": "2025-10-30T22:24:34.081930",
   "package_url": "https://pypi.org/project/winipedia-django/"
 }

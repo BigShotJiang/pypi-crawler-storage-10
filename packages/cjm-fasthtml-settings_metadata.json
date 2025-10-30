@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-settings",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "A drop-in schema-based configuration system for FastHTML applications with automatic UI generation, sidebar navigation, and persistent storage.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-settings",
-  "download_filename": "cjm_fasthtml_settings-0.0.6.tar.gz",
-  "download_time": "2025-10-28T23:51:52.547714",
+  "download_filename": "cjm_fasthtml_settings-0.0.8.tar.gz",
+  "download_time": "2025-10-30T22:24:29.206953",
   "package_url": "https://pypi.org/project/cjm-fasthtml-settings/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vibe-llama",
+  "version": "0.5.0",
+  "summary": "vibe-llama is a set of tools that are designed to help developers build working and reliable applications with LlamaIndex, LlamaCloud Services and llama-index-workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_llama-0.5.0.tar.gz",
+  "download_time": "2025-10-30T22:24:43.324253",
+  "package_url": "https://pypi.org/project/vibe-llama/"
+}

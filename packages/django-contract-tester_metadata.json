@@ -1,0 +1,11 @@
+{
+  "name": "django-contract-tester",
+  "version": "1.7.0",
+  "summary": "Test utility for validating OpenAPI response documentation",
+  "author": "Matías Cárdenas",
+  "license": "BSD-4-Clause",
+  "home_page": "https://github.com/maticardenas/django-contract-tester",
+  "download_filename": "django_contract_tester-1.7.0.tar.gz",
+  "download_time": "2025-10-30T22:24:40.472281",
+  "package_url": "https://pypi.org/project/django-contract-tester/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aethermagic",
-  "version": "0.1.16",
+  "version": "0.1.20",
   "summary": "AetherMagic - Multi-protocol communications between microservices (MQTT, Redis, HTTP/WebSocket, ZeroMQ)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aethermagic-0.1.16.tar.gz",
-  "download_time": "2025-10-30T21:18:58.800787",
+  "download_filename": "aethermagic-0.1.20.tar.gz",
+  "download_time": "2025-10-30T22:24:15.337924",
   "package_url": "https://pypi.org/project/aethermagic/"
 }

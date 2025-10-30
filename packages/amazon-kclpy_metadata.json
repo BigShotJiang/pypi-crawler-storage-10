@@ -1,0 +1,11 @@
+{
+  "name": "amazon-kclpy",
+  "version": "3.1.3",
+  "summary": "A python interface for the Amazon Kinesis Client Library MultiLangDaemon",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/amazon-kinesis-client-python",
+  "download_filename": "amazon_kclpy-3.1.3.tar.gz",
+  "download_time": "2025-10-30T22:24:42.158956",
+  "package_url": "https://pypi.org/project/amazon-kclpy/"
+}

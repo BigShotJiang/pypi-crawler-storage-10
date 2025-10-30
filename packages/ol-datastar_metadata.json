@@ -1,11 +1,11 @@
 {
   "name": "ol-datastar",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Helpful utilities for working with Datastar projects",
   "author": "Optilogic",
   "license": "MIT",
   "home_page": "https://cosmicfrog.com",
-  "download_filename": "ol_datastar-0.0.13.tar.gz",
-  "download_time": "2025-10-29T12:39:29.814232",
+  "download_filename": "ol_datastar-0.0.14.tar.gz",
+  "download_time": "2025-10-30T22:24:46.276748",
   "package_url": "https://pypi.org/project/ol-datastar/"
 }
