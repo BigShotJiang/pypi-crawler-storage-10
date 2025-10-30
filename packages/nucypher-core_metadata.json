@@ -1,0 +1,11 @@
+{
+  "name": "nucypher-core",
+  "version": "0.15.0",
+  "summary": "Protocol structures of Nucypher network",
+  "author": "Bogdan Opanchuk",
+  "license": null,
+  "home_page": "https://github.com/nucypher/nucypher-core/tree/main/nucypher-core-python",
+  "download_filename": "nucypher_core-0.15.0.tar.gz",
+  "download_time": "2025-10-30T13:22:53.238270",
+  "package_url": "https://pypi.org/project/nucypher-core/"
+}

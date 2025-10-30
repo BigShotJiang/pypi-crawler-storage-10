@@ -1,0 +1,11 @@
+{
+  "name": "liblistenbrainz",
+  "version": "0.6.1",
+  "summary": "A simple ListenBrainz client library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "liblistenbrainz-0.6.1.tar.gz",
+  "download_time": "2025-10-30T13:22:27.199567",
+  "package_url": "https://pypi.org/project/liblistenbrainz/"
+}

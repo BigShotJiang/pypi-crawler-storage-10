@@ -1,0 +1,11 @@
+{
+  "name": "gmx-top4py",
+  "version": "0.1.1",
+  "summary": "A Python library to parse GROMACS topology files and alter associated force fields parameters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmx_top4py-0.1.1.tar.gz",
+  "download_time": "2025-10-30T13:22:40.304349",
+  "package_url": "https://pypi.org/project/gmx-top4py/"
+}

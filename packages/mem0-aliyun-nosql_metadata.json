@@ -1,0 +1,11 @@
+{
+  "name": "mem0-aliyun-nosql",
+  "version": "0.1.8",
+  "summary": "Long-term memory for AI Agents. Note, it's forked from opensource project Mem0, with our own database adaptations.",
+  "author": "lindorm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mem0_aliyun_nosql-0.1.8.tar.gz",
+  "download_time": "2025-10-30T13:22:37.114839",
+  "package_url": "https://pypi.org/project/mem0-aliyun-nosql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hvac",
+  "version": "2.4.0",
+  "summary": "HashiCorp Vault API client",
+  "author": "Ian Unruh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/hvac/hvac",
+  "download_filename": "hvac-2.4.0.tar.gz",
+  "download_time": "2025-10-30T13:22:56.387699",
+  "package_url": "https://pypi.org/project/hvac/"
+}

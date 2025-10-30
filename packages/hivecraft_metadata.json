@@ -1,0 +1,11 @@
+{
+  "name": "hivecraft",
+  "version": "1.0.7",
+  "summary": "Hivecraft is a tool to create, test and compile a folder with .alghive extension.",
+  "author": "Éric PHILIPPE",
+  "license": null,
+  "home_page": "https://github.com/Eric-Philippe/AlgoHive",
+  "download_filename": "hivecraft-1.0.7.tar.gz",
+  "download_time": "2025-10-30T13:22:30.850288",
+  "package_url": "https://pypi.org/project/hivecraft/"
+}

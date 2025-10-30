@@ -1,11 +1,11 @@
 {
   "name": "lumipy",
-  "version": "1.0.517",
+  "version": "1.0.519",
   "summary": "Python library for Luminesce",
   "author": "FINBOURNE Technology",
   "license": null,
   "home_page": null,
-  "download_filename": "lumipy-1.0.517-py3-none-any.whl",
-  "download_time": "2025-10-24T17:15:04.313628",
+  "download_filename": "lumipy-1.0.519-py3-none-any.whl",
+  "download_time": "2025-10-30T13:22:12.780095",
   "package_url": "https://pypi.org/project/lumipy/"
 }

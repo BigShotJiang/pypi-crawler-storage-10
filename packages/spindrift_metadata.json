@@ -1,0 +1,11 @@
+{
+  "name": "spindrift",
+  "version": "5.7",
+  "summary": "package python applications for AWS Lambda, AWS Elastic Beanstalk, AWS Batch (Docker)",
+  "author": "Ryan P. Kelly",
+  "license": null,
+  "home_page": "https://github.com/f0rk/spindrift",
+  "download_filename": "spindrift-5.7-py3-none-any.whl",
+  "download_time": "2025-10-30T13:22:23.522607",
+  "package_url": "https://pypi.org/project/spindrift/"
+}
