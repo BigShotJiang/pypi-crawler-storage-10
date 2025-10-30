@@ -1,0 +1,11 @@
+{
+  "name": "llmbrick",
+  "version": "0.2.10",
+  "summary": "A modular LLM application development framework",
+  "author": "LLMBrick Team",
+  "license": "MIT",
+  "home_page": "https://github.com/llmbrick/llmbrick",
+  "download_filename": "llmbrick-0.2.10.tar.gz",
+  "download_time": "2025-10-30T03:43:38.572550",
+  "package_url": "https://pypi.org/project/llmbrick/"
+}

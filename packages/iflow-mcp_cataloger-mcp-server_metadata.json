@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cataloger-mcp-server",
+  "version": "0.1.5",
+  "summary": "A Model Context Protocol (MCP) server for Library of Congress Subject Headings and Name Authorities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cataloger_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-10-30T03:43:26.043134",
+  "package_url": "https://pypi.org/project/iflow-mcp_cataloger-mcp-server/"
+}

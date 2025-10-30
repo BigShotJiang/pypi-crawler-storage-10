@@ -1,0 +1,11 @@
+{
+  "name": "hydrates",
+  "version": "0.1.0.0",
+  "summary": "A package providing functionality for the simulation of equilibrium and inhibition of clathrate hydrates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydrates-0.1.0.0.tar.gz",
+  "download_time": "2025-10-30T03:43:58.694859",
+  "package_url": "https://pypi.org/project/hydrates/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "arena-cam-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Camera Configuration GUI using Textual for ArenaSDK cameras",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arena_cam_config-0.1.1.tar.gz",
-  "download_time": "2025-10-28T22:42:18.468880",
+  "download_filename": "arena_cam_config-0.1.2.tar.gz",
+  "download_time": "2025-10-30T03:43:51.863284",
   "package_url": "https://pypi.org/project/arena-cam-config/"
 }

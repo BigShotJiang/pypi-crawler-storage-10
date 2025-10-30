@@ -1,11 +1,11 @@
 {
   "name": "toltecmk",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Build system used for the Toltec community repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toltecmk-0.5.1.tar.gz",
-  "download_time": "2025-10-30T02:57:02.032775",
+  "download_filename": "toltecmk-0.5.2.tar.gz",
+  "download_time": "2025-10-30T03:43:51.343949",
   "package_url": "https://pypi.org/project/toltecmk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "modbus4mqtt",
+  "version": "0.7.1",
+  "summary": "A YAML-defined bidirectional Modbus to MQTT interface",
+  "author": "Travis Howse",
+  "license": null,
+  "home_page": "https://github.com/tjhowse/modbus4mqtt",
+  "download_filename": "modbus4mqtt-0.7.1.tar.gz",
+  "download_time": "2025-10-30T03:43:46.656371",
+  "package_url": "https://pypi.org/project/modbus4mqtt/"
+}

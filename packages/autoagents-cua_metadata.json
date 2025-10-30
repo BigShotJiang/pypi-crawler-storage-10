@@ -1,11 +1,11 @@
 {
   "name": "autoagents-cua",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "SDK for interacting with AutoAgents.ai API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autoagents_cua-0.0.5.tar.gz",
-  "download_time": "2025-10-29T19:51:43.980099",
+  "download_filename": "autoagents_cua-0.0.6.tar.gz",
+  "download_time": "2025-10-30T03:43:27.082673",
   "package_url": "https://pypi.org/project/autoagents-cua/"
 }

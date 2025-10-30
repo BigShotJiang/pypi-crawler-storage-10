@@ -1,11 +1,11 @@
 {
   "name": "iflow-mcp_playwright-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "\\A MCP server with playwright tools\\",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iflow_mcp_playwright_server-0.1.0.tar.gz",
-  "download_time": "2025-10-29T07:43:55.451499",
+  "download_filename": "iflow_mcp_playwright_server-0.1.1.tar.gz",
+  "download_time": "2025-10-30T03:44:01.299542",
   "package_url": "https://pypi.org/project/iflow-mcp_playwright-server/"
 }
