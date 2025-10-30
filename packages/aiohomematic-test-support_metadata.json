@@ -1,11 +1,11 @@
 {
   "name": "aiohomematic-test-support",
-  "version": "2025.10.23",
+  "version": "2025.10.24",
   "summary": "Support-only package for AioHomematic (tests/dev). Not part of production builds.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiohomematic_test_support-2025.10.23.tar.gz",
-  "download_time": "2025-10-30T10:45:57.801902",
+  "download_filename": "aiohomematic_test_support-2025.10.24.tar.gz",
+  "download_time": "2025-10-30T10:55:57.434513",
   "package_url": "https://pypi.org/project/aiohomematic-test-support/"
 }

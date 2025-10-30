@@ -1,11 +1,11 @@
 {
   "name": "django-honeyguard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Reusable Django app providing multi-CMS honeypot login traps with DB logging and email alerts.",
   "author": null,
-  "license": "MIT",
+  "license": "BSD",
   "home_page": null,
-  "download_filename": "django_honeyguard-0.1.0.tar.gz",
-  "download_time": "2025-10-30T05:42:47.069890",
+  "download_filename": "django_honeyguard-0.1.1.tar.gz",
+  "download_time": "2025-10-30T10:55:51.266480",
   "package_url": "https://pypi.org/project/django-honeyguard/"
 }

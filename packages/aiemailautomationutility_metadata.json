@@ -1,11 +1,11 @@
 {
   "name": "aiemailautomationutility",
-  "version": "0.0.43",
-  "summary": "Resolved the fitz issue in windows OS.",
+  "version": "0.0.44",
+  "summary": "Unprocessed mails will remain in inbox and in unprocessed label too, while checking for new mail unprocessed label will be skipped",
   "author": "Proteus Technology PVT. LTD.",
   "license": null,
   "home_page": null,
-  "download_filename": "aiemailautomationutility-0.0.43-py3-none-any.whl",
-  "download_time": "2025-10-24T11:15:17.020979",
+  "download_filename": "aiemailautomationutility-0.0.44-py3-none-any.whl",
+  "download_time": "2025-10-30T10:56:05.170455",
   "package_url": "https://pypi.org/project/aiemailautomationutility/"
 }

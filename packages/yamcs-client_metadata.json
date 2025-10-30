@@ -1,0 +1,11 @@
+{
+  "name": "yamcs-client",
+  "version": "1.12.0",
+  "summary": "Yamcs API client library",
+  "author": "Space Applications Services",
+  "license": "LGPL",
+  "home_page": "https://github.com/yamcs/python-yamcs-client",
+  "download_filename": "yamcs_client-1.12.0.tar.gz",
+  "download_time": "2025-10-30T10:55:51.779282",
+  "package_url": "https://pypi.org/project/yamcs-client/"
+}
