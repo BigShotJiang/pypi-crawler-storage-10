@@ -1,11 +1,11 @@
 {
   "name": "akshare",
-  "version": "1.17.76",
+  "version": "1.17.79",
   "summary": "AKShare is an elegant and simple financial data interface library for Python, built for human beings!",
   "author": "AKFamily",
   "license": "MIT",
   "home_page": "https://github.com/akfamily/akshare",
-  "download_filename": "akshare-1.17.76.tar.gz",
-  "download_time": "2025-10-29T08:24:48.202083",
+  "download_filename": "akshare-1.17.79.tar.gz",
+  "download_time": "2025-10-30T09:44:15.286074",
   "package_url": "https://pypi.org/project/akshare/"
 }

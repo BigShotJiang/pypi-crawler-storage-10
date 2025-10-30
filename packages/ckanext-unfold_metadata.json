@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-unfold",
+  "version": "2.0.0",
+  "summary": "Provides previews for multiple archive formats",
+  "author": null,
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "ckanext_unfold-2.0.0.tar.gz",
+  "download_time": "2025-10-30T09:44:08.702764",
+  "package_url": "https://pypi.org/project/ckanext-unfold/"
+}

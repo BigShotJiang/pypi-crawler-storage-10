@@ -1,0 +1,11 @@
+{
+  "name": "opteryx",
+  "version": "0.25.1",
+  "summary": "Python SQL Query Engine",
+  "author": "@joocer",
+  "license": null,
+  "home_page": "https://github.com/mabel-dev/opteryx/",
+  "download_filename": "opteryx-0.25.1.tar.gz",
+  "download_time": "2025-10-30T09:44:20.843902",
+  "package_url": "https://pypi.org/project/opteryx/"
+}
