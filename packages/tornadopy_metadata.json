@@ -1,11 +1,11 @@
 {
   "name": "tornadopy",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A Python library for tornado chart generation and analysis",
   "author": "Kristian dF Kollsgård",
   "license": "MIT",
   "home_page": "https://github.com/kkollsga/tornadopy",
-  "download_filename": "tornadopy-0.1.6.tar.gz",
-  "download_time": "2025-10-30T07:51:41.755187",
+  "download_filename": "tornadopy-0.1.7.tar.gz",
+  "download_time": "2025-10-30T08:24:27.062377",
   "package_url": "https://pypi.org/project/tornadopy/"
 }

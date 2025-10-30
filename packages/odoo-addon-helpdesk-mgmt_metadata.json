@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-helpdesk-mgmt",
-  "version": "18.0.1.13.1.1",
+  "version": "18.0.1.14.0",
   "summary": "Helpdesk",
   "author": "AdaptiveCity, Tecnativa, ForgeFlow, C2i Change 2 Improve, Domatix, Factor Libre, SDi Soluciones, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/helpdesk",
-  "download_filename": "odoo_addon_helpdesk_mgmt-18.0.1.13.1.1-py3-none-any.whl",
-  "download_time": "2025-10-30T03:43:59.736379",
+  "download_filename": "odoo_addon_helpdesk_mgmt-18.0.1.14.0-py3-none-any.whl",
+  "download_time": "2025-10-30T08:24:17.086405",
   "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt/"
 }

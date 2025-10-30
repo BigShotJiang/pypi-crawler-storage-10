@@ -1,0 +1,11 @@
+{
+  "name": "mssmViz",
+  "version": "0.1.49",
+  "summary": "Plotting code to visualize models estimated with the mssm toolbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mssmviz-0.1.49.tar.gz",
+  "download_time": "2025-10-30T08:24:39.379776",
+  "package_url": "https://pypi.org/project/mssmViz/"
+}
