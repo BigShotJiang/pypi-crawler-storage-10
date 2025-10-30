@@ -1,11 +1,11 @@
 {
   "name": "greenstream-config",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "A library for reading / writing Greenstream config files",
   "author": "Greenroom Robotics",
   "license": "Copyright (C) 2023, Greenroom Robotics",
   "home_page": "https://github.com/Greenroom-Robotics/greenstream",
-  "download_filename": "greenstream_config-4.0.0.tar.gz",
-  "download_time": "2025-10-28T23:16:43.672879",
+  "download_filename": "greenstream_config-4.0.1.tar.gz",
+  "download_time": "2025-10-30T05:18:42.673405",
   "package_url": "https://pypi.org/project/greenstream-config/"
 }

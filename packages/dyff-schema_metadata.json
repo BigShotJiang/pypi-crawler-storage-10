@@ -1,11 +1,11 @@
 {
   "name": "dyff-schema",
-  "version": "0.38.2",
+  "version": "0.38.3",
   "summary": "Data models for the Dyff AI auditing platform.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dyff_schema-0.38.2.tar.gz",
-  "download_time": "2025-10-30T01:22:08.153275",
+  "download_filename": "dyff_schema-0.38.3.tar.gz",
+  "download_time": "2025-10-30T05:18:20.572747",
   "package_url": "https://pypi.org/project/dyff-schema/"
 }

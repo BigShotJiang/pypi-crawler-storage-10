@@ -1,11 +1,11 @@
 {
   "name": "pylint-docstring-checker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A Pylint plugin to check Google-style docstrings and language detection.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pylint_docstring_checker-1.0.4.tar.gz",
-  "download_time": "2025-10-30T04:47:05.038827",
+  "download_filename": "pylint_docstring_checker-1.0.5.tar.gz",
+  "download_time": "2025-10-30T05:18:43.185657",
   "package_url": "https://pypi.org/project/pylint-docstring-checker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "metorial-deepseek",
+  "version": "1.0.4",
+  "summary": "DeepSeek provider for Metorial",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metorial_deepseek-1.0.4.tar.gz",
+  "download_time": "2025-10-30T05:18:27.771900",
+  "package_url": "https://pypi.org/project/metorial-deepseek/"
+}

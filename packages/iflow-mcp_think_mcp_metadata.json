@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_think_mcp",
+  "version": "0.1.16",
+  "summary": "MCP server providing a 'think' tool for structured reasoning, inspired by Anthropic's Claude 'think' tool. Enables agentic LLMs to pause, log thoughts, and improve multi-step tool use.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_think_mcp-0.1.16.tar.gz",
+  "download_time": "2025-10-30T05:18:40.107288",
+  "package_url": "https://pypi.org/project/iflow-mcp_think_mcp/"
+}
