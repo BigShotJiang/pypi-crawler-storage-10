@@ -1,0 +1,11 @@
+{
+  "name": "google-auth-oauthlib",
+  "version": "1.2.3",
+  "summary": "Google Authentication Library",
+  "author": "Google Cloud Platform",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+  "download_filename": "google_auth_oauthlib-1.2.3.tar.gz",
+  "download_time": "2025-10-30T21:54:39.861534",
+  "package_url": "https://pypi.org/project/google-auth-oauthlib/"
+}

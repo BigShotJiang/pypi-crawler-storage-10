@@ -1,0 +1,11 @@
+{
+  "name": "ofire",
+  "version": "0.1.0",
+  "summary": "Fire safety engineering tools implemented in Rust with Python bindings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ofire-0.1.0.tar.gz",
+  "download_time": "2025-10-30T21:54:06.913454",
+  "package_url": "https://pypi.org/project/ofire/"
+}

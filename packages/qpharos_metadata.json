@@ -1,0 +1,11 @@
+{
+  "name": "qpharos",
+  "version": "1.1.0",
+  "summary": "Quantum Pharmaceutical Optimization System - 5-Layer Quantum Drug Discovery with 4 Usage Schemas",
+  "author": "Heinz Jungbluth",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/qpharos",
+  "download_filename": "qpharos-1.1.0.tar.gz",
+  "download_time": "2025-10-30T21:54:23.774349",
+  "package_url": "https://pypi.org/project/qpharos/"
+}

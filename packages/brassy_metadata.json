@@ -1,0 +1,11 @@
+{
+  "name": "brassy",
+  "version": "0.4.1.post1",
+  "summary": "Builds release notes from yaml files for sane software development",
+  "author": "Gwyn Uttmark",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brassy-0.4.1.post1.tar.gz",
+  "download_time": "2025-10-30T21:54:23.140617",
+  "package_url": "https://pypi.org/project/brassy/"
+}

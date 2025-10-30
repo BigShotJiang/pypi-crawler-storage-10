@@ -1,11 +1,11 @@
 {
   "name": "tmg-hmc",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "summary": "This package implements exact HMC sampling for truncated multivariate gaussians with quadratic constraints",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tmg_hmc-0.0.3.tar.gz",
-  "download_time": "2025-10-30T19:53:02.844203",
+  "download_filename": "tmg_hmc-0.0.7.tar.gz",
+  "download_time": "2025-10-30T21:54:10.129718",
   "package_url": "https://pypi.org/project/tmg-hmc/"
 }

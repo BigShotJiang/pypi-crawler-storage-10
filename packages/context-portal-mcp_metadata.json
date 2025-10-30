@@ -1,11 +1,11 @@
 {
   "name": "context-portal-mcp",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A Model Context Protocol (MCP) server for managing structured project context.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "context_portal_mcp-0.3.7.tar.gz",
-  "download_time": "2025-10-30T19:40:50.829949",
+  "download_filename": "context_portal_mcp-0.3.8.tar.gz",
+  "download_time": "2025-10-30T21:54:43.521087",
   "package_url": "https://pypi.org/project/context-portal-mcp/"
 }

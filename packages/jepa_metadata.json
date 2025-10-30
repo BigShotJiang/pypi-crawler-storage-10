@@ -1,0 +1,11 @@
+{
+  "name": "jepa",
+  "version": "0.1.7",
+  "summary": "Joint-Embedding Predictive Architecture for Self-Supervised Learning",
+  "author": "Dilip Venkatesh",
+  "license": "MIT",
+  "home_page": "https://github.com/dipsivenkatesh/jepa",
+  "download_filename": "jepa-0.1.7.tar.gz",
+  "download_time": "2025-10-30T21:54:25.717005",
+  "package_url": "https://pypi.org/project/jepa/"
+}

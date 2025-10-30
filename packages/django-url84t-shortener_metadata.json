@@ -1,0 +1,11 @@
+{
+  "name": "django-url84t-shortener",
+  "version": "0.2.0",
+  "summary": "A Django app to create and manage URL shortener codes",
+  "author": "N8",
+  "license": "Coffee-1.1",
+  "home_page": "https://github.com/url84t/django-url84t-shortener",
+  "download_filename": "django_url84t_shortener-0.2.0.tar.gz",
+  "download_time": "2025-10-30T21:54:36.689016",
+  "package_url": "https://pypi.org/project/django-url84t-shortener/"
+}
