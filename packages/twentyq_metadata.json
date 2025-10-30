@@ -1,0 +1,11 @@
+{
+  "name": "twentyq",
+  "version": "0.0.7",
+  "summary": "20 Questions Game using LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twentyq-0.0.7.tar.gz",
+  "download_time": "2025-10-30T07:21:55.681316",
+  "package_url": "https://pypi.org/project/twentyq/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tour-agent",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "summary": "Python uchun sayohat turlarini boshqaruvchi kutubxona",
   "author": "Asilbek Sadullayev",
   "license": null,
   "home_page": null,
-  "download_filename": "tour_agent-2.1.5.tar.gz",
-  "download_time": "2025-10-30T06:51:39.317511",
+  "download_filename": "tour_agent-2.1.6.tar.gz",
+  "download_time": "2025-10-30T07:21:56.837308",
   "package_url": "https://pypi.org/project/tour-agent/"
 }

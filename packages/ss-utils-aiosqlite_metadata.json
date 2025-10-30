@@ -1,0 +1,11 @@
+{
+  "name": "ss-utils-aiosqlite",
+  "version": "0.0.15",
+  "summary": "Utilities for aiosqlite",
+  "author": "shern",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ss_utils_aiosqlite-0.0.15.tar.gz",
+  "download_time": "2025-10-30T07:21:55.105870",
+  "package_url": "https://pypi.org/project/ss-utils-aiosqlite/"
+}

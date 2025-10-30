@@ -1,11 +1,11 @@
 {
   "name": "fastapps",
-  "version": "1.1.2",
+  "version": "1.2.1",
   "summary": "A zero-boilerplate framework for building interactive ChatGPT widgets",
   "author": "FastApps Team",
   "license": "MIT",
   "home_page": "https://github.com/DooiLabs/FastApps",
-  "download_filename": "fastapps-1.1.2.tar.gz",
-  "download_time": "2025-10-29T06:28:45.410201",
+  "download_filename": "fastapps-1.2.1.tar.gz",
+  "download_time": "2025-10-30T07:21:51.579691",
   "package_url": "https://pypi.org/project/fastapps/"
 }

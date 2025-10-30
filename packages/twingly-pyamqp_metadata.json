@@ -1,0 +1,11 @@
+{
+  "name": "twingly-pyamqp",
+  "version": "0.2.4",
+  "summary": "A Python implementation for subscribing and publishing messages via RabbitMQ.",
+  "author": "Twingly AB",
+  "license": null,
+  "home_page": null,
+  "download_filename": "twingly_pyamqp-0.2.4.tar.gz",
+  "download_time": "2025-10-30T07:21:40.994583",
+  "package_url": "https://pypi.org/project/twingly-pyamqp/"
+}

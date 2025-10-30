@@ -1,11 +1,11 @@
 {
   "name": "snorbyte",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Snorbyte TTS client with streaming and playback",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snorbyte-0.1.5.tar.gz",
-  "download_time": "2025-10-30T06:26:57.663352",
+  "download_filename": "snorbyte-0.1.7.tar.gz",
+  "download_time": "2025-10-30T07:21:29.781977",
   "package_url": "https://pypi.org/project/snorbyte/"
 }

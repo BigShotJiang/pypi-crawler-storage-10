@@ -1,0 +1,11 @@
+{
+  "name": "libpq",
+  "version": "12.20",
+  "summary": "A useful Python package",
+  "author": "Nyein Chan Aung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libpq-12.20.tar.gz",
+  "download_time": "2025-10-30T07:21:19.990423",
+  "package_url": "https://pypi.org/project/libpq/"
+}
