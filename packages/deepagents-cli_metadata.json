@@ -1,11 +1,11 @@
 {
   "name": "deepagents-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Deepagents CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepagents_cli-0.0.5.tar.gz",
-  "download_time": "2025-10-30T19:16:59.498675",
+  "download_filename": "deepagents_cli-0.0.6.tar.gz",
+  "download_time": "2025-10-30T21:18:40.886255",
   "package_url": "https://pypi.org/project/deepagents-cli/"
 }

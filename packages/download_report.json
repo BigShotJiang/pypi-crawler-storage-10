@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-10-30T20:54:08.196223",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 25.55,
+  "download_time": "2025-10-30T21:19:33.284905",
+  "total_packages_downloaded": 93,
+  "total_size_mb": 7.03,
   "packages": [
+    "seqme",
+    "deepagents-cli",
+    "magpylib-material-response",
+    "datascience",
+    "benchmark-runner",
     "harlequin",
     "acryl-datahub-cloud",
     "marcel",
@@ -90,10 +95,6 @@
     "botocore-stubs",
     "standardbots",
     "terraform-ingest",
-    "cosmos-xenna",
-    "machineconfig",
-    "data-safe-haven",
-    "schemathesis",
-    "datacmp"
+    "cosmos-xenna"
   ]
 }
