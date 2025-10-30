@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T23:18:04.366206
-- **Total Packages**: 69
-- **Total Size**: 33.75 MB
+- **Download Time**: 2025-10-30T23:32:58.728047
+- **Total Packages**: 67
+- **Total Size**: 19.89 MB
 
 ## Packages List
+- CliSelf
+- datachain
+- vellum-workflow-server
+- mayan-edms
+- acorn-py
+- photo-objects
+- cjm-fasthtml-settings
+- fast-agent-mcp
+- gdsfactory
+- mcp-proxy-adapter
+- cryptoquant
+- xglove
+- min-obproject
+- rsxml
+- aenet-gpr
+- neosigma
+- tree-sitter-fasta
+- db-robust-clust
+- airflow-laminar
+- pytask
+- uipath
+- image-to-image
+- larch
+- dkpy
+- skema-kelp
 - pycse
 - flowscript-lang
 - moose-lib
@@ -16,7 +41,6 @@
 - jupyter-ai-magic-commands
 - reasoning-from-scratch
 - utpgetools
-- cjm-fasthtml-settings
 - aristotlelib
 - pygame-popup
 - flet-charts
@@ -26,7 +50,6 @@
 - gac
 - statsig-python-core
 - algorithms-structures-education
-- min-obproject
 - airflow-supervisor
 - clevercsv
 - paid-python
@@ -34,7 +57,6 @@
 - tiledb-client
 - azureml-designer-serving
 - supervisor-pydantic
-- aenet-gpr
 - flwr-nightly
 - excel-convertor
 - codec-bridge
@@ -51,27 +73,3 @@
 - ReverseBox
 - fileformats
 - skinidmaker
-- tree-sitter-fasta
-- calcam
-- ansible-doc-template-extractor
-- cursordata-sdk
-- agentmail
-- bioscript
-- agentmake
-- ctypes-modbus
-- quaestionario
-- mcpbundles-proxy
-- static-frame
-- transportations-library
-- agt-lab-server
-- numnorm
-- massive
-- givenergy-modbus-async
-- pybomwater
-- aethermagic
-- lecrapaud
-- whisperlivekit
-- jupyterpack
-- llamabot
-- orq-ai-sdk
-- pierre-storage
