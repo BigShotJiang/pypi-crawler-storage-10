@@ -1,0 +1,11 @@
+{
+  "name": "dryad2dataverse",
+  "version": "0.7.9",
+  "summary": "Utility for copying and syncing data from a Dryad data repository to a Dataverse repository",
+  "author": "Paul Lesack",
+  "license": "MIT",
+  "home_page": "https://ubc-library-rc.github.io/dryad2dataverse",
+  "download_filename": "dryad2dataverse-0.7.9.tar.gz",
+  "download_time": "2025-10-30T20:21:22.721204",
+  "package_url": "https://pypi.org/project/dryad2dataverse/"
+}

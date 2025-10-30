@@ -1,11 +1,11 @@
 {
   "name": "ninja-kafka-sdk",
-  "version": "0.3.27",
+  "version": "0.3.29",
   "summary": "Kafka-based distributed task processing SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ninja_kafka_sdk-0.3.27.tar.gz",
-  "download_time": "2025-10-30T16:51:39.649858",
+  "download_filename": "ninja_kafka_sdk-0.3.29.tar.gz",
+  "download_time": "2025-10-30T20:21:16.573373",
   "package_url": "https://pypi.org/project/ninja-kafka-sdk/"
 }

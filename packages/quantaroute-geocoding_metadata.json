@@ -1,11 +1,11 @@
 {
   "name": "quantaroute-geocoding",
-  "version": "1.0.2",
-  "summary": "Python SDK for QuantaRoute Geocoding API with offline DigiPin processing",
+  "version": "1.0.4",
+  "summary": "Revolutionary Python SDK for QuantaRoute Geocoding API with Location Lookup and offline DigiPin processing",
   "author": "QuantaRoute",
   "license": "MIT",
   "home_page": "https://github.com/quantaroute/quantaroute-geocoding-python",
-  "download_filename": "quantaroute_geocoding-1.0.2.tar.gz",
-  "download_time": "2025-10-30T08:24:49.328020",
+  "download_filename": "quantaroute_geocoding-1.0.4.tar.gz",
+  "download_time": "2025-10-30T20:21:10.489739",
   "package_url": "https://pypi.org/project/quantaroute-geocoding/"
 }

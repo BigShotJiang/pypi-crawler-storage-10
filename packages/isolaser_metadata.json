@@ -1,0 +1,11 @@
+{
+  "name": "isolaser",
+  "version": "0.0.2",
+  "summary": "Exonic Part centered allele-specific splicing analysis",
+  "author": "Giovanni Quinones Valdez",
+  "license": null,
+  "home_page": "https://github.com/gxiaolab/isoLASER",
+  "download_filename": "isolaser-0.0.2.tar.gz",
+  "download_time": "2025-10-30T20:21:18.286359",
+  "package_url": "https://pypi.org/project/isolaser/"
+}

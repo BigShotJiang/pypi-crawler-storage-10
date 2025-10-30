@@ -1,11 +1,11 @@
 {
   "name": "ragdiff",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "Compare and evaluate RAG systems side-by-side with LLM evaluation. Use as a library or CLI tool.",
   "author": "Ansari Project",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ragdiff-2.0.0-py3-none-any.whl",
-  "download_time": "2025-10-29T19:51:59.060467",
+  "download_filename": "ragdiff-2.2.0-py3-none-any.whl",
+  "download_time": "2025-10-30T20:21:16.035565",
   "package_url": "https://pypi.org/project/ragdiff/"
 }
