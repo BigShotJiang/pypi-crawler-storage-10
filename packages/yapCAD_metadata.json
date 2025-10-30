@@ -1,0 +1,11 @@
+{
+  "name": "yapCAD",
+  "version": "0.6.0",
+  "summary": "yet another procedural CAD and computational geometry system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yapcad-0.6.0.tar.gz",
+  "download_time": "2025-10-30T19:17:15.537203",
+  "package_url": "https://pypi.org/project/yapCAD/"
+}

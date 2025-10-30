@@ -1,0 +1,11 @@
+{
+  "name": "sclogging",
+  "version": "1.0.8",
+  "summary": "A Python module (with the help of coloredlogs) to add color to logs.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/sshimek42/sclogging",
+  "download_filename": "sclogging-1.0.8.tar.gz",
+  "download_time": "2025-10-30T19:16:56.412870",
+  "package_url": "https://pypi.org/project/sclogging/"
+}

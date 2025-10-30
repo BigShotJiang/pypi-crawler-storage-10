@@ -1,11 +1,11 @@
 {
   "name": "alpha-berkeley-framework",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "An open-source, domain-agnostic, capability-based architecture for building intelligent agents",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "alpha_berkeley_framework-0.7.5.tar.gz",
-  "download_time": "2025-10-28T20:44:10.602151",
+  "download_filename": "alpha_berkeley_framework-0.7.6.tar.gz",
+  "download_time": "2025-10-30T19:17:02.117394",
   "package_url": "https://pypi.org/project/alpha-berkeley-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-whatsapp-api-wrapper",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": null,
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_whatsapp_api_wrapper-0.8.1.tar.gz",
-  "download_time": "2025-10-30T17:43:15.879849",
+  "download_filename": "django_whatsapp_api_wrapper-0.9.0.tar.gz",
+  "download_time": "2025-10-30T19:17:17.079578",
   "package_url": "https://pypi.org/project/django-whatsapp-api-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aware-test-runner",
+  "version": "0.1.0",
+  "summary": "Unified test runner for the Aware platform with OSS-ready packaging.",
+  "author": "Aware OSS Team",
+  "license": "Placeholder license for the aware-test-runner package.\n        \n        The final text will align with the top-level Aware project license before the first public release.",
+  "home_page": null,
+  "download_filename": "aware_test_runner-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-30T19:17:09.732698",
+  "package_url": "https://pypi.org/project/aware-test-runner/"
+}
