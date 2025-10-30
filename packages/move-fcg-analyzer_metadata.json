@@ -1,11 +1,11 @@
 {
   "name": "move-fcg-analyzer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Move language parser and function call graph analyzer",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "move_fcg_analyzer-1.0.4.tar.gz",
-  "download_time": "2025-10-30T06:51:38.280319",
+  "download_filename": "move_fcg_analyzer-1.0.5.tar.gz",
+  "download_time": "2025-10-30T07:51:30.118842",
   "package_url": "https://pypi.org/project/move-fcg-analyzer/"
 }

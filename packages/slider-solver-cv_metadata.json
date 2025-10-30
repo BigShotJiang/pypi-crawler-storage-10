@@ -1,11 +1,11 @@
 {
   "name": "slider-solver-cv",
-  "version": "0.1.0",
-  "summary": "一个用于识别滑块验证码位置的Python包",
+  "version": "0.1.1",
+  "summary": "识别滑块验证码缺口位置",
   "author": "Your Name",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SkyAerope/SliderSolver",
-  "download_filename": "slider_solver_cv-0.1.0.tar.gz",
-  "download_time": "2025-10-30T07:39:45.030142",
+  "download_filename": "slider_solver_cv-0.1.1.tar.gz",
+  "download_time": "2025-10-30T07:51:37.579970",
   "package_url": "https://pypi.org/project/slider-solver-cv/"
 }

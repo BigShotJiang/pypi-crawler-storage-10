@@ -1,18 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T07:40:10.421064
-- **Total Packages**: 92
-- **Total Size**: 16.81 MB
+- **Download Time**: 2025-10-30T07:52:11.919908
+- **Total Packages**: 88
+- **Total Size**: 8.11 MB
 
 ## Packages List
+- test-pypi-vmcp
+- pyxavi
+- flagdataset-eai
+- quantaroute-geocoding
+- prometheus-http-sd
+- mcp-server-aliyun-observability
+- tencent-wedata-feature-engineering-dev
+- django-bulk-drf
+- move-fcg-analyzer
+- axm-agent
+- metorial
+- metorial-core
+- miniappi
+- cmk-dev-site
+- funcguard
+- digital-life
+- tai-sql
+- investor-agent
+- rsm-ping
+- hafoo-trade-sdk-test
+- gallagher-restapi
+- gefpy
+- slider-solver-cv
+- vibesafe
+- nmaipy
+- machineconfig
+- legit-api-client
+- odoo-addon-account-banking-mandate-sale-contact
+- hydrodataset
+- tornadopy
+- sema4ai-actions
+- drills-pro-proto
 - bw-essentials-core
 - nb-cli
 - mtcli-volume
 - nmsl-dummy-package
 - someip-py
 - odoo-addon-project-stock
-- django-bulk-drf
 - datus-agent-clickzetta
 - gardener-ocm
 - gardener-oci
@@ -21,8 +52,6 @@
 - gardener-cicd-libs
 - gardener-cicd-cli
 - metorial-openai
-- metorial
-- metorial-core
 - metorial-mcp-session
 - django-bulk-hooks
 - LbAPCommon
@@ -49,7 +78,6 @@
 - conan-server
 - conan
 - jax-md
-- slider-solver-cv
 - pytest-casewise-package-install
 - proxy-relay
 - alithia
@@ -64,37 +92,5 @@
 - fc-guarder
 - fc-client
 - tga
-- gallagher-restapi
 - fc-client-docker
 - tritonparse
-- libpq
-- fc-ai-agent
-- video-format-converter-mcp
-- never-primp
-- libnvjitlink
-- chromedriver-binary
-- libnvfatbin
-- vlm-sdk
-- libnpp
-- libllvm14
-- libjpeg-turbo
-- libidn2
-- tidas-tools
-- libglib
-- digital-life
-- libgfortran5
-- libedit
-- libcusparse
-- odoo-addon-hr-holidays-leave-repeated
-- libcusolver
-- MeUtils
-- libcups
-- libclang13
-- langchain-tool-server
-- glib-tools
-- semantic-link-labs
-- cyrus-sasl
-- cuda-version
-- cuda-opencl
-- kosong
-- tf-models-nightly

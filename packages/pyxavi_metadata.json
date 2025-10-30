@@ -1,0 +1,11 @@
+{
+  "name": "pyxavi",
+  "version": "1.1.0",
+  "summary": "Set of utilities to assist on simple Python projects",
+  "author": "Xavier Arnaus",
+  "license": "GPLv3",
+  "home_page": "https://github.com/XaviArnaus/pyxavi",
+  "download_filename": "pyxavi-1.1.0.tar.gz",
+  "download_time": "2025-10-30T07:51:26.411662",
+  "package_url": "https://pypi.org/project/pyxavi/"
+}
