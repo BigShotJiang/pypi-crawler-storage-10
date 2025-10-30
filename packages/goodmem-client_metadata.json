@@ -1,0 +1,11 @@
+{
+  "name": "goodmem-client",
+  "version": "1.5.7",
+  "summary": "API for interacting with the GoodMem service, providing vector-based memory storage and retrieval with multiple embedder support.",
+  "author": "GoodMem API Support",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/PAIR-Systems-Inc/goodmem",
+  "download_filename": "goodmem_client-1.5.7.tar.gz",
+  "download_time": "2025-10-30T20:53:39.626495",
+  "package_url": "https://pypi.org/project/goodmem-client/"
+}

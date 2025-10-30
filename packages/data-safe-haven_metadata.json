@@ -1,0 +1,11 @@
+{
+  "name": "data-safe-haven",
+  "version": "5.6.0",
+  "summary": "An open-source framework for creating secure environments to analyse sensitive data.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "data_safe_haven-5.6.0.tar.gz",
+  "download_time": "2025-10-30T20:54:06.644147",
+  "package_url": "https://pypi.org/project/data-safe-haven/"
+}

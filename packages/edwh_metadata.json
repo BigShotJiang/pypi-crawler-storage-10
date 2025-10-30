@@ -1,11 +1,11 @@
 {
   "name": "edwh",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Education Warehouse maintenance tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edwh-1.4.2.tar.gz",
-  "download_time": "2025-10-28T21:58:37.151608",
+  "download_filename": "edwh-1.4.3.tar.gz",
+  "download_time": "2025-10-30T20:53:18.165263",
   "package_url": "https://pypi.org/project/edwh/"
 }

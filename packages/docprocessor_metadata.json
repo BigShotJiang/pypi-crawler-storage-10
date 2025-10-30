@@ -1,0 +1,11 @@
+{
+  "name": "docprocessor",
+  "version": "1.1.0",
+  "summary": "Intelligent document processing with OCR, chunking, and AI summarization",
+  "author": "Knowledge Innovation Centre",
+  "license": "MIT",
+  "home_page": "https://github.com/Knowledge-Innovation-Centre/doc-processor",
+  "download_filename": "docprocessor-1.1.0.tar.gz",
+  "download_time": "2025-10-30T20:53:24.191444",
+  "package_url": "https://pypi.org/project/docprocessor/"
+}

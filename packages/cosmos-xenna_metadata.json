@@ -1,0 +1,11 @@
+{
+  "name": "cosmos-xenna",
+  "version": "0.1.7",
+  "summary": "A framework for building and running distributed, AI-powered data pipelines using Ray",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosmos_xenna-0.1.7.tar.gz",
+  "download_time": "2025-10-30T20:54:05.589840",
+  "package_url": "https://pypi.org/project/cosmos-xenna/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "myfy-core",
-  "version": "0.1.0a17",
+  "version": "0.1.0a18",
   "summary": "Core kernel for myfy framework - DI container, configuration, and module system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myfy_core-0.1.0a17.tar.gz",
-  "download_time": "2025-10-29T21:52:54.956800",
+  "download_filename": "myfy_core-0.1.0a18.tar.gz",
+  "download_time": "2025-10-30T20:53:30.947718",
   "package_url": "https://pypi.org/project/myfy-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datacmp",
+  "version": "3.0.0",
+  "summary": "A powerful Python library for data cleaning and exploratory data analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datacmp-3.0.0.tar.gz",
+  "download_time": "2025-10-30T20:54:07.695351",
+  "package_url": "https://pypi.org/project/datacmp/"
+}

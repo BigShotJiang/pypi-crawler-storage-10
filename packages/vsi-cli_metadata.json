@@ -1,0 +1,11 @@
+{
+  "name": "vsi-cli",
+  "version": "1.0.4",
+  "summary": "vsi cli | aws cli wrapper",
+  "author": "ermiasgirmai",
+  "license": null,
+  "home_page": "https://gitlab.spectrumflow.net/C-Ermias.Girmai/vsi-cli",
+  "download_filename": "vsi_cli-1.0.4.tar.gz",
+  "download_time": "2025-10-30T20:53:18.701735",
+  "package_url": "https://pypi.org/project/vsi-cli/"
+}

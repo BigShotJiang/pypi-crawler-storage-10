@@ -1,11 +1,11 @@
 {
   "name": "hefesto-ai",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "AI-Powered Code Quality Guardian with Gemini integration",
   "author": "Narapa LLC",
   "license": "Dual License (MIT + Commercial)",
   "home_page": "https://github.com/artvepa80/Agents-Hefesto",
-  "download_filename": "hefesto_ai-4.0.0.tar.gz",
-  "download_time": "2025-10-29T22:18:02.766091",
+  "download_filename": "hefesto_ai-4.0.1.tar.gz",
+  "download_time": "2025-10-30T20:53:21.405161",
   "package_url": "https://pypi.org/project/hefesto-ai/"
 }
