@@ -1,11 +1,11 @@
 {
   "name": "aggregation-agent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "StepFn Aggregation Agent",
   "author": "StepFn AI",
   "license": null,
   "home_page": null,
-  "download_filename": "aggregation_agent-0.1.4.tar.gz",
-  "download_time": "2025-10-29T09:51:40.778930",
+  "download_filename": "aggregation_agent-0.1.5.tar.gz",
+  "download_time": "2025-10-30T18:52:36.083069",
   "package_url": "https://pypi.org/project/aggregation-agent/"
 }

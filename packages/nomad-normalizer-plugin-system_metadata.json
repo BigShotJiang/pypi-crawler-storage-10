@@ -1,0 +1,11 @@
+{
+  "name": "nomad-normalizer-plugin-system",
+  "version": "1.0.5",
+  "summary": "System normalizer plugin for NOMAD.",
+  "author": "The NOMAD Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nomad_normalizer_plugin_system-1.0.5-py3-none-any.whl",
+  "download_time": "2025-10-30T18:52:55.932167",
+  "package_url": "https://pypi.org/project/nomad-normalizer-plugin-system/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "viggocorev2",
+  "version": "1.0.0",
+  "summary": "Viggocore Framework",
+  "author": "Jorge Júnio da Silva",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/viggosistemas/viggocorev2-backend",
+  "download_filename": "viggocorev2-1.0.0.tar.gz",
+  "download_time": "2025-10-30T18:52:40.222841",
+  "package_url": "https://pypi.org/project/viggocorev2/"
+}

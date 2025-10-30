@@ -1,0 +1,11 @@
+{
+  "name": "parse-data-from-json",
+  "version": "0.1.1",
+  "summary": "Process JSON-like data into structured financial dicts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parse_data_from_json-0.1.1.tar.gz",
+  "download_time": "2025-10-30T18:52:39.705265",
+  "package_url": "https://pypi.org/project/parse-data-from-json/"
+}

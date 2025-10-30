@@ -1,0 +1,11 @@
+{
+  "name": "acceptable",
+  "version": "0.42",
+  "summary": "API metadata and schema tool for generating tests and documentation",
+  "author": "Canonical Online Services",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/canonical/acceptable",
+  "download_filename": "acceptable-0.42.tar.gz",
+  "download_time": "2025-10-30T18:52:36.602973",
+  "package_url": "https://pypi.org/project/acceptable/"
+}

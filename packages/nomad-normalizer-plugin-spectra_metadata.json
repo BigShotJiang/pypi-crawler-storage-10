@@ -1,0 +1,11 @@
+{
+  "name": "nomad-normalizer-plugin-spectra",
+  "version": "1.0.4",
+  "summary": "Spectra normalizer plugin for NOMAD.",
+  "author": "The NOMAD Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nomad_normalizer_plugin_spectra-1.0.4.tar.gz",
+  "download_time": "2025-10-30T18:52:22.426340",
+  "package_url": "https://pypi.org/project/nomad-normalizer-plugin-spectra/"
+}

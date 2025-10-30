@@ -1,0 +1,11 @@
+{
+  "name": "mosayic",
+  "version": "0.0.1",
+  "summary": "The companion python library to Mosayic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mosayic-0.0.1.tar.gz",
+  "download_time": "2025-10-30T18:52:52.817112",
+  "package_url": "https://pypi.org/project/mosayic/"
+}

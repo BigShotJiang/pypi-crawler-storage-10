@@ -1,0 +1,11 @@
+{
+  "name": "aind-registration-utils",
+  "version": "0.4.2",
+  "summary": "Tools for registration of individual brains to a template brain",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_registration_utils-0.4.2.tar.gz",
+  "download_time": "2025-10-30T18:52:46.538450",
+  "package_url": "https://pypi.org/project/aind-registration-utils/"
+}

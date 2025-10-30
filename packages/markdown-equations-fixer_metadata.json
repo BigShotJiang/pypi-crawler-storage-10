@@ -1,0 +1,11 @@
+{
+  "name": "markdown-equations-fixer",
+  "version": "1.1.6",
+  "summary": "A CLI tool to fix mathematical equations in markdown files and convert between formats",
+  "author": "Vivek Singh",
+  "license": null,
+  "home_page": "https://github.com/dynstat/markdown-equations-fixer",
+  "download_filename": "markdown_equations_fixer-1.1.6.tar.gz",
+  "download_time": "2025-10-30T18:52:30.298780",
+  "package_url": "https://pypi.org/project/markdown-equations-fixer/"
+}
