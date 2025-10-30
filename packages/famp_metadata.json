@@ -1,11 +1,11 @@
 {
   "name": "famp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "FAMP - FRET assisted modeling Pipeline for RNA structures",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "famp-0.0.4.tar.gz",
-  "download_time": "2025-10-30T17:43:19.575637",
+  "download_filename": "famp-0.0.5.tar.gz",
+  "download_time": "2025-10-30T17:52:35.760990",
   "package_url": "https://pypi.org/project/famp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "abba-python",
+  "version": "0.10.7",
+  "summary": "Aligning Big Brains and Atlases (ABBA), controlled from python.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "abba_python-0.10.7.tar.gz",
+  "download_time": "2025-10-30T17:52:33.497680",
+  "package_url": "https://pypi.org/project/abba-python/"
+}

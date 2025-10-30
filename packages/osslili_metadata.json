@@ -1,11 +1,11 @@
 {
   "name": "osslili",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "summary": "Open Source License Identification Library",
   "author": "Oscar Valenzuela B.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SemClone/osslili",
-  "download_filename": "osslili-1.5.6.tar.gz",
-  "download_time": "2025-10-28T02:46:56.942223",
+  "download_filename": "osslili-1.5.7.tar.gz",
+  "download_time": "2025-10-30T17:52:45.929752",
   "package_url": "https://pypi.org/project/osslili/"
 }

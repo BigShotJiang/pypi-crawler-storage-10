@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T17:43:55.107214
-- **Total Packages**: 91
-- **Total Size**: 23.06 MB
+- **Download Time**: 2025-10-30T17:53:19.323049
+- **Total Packages**: 88
+- **Total Size**: 20.88 MB
 
 ## Packages List
+- xclim
+- llmcc
+- abba-python
+- lbt-dragonfly
+- scholar-flux
+- kailash
+- famp
+- lbt-honeybee
+- otterapi
+- sillylang
+- utpgetools
+- pypomes-iam
+- taskfile-help
+- smartvideo
+- webbed-duck
+- ctypes-mosquitto
+- dragonfly-energy
+- dash-material-components
+- lecrapaud
+- dragonfly-radiance
+- p-template-generator
+- shopline-sdk-python
+- unique-dict
+- ethyca-fides
+- osslili
+- tensorwatchext
+- bwamem
+- qblox-scheduler
+- langgraph-api
+- endoreg-db
+- versalaw
+- aa-standingssync-zoo
+- rwslib
 - ratio1
 - honeybee-radiance-postprocess
 - colibricf
@@ -19,8 +52,6 @@
 - gravixlayer
 - nomad-parser-plugins-electronic
 - crazycontext
-- qblox-scheduler
-- otterapi
 - apache-airflow-providers-informatica
 - django-whatsapp-api-wrapper
 - universalpython
@@ -29,7 +60,6 @@
 - benchmark-runner
 - kuzu-memory
 - guppylang
-- famp
 - magic-wormhole
 - gamme
 - atmlab
@@ -42,7 +72,6 @@
 - honeybee-energy
 - honeybee-radiance
 - medsenger-api
-- tensorwatchext
 - py-browser-automation
 - nextline-test-utils
 - mxproc
@@ -65,35 +94,3 @@
 - pactus-grpc
 - EEmiLib
 - bizydraft
-- allytools
-- nextcode-cli
-- pypomes-iam
-- jetflow
-- honeybee-core
-- gdsfactory
-- rhizonet
-- gam7
-- cookit
-- erdo
-- onecache
-- opendental-sdk
-- FlexiLogger
-- qio
-- longship
-- biblealignlib
-- dagster-mssql-bcp
-- unionsdata
-- pandashifu
-- pytket-qiskit
-- saraivaPessoaLib
-- pharmacon
-- jupyter-ai-chat-commands
-- pybticino
-- gr4vy
-- pyrefly
-- pulumi-aws
-- dbt-autofix
-- cheesegrader
-- BoumWave
-- cogflow
-- grimoire-elk

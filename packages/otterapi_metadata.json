@@ -1,11 +1,11 @@
 {
   "name": "otterapi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": "A cute little companion that generates type-safe clients from OpenAPI documents.",
   "author": "Dan Plischke",
   "license": null,
   "home_page": null,
-  "download_filename": "otterapi-0.0.0.tar.gz",
-  "download_time": "2025-10-30T17:43:14.837441",
+  "download_filename": "otterapi-0.0.1.tar.gz",
+  "download_time": "2025-10-30T17:52:36.857246",
   "package_url": "https://pypi.org/project/otterapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "unique-dict",
+  "version": "0.1.0",
+  "summary": "A lightweight utility to get unique dict entries by matching keys",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unique_dict-0.1.0.tar.gz",
+  "download_time": "2025-10-30T17:52:44.882733",
+  "package_url": "https://pypi.org/project/unique-dict/"
+}
