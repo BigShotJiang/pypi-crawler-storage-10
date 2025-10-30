@@ -1,0 +1,11 @@
+{
+  "name": "saraivaPessoaLib",
+  "version": "0.1.0",
+  "summary": "Biblioteca para gerenciamento de pessoas e endereços usando FastAPI e SQLModel",
+  "author": "Gustavo Saraiva Mariano",
+  "license": "MIT",
+  "home_page": "https://github.com/saraivagustavo/PersonAdressLib",
+  "download_filename": "saraivapessoalib-0.1.0.tar.gz",
+  "download_time": "2025-10-30T14:57:04.551254",
+  "package_url": "https://pypi.org/project/saraivaPessoaLib/"
+}

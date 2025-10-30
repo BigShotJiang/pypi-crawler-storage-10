@@ -1,0 +1,11 @@
+{
+  "name": "python-office",
+  "version": "1.0.6",
+  "summary": "www.python-office.com",
+  "author": "CoderWanFeng",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/CoderWanFeng/python-office",
+  "download_filename": "python_office-1.0.6-py3-none-any.whl",
+  "download_time": "2025-10-30T14:57:02.913500",
+  "package_url": "https://pypi.org/project/python-office/"
+}

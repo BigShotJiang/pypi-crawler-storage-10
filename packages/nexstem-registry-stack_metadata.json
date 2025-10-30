@@ -1,0 +1,11 @@
+{
+  "name": "nexstem-registry-stack",
+  "version": "1.0.3",
+  "summary": "Python SDK for SW Registry Stack - Operator Registry, Pipeline Registry, Executor, and Recorder",
+  "author": "Vignesh Sambari",
+  "license": "MIT",
+  "home_page": "https://github.com/sw-registry-stack/sdk",
+  "download_filename": "nexstem_registry_stack-1.0.3.tar.gz",
+  "download_time": "2025-10-30T14:57:12.012353",
+  "package_url": "https://pypi.org/project/nexstem-registry-stack/"
+}

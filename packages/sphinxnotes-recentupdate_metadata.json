@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-recentupdate",
+  "version": "1.1",
+  "summary": "Get the document update information from git and display it in Sphinx documentation",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_recentupdate-1.1.tar.gz",
+  "download_time": "2025-10-30T14:57:22.024355",
+  "package_url": "https://pypi.org/project/sphinxnotes-recentupdate/"
+}
