@@ -1,0 +1,11 @@
+{
+  "name": "QUBIT-Driver",
+  "version": "1.1.1",
+  "summary": "Drive adapted for the quantum control system of the Beijing Quantum Institute",
+  "author": "He Guo Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qubit_driver-1.1.1.tar.gz",
+  "download_time": "2025-10-30T04:01:19.432581",
+  "package_url": "https://pypi.org/project/QUBIT-Driver/"
+}

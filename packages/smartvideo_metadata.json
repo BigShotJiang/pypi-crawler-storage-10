@@ -1,11 +1,11 @@
 {
   "name": "smartvideo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "🎬 Smart Video Player — FastAPI backend + Streamlit UI + HTML5 player",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartvideo-0.1.0.tar.gz",
-  "download_time": "2025-10-30T02:57:15.730697",
+  "download_filename": "smartvideo-0.1.1.tar.gz",
+  "download_time": "2025-10-30T04:01:15.201380",
   "package_url": "https://pypi.org/project/smartvideo/"
 }

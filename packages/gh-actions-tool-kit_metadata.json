@@ -1,11 +1,11 @@
 {
   "name": "gh-actions-tool-kit",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Tiny actions/core-style helpers for Python GitHub Actions",
   "author": "Akash B",
   "license": null,
   "home_page": null,
-  "download_filename": "gh_actions_tool_kit-0.2.1.tar.gz",
-  "download_time": "2025-10-27T05:43:40.226760",
+  "download_filename": "gh_actions_tool_kit-0.2.2.tar.gz",
+  "download_time": "2025-10-30T04:01:15.724682",
   "package_url": "https://pypi.org/project/gh-actions-tool-kit/"
 }
