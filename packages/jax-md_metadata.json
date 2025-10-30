@@ -1,0 +1,11 @@
+{
+  "name": "jax-md",
+  "version": "0.2.26",
+  "summary": "Differentiable, Hardware Accelerated, Molecular Dynamics",
+  "author": "Google",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/jax-md",
+  "download_filename": "jax_md-0.2.26.tar.gz",
+  "download_time": "2025-10-30T07:39:44.497827",
+  "package_url": "https://pypi.org/project/jax-md/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "insarlite",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A comprehensive GUI application for GMTSAR-based InSAR processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insarlite-1.2.0.tar.gz",
-  "download_time": "2025-10-30T04:47:10.519908",
+  "download_filename": "insarlite-1.2.1.tar.gz",
+  "download_time": "2025-10-30T07:39:33.766053",
   "package_url": "https://pypi.org/project/insarlite/"
 }

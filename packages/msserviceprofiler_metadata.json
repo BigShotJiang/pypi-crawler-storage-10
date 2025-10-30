@@ -1,11 +1,11 @@
 {
   "name": "msserviceprofiler",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msserviceprofiler-1.1.7.tar.gz",
-  "download_time": "2025-10-25T06:54:51.672803",
+  "download_filename": "msserviceprofiler-1.1.8.tar.gz",
+  "download_time": "2025-10-30T07:39:49.265219",
   "package_url": "https://pypi.org/project/msserviceprofiler/"
 }

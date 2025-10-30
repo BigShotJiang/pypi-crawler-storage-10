@@ -1,11 +1,11 @@
 {
   "name": "datus-agent-clickzetta",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Dashscope-powered Datus agent with Clickzetta integrations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datus_agent_clickzetta-0.2.1.tar.gz",
-  "download_time": "2025-10-29T10:20:42.852344",
+  "download_filename": "datus_agent_clickzetta-0.2.2.tar.gz",
+  "download_time": "2025-10-30T07:39:25.735118",
   "package_url": "https://pypi.org/project/datus-agent-clickzetta/"
 }
