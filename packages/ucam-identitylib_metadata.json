@@ -1,0 +1,11 @@
+{
+  "name": "ucam-identitylib",
+  "version": "3.4.1",
+  "summary": "A module containing helpers and shared code related to identity systems within UIS, University of Cambridge.",
+  "author": "University of Cambridge Information Services",
+  "license": "MIT",
+  "home_page": "https://gitlab.developers.cam.ac.uk/uis/devops/iam/identity-lib",
+  "download_filename": "ucam_identitylib-3.4.1.tar.gz",
+  "download_time": "2025-10-30T11:52:47.335952",
+  "package_url": "https://pypi.org/project/ucam-identitylib/"
+}

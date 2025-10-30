@@ -1,11 +1,11 @@
 {
   "name": "ul-api-utils",
-  "version": "9.2.6",
+  "version": "9.2.7",
   "summary": "Python api utils",
   "author": "Unic-lab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ul_api_utils-9.2.6.tar.gz",
-  "download_time": "2025-10-30T10:55:50.225259",
+  "download_filename": "ul_api_utils-9.2.7.tar.gz",
+  "download_time": "2025-10-30T11:52:56.685898",
   "package_url": "https://pypi.org/project/ul-api-utils/"
 }

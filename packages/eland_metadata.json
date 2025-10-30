@@ -1,0 +1,11 @@
+{
+  "name": "eland",
+  "version": "9.2.0",
+  "summary": "Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch",
+  "author": "Steve Dodson",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/elastic/eland",
+  "download_filename": "eland-9.2.0.tar.gz",
+  "download_time": "2025-10-30T11:52:52.574747",
+  "package_url": "https://pypi.org/project/eland/"
+}

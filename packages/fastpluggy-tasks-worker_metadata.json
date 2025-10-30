@@ -1,11 +1,11 @@
 {
   "name": "fastpluggy-tasks-worker",
-  "version": "0.3.166",
+  "version": "0.3.167",
   "summary": "Task Runner plugin for Fastpluggy",
   "author": "FastPluggy Team",
   "license": null,
   "home_page": null,
-  "download_filename": "fastpluggy_tasks_worker-0.3.166.tar.gz",
-  "download_time": "2025-10-28T16:23:56.577435",
+  "download_filename": "fastpluggy_tasks_worker-0.3.167.tar.gz",
+  "download_time": "2025-10-30T11:52:53.087134",
   "package_url": "https://pypi.org/project/fastpluggy-tasks-worker/"
 }

@@ -1,13 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T11:43:53.799066
-- **Total Packages**: 84
-- **Total Size**: 20.69 MB
+- **Download Time**: 2025-10-30T11:53:27.841615
+- **Total Packages**: 81
+- **Total Size**: 16.32 MB
 
 ## Packages List
+- AI-WQ-package
+- triton-runner
+- gllm-inference-binary
+- ucam-identitylib
 - pro-craft
+- coralsnake
+- akshare
+- rasa-pro
+- code-fixer
+- netboxlabs-diode-netbox-plugin
+- motleycrew
+- koava
+- pyEPR-ESR
+- eland
+- fastpluggy-tasks-worker
+- rose-pine-jupyterlab
+- philosopher-chat
+- onpanda
+- asynkit
+- StreamDataPanel
+- lowmind
+- ul-api-utils
+- clustertk
+- chatnoir-api
 - webbed-duck
+- valohai-yaml
 - timeback
 - imandra
 - diarama-api
@@ -19,7 +43,6 @@
 - actron-neo-api
 - bailo
 - module-qc-tools
-- clustertk
 - api-foundry-query-engine
 - llmcc
 - odoo-addon-odoo-coopcycle-connector
@@ -43,10 +66,8 @@
 - nidx-protos
 - krrood
 - neo4j-viz
-- gllm-inference-binary
 - localstack-ext
 - localstack
-- coralsnake
 - grasp_agents
 - signxai2
 - principled
@@ -66,27 +87,3 @@
 - z4d-certified-devices
 - alens-importers
 - torchft-nightly
-- besapi
-- liuteacher
-- cyberwave
-- pure-ab-3d-mot
-- flixopt
-- localstack-core
-- lumix-opt
-- gbp-ps
-- xautomata-hive
-- lecrapaud
-- otree
-- benchmark-runner
-- yamcs-cli
-- digital-life
-- kathara-lab-checker
-- IRescue
-- gxl-ai-utils
-- compas-eve
-- parsehub
-- odoo-addon-l10n-es-aeat-sii-invoice-summary
-- transport-frames-legacy
-- shrs
-- taxion-connector
-- scc-firewall-manager-sdk

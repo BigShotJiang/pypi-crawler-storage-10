@@ -1,0 +1,11 @@
+{
+  "name": "chatnoir-api",
+  "version": "3.3.0",
+  "summary": "Simple, type-safe access to the ChatNoir search API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatnoir_api-3.3.0.tar.gz",
+  "download_time": "2025-10-30T11:52:57.708941",
+  "package_url": "https://pypi.org/project/chatnoir-api/"
+}
