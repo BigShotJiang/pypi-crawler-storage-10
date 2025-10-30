@@ -1,11 +1,11 @@
 {
   "name": "piper-sdk",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A sdk to control Agilex piper arm",
   "author": "Agilex Robotice Co., Ltd.",
   "license": "MIT License",
   "home_page": "https://github.com/agilexrobotics/piper_sdk",
-  "download_filename": "piper_sdk-0.6.0.tar.gz",
-  "download_time": "2025-10-30T02:57:13.645832",
+  "download_filename": "piper_sdk-0.6.1.tar.gz",
+  "download_time": "2025-10-30T06:51:52.930379",
   "package_url": "https://pypi.org/project/piper-sdk/"
 }

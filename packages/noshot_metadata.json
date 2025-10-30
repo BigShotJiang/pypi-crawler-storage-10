@@ -1,11 +1,11 @@
 {
   "name": "noshot",
-  "version": "19.0.0",
+  "version": "20.0.0",
   "summary": "Support library for Artificial Intelligence, Machine Learning and Data Science tools",
   "author": "Tim Stan S",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noshot-19.0.0.tar.gz",
-  "download_time": "2025-10-29T03:04:24.008596",
+  "download_filename": "noshot-20.0.0-py3-none-any.whl",
+  "download_time": "2025-10-30T06:51:36.717304",
   "package_url": "https://pypi.org/project/noshot/"
 }

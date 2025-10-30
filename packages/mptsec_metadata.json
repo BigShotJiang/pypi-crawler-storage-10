@@ -1,0 +1,11 @@
+{
+  "name": "mptsec",
+  "version": "0.7.62",
+  "summary": "Mobile Pentest Toolkit (MPT)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mptsec-0.7.62-py3-none-any.whl",
+  "download_time": "2025-10-30T06:51:40.909507",
+  "package_url": "https://pypi.org/project/mptsec/"
+}
