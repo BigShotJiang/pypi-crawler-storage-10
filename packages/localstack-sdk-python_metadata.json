@@ -1,0 +1,11 @@
+{
+  "name": "localstack-sdk-python",
+  "version": "4.10.0",
+  "summary": "Python SDK for LocalStack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localstack_sdk_python-4.10.0.tar.gz",
+  "download_time": "2025-10-30T12:37:25.014756",
+  "package_url": "https://pypi.org/project/localstack-sdk-python/"
+}

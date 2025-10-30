@@ -1,11 +1,11 @@
 {
   "name": "atlaslib-ecmwf",
-  "version": "0.43.1",
+  "version": "0.44.0.5",
   "summary": "\"atlaslib-ecmwf\"",
   "author": "file: AUTHORS",
   "license": null,
   "home_page": null,
-  "download_filename": "atlaslib_ecmwf-0.43.1-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-10-29T08:25:25.388833",
+  "download_filename": "atlaslib_ecmwf-0.44.0.5-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-30T12:37:01.395258",
   "package_url": "https://pypi.org/project/atlaslib-ecmwf/"
 }

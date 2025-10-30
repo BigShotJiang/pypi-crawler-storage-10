@@ -1,11 +1,11 @@
 {
   "name": "prism-models",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prism_models-0.1.4.tar.gz",
-  "download_time": "2025-10-28T08:57:44.592495",
+  "download_filename": "prism_models-0.1.5.tar.gz",
+  "download_time": "2025-10-30T12:37:15.581496",
   "package_url": "https://pypi.org/project/prism-models/"
 }

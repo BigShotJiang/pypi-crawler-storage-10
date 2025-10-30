@@ -1,11 +1,11 @@
 {
   "name": "ProPyCore",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "summary": "Interact with Procore through Python for data connection applications",
   "author": "Hagen E. Fritz",
   "license": null,
   "home_page": "https://github.com/rogers-obrien-rad/ProPyCore",
-  "download_filename": "propycore-0.7.2.tar.gz",
-  "download_time": "2025-10-29T20:44:43.162704",
+  "download_filename": "propycore-0.8.0.tar.gz",
+  "download_time": "2025-10-30T12:36:52.753032",
   "package_url": "https://pypi.org/project/ProPyCore/"
 }

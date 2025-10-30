@@ -1,0 +1,11 @@
+{
+  "name": "py-builder-relayer-client",
+  "version": "0.0.1",
+  "summary": "Python builder signing sdk",
+  "author": "Polymarket Engineering",
+  "license": null,
+  "home_page": "https://github.com/Polymarket/py-builder-relayer-client",
+  "download_filename": "py_builder_relayer_client-0.0.1.tar.gz",
+  "download_time": "2025-10-30T12:36:50.126886",
+  "package_url": "https://pypi.org/project/py-builder-relayer-client/"
+}

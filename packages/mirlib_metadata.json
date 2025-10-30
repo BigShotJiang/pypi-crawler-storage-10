@@ -1,11 +1,11 @@
 {
   "name": "mirlib",
-  "version": "1.27.5",
+  "version": "1.27.10.5",
   "summary": "\"mirlib\"",
   "author": "file: AUTHORS",
   "license": null,
   "home_page": null,
-  "download_filename": "mirlib-1.27.5-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-10-29T08:25:22.083362",
+  "download_filename": "mirlib-1.27.10.5-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-30T12:36:56.469475",
   "package_url": "https://pypi.org/project/mirlib/"
 }

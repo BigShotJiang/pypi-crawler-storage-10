@@ -1,0 +1,11 @@
+{
+  "name": "bournemouth-forced-aligner",
+  "version": "0.1.7",
+  "summary": "Bournemouth Forced Aligner - Phoneme-level timestamp extraction",
+  "author": "Tabahi",
+  "license": "gplv3",
+  "home_page": "https://github.com/tabahi/bournemouth-forced-aligner",
+  "download_filename": "bournemouth_forced_aligner-0.1.7.tar.gz",
+  "download_time": "2025-10-30T12:37:12.457175",
+  "package_url": "https://pypi.org/project/bournemouth-forced-aligner/"
+}
