@@ -1,11 +1,11 @@
 {
   "name": "venvcleaner",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A GUI tool for cleaning up Python virtual environments (venv directories).",
   "author": "yamakox",
   "license": null,
   "home_page": null,
-  "download_filename": "venvcleaner-0.1.1.tar.gz",
-  "download_time": "2025-10-30T06:52:01.816218",
+  "download_filename": "venvcleaner-0.1.3.tar.gz",
+  "download_time": "2025-10-30T14:47:43.682010",
   "package_url": "https://pypi.org/project/venvcleaner/"
 }
