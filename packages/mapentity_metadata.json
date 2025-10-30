@@ -1,0 +1,11 @@
+{
+  "name": "mapentity",
+  "version": "8.14.5",
+  "summary": "Generic CRUD with maps for django",
+  "author": "Makina Corpus",
+  "license": "BSD, see LICENSE file.",
+  "home_page": "https://github.com/makinacorpus/django-mapentity",
+  "download_filename": "mapentity-8.14.5.tar.gz",
+  "download_time": "2025-10-30T11:16:49.553885",
+  "package_url": "https://pypi.org/project/mapentity/"
+}

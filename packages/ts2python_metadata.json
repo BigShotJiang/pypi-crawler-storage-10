@@ -1,0 +1,11 @@
+{
+  "name": "ts2python",
+  "version": "0.8.2",
+  "summary": "Python-Interoperability for Typescript-Interfaces",
+  "author": "Eckhart Arnold",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jecki/ts2python",
+  "download_filename": "ts2python-0.8.2.tar.gz",
+  "download_time": "2025-10-30T11:16:58.959272",
+  "package_url": "https://pypi.org/project/ts2python/"
+}

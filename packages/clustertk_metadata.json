@@ -1,11 +1,11 @@
 {
   "name": "clustertk",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "A comprehensive toolkit for cluster analysis with full pipeline support",
   "author": "Aleksey Veselov",
   "license": "MIT",
   "home_page": "https://github.com/alexeiveselov92/clustertk",
-  "download_filename": "clustertk-0.9.0.tar.gz",
-  "download_time": "2025-10-29T16:24:38.473760",
+  "download_filename": "clustertk-0.10.0.tar.gz",
+  "download_time": "2025-10-30T11:16:42.642834",
   "package_url": "https://pypi.org/project/clustertk/"
 }

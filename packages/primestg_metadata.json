@@ -1,0 +1,11 @@
+{
+  "name": "primestg",
+  "version": "1.58.1",
+  "summary": "Prime STG-DC Interface Specification",
+  "author": "GISCE-TI, S.L.",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/gisce/primestg",
+  "download_filename": "primestg-1.58.1.tar.gz",
+  "download_time": "2025-10-30T11:16:35.770508",
+  "package_url": "https://pypi.org/project/primestg/"
+}

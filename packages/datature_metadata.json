@@ -1,0 +1,11 @@
+{
+  "name": "datature",
+  "version": "1.11.6",
+  "summary": "Python bindings for the Datature API",
+  "author": "Datature",
+  "license": "Apache License 2.0",
+  "home_page": "https://datature.io/",
+  "download_filename": "datature-1.11.6.tar.gz",
+  "download_time": "2025-10-30T11:16:54.267008",
+  "package_url": "https://pypi.org/project/datature/"
+}

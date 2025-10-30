@@ -1,0 +1,11 @@
+{
+  "name": "mozjpeg-lossless-optimization",
+  "version": "1.3.2",
+  "summary": "Optimize JPEGs losslessly using MozJPEG",
+  "author": "Wanadev",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/wanadev/mozjpeg-lossless-optimization",
+  "download_filename": "mozjpeg_lossless_optimization-1.3.2.tar.gz",
+  "download_time": "2025-10-30T11:17:05.877857",
+  "package_url": "https://pypi.org/project/mozjpeg-lossless-optimization/"
+}

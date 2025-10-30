@@ -1,0 +1,11 @@
+{
+  "name": "django-channels-graphql-ws-next",
+  "version": "1.0.1",
+  "summary": "Django Channels based WebSocket GraphQL server with Graphene-like subscriptions",
+  "author": "Mohammad Hasan Mohammad Khani",
+  "license": "MIT",
+  "home_page": "https://github.com/MHMK2002/DjangoChannelsGraphqlWs",
+  "download_filename": "django_channels_graphql_ws_next-1.0.1.tar.gz",
+  "download_time": "2025-10-30T11:17:04.825994",
+  "package_url": "https://pypi.org/project/django-channels-graphql-ws-next/"
+}
