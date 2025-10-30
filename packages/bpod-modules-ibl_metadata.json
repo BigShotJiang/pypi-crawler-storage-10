@@ -1,0 +1,11 @@
+{
+  "name": "bpod-modules-ibl",
+  "version": "0.1.0",
+  "summary": "A Python library for accessing Bpod modules used at IBL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpod_modules_ibl-0.1.0.tar.gz",
+  "download_time": "2025-10-30T14:31:49.907181",
+  "package_url": "https://pypi.org/project/bpod-modules-ibl/"
+}

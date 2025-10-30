@@ -1,11 +1,11 @@
 {
   "name": "stix-shifter-modules-security-advisor",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "summary": "Tools and interface to translate STIX formatted results and queries to different data source formats and to set up appropriate connection strings for invoking and triggering actions in openwhisk",
   "author": "ibm",
   "license": null,
   "home_page": "https://github.com/opencybersecurityalliance/stix-shifter",
-  "download_filename": "stix_shifter_modules_security_advisor-8.0.0-py2.py3-none-any.whl",
-  "download_time": "2025-10-30T06:27:11.010773",
+  "download_filename": "stix_shifter_modules_security_advisor-8.0.1-py2.py3-none-any.whl",
+  "download_time": "2025-10-30T14:32:01.038292",
   "package_url": "https://pypi.org/project/stix-shifter-modules-security-advisor/"
 }

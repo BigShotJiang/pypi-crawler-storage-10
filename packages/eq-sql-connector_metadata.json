@@ -1,0 +1,11 @@
+{
+  "name": "eq-sql-connector",
+  "version": "0.1.1",
+  "summary": "SQL Database connector to connect to public client app registrations using delegated permissions (MSAL).",
+  "author": "Åsmund Våge Fannemel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eq_sql_connector-0.1.1.tar.gz",
+  "download_time": "2025-10-30T14:32:39.694879",
+  "package_url": "https://pypi.org/project/eq-sql-connector/"
+}

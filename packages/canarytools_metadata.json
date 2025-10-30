@@ -1,0 +1,11 @@
+{
+  "name": "canarytools",
+  "version": "1.2.0",
+  "summary": "An API for the Thinkst Canary Console",
+  "author": "Thinkst Applied Research",
+  "license": "Revised BSD License",
+  "home_page": "https://canary.tools/",
+  "download_filename": "canarytools-1.2.0.tar.gz",
+  "download_time": "2025-10-30T14:32:28.004462",
+  "package_url": "https://pypi.org/project/canarytools/"
+}

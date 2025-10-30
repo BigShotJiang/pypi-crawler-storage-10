@@ -1,0 +1,11 @@
+{
+  "name": "nomad-schema-plugin-simulation-workflow",
+  "version": "1.0.11",
+  "summary": "Simulation workflow schema plugin for NOMAD.",
+  "author": "The NOMAD Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nomad_schema_plugin_simulation_workflow-1.0.11.tar.gz",
+  "download_time": "2025-10-30T14:32:32.582438",
+  "package_url": "https://pypi.org/project/nomad-schema-plugin-simulation-workflow/"
+}

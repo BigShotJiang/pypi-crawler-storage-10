@@ -1,0 +1,11 @@
+{
+  "name": "ls-mcmc",
+  "version": "0.0.1",
+  "summary": "A light-weight library for large-scale Markov Chain Monte Carlo sampling",
+  "author": "Maximilian Kruse, Felix Racz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ls_mcmc-0.0.1.tar.gz",
+  "download_time": "2025-10-30T14:32:29.933726",
+  "package_url": "https://pypi.org/project/ls-mcmc/"
+}
