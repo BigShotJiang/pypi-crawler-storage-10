@@ -1,11 +1,8 @@
 {
-  "download_time": "2025-10-30T22:24:54.255031",
+  "download_time": "2025-10-30T22:41:55.760787",
   "total_packages_downloaded": 90,
-  "total_size_mb": 27.56,
+  "total_size_mb": 1.22,
   "packages": [
-    "oasys2",
-    "vibesafe",
-    "lht",
     "geodesic-api",
     "givenergy-modbus-async",
     "termcolorxcore",
@@ -92,6 +89,9 @@
     "testzen",
     "wattleflow-workflow",
     "llama-index-vector-stores-couchbase",
-    "albert"
+    "albert",
+    "haggle",
+    "dycw-pre-commit-hooks",
+    "taup"
   ]
 }

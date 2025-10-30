@@ -1,14 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T22:24:54.255031
+- **Download Time**: 2025-10-30T22:41:55.760787
 - **Total Packages**: 90
-- **Total Size**: 27.56 MB
+- **Total Size**: 1.22 MB
 
 ## Packages List
-- oasys2
-- vibesafe
-- lht
 - geodesic-api
 - givenergy-modbus-async
 - termcolorxcore
@@ -96,3 +93,6 @@
 - wattleflow-workflow
 - llama-index-vector-stores-couchbase
 - albert
+- haggle
+- dycw-pre-commit-hooks
+- taup
