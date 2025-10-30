@@ -1,0 +1,11 @@
+{
+  "name": "docorator",
+  "version": "0.1.7",
+  "summary": "A Python library for interacting with Google Docs API with caching and logging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docorator-0.1.7.tar.gz",
+  "download_time": "2025-10-30T10:46:25.859932",
+  "package_url": "https://pypi.org/project/docorator/"
+}

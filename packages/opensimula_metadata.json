@@ -1,0 +1,11 @@
+{
+  "name": "opensimula",
+  "version": "0.6.0",
+  "summary": "Component-based time simulation environment in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opensimula-0.6.0.tar.gz",
+  "download_time": "2025-10-30T10:45:51.557468",
+  "package_url": "https://pypi.org/project/opensimula/"
+}

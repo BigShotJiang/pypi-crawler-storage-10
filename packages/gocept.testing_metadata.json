@@ -1,0 +1,11 @@
+{
+  "name": "gocept.testing",
+  "version": "5.0",
+  "summary": "A collection of test helpers, additional assertions, and the like.",
+  "author": "minddistrict <mail at minddistrict dot com>",
+  "license": "MIT",
+  "home_page": "https://github.com/minddistrict/gocept.testing",
+  "download_filename": "gocept_testing-5.0.tar.gz",
+  "download_time": "2025-10-30T10:46:17.575877",
+  "package_url": "https://pypi.org/project/gocept.testing/"
+}

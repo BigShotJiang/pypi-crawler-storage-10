@@ -1,0 +1,11 @@
+{
+  "name": "zyd-dataset-down",
+  "version": "0.19.0",
+  "summary": "A SDK for file downloading with resumable and multi-threaded features.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yourname/****",
+  "download_filename": "zyd_dataset_down-0.19.0-py3-none-any.whl",
+  "download_time": "2025-10-30T10:46:31.549500",
+  "package_url": "https://pypi.org/project/zyd-dataset-down/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netdriver-agent",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "The agent for NetDevOps, which interact with network device using CLI.",
   "author": "Vincent",
   "license": "Apache-2.0",
   "home_page": "https://github.com/OpenSecFlow/netdriver",
-  "download_filename": "netdriver_agent-0.3.7-py3-none-any.whl",
-  "download_time": "2025-10-30T10:21:06.857239",
+  "download_filename": "netdriver_agent-0.3.8-py3-none-any.whl",
+  "download_time": "2025-10-30T10:45:53.633045",
   "package_url": "https://pypi.org/project/netdriver-agent/"
 }

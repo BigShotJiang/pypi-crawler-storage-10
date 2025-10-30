@@ -1,0 +1,11 @@
+{
+  "name": "pyjamas-rfglab",
+  "version": "2025.10.0",
+  "summary": "PyJAMAS is Just A More Awesome SIESTA",
+  "author": "Rodrigo Fernandez-Gonzalez",
+  "license": null,
+  "home_page": "https://bitbucket.org/rfg_lab/pyjamas",
+  "download_filename": "pyjamas_rfglab-2025.10.0.tar.gz",
+  "download_time": "2025-10-30T10:45:49.460410",
+  "package_url": "https://pypi.org/project/pyjamas-rfglab/"
+}
