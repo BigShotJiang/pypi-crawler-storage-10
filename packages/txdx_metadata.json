@@ -1,11 +1,11 @@
 {
   "name": "txdx",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "TODO-to-Task CLI — sync code comments with your task apps",
   "author": "dbrdak",
   "license": null,
   "home_page": null,
-  "download_filename": "txdx-0.1.1.tar.gz",
-  "download_time": "2025-10-30T19:16:52.788099",
+  "download_filename": "txdx-0.2.0.tar.gz",
+  "download_time": "2025-10-30T23:43:36.699665",
   "package_url": "https://pypi.org/project/txdx/"
 }

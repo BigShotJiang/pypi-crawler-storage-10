@@ -1,0 +1,11 @@
+{
+  "name": "pyThermoModels",
+  "version": "1.5.2",
+  "summary": "PyThermoModels is an open-source Python package designed to facilitate thermodynamic modeling and calculations. This package provides a comprehensive and user-friendly interface to popular thermodynamic models, enabling quick and accurate estimation of key properties.",
+  "author": "Sina Gilassi",
+  "license": null,
+  "home_page": "https://github.com/sinagilassi/PyThermoModels",
+  "download_filename": "pythermomodels-1.5.2.tar.gz",
+  "download_time": "2025-10-30T23:43:34.646641",
+  "package_url": "https://pypi.org/project/pyThermoModels/"
+}

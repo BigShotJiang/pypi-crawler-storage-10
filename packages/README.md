@@ -1,28 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-30T23:32:58.728047
-- **Total Packages**: 67
-- **Total Size**: 19.89 MB
+- **Download Time**: 2025-10-30T23:44:06.493343
+- **Total Packages**: 64
+- **Total Size**: 6.14 MB
 
 ## Packages List
 - CliSelf
+- stac-mcp
+- onelake-shortcut-tools
+- pyThermoModels
+- frametree
+- c2cwsgiutils
+- min-obproject
+- txdx
+- tree-sitter-fasta
+- test-ylang
+- slide-lye
+- slide-space-monkey
+- slide-narrator
+- slide-tyler
+- tremors
+- agent-patterns
+- cjm-fasthtml-settings
+- map-games-proto
+- ai-energy-benchmarks
+- magnify
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- azureml-designer-serving
+- uniir-for-pyserini
 - datachain
 - vellum-workflow-server
 - mayan-edms
 - acorn-py
 - photo-objects
-- cjm-fasthtml-settings
 - fast-agent-mcp
 - gdsfactory
 - mcp-proxy-adapter
 - cryptoquant
 - xglove
-- min-obproject
 - rsxml
 - aenet-gpr
 - neosigma
-- tree-sitter-fasta
 - db-robust-clust
 - airflow-laminar
 - pytask
@@ -35,7 +56,6 @@
 - flowscript-lang
 - moose-lib
 - metamk
-- test-ylang
 - polyglot-ffi
 - fmot
 - jupyter-ai-magic-commands
@@ -50,26 +70,3 @@
 - gac
 - statsig-python-core
 - algorithms-structures-education
-- airflow-supervisor
-- clevercsv
-- paid-python
-- lbt-dragonfly
-- tiledb-client
-- azureml-designer-serving
-- supervisor-pydantic
-- flwr-nightly
-- excel-convertor
-- codec-bridge
-- vizpro
-- cb-events
-- fasttreeshap-fixed
-- dragonfly-display
-- Cycles-utils
-- flyteidl2
-- cypari2
-- webbed-duck
-- fileformats-extras
-- 0g-storage-sdk
-- ReverseBox
-- fileformats
-- skinidmaker

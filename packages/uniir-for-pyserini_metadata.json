@@ -1,0 +1,11 @@
+{
+  "name": "uniir-for-pyserini",
+  "version": "0.1.2",
+  "summary": "Fork of the original UniIR repository modified for easy and simple Pyserini integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uniir_for_pyserini-0.1.2.tar.gz",
+  "download_time": "2025-10-30T23:43:45.494983",
+  "package_url": "https://pypi.org/project/uniir-for-pyserini/"
+}
