@@ -1,0 +1,11 @@
+{
+  "name": "local-connect",
+  "version": "0.0.4",
+  "summary": "library that contains scripts to connect between laptops in local network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "local_connect-0.0.4.tar.gz",
+  "download_time": "2025-10-31T06:28:27.679248",
+  "package_url": "https://pypi.org/project/local-connect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dochain-block",
+  "version": "0.3.3",
+  "summary": "Prefect Blocks for authentication and connection management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dochain_block-0.3.3.tar.gz",
+  "download_time": "2025-10-31T06:28:33.274286",
+  "package_url": "https://pypi.org/project/dochain-block/"
+}

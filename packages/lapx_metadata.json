@@ -1,11 +1,11 @@
 {
   "name": "lapx",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "Linear assignment problem solvers, including single and batch solvers.",
   "author": "Ratha SIV",
   "license": "MIT",
   "home_page": "https://github.com/rathaROG/lapx",
-  "download_filename": "lapx-0.8.1.tar.gz",
-  "download_time": "2025-10-28T16:51:44.179663",
+  "download_filename": "lapx-0.9.0.tar.gz",
+  "download_time": "2025-10-31T06:28:19.896969",
   "package_url": "https://pypi.org/project/lapx/"
 }
