@@ -1,0 +1,11 @@
+{
+  "name": "atmospyre",
+  "version": "0.1.0a1",
+  "summary": "Modbus sensor communication library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atmospyre-0.1.0a1.tar.gz",
+  "download_time": "2025-10-31T08:48:22.995169",
+  "package_url": "https://pypi.org/project/atmospyre/"
+}

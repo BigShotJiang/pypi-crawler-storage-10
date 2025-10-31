@@ -1,0 +1,11 @@
+{
+  "name": "pytest-bazel",
+  "version": "0.1.6",
+  "summary": "A pytest runner with bazel support",
+  "author": "Ignas Anikevicius",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/aignas/pytest-bazel",
+  "download_filename": "pytest_bazel-0.1.6-py3-none-any.whl",
+  "download_time": "2025-10-31T08:48:24.015955",
+  "package_url": "https://pypi.org/project/pytest-bazel/"
+}

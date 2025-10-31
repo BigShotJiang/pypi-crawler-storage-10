@@ -1,0 +1,11 @@
+{
+  "name": "click-odoo-contrib",
+  "version": "1.23",
+  "summary": "click-odoo scripts collection",
+  "author": "ACSONE SA/NV",
+  "license": "LGPLv3+",
+  "home_page": "http://github.com/acsone/click-odoo-contrib",
+  "download_filename": "click_odoo_contrib-1.23.tar.gz",
+  "download_time": "2025-10-31T08:48:48.248779",
+  "package_url": "https://pypi.org/project/click-odoo-contrib/"
+}

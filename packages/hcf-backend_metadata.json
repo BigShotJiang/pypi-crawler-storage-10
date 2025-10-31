@@ -1,0 +1,11 @@
+{
+  "name": "hcf-backend",
+  "version": "0.6.1",
+  "summary": "ScrapyCloud HubStorage frontier backend for Frontera",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/scrapinghub/hcf-backend",
+  "download_filename": "hcf_backend-0.6.1.tar.gz",
+  "download_time": "2025-10-31T08:48:15.197043",
+  "package_url": "https://pypi.org/project/hcf-backend/"
+}

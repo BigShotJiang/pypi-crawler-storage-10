@@ -1,11 +1,11 @@
 {
   "name": "trustspeccli",
-  "version": "0.1.54",
+  "version": "0.1.55",
   "summary": "Web Integration Specification, easy and lightweight alternative to OpenAPI",
   "author": "Wojciech Karwacki",
   "license": null,
   "home_page": null,
-  "download_filename": "trustspeccli-0.1.54.tar.gz",
-  "download_time": "2025-10-29T20:45:13.513475",
+  "download_filename": "trustspeccli-0.1.55.tar.gz",
+  "download_time": "2025-10-31T08:48:31.186524",
   "package_url": "https://pypi.org/project/trustspeccli/"
 }

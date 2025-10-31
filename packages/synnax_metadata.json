@@ -1,0 +1,11 @@
+{
+  "name": "synnax",
+  "version": "0.47.0",
+  "summary": "Synnax Client Library",
+  "author": "Emiliano Bonilla",
+  "license": null,
+  "home_page": "https://synnaxlabs.com",
+  "download_filename": "synnax-0.47.0.tar.gz",
+  "download_time": "2025-10-31T08:48:47.736352",
+  "package_url": "https://pypi.org/project/synnax/"
+}

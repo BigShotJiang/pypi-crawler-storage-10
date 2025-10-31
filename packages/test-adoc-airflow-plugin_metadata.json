@@ -1,0 +1,11 @@
+{
+  "name": "test-adoc-airflow-plugin",
+  "version": "4.8.4.2",
+  "summary": "Acceldata Airflow Listener Plugin",
+  "author": "acceldata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_adoc_airflow_plugin-4.8.4.2.tar.gz",
+  "download_time": "2025-10-31T08:48:15.708050",
+  "package_url": "https://pypi.org/project/test-adoc-airflow-plugin/"
+}
