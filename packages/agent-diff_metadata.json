@@ -1,11 +1,11 @@
 {
   "name": "agent-diff",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for Agent Diff - test AI agents and train models against replicas of services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_diff-0.1.1.tar.gz",
-  "download_time": "2025-10-31T15:19:32.195558",
+  "download_filename": "agent_diff-0.1.2.tar.gz",
+  "download_time": "2025-10-31T18:27:10.180168",
   "package_url": "https://pypi.org/project/agent-diff/"
 }

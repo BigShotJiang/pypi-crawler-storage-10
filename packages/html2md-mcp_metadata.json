@@ -1,11 +1,11 @@
 {
   "name": "html2md-mcp",
-  "version": "0.2.0",
-  "summary": "MCP server for minimize and converting HTML to Markdown with browser support and authentication",
+  "version": "0.3.0",
+  "summary": "MCP server for converting HTML to Markdown with browser support, section extraction, and auto-summary for large documents",
   "author": "sunshad0w",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "html2md_mcp-0.2.0.tar.gz",
-  "download_time": "2025-10-31T13:22:52.089829",
+  "download_filename": "html2md_mcp-0.3.0.tar.gz",
+  "download_time": "2025-10-31T18:27:24.104281",
   "package_url": "https://pypi.org/project/html2md-mcp/"
 }

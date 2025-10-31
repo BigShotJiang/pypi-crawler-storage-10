@@ -1,11 +1,11 @@
 {
   "name": "onec-codetemplate-parser",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Парсер шаблонов 1С",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onec_codetemplate_parser-0.2.0.tar.gz",
-  "download_time": "2025-10-31T17:19:40.454281",
+  "download_filename": "onec_codetemplate_parser-0.2.1.tar.gz",
+  "download_time": "2025-10-31T18:27:32.503991",
   "package_url": "https://pypi.org/project/onec-codetemplate-parser/"
 }

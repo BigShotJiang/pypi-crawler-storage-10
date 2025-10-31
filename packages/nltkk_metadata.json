@@ -1,0 +1,11 @@
+{
+  "name": "nltkk",
+  "version": "0.2.0",
+  "summary": "A simple NLP toolkit for finding plural words and splitting text into words",
+  "author": "M. Sai Sathvik Raj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nltkk-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-31T18:27:30.939542",
+  "package_url": "https://pypi.org/project/nltkk/"
+}

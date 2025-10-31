@@ -1,0 +1,11 @@
+{
+  "name": "git-commit-message",
+  "version": "0.4.0",
+  "summary": "Generate Git commit messages from staged changes using OpenAI GPT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_commit_message-0.4.0.tar.gz",
+  "download_time": "2025-10-31T18:27:09.658278",
+  "package_url": "https://pypi.org/project/git-commit-message/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyral",
+  "version": "1.7.0",
+  "summary": "Python toolkit for Rally REST API",
+  "author": "Kip Lehman (Broadcom, Agile Operations Division)",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/RallyTools/RallyRestToolkitForPython",
+  "download_filename": "pyral-1.7.0-py3-none-any.whl",
+  "download_time": "2025-10-31T18:27:17.641376",
+  "package_url": "https://pypi.org/project/pyral/"
+}

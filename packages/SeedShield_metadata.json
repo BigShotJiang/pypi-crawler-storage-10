@@ -1,0 +1,11 @@
+{
+  "name": "SeedShield",
+  "version": "0.2.3",
+  "summary": "Secure BIP39 word viewer with masking and reveal functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seedshield-0.2.3.tar.gz",
+  "download_time": "2025-10-31T18:27:28.325054",
+  "package_url": "https://pypi.org/project/SeedShield/"
+}

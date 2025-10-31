@@ -1,0 +1,11 @@
+{
+  "name": "redis-exporter",
+  "version": "1.0.0",
+  "summary": "Prometheus Exporter for Redis metrics (Python version)",
+  "author": "vpuhoff",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redis_exporter-1.0.0.tar.gz",
+  "download_time": "2025-10-31T18:27:12.811729",
+  "package_url": "https://pypi.org/project/redis-exporter/"
+}

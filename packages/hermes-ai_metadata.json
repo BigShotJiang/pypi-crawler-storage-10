@@ -1,11 +1,11 @@
 {
   "name": "hermes-ai",
-  "version": "0.3.18",
+  "version": "0.3.20",
   "summary": "Hermes is a lightweight, powerful abstraction layer over LlamaIndex that simplifies building production-ready AI agents with essential utilities and multi-agent capabilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_ai-0.3.18.tar.gz",
-  "download_time": "2025-10-30T16:24:01.330133",
+  "download_filename": "hermes_ai-0.3.20.tar.gz",
+  "download_time": "2025-10-31T18:27:19.850223",
   "package_url": "https://pypi.org/project/hermes-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ammonkey",
-  "version": "3.0",
-  "summary": "A package for processing and analyzing primate behavior videos using DeepLabCut, Anipose, and a custom GUI.",
+  "version": "3.2.6",
+  "summary": "A package for organizing, processing and performing markerless 3D tracking on primate behavior videos using DeepLabCut, Anipose, with a user-friendly GUI.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "ammonkey-3.0.tar.gz",
-  "download_time": "2025-10-30T17:43:08.911718",
+  "download_filename": "ammonkey-3.2.6.tar.gz",
+  "download_time": "2025-10-31T18:26:52.498773",
   "package_url": "https://pypi.org/project/ammonkey/"
 }

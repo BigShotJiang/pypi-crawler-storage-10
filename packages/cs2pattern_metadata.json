@@ -1,0 +1,11 @@
+{
+  "name": "cs2pattern",
+  "version": "0.5.1",
+  "summary": "CS2 pattern utility",
+  "author": "Lukas Mahler",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "cs2pattern-0.5.1.tar.gz",
+  "download_time": "2025-10-31T18:27:01.306859",
+  "package_url": "https://pypi.org/project/cs2pattern/"
+}

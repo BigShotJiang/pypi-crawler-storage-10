@@ -1,11 +1,11 @@
 {
   "name": "re-browser-use",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Patching Browser Use to make it work with more websites and URLs ...",
   "author": "Gregor Zunic, patched by github.com/imamousenotacat/",
   "license": null,
   "home_page": null,
-  "download_filename": "re_browser_use-0.9.1.tar.gz",
-  "download_time": "2025-10-25T02:41:01.255959",
+  "download_filename": "re_browser_use-0.9.2.tar.gz",
+  "download_time": "2025-10-31T18:27:31.461766",
   "package_url": "https://pypi.org/project/re-browser-use/"
 }

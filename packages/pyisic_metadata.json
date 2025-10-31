@@ -1,0 +1,11 @@
+{
+  "name": "pyisic",
+  "version": "0.1.25",
+  "summary": "Standard industrial classification standardization",
+  "author": "Jordan Vani",
+  "license": "MIT",
+  "home_page": "https://github.com/sayari-analytics/pyisic",
+  "download_filename": "pyisic-0.1.25.tar.gz",
+  "download_time": "2025-10-31T18:26:57.980883",
+  "package_url": "https://pypi.org/project/pyisic/"
+}
