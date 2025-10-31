@@ -1,11 +1,11 @@
 {
   "name": "epicstuff",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "a few somewhat useful objects and functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "epicstuff-0.5.1.tar.gz",
-  "download_time": "2025-10-30T22:24:10.988554",
+  "download_filename": "epicstuff-0.5.2.tar.gz",
+  "download_time": "2025-10-31T14:56:25.748731",
   "package_url": "https://pypi.org/project/epicstuff/"
 }

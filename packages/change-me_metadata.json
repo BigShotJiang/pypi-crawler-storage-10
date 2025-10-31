@@ -1,11 +1,11 @@
 {
   "name": "change-me",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A simple Python template",
   "author": "Tsmorz",
   "license": null,
   "home_page": null,
-  "download_filename": "change_me-0.0.1.tar.gz",
-  "download_time": "2025-10-31T13:49:04.740671",
+  "download_filename": "change_me-0.1.0.tar.gz",
+  "download_time": "2025-10-31T14:56:22.100418",
   "package_url": "https://pypi.org/project/change-me/"
 }

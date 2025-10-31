@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T14:46:41.062842
-- **Total Packages**: 95
-- **Total Size**: 15.69 MB
+- **Download Time**: 2025-10-31T14:56:55.490064
+- **Total Packages**: 94
+- **Total Size**: 11.68 MB
 
 ## Packages List
+- typos
+- spedReader
+- napari-tomodl
+- batplot
+- brainet
+- data7
+- simphyni
+- playfast
+- maoppy
+- ppp-connectors
+- sonatype_iq_api_client
+- pushikoo-interface
+- 2captcha-python
+- fastapi-blocks-registry
+- oldaplib
+- pted
+- kubevim-vivnfm-client
+- apolo-kube-client
+- dblinter
+- logsteplib
+- polycoinpy
+- bluer-algo
+- cwb-utils
+- avyas-aurica-base-apps-app-sync
+- avyas-aurica-base-apps-dashboard-app
+- avyas-aurica-base-apps-chat-app
+- avyas-aurica-base-apps-auth-app
+- avyas-aurica-base-apps-app-manager
+- avyas-aurica-base-apps-nl-generator
+- avyas-aurica-base-apps-weather-app
+- change-me
+- ioa-observe-sdk
+- odoo-addon-account-banking-sepa-direct-debit
+- miso-client
+- webtoolkit
+- checklistfabrik
+- docling
+- epicstuff
+- h5rdmtoolbox
+- novaeval
+- openeo
 - grobid-client-python
 - aabpl
 - simple-climate-package
@@ -14,7 +55,6 @@
 - gramps-webapi
 - umlshapes
 - hwinfo-tui
-- spedReader
 - pybridizer
 - smt
 - peakevo
@@ -53,7 +93,6 @@
 - x-4357-make-persistent-env-var-x
 - x-4357-make-markdown-x
 - x-4357-make-yahw-x
-- change-me
 - x-4357-make-graphviz-x
 - pyrobale
 - flask-smorest-sqlalchemy-odata
@@ -61,43 +100,3 @@
 - m9s-party-carddav-client
 - x-4357-make-py-mod-sideload-x
 - hyperquant
-- abstract-utilities
-- resfo-utilities
-- wapiti-arsenic
-- siga-mcp
-- mcp-dynamic-proxy
-- librt
-- ovos-ww-plugin-precise-onnx
-- ASGIWebDAV
-- fastquadtree
-- bbob-jax
-- dblinter
-- Thorlabs-UPSeries
-- DEmap
-- cognite-toolkit
-- votuderep
-- taskiq-dashboard
-- essreduce
-- adk-utils
-- avyas-aurica-base-apps-auth-app
-- gam7
-- avyas-aurica-base-apps-weather-app
-- avyas-aurica-base-apps-app-sync
-- avyas-aurica-base-apps-app-manager
-- webtoolkit
-- avyas-aurica-base-apps-dashboard-app
-- avyas-aurica-base-apps-nl-generator
-- lg-rez
-- avyas-aurica-base-apps-chat-app
-- cyclopts
-- fastapi-blocks-registry
-- worker-core-lib
-- shipday
-- lightwheel-sdk
-- rumore
-- kailash-dataflow
-- stjames
-- omuserver
-- omuplugin-translator
-- omuplugin-obs
-- omuplugin-nyanya
