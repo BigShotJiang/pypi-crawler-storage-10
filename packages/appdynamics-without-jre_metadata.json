@@ -1,0 +1,11 @@
+{
+  "name": "appdynamics-without-jre",
+  "version": "25.10.0.8329",
+  "summary": "Python Agent for AppDynamics",
+  "author": "AppDynamics",
+  "license": "See license in package description",
+  "home_page": "https://www.appdynamics.com/python",
+  "download_filename": "appdynamics_without_jre-25.10.0.8329-py2.py3-none-any.whl",
+  "download_time": "2025-10-31T20:53:22.328451",
+  "package_url": "https://pypi.org/project/appdynamics-without-jre/"
+}

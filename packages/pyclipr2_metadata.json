@@ -1,0 +1,11 @@
+{
+  "name": "pyclipr2",
+  "version": "0.1.7",
+  "summary": "Python library for polygon clipping and offsetting based on Clipper2.",
+  "author": "2ico",
+  "license": null,
+  "home_page": "https://github.com/2ico/pyclipr",
+  "download_filename": "pyclipr2-0.1.7-cp310-cp310-macosx_15_0_universal2.whl",
+  "download_time": "2025-10-31T20:53:21.232993",
+  "package_url": "https://pypi.org/project/pyclipr2/"
+}

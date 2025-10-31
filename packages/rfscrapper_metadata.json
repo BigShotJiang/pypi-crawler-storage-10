@@ -1,0 +1,11 @@
+{
+  "name": "rfscrapper",
+  "version": "2.1",
+  "summary": "A simple web scrapper tool wich downloads podcasts from radiofrance.",
+  "author": "Cosmow22",
+  "license": "MIT",
+  "home_page": "https://github.com/Cosmow22/radio-france-podcasts-scrapper",
+  "download_filename": "rfscrapper-2.1.tar.gz",
+  "download_time": "2025-10-31T20:53:07.695348",
+  "package_url": "https://pypi.org/project/rfscrapper/"
+}

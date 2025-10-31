@@ -1,0 +1,11 @@
+{
+  "name": "appdynamics",
+  "version": "25.10.0.8329",
+  "summary": "Python Agent for AppDynamics",
+  "author": "AppDynamics",
+  "license": "See license in package description",
+  "home_page": "https://www.appdynamics.com/python",
+  "download_filename": "appdynamics-25.10.0.8329-py2.py3-none-any.whl",
+  "download_time": "2025-10-31T20:53:24.525062",
+  "package_url": "https://pypi.org/project/appdynamics/"
+}

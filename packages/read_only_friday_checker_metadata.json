@@ -1,0 +1,11 @@
+{
+  "name": "read_only_friday_checker",
+  "version": "1.0.3",
+  "summary": "This checks to see if today is Read Only Friday.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "read_only_friday_checker-1.0.3.tar.gz",
+  "download_time": "2025-10-31T20:53:14.386899",
+  "package_url": "https://pypi.org/project/read_only_friday_checker/"
+}
