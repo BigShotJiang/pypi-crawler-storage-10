@@ -1,0 +1,11 @@
+{
+  "name": "gridmlip",
+  "version": "0.2",
+  "summary": "Grid-based method for calculating the percolation barrier of mobile species using machine learning interatomic potentials",
+  "author": "Artem Dembitskiy",
+  "license": "MIT",
+  "home_page": "https://github.com/dembart/gridmlip",
+  "download_filename": "gridmlip-0.2.tar.gz",
+  "download_time": "2025-10-31T20:43:58.953738",
+  "package_url": "https://pypi.org/project/gridmlip/"
+}

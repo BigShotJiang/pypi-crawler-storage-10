@@ -1,0 +1,11 @@
+{
+  "name": "SigProfilerAssignment",
+  "version": "1.0.3",
+  "summary": "Mutational signatures attribution and decomposition tool",
+  "author": "Raviteja Vangara",
+  "license": "UCSD",
+  "home_page": "https://github.com/AlexandrovLab/SigProfilerAssignment.git",
+  "download_filename": "sigprofilerassignment-1.0.3.tar.gz",
+  "download_time": "2025-10-31T20:43:49.090594",
+  "package_url": "https://pypi.org/project/SigProfilerAssignment/"
+}

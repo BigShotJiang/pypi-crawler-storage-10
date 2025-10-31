@@ -1,0 +1,11 @@
+{
+  "name": "mlx-dev-server",
+  "version": "0.1.2",
+  "summary": "A server to run MLX models locally, optimized for code completion",
+  "author": "Andrey Usenok",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_dev_server-0.1.2.tar.gz",
+  "download_time": "2025-10-31T20:43:32.339862",
+  "package_url": "https://pypi.org/project/mlx-dev-server/"
+}

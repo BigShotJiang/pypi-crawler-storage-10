@@ -1,0 +1,11 @@
+{
+  "name": "pyinterp",
+  "version": "2025.11.0",
+  "summary": "Interpolation of geo-referenced data for Python.",
+  "author": "CNES/CLS",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/CNES/pangeo-pyinterp",
+  "download_filename": "pyinterp-2025.11.0.tar.gz",
+  "download_time": "2025-10-31T20:44:01.604139",
+  "package_url": "https://pypi.org/project/pyinterp/"
+}

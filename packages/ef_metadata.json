@@ -1,0 +1,11 @@
+{
+  "name": "ef",
+  "version": "0.1.1",
+  "summary": "Embeddings Flow -- Tools for workflows involving semantic embeddings",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/ef",
+  "download_filename": "ef-0.1.1.tar.gz",
+  "download_time": "2025-10-31T20:44:02.115677",
+  "package_url": "https://pypi.org/project/ef/"
+}

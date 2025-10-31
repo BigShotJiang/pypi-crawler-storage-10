@@ -1,11 +1,11 @@
 {
   "name": "xclim",
-  "version": "0.59.0",
+  "version": "0.59.1",
   "summary": "Climate indices computation package based on Xarray.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xclim-0.59.0.tar.gz",
-  "download_time": "2025-10-30T17:52:32.450443",
+  "download_filename": "xclim-0.59.1.tar.gz",
+  "download_time": "2025-10-31T20:43:57.426033",
   "package_url": "https://pypi.org/project/xclim/"
 }
