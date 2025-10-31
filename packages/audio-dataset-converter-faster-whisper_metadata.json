@@ -1,0 +1,11 @@
+{
+  "name": "audio-dataset-converter-faster-whisper",
+  "version": "0.1.0",
+  "summary": "Python3 library that adds audio transcription support (.wav, .mp3) to the audio-dataset-converter library.",
+  "author": "Peter Reutemann",
+  "license": "MIT License",
+  "home_page": "https://github.com/waikato-llm/audio-dataset-converter-faster-whisper",
+  "download_filename": "audio_dataset_converter_faster_whisper-0.1.0.tar.gz",
+  "download_time": "2025-10-31T03:45:17.716382",
+  "package_url": "https://pypi.org/project/audio-dataset-converter-faster-whisper/"
+}

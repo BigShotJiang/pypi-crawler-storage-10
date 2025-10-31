@@ -1,0 +1,11 @@
+{
+  "name": "synapseml",
+  "version": "1.1.0",
+  "summary": "Synapse Machine Learning",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/Microsoft/SynapseML",
+  "download_filename": "synapseml-1.1.0-py2.py3-none-any.whl",
+  "download_time": "2025-10-31T03:45:27.211077",
+  "package_url": "https://pypi.org/project/synapseml/"
+}

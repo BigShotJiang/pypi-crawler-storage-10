@@ -1,0 +1,11 @@
+{
+  "name": "audio-dataset-converter-visualization",
+  "version": "0.1.0",
+  "summary": "Python3 library that adds visualization supportto the audio-dataset-converter library.",
+  "author": "Peter Reutemann",
+  "license": "MIT License",
+  "home_page": "https://github.com/waikato-llm/audio-dataset-converter-visualization",
+  "download_filename": "audio_dataset_converter_visualization-0.1.0.tar.gz",
+  "download_time": "2025-10-31T03:45:02.009391",
+  "package_url": "https://pypi.org/project/audio-dataset-converter-visualization/"
+}

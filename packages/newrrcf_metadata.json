@@ -1,0 +1,11 @@
+{
+  "name": "newrrcf",
+  "version": "0.5.0",
+  "summary": "Robust random cut forest for anomaly detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newrrcf-0.5.0.tar.gz",
+  "download_time": "2025-10-31T03:44:46.882497",
+  "package_url": "https://pypi.org/project/newrrcf/"
+}

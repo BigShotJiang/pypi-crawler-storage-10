@@ -1,0 +1,11 @@
+{
+  "name": "openrocket-python-parser",
+  "version": "0.3.0",
+  "summary": "A Python library to parse OpenRocket (.ork) XML files, including simulation data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrocket_python_parser-0.3.0.tar.gz",
+  "download_time": "2025-10-31T03:45:09.811303",
+  "package_url": "https://pypi.org/project/openrocket-python-parser/"
+}

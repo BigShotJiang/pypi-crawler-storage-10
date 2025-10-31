@@ -1,11 +1,11 @@
 {
   "name": "arrow-flight-project",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Python client library for DFTP based on Arrow Flight",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arrow_flight_project-0.1.1.tar.gz",
-  "download_time": "2025-10-31T02:57:27.005038",
+  "download_filename": "arrow_flight_project-0.1.4.tar.gz",
+  "download_time": "2025-10-31T03:45:17.196258",
   "package_url": "https://pypi.org/project/arrow-flight-project/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pylibfinder",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Library to spot a keyword as a function inside python stdlib",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pylibfinder-0.2.3.tar.gz",
-  "download_time": "2025-10-30T06:26:42.108273",
+  "download_filename": "pylibfinder-0.2.4.tar.gz",
+  "download_time": "2025-10-31T03:44:51.066751",
   "package_url": "https://pypi.org/project/pylibfinder/"
 }

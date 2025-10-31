@@ -1,11 +1,11 @@
 {
   "name": "metorial",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Python SDK for Metorial - The open source integration platform for agentic AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial-1.0.10.tar.gz",
-  "download_time": "2025-10-30T07:51:31.157176",
+  "download_filename": "metorial-1.0.11.tar.gz",
+  "download_time": "2025-10-31T03:45:11.369010",
   "package_url": "https://pypi.org/project/metorial/"
 }

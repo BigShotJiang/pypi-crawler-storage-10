@@ -1,0 +1,11 @@
+{
+  "name": "pbesa",
+  "version": "4.0.62",
+  "summary": "Plataforma para crear sistemas multiagentes racionales",
+  "author": "PBESA Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbesa-4.0.62.tar.gz",
+  "download_time": "2025-10-31T03:45:25.129162",
+  "package_url": "https://pypi.org/project/pbesa/"
+}

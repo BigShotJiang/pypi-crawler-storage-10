@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-production-unique-lot",
+  "version": "16.0.1.0.0.4",
+  "summary": "MRP Production Unique Lot",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_production_unique_lot-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-31T03:45:15.108004",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-production-unique-lot/"
+}
