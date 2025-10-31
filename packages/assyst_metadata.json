@@ -1,0 +1,11 @@
+{
+  "name": "assyst",
+  "version": "0.9.0",
+  "summary": "Reference implentation of the Automated Small Symmetric Structure Training method.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "assyst-0.9.0.tar.gz",
+  "download_time": "2025-10-31T10:21:20.116023",
+  "package_url": "https://pypi.org/project/assyst/"
+}

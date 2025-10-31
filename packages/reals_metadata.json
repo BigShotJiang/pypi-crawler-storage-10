@@ -1,0 +1,11 @@
+{
+  "name": "reals",
+  "version": "0.0.6",
+  "summary": "A lightweight python3 library for arithmetic with real numbers.",
+  "author": "Ruben van Nieuwpoort",
+  "license": "MIT",
+  "home_page": "https://github.com/rubenvannieuwpoort/reals",
+  "download_filename": "reals-0.0.6.tar.gz",
+  "download_time": "2025-10-31T10:20:59.080966",
+  "package_url": "https://pypi.org/project/reals/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "summer-modules-ai",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "AI helpers for summer-modules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "summer_modules_ai-1.1.0.tar.gz",
-  "download_time": "2025-10-29T03:04:36.072375",
+  "download_filename": "summer_modules_ai-1.1.1.tar.gz",
+  "download_time": "2025-10-31T10:21:36.512190",
   "package_url": "https://pypi.org/project/summer-modules-ai/"
 }

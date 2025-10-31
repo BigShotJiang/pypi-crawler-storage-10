@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ydb-mcp",
+  "version": "0.1.6",
+  "summary": "Model Context Protocol server for YDB DBMS",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_ydb_mcp-0.1.6.tar.gz",
+  "download_time": "2025-10-31T10:21:06.267855",
+  "package_url": "https://pypi.org/project/iflow-mcp_ydb-mcp/"
+}
