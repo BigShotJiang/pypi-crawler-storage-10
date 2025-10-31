@@ -1,0 +1,11 @@
+{
+  "name": "underworld",
+  "version": "2.17.0",
+  "summary": "Underworld2 is a python-friendly, parallel, scalable, easy-to-use toolkit for solving problems in solid and fluid mechanics.",
+  "author": null,
+  "license": "LGPL-3",
+  "home_page": "https://github.com/underworldcode/underworld2",
+  "download_filename": "underworld-2.17.0.tar.gz",
+  "download_time": "2025-10-31T04:55:55.113876",
+  "package_url": "https://pypi.org/project/underworld/"
+}
