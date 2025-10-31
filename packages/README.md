@@ -1,29 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T13:49:23.023511
-- **Total Packages**: 90
-- **Total Size**: 33.87 MB
+- **Download Time**: 2025-10-31T14:20:40.704895
+- **Total Packages**: 89
+- **Total Size**: 3.65 MB
 
 ## Packages List
-- apppy-sb
-- apppy-queues
-- apppy-app
-- apppy-generic
-- regscale-cli
-- music-assistant-models
-- nlp-wowool-sdk
-- aura-compression
-- sortinghat-openinfra
-- sortinghat-eclipse-foundation
-- ccs-digitalmarketplace-utils
-- brynq-sdk-functions
-- ssb-timeseries
-- futurmind-mcp
-- perceval-public-inbox
-- odoo-addon-l10n-br-fiscal
-- brynq-sdk-brynq
-- perceval-topicbox
 - perceval-pontoon
 - apppy-auth
 - apppy-fastql
@@ -96,3 +78,20 @@
 - py5canvas
 - wexample-filestate
 - mem-llm
+- django-bulk-hooks
+- video-format-converter-mcp
+- dblinter
+- doodl
+- wexample-pseudocode
+- fastapi-voyager
+- wexample-prompt
+- calmlib
+- django-import-export
+- gitdo
+- Odooly
+- polars-hash-lts-cpu
+- timber-common
+- inference-exp
+- specrypto
+- wexample-helpers-yaml
+- graphconstructor
