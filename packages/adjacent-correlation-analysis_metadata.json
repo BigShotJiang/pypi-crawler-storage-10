@@ -1,0 +1,11 @@
+{
+  "name": "adjacent-correlation-analysis",
+  "version": "0.1.2",
+  "summary": "A python package to reveal regularites from complex image data using correlations",
+  "author": "Guang-Xing Li",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "adjacent_correlation_analysis-0.1.2.tar.gz",
+  "download_time": "2025-10-31T06:53:09.704637",
+  "package_url": "https://pypi.org/project/adjacent-correlation-analysis/"
+}

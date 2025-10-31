@@ -1,0 +1,11 @@
+{
+  "name": "mattermost-tools",
+  "version": "0.0.5",
+  "summary": "A tool to send notifications to Mattermost and manage Mattermost channels and users.",
+  "author": "Neil Karania",
+  "license": "MIT",
+  "home_page": "https://github.com/neil-karania/mattermost-tools",
+  "download_filename": "mattermost_tools-0.0.5.tar.gz",
+  "download_time": "2025-10-31T06:52:57.567917",
+  "package_url": "https://pypi.org/project/mattermost-tools/"
+}

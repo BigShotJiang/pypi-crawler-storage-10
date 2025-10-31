@@ -1,11 +1,11 @@
 {
   "name": "cwb-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": null,
   "author": "mathewgeola",
   "license": null,
   "home_page": null,
-  "download_filename": "cwb_utils-0.0.4.tar.gz",
-  "download_time": "2025-10-30T09:44:11.220589",
+  "download_filename": "cwb_utils-0.0.5.tar.gz",
+  "download_time": "2025-10-31T06:53:31.073505",
   "package_url": "https://pypi.org/project/cwb-utils/"
 }

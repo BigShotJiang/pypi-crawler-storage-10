@@ -1,11 +1,11 @@
 {
   "name": "cbrkit",
-  "version": "0.28.7",
+  "version": "0.28.8",
   "summary": "Customizable Case-Based Reasoning (CBR) toolkit for Python with a built-in API and CLI",
   "author": "Mirko Lenz",
   "license": null,
   "home_page": null,
-  "download_filename": "cbrkit-0.28.7.tar.gz",
-  "download_time": "2025-10-28T14:45:50.389475",
+  "download_filename": "cbrkit-0.28.8.tar.gz",
+  "download_time": "2025-10-31T06:52:54.931879",
   "package_url": "https://pypi.org/project/cbrkit/"
 }

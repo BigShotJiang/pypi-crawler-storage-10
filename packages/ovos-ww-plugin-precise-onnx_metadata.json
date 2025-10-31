@@ -1,0 +1,11 @@
+{
+  "name": "ovos-ww-plugin-precise-onnx",
+  "version": "0.0.2a1",
+  "summary": "A wake word plugin for OpenVoiceOS",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-ww-plugin-precise-onnx",
+  "download_filename": "ovos_ww_plugin_precise_onnx-0.0.2a1.tar.gz",
+  "download_time": "2025-10-31T06:53:14.453774",
+  "package_url": "https://pypi.org/project/ovos-ww-plugin-precise-onnx/"
+}

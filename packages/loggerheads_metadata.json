@@ -1,11 +1,11 @@
 {
   "name": "loggerheads",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Blockchain-powered work tracker with automated payments - track work hours, submit to blockchain, earn USDC automatically",
   "author": "Mitchel Dennis",
   "license": null,
   "home_page": "https://github.com/stElmitchay/loggerheads",
-  "download_filename": "loggerheads-1.1.0.tar.gz",
-  "download_time": "2025-10-30T16:23:46.883061",
+  "download_filename": "loggerheads-1.1.1.tar.gz",
+  "download_time": "2025-10-31T06:53:05.494884",
   "package_url": "https://pypi.org/project/loggerheads/"
 }

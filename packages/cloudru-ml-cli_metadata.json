@@ -1,11 +1,11 @@
 {
   "name": "cloudru-ml-cli",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "summary": "Библиотека для работы с api Cloud.ru MLSpace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudru_ml_cli-0.8.4.tar.gz",
-  "download_time": "2025-10-30T05:18:31.865355",
+  "download_filename": "cloudru_ml_cli-0.8.5.tar.gz",
+  "download_time": "2025-10-31T06:53:13.416504",
   "package_url": "https://pypi.org/project/cloudru-ml-cli/"
 }
