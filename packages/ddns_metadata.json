@@ -1,11 +1,11 @@
 {
   "name": "ddns",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "summary": "Dynamic DNS client for multiple providers, supporting IPv4 and IPv6.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ddns-4.1.0.tar.gz",
-  "download_time": "2025-10-27T04:34:11.562714",
+  "download_filename": "ddns-4.1.1.tar.gz",
+  "download_time": "2025-10-31T07:40:26.080464",
   "package_url": "https://pypi.org/project/ddns/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-metricool",
+  "version": "1.1.9",
+  "summary": "This is a Model Context Protocol (MCP) server for interacting with the Metricool API. It allows AI agents to access and analyze social media metrics and campaign data from your Metricool account.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_metricool-1.1.9.tar.gz",
+  "download_time": "2025-10-31T07:40:32.912103",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-metricool/"
+}
