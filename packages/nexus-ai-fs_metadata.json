@@ -1,11 +1,11 @@
 {
   "name": "nexus-ai-fs",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "AI-Native Distributed Filesystem Architecture",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nexus_ai_fs-0.5.0.tar.gz",
-  "download_time": "2025-10-30T04:31:20.870813",
+  "download_filename": "nexus_ai_fs-0.5.2.tar.gz",
+  "download_time": "2025-10-31T07:52:07.649737",
   "package_url": "https://pypi.org/project/nexus-ai-fs/"
 }

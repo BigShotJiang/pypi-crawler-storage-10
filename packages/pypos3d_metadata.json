@@ -1,0 +1,11 @@
+{
+  "name": "pypos3d",
+  "version": "2.4.0",
+  "summary": "Wavefront files and Poser files manipulation library",
+  "author": "Olivier Dufailly",
+  "license": null,
+  "home_page": "https://sourceforge.net/projects/pojamas",
+  "download_filename": "pypos3d-2.4.0.tar.gz",
+  "download_time": "2025-10-31T07:52:26.298418",
+  "package_url": "https://pypi.org/project/pypos3d/"
+}

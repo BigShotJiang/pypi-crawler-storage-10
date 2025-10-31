@@ -1,11 +1,11 @@
 {
   "name": "victron-mqtt",
-  "version": "2025.10.23",
+  "version": "2025.10.24",
   "summary": "Python library for communicating with Victron Venus OS MQTT interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "victron_mqtt-2025.10.23.tar.gz",
-  "download_time": "2025-10-30T14:56:58.587387",
+  "download_filename": "victron_mqtt-2025.10.24-py3-none-any.whl",
+  "download_time": "2025-10-31T07:52:13.842519",
   "package_url": "https://pypi.org/project/victron-mqtt/"
 }

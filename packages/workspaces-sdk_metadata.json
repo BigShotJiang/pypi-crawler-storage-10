@@ -1,0 +1,11 @@
+{
+  "name": "workspaces-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Workspaces API with Enhanced Actor-based RBAC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "workspaces_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-31T07:52:24.153448",
+  "package_url": "https://pypi.org/project/workspaces-sdk/"
+}

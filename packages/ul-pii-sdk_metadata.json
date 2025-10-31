@@ -1,11 +1,11 @@
 {
   "name": "ul-pii-sdk",
-  "version": "4.2.2",
+  "version": "4.2.3",
   "summary": "Pii sdk",
   "author": "Unic-lab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ul_pii_sdk-4.2.2.tar.gz",
-  "download_time": "2025-10-30T19:29:24.340992",
+  "download_filename": "ul_pii_sdk-4.2.3-py3-none-any.whl",
+  "download_time": "2025-10-31T07:52:27.406080",
   "package_url": "https://pypi.org/project/ul-pii-sdk/"
 }

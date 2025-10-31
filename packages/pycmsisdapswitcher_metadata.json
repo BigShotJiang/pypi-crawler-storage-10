@@ -1,0 +1,11 @@
+{
+  "name": "pycmsisdapswitcher",
+  "version": "2.0.2.19",
+  "summary": "Recovers or switches bootloader and application firmware on Microchip programmers, debuggers, and development boards between Microchip and CMSIS-DAP v2 implementations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycmsisdapswitcher-2.0.2.19-py3-none-any.whl",
+  "download_time": "2025-10-31T07:52:20.155753",
+  "package_url": "https://pypi.org/project/pycmsisdapswitcher/"
+}
