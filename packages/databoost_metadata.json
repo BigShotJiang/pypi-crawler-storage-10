@@ -1,11 +1,11 @@
 {
   "name": "databoost",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Advanced Data Science utilities: custom metrics, advanced plotting and more!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "databoost-0.3.0.tar.gz",
-  "download_time": "2025-10-31T21:17:13.259733",
+  "download_filename": "databoost-0.3.2.tar.gz",
+  "download_time": "2025-10-31T23:42:16.712018",
   "package_url": "https://pypi.org/project/databoost/"
 }

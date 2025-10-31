@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T23:33:14.397867
+- **Download Time**: 2025-10-31T23:42:59.435380
 - **Total Packages**: 75
-- **Total Size**: 12.83 MB
+- **Total Size**: 11.54 MB
 
 ## Packages List
+- workflow-use
+- omniopt2
+- letta-nightly
+- lulab-convert-mcp-server
+- databoost
+- pyjamas-rfglab
+- lanet-vi
+- slimformers
+- orb-billing
+- anada
+- hatchet-sdk
+- inference-sdk
+- inference-gpu
+- inference-cpu
+- inference-core
+- inference-cli
+- inference
+- inference-exp
+- chuk-mcp-server
+- nv-ingest
+- nv-ingest-client
+- gpt-scientist
+- nv-ingest-api
 - ankigammon
 - method-python
 - cltk
@@ -55,29 +78,6 @@
 - sdgym
 - flwr-nightly
 - rigol-dho824-mcp
-- omniopt2
 - gffutilsai
 - acryl-datahub-cloud
 - lionz
-- atoti-server-directquery-synapse
-- atoti-server-directquery-redshift
-- atoti-server-directquery-clickhouse
-- cyborgdb
-- plato-sdk
-- atoti-jupyterlab
-- atoti-core
-- fal
-- atoti-client-kafka
-- atoti-client-jdbc
-- atoti-client-gcp
-- atoti-client-directquery-synapse
-- atoti-client-directquery-snowflake
-- atoti-client-directquery-redshift
-- atoti-client-directquery-mssql
-- atoti-client-directquery-jdbc
-- atoti-client-directquery-databricks
-- atoti-client-directquery-clickhouse
-- atoti-client-directquery-bigquery
-- atoti-client-azure
-- atoti-client-aws
-- atoti-client

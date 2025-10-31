@@ -1,11 +1,11 @@
 {
   "name": "workflow-use",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Create, edit, run deterministic workflows",
   "author": "Gregor Zunic",
   "license": null,
   "home_page": null,
-  "download_filename": "workflow_use-0.2.4.tar.gz",
-  "download_time": "2025-10-31T21:16:52.021480",
+  "download_filename": "workflow_use-0.2.5.tar.gz",
+  "download_time": "2025-10-31T23:42:14.384896",
   "package_url": "https://pypi.org/project/workflow-use/"
 }
