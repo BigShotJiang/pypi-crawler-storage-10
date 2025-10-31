@@ -1,11 +1,11 @@
 {
   "name": "aethermagic",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "AetherMagic - Multi-protocol communications library with channel support (MQTT, Redis, WebSocket, ZeroMQ, RabbitMQ)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aethermagic-0.2.8.tar.gz",
-  "download_time": "2025-10-31T11:20:26.960176",
+  "download_filename": "aethermagic-0.2.9.tar.gz",
+  "download_time": "2025-10-31T11:30:59.962807",
   "package_url": "https://pypi.org/project/aethermagic/"
 }

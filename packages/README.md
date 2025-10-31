@@ -1,12 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T11:21:09.636773
+- **Download Time**: 2025-10-31T11:31:39.283359
 - **Total Packages**: 87
-- **Total Size**: 39.19 MB
+- **Total Size**: 11.66 MB
 
 ## Packages List
+- abroad-mcp-server-qiangyang
+- openmetadata-managed-apis
+- data7
+- mkdocs-fedi-comments
+- torchx-nightly
+- orq-ai-sdk
+- moleditpy
+- idxr
 - gresecml
+- dve-lumipy-testing
+- moleditpy-linux
+- navviz
+- donkit-ragops-ce
+- aethermagic
+- torchft-nightly
+- odoo-addon-sinli
+- data-detector
+- odoo-addon-gestion-editorial
+- toadr3
+- iona-ops-library
+- maquinaweb-shared-auth
+- nomad-tools
+- ididi
+- xpy-teal
+- mlrun
+- bizyui
+- locust-cloud
+- sws-spark-dissemination-helper
+- kodit
+- luminesce-sdk
+- devops-mcps
+- reasoning-deployment-service
+- ansys-tools-common
+- mezon-sdk
 - analisi_canti
 - pycomex
 - drafteleu
@@ -14,10 +47,8 @@
 - novacore-pl
 - wrapanapi
 - pyeasyphd
-- aethermagic
 - render-engine-pg
 - udata-hydra
-- data7
 - gemini-imagen
 - aioyookassa
 - tfdocs
@@ -50,7 +81,6 @@
 - HybridSuperQubits
 - pytango
 - cdk-monitoring-constructs
-- abroad-mcp-server-qiangyang
 - luckytools
 - models-package
 - koku-nise
@@ -61,35 +91,5 @@
 - dataproc-jupyter-plugin
 - pillow-grid
 - digital-life
-- iona-ops-library
 - plbdays
 - donkit-read-engine
-- mcp-aktools
-- geant-invoice-generator
-- geant-churn
-- ovos-ww-plugin-precise-onnx
-- evenage
-- neuroslice
-- ory-client
-- computemate
-- apolo-kube-client
-- orq-ai-sdk
-- module-retour-client-revo
-- tblib
-- MeUtils
-- wizata-dsapi
-- imgrs
-- spec-driver
-- ewccli
-- snakemake-interface-report-plugins
-- mypippakage
-- agentmake
-- idxr
-- locust-cloud
-- mtcli-volume
-- ai-signal
-- resfo-utilities
-- pyarmor
-- better-nested-serializer
-- cartographer3d-plugin
-- StereoMolGraph
