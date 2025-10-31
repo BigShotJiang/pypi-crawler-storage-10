@@ -1,0 +1,11 @@
+{
+  "name": "invenio-sip2",
+  "version": "0.6.26",
+  "summary": "Invenio module that add a SIP2 communication for library self-check service",
+  "author": "Laurent Dubois",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "invenio_sip2-0.6.26.tar.gz",
+  "download_time": "2025-10-31T11:20:49.995667",
+  "package_url": "https://pypi.org/project/invenio-sip2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "models-package",
+  "version": "1.0.0",
+  "summary": "A collection of segmentation models for water and river detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "models_package-1.0.0.tar.gz",
+  "download_time": "2025-10-31T11:20:47.863369",
+  "package_url": "https://pypi.org/project/models-package/"
+}

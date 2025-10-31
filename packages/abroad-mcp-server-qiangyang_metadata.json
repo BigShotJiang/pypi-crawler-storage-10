@@ -1,0 +1,11 @@
+{
+  "name": "abroad-mcp-server-qiangyang",
+  "version": "1.0.2",
+  "summary": "一个规范、可扩展的MCP（Model Capability Protocol）工具开发框架",
+  "author": "IFLYTEK",
+  "license": null,
+  "home_page": "https://github.com/username/mcp_framework",
+  "download_filename": "abroad_mcp_server_qiangyang-1.0.2.tar.gz",
+  "download_time": "2025-10-31T11:20:46.807738",
+  "package_url": "https://pypi.org/project/abroad-mcp-server-qiangyang/"
+}
