@@ -1,11 +1,11 @@
 {
   "name": "ClickMouse-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "基于Python的鼠标连点工具扩展api",
   "author": "xystudio",
-  "license": null,
-  "home_page": "https://github.com/xystudio/pyClickMouse",
-  "download_filename": "clickmouse_api-1.0.0.tar.gz",
-  "download_time": "2025-10-26T11:12:57.909483",
+  "license": "MIT",
+  "home_page": "https://github.com/xystudio889/pyClickMouse",
+  "download_filename": "clickmouse_api-1.0.1.tar.gz",
+  "download_time": "2025-10-31T15:19:14.093600",
   "package_url": "https://pypi.org/project/ClickMouse-api/"
 }

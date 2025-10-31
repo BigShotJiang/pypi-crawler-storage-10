@@ -1,0 +1,11 @@
+{
+  "name": "security-dependency-pinning",
+  "version": "2.0.0",
+  "summary": "A repository dedicated to maintaining a secure, stable environment by pinning critical library versions to protect against vulnerabilities and ensure compatibility.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "security_dependency_pinning-2.0.0.tar.gz",
+  "download_time": "2025-10-31T15:19:34.820037",
+  "package_url": "https://pypi.org/project/security-dependency-pinning/"
+}

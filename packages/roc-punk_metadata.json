@@ -1,0 +1,11 @@
+{
+  "name": "roc-punk",
+  "version": "1.1.1",
+  "summary": "Pipeline UNit Keeper (PUNK) plugin is used to report activities monitored by the pipeline",
+  "author": "Florence Henry",
+  "license": "CECILL-2.1",
+  "home_page": "https://gitlab.obspm.fr/ROC/Pipelines/Plugins/PUNK",
+  "download_filename": "roc_punk-1.1.1.tar.gz",
+  "download_time": "2025-10-31T15:19:46.325200",
+  "package_url": "https://pypi.org/project/roc-punk/"
+}

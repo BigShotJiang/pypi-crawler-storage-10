@@ -1,0 +1,11 @@
+{
+  "name": "textcalc-ai",
+  "version": "1.0.4",
+  "summary": "A simple text-to-math converter that interprets natural language math statements.",
+  "author": "Pravanjan Roy",
+  "license": null,
+  "home_page": "https://github.com/kingmon6996/",
+  "download_filename": "textcalc_ai-1.0.4.tar.gz",
+  "download_time": "2025-10-31T15:19:32.714386",
+  "package_url": "https://pypi.org/project/textcalc-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cypari2",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "A Python interface to the number theory library PARI/GP",
   "author": "Luca De Feo, Vincent Delecroix, Jeroen Demeyer, Vincent Klein",
   "license": null,
   "home_page": null,
-  "download_filename": "cypari2-2.2.3.tar.gz",
-  "download_time": "2025-10-30T23:17:45.705179",
+  "download_filename": "cypari2-2.2.4.tar.gz",
+  "download_time": "2025-10-31T15:19:18.555303",
   "package_url": "https://pypi.org/project/cypari2/"
 }

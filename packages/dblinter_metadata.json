@@ -1,11 +1,11 @@
 {
   "name": "dblinter",
-  "version": "0.4.10",
+  "version": "0.5.0",
   "summary": "A static analysis tool for postgresql databases",
   "author": "Stephane Defenin",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dblinter-0.4.10.tar.gz",
-  "download_time": "2025-10-31T14:56:15.832896",
+  "download_filename": "dblinter-0.5.0.tar.gz",
+  "download_time": "2025-10-31T15:19:20.656306",
   "package_url": "https://pypi.org/project/dblinter/"
 }

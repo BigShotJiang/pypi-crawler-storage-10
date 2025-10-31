@@ -1,0 +1,11 @@
+{
+  "name": "pysonar",
+  "version": "1.2.1.3951",
+  "summary": "Sonar Scanner for the Python Ecosystem",
+  "author": "[Code Quality] Data & ML Squad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysonar-1.2.1.3951.tar.gz",
+  "download_time": "2025-10-31T15:19:48.936609",
+  "package_url": "https://pypi.org/project/pysonar/"
+}
