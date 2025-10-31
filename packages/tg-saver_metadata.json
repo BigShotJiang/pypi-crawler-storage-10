@@ -1,11 +1,11 @@
 {
   "name": "tg-saver",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "This lib can help you to save all info by api",
   "author": "dima-on",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tg_saver-0.2.0.tar.gz",
-  "download_time": "2025-10-29T21:16:55.900108",
+  "download_filename": "tg_saver-0.2.2.tar.gz",
+  "download_time": "2025-10-31T01:19:25.906210",
   "package_url": "https://pypi.org/project/tg-saver/"
 }

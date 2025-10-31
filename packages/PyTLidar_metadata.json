@@ -1,0 +1,11 @@
+{
+  "name": "PyTLidar",
+  "version": "1.0.3",
+  "summary": null,
+  "author": "John Hagood",
+  "license": null,
+  "home_page": "https://github.com/Landscape-CV/PyTLidar",
+  "download_filename": "pytlidar-1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-31T01:18:49.606215",
+  "package_url": "https://pypi.org/project/PyTLidar/"
+}

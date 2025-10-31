@@ -1,0 +1,11 @@
+{
+  "name": "jraphx",
+  "version": "0.0.4",
+  "summary": "Graph Neural Networks with JAX/NNX",
+  "author": "JraphX Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jraphx-0.0.4.tar.gz",
+  "download_time": "2025-10-31T01:18:45.685834",
+  "package_url": "https://pypi.org/project/jraphx/"
+}

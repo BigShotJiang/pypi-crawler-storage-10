@@ -1,11 +1,11 @@
 {
   "name": "0g-storage-sdk",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Official Python SDK for 0G Storage - A decentralized storage network with merkle tree verification",
   "author": "0G Labs",
   "license": null,
   "home_page": "https://github.com/0glabs/0g-py-sdk",
-  "download_filename": "0g_storage_sdk-0.1.0.tar.gz",
-  "download_time": "2025-10-30T23:17:47.446422",
+  "download_filename": "0g_storage_sdk-0.2.1.tar.gz",
+  "download_time": "2025-10-31T01:19:21.633000",
   "package_url": "https://pypi.org/project/0g-storage-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "onvif-python",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A modern Python library for ONVIF-compliant devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onvif_python-0.2.0.tar.gz",
-  "download_time": "2025-10-29T10:56:30.399174",
+  "download_filename": "onvif_python-0.2.2.tar.gz",
+  "download_time": "2025-10-31T01:19:24.828378",
   "package_url": "https://pypi.org/project/onvif-python/"
 }

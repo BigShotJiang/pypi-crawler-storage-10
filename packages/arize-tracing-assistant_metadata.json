@@ -1,11 +1,11 @@
 {
   "name": "arize-tracing-assistant",
-  "version": "0.2.5",
+  "version": "0.2.9",
   "summary": "Arize tracing assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arize_tracing_assistant-0.2.5.tar.gz",
-  "download_time": "2025-10-28T18:52:47.026596",
+  "download_filename": "arize_tracing_assistant-0.2.9.tar.gz",
+  "download_time": "2025-10-31T01:19:30.121451",
   "package_url": "https://pypi.org/project/arize-tracing-assistant/"
 }

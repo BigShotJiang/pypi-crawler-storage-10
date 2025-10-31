@@ -1,0 +1,11 @@
+{
+  "name": "relace",
+  "version": "1.0.2",
+  "summary": "The official Python library for the relace API",
+  "author": "Relace",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "relace-1.0.2.tar.gz",
+  "download_time": "2025-10-31T01:18:41.680514",
+  "package_url": "https://pypi.org/project/relace/"
+}
