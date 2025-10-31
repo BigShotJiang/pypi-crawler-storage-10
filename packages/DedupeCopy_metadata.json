@@ -1,0 +1,11 @@
+{
+  "name": "DedupeCopy",
+  "version": "1.1.9",
+  "summary": "Find duplicates / copy and restructure file layout command-line tool",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "dedupecopy-1.1.9.tar.gz",
+  "download_time": "2025-10-31T16:24:02.657753",
+  "package_url": "https://pypi.org/project/DedupeCopy/"
+}

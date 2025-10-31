@@ -1,0 +1,11 @@
+{
+  "name": "devart-hubspot-connector",
+  "version": "1.3.0",
+  "summary": "New level of functionality and performance in data access via Python",
+  "author": "Devart",
+  "license": "Other/Proprietary License",
+  "home_page": "https://devart.com",
+  "download_filename": "devart_hubspot_connector-1.3.0-cp310-cp310-win32.whl",
+  "download_time": "2025-10-31T16:24:00.575948",
+  "package_url": "https://pypi.org/project/devart-hubspot-connector/"
+}

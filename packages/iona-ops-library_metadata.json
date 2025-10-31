@@ -1,11 +1,11 @@
 {
   "name": "iona-ops-library",
-  "version": "0.1.0",
-  "summary": "A short description of your library",
+  "version": "0.4.0",
+  "summary": "iona-ops library for common functions across DABs",
   "author": "Gary James",
   "license": "MIT",
-  "home_page": "https://github.com/ION-Analytics/iona-ops/Codebase/Libraries/pip_installable/iona_ops_library",
-  "download_filename": "iona_ops_library-0.1.0-py3-none-any.whl",
-  "download_time": "2025-10-30T19:41:06.335727",
+  "home_page": "https://github.com/ION-Analytics/iona-ops",
+  "download_filename": "iona_ops_library-0.4.0-py3-none-any.whl",
+  "download_time": "2025-10-31T16:23:24.677023",
   "package_url": "https://pypi.org/project/iona-ops-library/"
 }

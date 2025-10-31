@@ -1,11 +1,11 @@
 {
   "name": "firsttry-run",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Ship code that passes CI on the first try.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firsttry_run-0.1.6.tar.gz",
-  "download_time": "2025-10-31T06:28:49.624222",
+  "download_filename": "firsttry_run-0.1.7.tar.gz",
+  "download_time": "2025-10-31T16:23:37.714682",
   "package_url": "https://pypi.org/project/firsttry-run/"
 }

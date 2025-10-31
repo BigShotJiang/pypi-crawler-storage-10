@@ -1,0 +1,11 @@
+{
+  "name": "devart-postgresql-connector",
+  "version": "1.3.0",
+  "summary": "New level of functionality and performance in data access via Python",
+  "author": "Devart",
+  "license": "Other/Proprietary License",
+  "home_page": "https://devart.com",
+  "download_filename": "devart_postgresql_connector-1.3.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-10-31T16:23:31.236777",
+  "package_url": "https://pypi.org/project/devart-postgresql-connector/"
+}

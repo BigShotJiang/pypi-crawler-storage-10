@@ -1,11 +1,11 @@
 {
   "name": "tai-api",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": null,
   "author": "MateoSaezMata",
   "license": null,
   "home_page": null,
-  "download_filename": "tai_api-0.2.1.tar.gz",
-  "download_time": "2025-10-31T10:21:39.081597",
+  "download_filename": "tai_api-0.2.2.tar.gz",
+  "download_time": "2025-10-31T16:23:21.936082",
   "package_url": "https://pypi.org/project/tai-api/"
 }

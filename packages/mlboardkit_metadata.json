@@ -1,11 +1,11 @@
 {
   "name": "mlboardkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Utilities for data processing, model training, and analysis.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mlboardkit-0.1.1.tar.gz",
-  "download_time": "2025-10-31T15:43:54.572256",
+  "download_filename": "mlboardkit-0.1.2.tar.gz",
+  "download_time": "2025-10-31T16:23:45.112171",
   "package_url": "https://pypi.org/project/mlboardkit/"
 }
