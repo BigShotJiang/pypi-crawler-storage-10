@@ -1,0 +1,11 @@
+{
+  "name": "hikari",
+  "version": "2.5.0",
+  "summary": "A sane Discord API for Python 3 built on asyncio and good intentions",
+  "author": "Nekokatt, davfsa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hikari-2.5.0.tar.gz",
+  "download_time": "2025-10-31T12:38:55.688023",
+  "package_url": "https://pypi.org/project/hikari/"
+}

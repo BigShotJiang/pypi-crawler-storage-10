@@ -1,0 +1,11 @@
+{
+  "name": "xlsconv",
+  "version": "2.0.1",
+  "summary": "Tool to convert ODK-style XLSForms into Django models or use with wq (https://wq.io/)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlsconv-2.0.1.tar.gz",
+  "download_time": "2025-10-31T12:38:53.489176",
+  "package_url": "https://pypi.org/project/xlsconv/"
+}

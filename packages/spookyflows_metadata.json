@@ -1,0 +1,11 @@
+{
+  "name": "spookyflows",
+  "version": "0.1",
+  "summary": "Tools and algorithms for fluid flow simulations",
+  "author": "Patricio Clark Di Leoni",
+  "license": "MIT",
+  "home_page": "https://github.com/PatricioClark/spooky",
+  "download_filename": "spookyflows-0.1.tar.gz",
+  "download_time": "2025-10-31T12:39:02.343100",
+  "package_url": "https://pypi.org/project/spookyflows/"
+}

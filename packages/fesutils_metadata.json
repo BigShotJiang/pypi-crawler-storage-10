@@ -1,0 +1,11 @@
+{
+  "name": "fesutils",
+  "version": "1.1.4",
+  "summary": "常用工具方法库",
+  "author": "TinyBees",
+  "license": "MIT",
+  "home_page": "https://github.com/tinybees/fesutils",
+  "download_filename": "fesutils-1.1.4-py3-none-any.whl",
+  "download_time": "2025-10-31T12:39:24.150389",
+  "package_url": "https://pypi.org/project/fesutils/"
+}

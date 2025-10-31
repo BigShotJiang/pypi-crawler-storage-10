@@ -1,0 +1,11 @@
+{
+  "name": "TradeManager",
+  "version": "0.0.2",
+  "summary": "SQLite, Risk & Money management, discipline trader with risk rules & reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trademanager-0.0.2.tar.gz",
+  "download_time": "2025-10-31T12:39:09.030740",
+  "package_url": "https://pypi.org/project/TradeManager/"
+}

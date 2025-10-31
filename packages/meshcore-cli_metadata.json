@@ -1,11 +1,11 @@
 {
   "name": "meshcore-cli",
-  "version": "1.1.41",
+  "version": "1.2.0",
   "summary": "Command line interface to meshcore companion radios",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshcore_cli-1.1.41.tar.gz",
-  "download_time": "2025-10-30T16:24:10.498093",
+  "download_filename": "meshcore_cli-1.2.0.tar.gz",
+  "download_time": "2025-10-31T12:38:56.199126",
   "package_url": "https://pypi.org/project/meshcore-cli/"
 }

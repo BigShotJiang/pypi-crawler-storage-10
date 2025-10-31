@@ -1,0 +1,11 @@
+{
+  "name": "PyWaves-Curve25519",
+  "version": "1.0.4",
+  "summary": "Curve25519 (Ed25519 sign/verify with X25519 keys) for Waves blockchain",
+  "author": "Tarek Galal",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/PyWaves-CE/PyWaves-Curve25519",
+  "download_filename": "pywaves_curve25519-1.0.4.tar.gz",
+  "download_time": "2025-10-31T12:38:54.066096",
+  "package_url": "https://pypi.org/project/PyWaves-Curve25519/"
+}

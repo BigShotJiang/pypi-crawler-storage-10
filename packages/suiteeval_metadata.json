@@ -1,0 +1,11 @@
+{
+  "name": "suiteeval",
+  "version": "0.1.1",
+  "summary": "Tools for running IR Evaluation Suites",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "suiteeval-0.1.1.tar.gz",
+  "download_time": "2025-10-31T12:38:52.397336",
+  "package_url": "https://pypi.org/project/suiteeval/"
+}
