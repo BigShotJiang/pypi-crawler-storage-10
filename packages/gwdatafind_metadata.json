@@ -1,0 +1,11 @@
+{
+  "name": "gwdatafind",
+  "version": "2.1.1",
+  "summary": "The GWDataFind data discovery client",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gwdatafind-2.1.1.tar.gz",
+  "download_time": "2025-10-31T09:53:31.297456",
+  "package_url": "https://pypi.org/project/gwdatafind/"
+}

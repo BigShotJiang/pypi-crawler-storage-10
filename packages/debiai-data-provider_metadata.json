@@ -1,11 +1,11 @@
 {
   "name": "debiai-data-provider",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "summary": "Start your own Data-provider from simple Python",
   "author": null,
   "license": null,
   "home_page": "https://github.com/debiai/easy-data-provider",
-  "download_filename": "debiai_data_provider-1.1.4.tar.gz",
-  "download_time": "2025-10-27T11:31:07.603813",
+  "download_filename": "debiai_data_provider-1.1.6.tar.gz",
+  "download_time": "2025-10-31T09:53:35.027554",
   "package_url": "https://pypi.org/project/debiai-data-provider/"
 }

@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T09:44:49.264419
-- **Total Packages**: 80
-- **Total Size**: 22.92 MB
+- **Download Time**: 2025-10-31T09:54:04.686172
+- **Total Packages**: 87
+- **Total Size**: 23.75 MB
 
 ## Packages List
+- ewah
+- gresecml
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- pyaerocom
+- eptr2
+- GridSeisPy
+- llms-py
+- pytorchic
+- netra-zen
+- xdsl
+- datatailr
+- autocoder-nano
+- mlopter
+- richx
+- virtuals-acp
+- cloudcix
+- cognite-typed-functions
+- acex-core
+- saluki
+- daisytools
+- maleo-schemas
+- gwdatafind
+- grimoirelab
+- ruff-cgx
+- aethermagic
+- gm
+- whisper-ai-zxs
+- debiai-gui
+- debiai-data-provider
+- visiontext
+- ewoksutils
+- digital-life
+- do-mpc
+- iflow-mcp_mcp-nvd
+- opik
+- safeshield
 - pyjolt
 - tp-helper
 - wisent
@@ -17,7 +55,6 @@
 - packg
 - notdiamond
 - fds-analyticsapi-engines
-- digital-life
 - mcp-server-demo-8
 - quantvn
 - fb-tools
@@ -35,7 +72,6 @@
 - biom3d
 - amzurlog
 - bluer-ugv
-- aethermagic
 - ami-helper
 - liscopelens
 - typedparser
@@ -57,32 +93,3 @@
 - cornflow
 - seatools
 - epicstore-api-fcorz
-- arthur-client
-- opteryx
-- agbcloud-sdk
-- merging-eval
-- dagster-clt-queued-run-coordinator
-- runreporter
-- sirmordred
-- xgae
-- sws-spark-dissemination-helper
-- safeshield
-- SICdb-MEDS
-- iflow-mcp_iac-memory-mcp-server
-- math-tools-dr
-- hippius
-- tbp-nightly
-- apmtools
-- sampo
-- ayechat
-- langchat
-- raystack-proton
-- darkneuronai
-- wexample-helpers
-- stelvio
-- cognite-typed-functions
-- awx-zipline-ai
-- url2epub
-- mtschem
-- edf-fossil
-- dsf-mobility

@@ -1,0 +1,11 @@
+{
+  "name": "daisytools",
+  "version": "1.0.0",
+  "summary": "Daisy framework development tools - Python code style checking and formatting utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daisytools-1.0.0.tar.gz",
+  "download_time": "2025-10-31T09:53:30.259665",
+  "package_url": "https://pypi.org/project/daisytools/"
+}
