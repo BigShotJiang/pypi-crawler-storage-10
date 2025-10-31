@@ -1,0 +1,11 @@
+{
+  "name": "kitech-repository",
+  "version": "0.1.13",
+  "summary": "KITECH Manufacturing Data Repository CLI and Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kitech_repository-0.1.13.tar.gz",
+  "download_time": "2025-10-31T05:44:10.051106",
+  "package_url": "https://pypi.org/project/kitech-repository/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chalkml",
+  "version": "1.0.0",
+  "summary": "Advanced ML data processing with 5 patterns: QUANTUM, RELEVANCE, REDACT, SCAFFOLD, BOW",
+  "author": "Mankind Research Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/mankind-research/chalkml",
+  "download_filename": "chalkml-1.0.0.tar.gz",
+  "download_time": "2025-10-31T05:44:07.961465",
+  "package_url": "https://pypi.org/project/chalkml/"
+}
