@@ -1,19 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T03:45:29.806693
-- **Total Packages**: 85
-- **Total Size**: 20.56 MB
+- **Download Time**: 2025-10-31T04:03:31.331417
+- **Total Packages**: 91
+- **Total Size**: 28.36 MB
 
 ## Packages List
+- sinabs
+- vizpro
+- filebundler
+- yut
+- Avox
+- zhmiscellany
+- kailash-kaizen
+- loom-agent
+- drun
+- lance-ray
+- LAgencia-orion
+- moxqtradar
+- base64-python
+- cr-learn
+- django-consistency-enforcer
+- booklab
+- moxtools
+- odoo-addon-rma-sale
+- odoo-addons-oca-rma
+- odoo-addon-rma
+- increase
+- type-bridge
+- odoo-addons-oca-reporting-engine
+- napari-sphinx-theme
+- jettask
+- odoo12-addon-report-pdf-zip-download
+- mcp-vector-search
+- pomcorn
+- coaiapy-mcp
+- coaiapy
+- onnxscript
+- uplift-ble
+- wexa-sdk
+- odoo-addon-purchase-request-tier-validation
+- pex
+- publicsuffixlist
+- minitap-mobile-use
+- pywebtask
+- cdktf-cdktf-provider-databricks
+- get-5c-cdr
+- jupyterhealth-client
+- tabular2mcap
+- odoo-addon-project-stock
 - cqc-quam-state
 - prac-codes-dwm
 - reg-my-ip-core
 - newrrcf
 - beads-mcp
 - coordinate-system
-- coaiapy-mcp
-- coaiapy
 - odoo-addon-product-customerinfo
 - synstore
 - dding
@@ -23,7 +64,6 @@
 - wfind
 - odoo-addon-pos-partner-load-new-data
 - audio-dataset-converter-all
-- base64-python
 - localtranscribe
 - alibabacloud-elasticsearch20170613
 - odoo-addons-oca-payroll
@@ -57,37 +97,3 @@
 - pulumi-bytepluscc
 - composo
 - metorial
-- metorial-mcp-session
-- metorial-core
-- audio-dataset-converter-redis
-- odoo-addon-mrp-bom-priority
-- chalkpy
-- odoo-addon-mrp-bom-order-by-product-name
-- odoo-addon-mrp-production-unique-lot
-- orbitkit
-- iflow-mcp_commit-helper-mcp
-- duper-python
-- arrow-flight-project
-- audio-dataset-converter-faster-whisper
-- cdk-factory
-- vogo
-- cfn-check
-- odoo-addons-oca-l10n-spain
-- supervisely
-- pyAgrum-nightly
-- filebundler
-- crawlo
-- odoo-addon-l10n-es-aeat-mod347
-- pyconnpg
-- antchain-ak-195dff03d395462ea294bafdba69df3f
-- my_krml_25552249
-- audio-dataset-converter
-- pbesa
-- aa-payout
-- xnlogo
-- specklia
-- synapseml
-- vellum-workflow-server
-- coremusic
-- toltecmk
-- sycommon-python-lib

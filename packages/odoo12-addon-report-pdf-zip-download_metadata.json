@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-report-pdf-zip-download",
+  "version": "12.0.1.0.0.99.dev3",
+  "summary": "Report PDF ZIP Download",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo12_addon_report_pdf_zip_download-12.0.1.0.0.99.dev3-py3-none-any.whl",
+  "download_time": "2025-10-31T04:02:57.405652",
+  "package_url": "https://pypi.org/project/odoo12-addon-report-pdf-zip-download/"
+}

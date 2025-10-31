@@ -1,11 +1,11 @@
 {
   "name": "cr-learn",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A Library Provides Bunch of datasets to speed up your recsys learing.",
   "author": "vishesh yadav",
   "license": null,
   "home_page": null,
-  "download_filename": "cr_learn-0.1.8.tar.gz",
-  "download_time": "2025-10-30T10:21:10.273073",
+  "download_filename": "cr_learn-0.1.9.tar.gz",
+  "download_time": "2025-10-31T04:02:51.171448",
   "package_url": "https://pypi.org/project/cr-learn/"
 }
