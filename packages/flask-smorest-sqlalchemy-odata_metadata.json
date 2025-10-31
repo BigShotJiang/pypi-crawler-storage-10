@@ -1,0 +1,11 @@
+{
+  "name": "flask-smorest-sqlalchemy-odata",
+  "version": "0.2.8",
+  "summary": "Odata filtering and sorting with flask-smorest",
+  "author": "Casey Knolla",
+  "license": "MIT",
+  "home_page": "https://github.com/cknolla/flask-smorest-sqlalchemy-odata",
+  "download_filename": "flask_smorest_sqlalchemy_odata-0.2.8.tar.gz",
+  "download_time": "2025-10-31T14:46:14.273374",
+  "package_url": "https://pypi.org/project/flask-smorest-sqlalchemy-odata/"
+}

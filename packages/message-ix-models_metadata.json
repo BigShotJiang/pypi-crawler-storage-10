@@ -1,11 +1,11 @@
 {
   "name": "message-ix-models",
-  "version": "2025.9.9",
+  "version": "2025.10.31",
   "summary": "Tools for the MESSAGEix-GLOBIOM family of models",
   "author": "IIASA Energy, Climate, and Environment (ECE) Program",
   "license": null,
   "home_page": null,
-  "download_filename": "message_ix_models-2025.9.9-py3-none-any.whl",
-  "download_time": "2025-10-31T10:46:02.321265",
+  "download_filename": "message_ix_models-2025.10.31-py3-none-any.whl",
+  "download_time": "2025-10-31T14:46:00.478516",
   "package_url": "https://pypi.org/project/message-ix-models/"
 }

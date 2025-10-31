@@ -1,0 +1,11 @@
+{
+  "name": "pybridizer",
+  "version": "0.1.1",
+  "summary": "A tool for designing HCR (Hybridization Chain Reaction) v3 probes",
+  "author": "Chintan Trivedi",
+  "license": null,
+  "home_page": "https://github.com/ctucl/pybridizer",
+  "download_filename": "pybridizer-0.1.1.tar.gz",
+  "download_time": "2025-10-31T14:45:50.679271",
+  "package_url": "https://pypi.org/project/pybridizer/"
+}

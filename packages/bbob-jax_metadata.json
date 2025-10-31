@@ -1,11 +1,11 @@
 {
   "name": "bbob-jax",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "BBOB Benchmark function implemented in JAX",
   "author": "Martin van der Schelling",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/bessagroup/bbob-jax",
-  "download_filename": "bbob_jax-0.5.0.tar.gz",
-  "download_time": "2025-10-27T11:31:12.312040",
+  "download_filename": "bbob_jax-0.6.0.tar.gz",
+  "download_time": "2025-10-31T14:46:22.502287",
   "package_url": "https://pypi.org/project/bbob-jax/"
 }

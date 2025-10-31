@@ -1,11 +1,11 @@
 {
   "name": "cyclopts",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "summary": "Intuitive, easy CLIs based on type hints.",
   "author": "Brian Pugh",
   "license": null,
   "home_page": null,
-  "download_filename": "cyclopts-4.2.0.tar.gz",
-  "download_time": "2025-10-30T15:25:02.328226",
+  "download_filename": "cyclopts-4.2.1.tar.gz",
+  "download_time": "2025-10-31T14:46:33.993175",
   "package_url": "https://pypi.org/project/cyclopts/"
 }

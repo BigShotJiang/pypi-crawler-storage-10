@@ -1,0 +1,11 @@
+{
+  "name": "spedReader",
+  "version": "0.1.1",
+  "summary": "Leitor de arquivos SPED brasileiros.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spedreader-0.1.1.tar.gz",
+  "download_time": "2025-10-31T14:45:50.109410",
+  "package_url": "https://pypi.org/project/spedReader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "disease-normalizer",
+  "version": "0.11.3",
+  "summary": "VICC normalization routines for diseases",
+  "author": "Alex Wagner, Kori Kuzma, James Stevenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "disease_normalizer-0.11.3.tar.gz",
+  "download_time": "2025-10-31T14:46:01.640932",
+  "package_url": "https://pypi.org/project/disease-normalizer/"
+}

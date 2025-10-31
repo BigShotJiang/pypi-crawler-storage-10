@@ -1,11 +1,11 @@
 {
   "name": "kailash-dataflow",
-  "version": "0.7.8",
+  "version": "0.7.11",
   "summary": "Workflow-native database framework for Kailash SDK",
   "author": "Integrum",
   "license": "Apache-2.0 WITH Additional-Terms",
   "home_page": "https://github.com/Integrum-Global/kailash_python_sdk",
-  "download_filename": "kailash_dataflow-0.7.8.tar.gz",
-  "download_time": "2025-10-30T05:42:58.820319",
+  "download_filename": "kailash_dataflow-0.7.11.tar.gz",
+  "download_time": "2025-10-31T14:46:37.448866",
   "package_url": "https://pypi.org/project/kailash-dataflow/"
 }
