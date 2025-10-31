@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T23:42:59.435380
-- **Total Packages**: 75
-- **Total Size**: 11.54 MB
+- **Download Time**: 2025-10-31T23:55:15.580500
+- **Total Packages**: 82
+- **Total Size**: 2.58 MB
 
 ## Packages List
+- avyas-aurica-base-apps-auth-app
+- vidurai
+- proto-models-py
+- datamarket
+- zg-utils
+- AoE2ScenarioParser
+- nkunyim-util
+- highway-dsl
+- ligandsplitter
+- py2Dmol
+- vital
+- blprint
+- arize-tracing-assistant
+- aiobbox
 - workflow-use
 - omniopt2
 - letta-nightly
@@ -32,7 +46,6 @@
 - ankigammon
 - method-python
 - cltk
-- avyas-aurica-base-apps-auth-app
 - dinnovos-agent
 - openly-core
 - moleditpy
@@ -75,9 +88,3 @@
 - eqcctpro
 - fts-tool
 - agent-framework-azurefunctions
-- sdgym
-- flwr-nightly
-- rigol-dho824-mcp
-- gffutilsai
-- acryl-datahub-cloud
-- lionz

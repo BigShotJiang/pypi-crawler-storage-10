@@ -1,0 +1,11 @@
+{
+  "name": "aiobbox",
+  "version": "0.1.0",
+  "summary": "Async Python API wrapper for Bouygues Telecom routers",
+  "author": "Sweenu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiobbox-0.1.0.tar.gz",
+  "download_time": "2025-10-31T23:54:39.425005",
+  "package_url": "https://pypi.org/project/aiobbox/"
+}
