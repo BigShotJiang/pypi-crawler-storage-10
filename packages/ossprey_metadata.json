@@ -1,0 +1,11 @@
+{
+  "name": "ossprey",
+  "version": "1.0.17",
+  "summary": "Ossprey tooling to scan your software package, create an SBOM and then submit it to our service for malware scanning",
+  "author": "dreadn0ught",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "ossprey-1.0.17.tar.gz",
+  "download_time": "2025-10-31T16:50:29.140949",
+  "package_url": "https://pypi.org/project/ossprey/"
+}

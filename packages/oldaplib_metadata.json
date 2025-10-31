@@ -1,11 +1,11 @@
 {
   "name": "oldaplib",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Open Media Access Server Library (Linked Open Data middleware/RESTApi)",
   "author": "Lukas Rosenthaler",
   "license": "GNU Affero General Public License version 3",
   "home_page": null,
-  "download_filename": "oldaplib-0.3.2.tar.gz",
-  "download_time": "2025-10-31T14:56:13.234525",
+  "download_filename": "oldaplib-0.3.3.tar.gz",
+  "download_time": "2025-10-31T16:50:07.079387",
   "package_url": "https://pypi.org/project/oldaplib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-blanket-order",
+  "version": "18.0.1.0.0.11",
+  "summary": "Purchase Blanket Orders",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_blanket_order-18.0.1.0.0.11-py3-none-any.whl",
+  "download_time": "2025-10-31T16:50:09.727176",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-blanket-order/"
+}

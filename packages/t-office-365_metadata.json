@@ -1,0 +1,11 @@
+{
+  "name": "t-office-365",
+  "version": "0.1.28",
+  "summary": "An open-source Python package, t_office_365 providing easy-to-use classes and methods for     interacting with Microsoft Office 365 services, including SharePoint, OneDrive, Outlook, and Excel, with features     such as file management, email handling, and spreadsheet operations.",
+  "author": "Thoughtful",
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_office_365-0.1.28.tar.gz",
+  "download_time": "2025-10-31T16:50:26.542297",
+  "package_url": "https://pypi.org/project/t-office-365/"
+}

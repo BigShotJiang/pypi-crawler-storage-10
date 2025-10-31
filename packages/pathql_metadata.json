@@ -1,11 +1,11 @@
 {
   "name": "pathql",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "PathQL: A Python project for declarative file system querying.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pathql-0.0.8.tar.gz",
-  "download_time": "2025-10-29T20:21:16.547104",
+  "download_filename": "pathql-0.0.9.tar.gz",
+  "download_time": "2025-10-31T16:50:28.613403",
   "package_url": "https://pypi.org/project/pathql/"
 }

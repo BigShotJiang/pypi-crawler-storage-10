@@ -1,0 +1,11 @@
+{
+  "name": "igwn-robot-auth",
+  "version": "0.3.3",
+  "summary": "Auth credential management for IGWN robots",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "igwn_robot_auth-0.3.3.tar.gz",
+  "download_time": "2025-10-31T16:50:03.421008",
+  "package_url": "https://pypi.org/project/igwn-robot-auth/"
+}

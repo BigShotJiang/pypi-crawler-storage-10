@@ -1,11 +1,11 @@
 {
   "name": "logsteplib",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Library for logging and data quality tracking (lakehouse).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logsteplib-0.0.8.tar.gz",
-  "download_time": "2025-10-31T16:23:54.110607",
+  "download_filename": "logsteplib-0.0.9.tar.gz",
+  "download_time": "2025-10-31T16:50:00.818467",
   "package_url": "https://pypi.org/project/logsteplib/"
 }

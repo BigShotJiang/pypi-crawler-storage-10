@@ -1,0 +1,11 @@
+{
+  "name": "markdown-doc",
+  "version": "0.1.6",
+  "summary": "Generate Markdown documentation from Python code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_doc-0.1.6.tar.gz",
+  "download_time": "2025-10-31T16:49:57.080974",
+  "package_url": "https://pypi.org/project/markdown-doc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-teams-common",
+  "version": "2.0.0a4",
+  "summary": "Common package for Microsoft Teams",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_teams_common-2.0.0a4.tar.gz",
+  "download_time": "2025-10-31T16:50:16.039028",
+  "package_url": "https://pypi.org/project/microsoft-teams-common/"
+}

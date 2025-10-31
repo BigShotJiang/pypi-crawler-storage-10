@@ -1,0 +1,11 @@
+{
+  "name": "treescript-diff",
+  "version": "0.1.6",
+  "summary": "Determines the difference between two TreeScript files.",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/treescript-diff",
+  "download_filename": "treescript_diff-0.1.6.tar.gz",
+  "download_time": "2025-10-31T16:50:27.584396",
+  "package_url": "https://pypi.org/project/treescript-diff/"
+}
