@@ -1,0 +1,11 @@
+{
+  "name": "certineq",
+  "version": "1.0",
+  "summary": "a SageMath package to work with linear inequality systems and certify (un)solvability of them",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/certineq",
+  "download_filename": "certineq-1.0.tar.gz",
+  "download_time": "2025-10-31T21:52:59.304439",
+  "package_url": "https://pypi.org/project/certineq/"
+}

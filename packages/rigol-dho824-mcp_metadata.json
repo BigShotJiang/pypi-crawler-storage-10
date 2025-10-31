@@ -1,11 +1,11 @@
 {
   "name": "rigol-dho824-mcp",
-  "version": "0.1.130",
+  "version": "0.1.133",
   "summary": "MCP server for controlling Rigol DHO824 oscilloscopes via AI assistants like Claude - capture waveforms, take screenshots, configure channels, modify triggers, read measurements, and query device state",
   "author": "ai.moda",
   "license": null,
   "home_page": null,
-  "download_filename": "rigol_dho824_mcp-0.1.130.tar.gz",
-  "download_time": "2025-10-31T21:16:59.246084",
+  "download_filename": "rigol_dho824_mcp-0.1.133.tar.gz",
+  "download_time": "2025-10-31T21:53:01.503897",
   "package_url": "https://pypi.org/project/rigol-dho824-mcp/"
 }

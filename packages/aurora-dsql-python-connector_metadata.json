@@ -1,11 +1,11 @@
 {
   "name": "aurora-dsql-python-connector",
-  "version": "0.0.2",
-  "summary": "Aurora DSQL Connector for Python",
-  "author": "Amazon Web Services",
-  "license": "Apache License 2.0",
+  "version": "0.1.0",
+  "summary": "A connector that integrates IAM Authentication for connecting Python applications to Amazon Aurora DSQL clusters",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "aurora_dsql_python_connector-0.0.2.tar.gz",
-  "download_time": "2025-10-31T17:49:33.311096",
+  "download_filename": "aurora_dsql_python_connector-0.1.0.tar.gz",
+  "download_time": "2025-10-31T21:52:50.518882",
   "package_url": "https://pypi.org/project/aurora-dsql-python-connector/"
 }

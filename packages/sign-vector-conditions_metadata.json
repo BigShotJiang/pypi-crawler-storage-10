@@ -1,0 +1,11 @@
+{
+  "name": "sign-vector-conditions",
+  "version": "2.0",
+  "summary": "a SageMath package to work with sign vector conditions for chemical reaction networks",
+  "author": "Marcus S. Aichmayr",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MarcusAichmayr/sign_vector_conditions",
+  "download_filename": "sign_vector_conditions-2.0.tar.gz",
+  "download_time": "2025-10-31T21:52:57.098315",
+  "package_url": "https://pypi.org/project/sign-vector-conditions/"
+}
