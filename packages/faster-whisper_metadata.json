@@ -1,0 +1,11 @@
+{
+  "name": "faster-whisper",
+  "version": "1.2.1",
+  "summary": "Faster Whisper transcription with CTranslate2",
+  "author": "Guillaume Klein",
+  "license": "MIT",
+  "home_page": "https://github.com/SYSTRAN/faster-whisper",
+  "download_filename": "faster_whisper-1.2.1-py3-none-any.whl",
+  "download_time": "2025-10-31T11:53:00.921330",
+  "package_url": "https://pypi.org/project/faster-whisper/"
+}

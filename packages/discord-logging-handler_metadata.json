@@ -1,0 +1,11 @@
+{
+  "name": "discord-logging-handler",
+  "version": "0.3.0",
+  "summary": "A logging handler that sends log messages to discord via webhook.",
+  "author": "Moses White",
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_logging_handler-0.3.0.tar.gz",
+  "download_time": "2025-10-31T11:52:43.005189",
+  "package_url": "https://pypi.org/project/discord-logging-handler/"
+}

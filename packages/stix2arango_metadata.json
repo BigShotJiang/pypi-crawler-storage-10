@@ -1,11 +1,11 @@
 {
   "name": "stix2arango",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "stix2arango is a command line tool that takes a group of STIX 2.1 objects in a bundle and inserts them into ArangoDB. It can also handle updates to existing objects in ArangoDB imported in a bundle.",
   "author": "dogesec",
   "license": null,
   "home_page": null,
-  "download_filename": "stix2arango-1.1.5.tar.gz",
-  "download_time": "2025-10-29T10:56:45.097128",
+  "download_filename": "stix2arango-1.1.6.tar.gz",
+  "download_time": "2025-10-31T11:52:48.406568",
   "package_url": "https://pypi.org/project/stix2arango/"
 }
