@@ -1,30 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T22:19:13.416087
-- **Total Packages**: 86
-- **Total Size**: 24.1 MB
+- **Download Time**: 2025-10-31T22:43:33.805192
+- **Total Packages**: 76
+- **Total Size**: 14.03 MB
 
 ## Packages List
+- flaskteroids
+- eqcctpro
+- datamorph-airflow
+- photo-objects
+- sima-cli
+- specpulse
+- sec-company-lookup
+- python-iconv
+- throttlebuster
+- pyproxytools
+- asgikit
+- frozen-ground-fem
+- matplotgl
+- HerdCats
 - curvpyutils
+- yt-dlp
+- dbgear
+- nba-video-generator
+- pysros
+- largonji
+- cheshire-cat-cli
+- pysaunum
+- langchain-azure-ai
+- bw_secrets
+- tokligence
+- plain.scan
+- ncut-pytorch
+- whitepossum
+- steinernet
+- habemus-papadum-gcp
+- mol-dynamics
+- nodestream-plugin-akamai
+- omniopt2
+- timber-common
+- browser-use
+- whai
+- electrotechnics
+- nlsq
+- openevals
 - nautobot-plugin-nornir
 - PyGObject-stubs
-- bw_secrets
 - airfoilplotter
 - campfires
 - funx
 - edison-client
-- omniopt2
 - torchio
 - pypomes-jwt
 - mcp-commons
 - plato-sdk
 - frame-fwl
-- habemus-papadum-gcp
-- timber-common
 - regula-documentreader-webclient
 - pymodaq_gui
-- electrotechnics
 - pandera-forge
 - torch-c-dlpack-ext
 - lapx
@@ -33,7 +66,6 @@
 - bedrock-agentcore-starter-toolkit
 - risk-network
 - pynintendoparental
-- steinernet
 - anyt
 - umi
 - django-yunohost-integration
@@ -50,45 +82,3 @@
 - pyspark-data-toolkit
 - metacat-client
 - aiinbx
-- nornir-nautobot
-- ramalama
-- webtoolkit
-- gazix
-- onebusaway
-- r2r-mcp
-- vellum-workflow-server
-- winipedia-pyside
-- batplot
-- aurora-dsql-python-connector
-- py-cashify
-- modal
-- tts-webui-extension.log-viewer
-- cucu
-- biology-files
-- harp-proxy
-- nsa-flow
-- multidimio
-- pymammotion
-- sign-vector-conditions
-- lightfm-next
-- apksource
-- axiomos
-- certineq
-- jararaca
-- sign-vectors
-- rigol-dho824-mcp
-- elementary-vectors
-- propelauth-django-rest-framework
-- fudgeo
-- calmlib
-- propelauth-flask
-- gradio-automationbus
-- ai2-scholar-qa
-- git2mind
-- layrz-protocol
-- spytial-diagramming
-- pyG12
-- propelauth-fastapi
-- NEMO-osticket
-- xarray-tensorstore
-- fireworks-livekit

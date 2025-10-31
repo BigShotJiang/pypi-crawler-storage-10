@@ -1,0 +1,11 @@
+{
+  "name": "mol-dynamics",
+  "version": "0.1.2",
+  "summary": "Run GPU and SIMD-accelerated molecular dynamics simulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mol_dynamics-0.1.2-cp310-abi3-win_amd64.whl",
+  "download_time": "2025-10-31T22:43:07.637418",
+  "package_url": "https://pypi.org/project/mol-dynamics/"
+}

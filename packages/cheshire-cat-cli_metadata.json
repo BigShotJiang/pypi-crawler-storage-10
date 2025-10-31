@@ -1,0 +1,11 @@
+{
+  "name": "cheshire-cat-cli",
+  "version": "0.1.0",
+  "summary": "A CLI tool to start your local AI cat server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheshire_cat_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-31T22:43:02.418432",
+  "package_url": "https://pypi.org/project/cheshire-cat-cli/"
+}
