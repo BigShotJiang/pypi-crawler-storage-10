@@ -1,11 +1,11 @@
 {
   "name": "beautysh",
-  "version": "6.3.2",
+  "version": "6.4.1",
   "summary": "A Bash beautifier for the masses.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beautysh-6.3.2.tar.gz",
-  "download_time": "2025-10-30T08:48:54.571922",
+  "download_filename": "beautysh-6.4.1.tar.gz",
+  "download_time": "2025-10-31T17:19:27.515749",
   "package_url": "https://pypi.org/project/beautysh/"
 }

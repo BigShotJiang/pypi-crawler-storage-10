@@ -1,0 +1,11 @@
+{
+  "name": "meltanolabs-tap-github",
+  "version": "1.24.0",
+  "summary": "Singer tap for GitHub, built with the Singer SDK.",
+  "author": "Meltano and Meltano Community",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "meltanolabs_tap_github-1.24.0.tar.gz",
+  "download_time": "2025-10-31T17:19:31.734371",
+  "package_url": "https://pypi.org/project/meltanolabs-tap-github/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gemini-imagen",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "A comprehensive Python wrapper for Google Gemini's image generation and analysis capabilities with S3 and LangSmith integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemini_imagen-0.3.1.tar.gz",
-  "download_time": "2025-10-31T11:52:59.898764",
+  "download_filename": "gemini_imagen-0.3.3.tar.gz",
+  "download_time": "2025-10-31T17:19:56.440747",
   "package_url": "https://pypi.org/project/gemini-imagen/"
 }

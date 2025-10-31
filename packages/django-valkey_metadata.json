@@ -1,0 +1,11 @@
+{
+  "name": "django-valkey",
+  "version": "0.3.2",
+  "summary": "a valkey backend for django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_valkey-0.3.2.tar.gz",
+  "download_time": "2025-10-31T17:19:49.524974",
+  "package_url": "https://pypi.org/project/django-valkey/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imgbasics",
+  "version": "0.4.2",
+  "summary": "Basic image analysis tools (cropping, contour properties, etc.)",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "imgbasics-0.4.2.tar.gz",
+  "download_time": "2025-10-31T17:19:26.994396",
+  "package_url": "https://pypi.org/project/imgbasics/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "erioon",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Erioon Python SDK for seamless interaction with Erioon data services",
   "author": "Zyber Pireci",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "erioon-0.9.1.tar.gz",
-  "download_time": "2025-10-31T11:20:48.921106",
+  "download_filename": "erioon-0.9.2.tar.gz",
+  "download_time": "2025-10-31T17:19:38.358605",
   "package_url": "https://pypi.org/project/erioon/"
 }
