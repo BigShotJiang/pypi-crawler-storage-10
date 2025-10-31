@@ -1,0 +1,11 @@
+{
+  "name": "langcrew-tools",
+  "version": "0.1.2",
+  "summary": "Tool collection for LangCrew - Building multi-agent applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langcrew_tools-0.1.2.tar.gz",
+  "download_time": "2025-10-31T13:22:43.123502",
+  "package_url": "https://pypi.org/project/langcrew-tools/"
+}

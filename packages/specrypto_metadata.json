@@ -1,0 +1,11 @@
+{
+  "name": "specrypto",
+  "version": "1.0.0",
+  "summary": "A powerful mathematical toolkit including number theory, modular arithmetic, matrix operations, and crypto utilities",
+  "author": "S P Ecialise Srinivasan",
+  "license": null,
+  "home_page": "https://github.com/SP-ecialise/specrypto",
+  "download_filename": "specrypto-1.0.0.tar.gz",
+  "download_time": "2025-10-31T13:22:04.698134",
+  "package_url": "https://pypi.org/project/specrypto/"
+}

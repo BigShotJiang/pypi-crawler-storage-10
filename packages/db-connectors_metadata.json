@@ -1,11 +1,11 @@
 {
   "name": "db-connectors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A collection of database and message broker connectors for Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "db_connectors-1.0.0.tar.gz",
-  "download_time": "2025-10-31T12:39:13.166570",
+  "download_filename": "db_connectors-1.1.0.tar.gz",
+  "download_time": "2025-10-31T13:22:12.437381",
   "package_url": "https://pypi.org/project/db-connectors/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "invoke-toolkit",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "summary": "A set of extended APIs for PyInvoke for composable scripts, plugins and richer output",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "invoke_toolkit-0.0.25.tar.gz",
-  "download_time": "2025-10-31T09:44:17.603517",
+  "download_filename": "invoke_toolkit-0.0.26.tar.gz",
+  "download_time": "2025-10-31T13:22:08.477680",
   "package_url": "https://pypi.org/project/invoke-toolkit/"
 }

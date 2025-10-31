@@ -1,0 +1,11 @@
+{
+  "name": "pdfdrive-api",
+  "version": "0.1.0",
+  "summary": "Search and download ebooks from pdfdrive.com.co",
+  "author": "smartwa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfdrive_api-0.1.0.tar.gz",
+  "download_time": "2025-10-31T13:22:11.364146",
+  "package_url": "https://pypi.org/project/pdfdrive-api/"
+}

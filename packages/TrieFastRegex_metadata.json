@@ -1,0 +1,11 @@
+{
+  "name": "TrieFastRegex",
+  "version": "0.1.0",
+  "summary": "A compact regular expression builder from string lists using Trie data structure",
+  "author": "Brandon Callahan",
+  "license": "MIT",
+  "home_page": "https://github.com/brandoncallah/pyTriEX",
+  "download_filename": "triefastregex-0.1.0.tar.gz",
+  "download_time": "2025-10-31T13:22:07.398598",
+  "package_url": "https://pypi.org/project/TrieFastRegex/"
+}
