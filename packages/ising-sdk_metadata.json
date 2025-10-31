@@ -1,11 +1,11 @@
 {
   "name": "ising-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python SDK for Ising Cloud Service",
   "author": "ising",
   "license": null,
   "home_page": "https://github.com/yourname/my_sdk",
-  "download_filename": "ising_sdk-1.0.1-py3-none-any.whl",
-  "download_time": "2025-10-29T09:43:10.304974",
+  "download_filename": "ising_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-31T09:44:27.410363",
   "package_url": "https://pypi.org/project/ising-sdk/"
 }

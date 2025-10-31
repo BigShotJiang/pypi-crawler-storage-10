@@ -1,0 +1,11 @@
+{
+  "name": "langchat",
+  "version": "0.0.1",
+  "summary": "A conversational AI library with vector search capabilities",
+  "author": "LangChat Team",
+  "license": "MIT",
+  "home_page": "https://github.com/neurobrains/langchat",
+  "download_filename": "langchat-0.0.1.tar.gz",
+  "download_time": "2025-10-31T09:44:43.617000",
+  "package_url": "https://pypi.org/project/langchat/"
+}

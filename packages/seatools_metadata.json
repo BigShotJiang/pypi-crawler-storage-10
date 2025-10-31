@@ -1,0 +1,11 @@
+{
+  "name": "seatools",
+  "version": "1.0.46",
+  "summary": "python集成工具包",
+  "author": "dragons96",
+  "license": "MIT license",
+  "home_page": "https://gitee.com/dragons96/seatools",
+  "download_filename": "seatools-1.0.46.tar.gz",
+  "download_time": "2025-10-31T09:44:32.374292",
+  "package_url": "https://pypi.org/project/seatools/"
+}

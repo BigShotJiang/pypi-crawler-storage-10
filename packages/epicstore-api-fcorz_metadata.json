@@ -1,0 +1,11 @@
+{
+  "name": "epicstore-api-fcorz",
+  "version": "0.2.1",
+  "summary": "An API wrapper for Epic Games Store written in Python",
+  "author": "SD4RK",
+  "license": "MIT",
+  "home_page": "https://github.com/fcorz/epicstore_api",
+  "download_filename": "epicstore_api_fcorz-0.2.1.tar.gz",
+  "download_time": "2025-10-31T09:44:32.884265",
+  "package_url": "https://pypi.org/project/epicstore-api-fcorz/"
+}

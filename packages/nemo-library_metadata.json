@@ -1,0 +1,11 @@
+{
+  "name": "nemo-library",
+  "version": "1.6.63",
+  "summary": "A Python library for data management, project automation, and integration with the NEMO cloud solution",
+  "author": "Gunnar Schug",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nemo_library-1.6.63.tar.gz",
+  "download_time": "2025-10-31T09:44:07.809982",
+  "package_url": "https://pypi.org/project/nemo-library/"
+}

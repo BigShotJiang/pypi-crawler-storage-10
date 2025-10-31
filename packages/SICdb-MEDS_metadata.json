@@ -1,0 +1,11 @@
+{
+  "name": "SICdb-MEDS",
+  "version": "0.0.7",
+  "summary": "A template ETL pipeline to extract arbitrary data into the MEDS format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sicdb_meds-0.0.7.tar.gz",
+  "download_time": "2025-10-31T09:44:38.926791",
+  "package_url": "https://pypi.org/project/SICdb-MEDS/"
+}

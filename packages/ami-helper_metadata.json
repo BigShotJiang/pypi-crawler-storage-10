@@ -1,11 +1,11 @@
 {
   "name": "ami-helper",
-  "version": "1.0.0b4",
+  "version": "1.0.0b5",
   "summary": "Commansd to help with MCP and data access with AMI in ATLAS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ami_helper-1.0.0b4.tar.gz",
-  "download_time": "2025-10-31T08:48:14.172566",
+  "download_filename": "ami_helper-1.0.0b5.tar.gz",
+  "download_time": "2025-10-31T09:44:22.003800",
   "package_url": "https://pypi.org/project/ami-helper/"
 }
