@@ -1,0 +1,11 @@
+{
+  "name": "InDelsTopo",
+  "version": "0.1.0",
+  "summary": "A Python package to analyze topological properties of sets of words when their main source of variation are insertions and deletions, using the Insertion Chain Complex framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indelstopo-0.1.0.tar.gz",
+  "download_time": "2025-10-31T23:32:34.169244",
+  "package_url": "https://pypi.org/project/InDelsTopo/"
+}

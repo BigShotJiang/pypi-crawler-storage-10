@@ -1,0 +1,11 @@
+{
+  "name": "discqua",
+  "version": "0.0.1",
+  "summary": "Discussion Quality Aspects",
+  "author": "Nikos Gkoumas",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nikos-Gk/dialogue-quality-measures",
+  "download_filename": "discqua-0.0.1.tar.gz",
+  "download_time": "2025-10-31T23:32:34.682449",
+  "package_url": "https://pypi.org/project/discqua/"
+}

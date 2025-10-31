@@ -1,11 +1,11 @@
 {
   "name": "taskfile-help",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Dynamic Taskfile help generator with automatic grouping and namespace support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "taskfile_help-0.2.6.tar.gz",
-  "download_time": "2025-10-31T06:28:30.708869",
+  "download_filename": "taskfile_help-0.3.0.tar.gz",
+  "download_time": "2025-10-31T23:32:32.110681",
   "package_url": "https://pypi.org/project/taskfile-help/"
 }

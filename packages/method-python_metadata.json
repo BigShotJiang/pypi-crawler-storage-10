@@ -1,0 +1,11 @@
+{
+  "name": "method-python",
+  "version": "2.0.0",
+  "summary": "Python library for the Method API",
+  "author": "Marco del Carmen",
+  "license": "MIT",
+  "home_page": "https://github.com/MethodFi/method-python",
+  "download_filename": "method_python-2.0.0.tar.gz",
+  "download_time": "2025-10-31T23:32:27.958652",
+  "package_url": "https://pypi.org/project/method-python/"
+}

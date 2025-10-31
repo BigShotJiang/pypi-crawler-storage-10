@@ -1,0 +1,11 @@
+{
+  "name": "ankigammon",
+  "version": "1.0.0",
+  "summary": "Convert eXtreme Gammon backgammon analysis into Anki flashcards",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ankigammon-1.0.0.tar.gz",
+  "download_time": "2025-10-31T23:32:27.446986",
+  "package_url": "https://pypi.org/project/ankigammon/"
+}
