@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-31T10:46:28.431543
-- **Total Packages**: 88
-- **Total Size**: 61.19 MB
+- **Download Time**: 2025-10-31T10:56:05.542709
+- **Total Packages**: 91
+- **Total Size**: 36.91 MB
 
 ## Packages List
+- MeUtils
+- wizata-dsapi
+- imgrs
+- spec-driver
+- computemate
+- ewccli
+- bimdata-api-client
+- snakemake-interface-report-plugins
+- mypippakage
+- agentmake
+- idxr
+- locust-cloud
+- mtcli-volume
+- ai-signal
+- resfo-utilities
+- pyarmor
+- luckytools
+- better-nested-serializer
+- cartographer3d-plugin
+- StereoMolGraph
+- pixelgen-pixelator
+- pyarchinit-mini
+- wisefood
+- satelles
+- pyeqx-core
+- pyarmor.cli
+- mesh2vec
+- txt2detection
+- protostack
+- itkdb-gtk
+- mysingle
+- lazy-mysql
+- bizyengine
+- pyarmor.cli.core.windows
+- pybibtexer
+- parquool
+- konduktor-nightly
+- pyarmor.cli.core.themida
+- iplotx
+- kernels
+- halal-image-downloader
 - trainy-policy-nightly
 - pyarmor.cli.core.linux
 - whisper-tools
@@ -15,7 +56,6 @@
 - mcrnmf
 - transpiler-mate
 - digichem-core
-- luckytools
 - pyarmor.cli.core.darwin
 - pyarmor.cli.core.cygwin
 - treqs-ng
@@ -28,7 +68,6 @@
 - nvidia-lm-eval
 - nextfempy
 - edalize
-- wisefood
 - gresecml
 - blog-uploader
 - markupever
@@ -58,39 +97,3 @@
 - assembly-uploader
 - robust-mixed-dist
 - seatools-codegen-uv
-- digitalhub
-- pico-report
-- haystack-experimental
-- linkup-sdk
-- cribl-control-plane
-- flag-gems
-- fb-tools
-- video-format-converter-mcp
-- vllm-rbln
-- apolo-kube-client
-- ansys-mapdl-core
-- mikufetch
-- optimum-rbln
-- rebrandly-otel
-- jndataset-down
-- hetudb
-- JL-helper-functions
-- vib-analysis
-- miggy
-- stempeg
-- drafteleu
-- bizyairsdk
-- visier-platform-sdk
-- qrisp
-- mirlib
-- mir-python
-- eccodeslib
-- atlaslib-ecmwf
-- most-client
-- iflow-mcp_nacos-mcp-server
-- django-allauth
-- sws-spark-dissemination-helper
-- debiai-gui
-- fckitlib
-- eckitlib
-- nuplan-devkit

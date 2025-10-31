@@ -1,11 +1,11 @@
 {
   "name": "spec-driver",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Specification-driven development toolkit with multi-language spec sync and documentation generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spec_driver-0.2.0.tar.gz",
-  "download_time": "2025-10-30T16:51:37.780235",
+  "download_filename": "spec_driver-0.2.1.tar.gz",
+  "download_time": "2025-10-31T10:55:19.100274",
   "package_url": "https://pypi.org/project/spec-driver/"
 }

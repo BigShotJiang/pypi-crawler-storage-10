@@ -1,0 +1,11 @@
+{
+  "name": "kernels",
+  "version": "0.11.0",
+  "summary": "Download compute kernels",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kernels-0.11.0.tar.gz",
+  "download_time": "2025-10-31T10:55:38.444787",
+  "package_url": "https://pypi.org/project/kernels/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.cli.core.windows",
+  "version": "8.1.0",
+  "summary": "Provide pre-built extension modules `pytransform3` and `pyarmor_runtime` for Pyarmor",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_cli_core_windows-8.1.0-cp310-none-any.whl",
+  "download_time": "2025-10-31T10:55:34.715455",
+  "package_url": "https://pypi.org/project/pyarmor.cli.core.windows/"
+}

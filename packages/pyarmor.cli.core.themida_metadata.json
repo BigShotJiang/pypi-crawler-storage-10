@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.cli.core.themida",
+  "version": "8.1.0",
+  "summary": "Provide pre-built extension module `pyarmor_runtime` protected by Themida for Pyarmor",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_cli_core_themida-8.1.0-cp310-none-any.whl",
+  "download_time": "2025-10-31T10:55:37.379725",
+  "package_url": "https://pypi.org/project/pyarmor.cli.core.themida/"
+}
