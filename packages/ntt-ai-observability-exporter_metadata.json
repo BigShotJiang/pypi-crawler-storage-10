@@ -1,0 +1,11 @@
+{
+  "name": "ntt-ai-observability-exporter",
+  "version": "0.2.9",
+  "summary": "NTT AI Observability Exporter for Azure Monitor OpenTelemetry in AI Foundry projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ntt_ai_observability_exporter-0.2.9.tar.gz",
+  "download_time": "2025-10-31T05:20:07.399035",
+  "package_url": "https://pypi.org/project/ntt-ai-observability-exporter/"
+}

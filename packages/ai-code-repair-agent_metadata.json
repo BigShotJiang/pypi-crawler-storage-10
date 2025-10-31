@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-repair-agent",
+  "version": "1.1.0",
+  "summary": "An AI agent that automatically detects, diagnoses, and fixes bugs in Python scripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_code_repair_agent-1.1.0.tar.gz",
+  "download_time": "2025-10-31T05:20:07.968842",
+  "package_url": "https://pypi.org/project/ai-code-repair-agent/"
+}

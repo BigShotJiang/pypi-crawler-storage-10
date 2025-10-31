@@ -1,11 +1,11 @@
 {
   "name": "localtranscribe",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "Privacy-first audio transcription with speaker diarization, labeling, and context-aware proofreading. Entirely offline.",
   "author": "LocalTranscribe Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localtranscribe-3.1.1.tar.gz",
-  "download_time": "2025-10-31T04:35:21.131250",
+  "download_filename": "localtranscribe-3.1.2.tar.gz",
+  "download_time": "2025-10-31T05:20:24.770992",
   "package_url": "https://pypi.org/project/localtranscribe/"
 }

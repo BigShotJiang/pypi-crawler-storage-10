@@ -1,0 +1,11 @@
+{
+  "name": "apphelpers",
+  "version": "0.99.1",
+  "summary": "Common helper libraries for Python Apps",
+  "author": "Scroll Tech",
+  "license": "MIT license",
+  "home_page": "https://github.com/scrolltech/apphelpers",
+  "download_filename": "apphelpers-0.99.1.tar.gz",
+  "download_time": "2025-10-31T05:20:00.806614",
+  "package_url": "https://pypi.org/project/apphelpers/"
+}

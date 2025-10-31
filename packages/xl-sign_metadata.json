@@ -1,11 +1,11 @@
 {
   "name": "xl-sign",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "xilong esign library for single-party contract signing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xl_sign-0.1.0.tar.gz",
-  "download_time": "2025-10-31T04:55:45.615564",
+  "download_filename": "xl_sign-0.1.3.tar.gz",
+  "download_time": "2025-10-31T05:20:22.577441",
   "package_url": "https://pypi.org/project/xl-sign/"
 }

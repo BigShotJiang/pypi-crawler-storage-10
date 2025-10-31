@@ -1,11 +1,11 @@
 {
   "name": "aenet-gpr",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "Atomistic simulation tools based on Gaussian Processes Regression",
   "author": "In Won Yeu",
   "license": "MPL-2.0",
   "home_page": "https://github.com/atomisticnet/aenet-gpr",
-  "download_filename": "aenet_gpr-3.3.0.tar.gz",
-  "download_time": "2025-10-31T04:35:09.245593",
+  "download_filename": "aenet_gpr-3.3.1.tar.gz",
+  "download_time": "2025-10-31T05:20:10.124203",
   "package_url": "https://pypi.org/project/aenet-gpr/"
 }

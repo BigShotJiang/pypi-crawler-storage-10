@@ -1,0 +1,11 @@
+{
+  "name": "lh-tool",
+  "version": "1.13.0",
+  "summary": "A tool package",
+  "author": "lh9171338",
+  "license": null,
+  "home_page": "https://github.com/lh9171338/lh-tool",
+  "download_filename": "lh_tool-1.13.0.tar.gz",
+  "download_time": "2025-10-31T05:20:19.983756",
+  "package_url": "https://pypi.org/project/lh-tool/"
+}
