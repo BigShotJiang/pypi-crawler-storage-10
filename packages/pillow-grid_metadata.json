@@ -1,11 +1,11 @@
 {
   "name": "pillow-grid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple Python package for creating image grids with PIL (Pillow)",
   "author": "Danila Berezin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pillow_grid-0.1.1.tar.gz",
-  "download_time": "2025-10-31T11:20:51.663593",
+  "download_filename": "pillow_grid-0.1.2.tar.gz",
+  "download_time": "2025-10-31T11:41:58.909219",
   "package_url": "https://pypi.org/project/pillow-grid/"
 }
