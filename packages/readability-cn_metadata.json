@@ -1,11 +1,11 @@
 {
   "name": "readability-cn",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "计算中文文本可读性指标",
   "author": "chenryn",
   "license": null,
   "home_page": "http://github.com/chenryn/python-readability-cn",
-  "download_filename": "readability_cn-0.1.6.tar.gz",
-  "download_time": "2025-10-29T10:56:42.803917",
+  "download_filename": "readability_cn-0.2.0.tar.gz",
+  "download_time": "2025-10-31T08:25:22.327844",
   "package_url": "https://pypi.org/project/readability-cn/"
 }

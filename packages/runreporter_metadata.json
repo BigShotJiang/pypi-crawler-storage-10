@@ -1,0 +1,11 @@
+{
+  "name": "runreporter",
+  "version": "0.3.7",
+  "summary": "Library for logging runtime errors and sending execution reports via Telegram and Email",
+  "author": "nosikmov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runreporter-0.3.7.tar.gz",
+  "download_time": "2025-10-31T08:25:42.790069",
+  "package_url": "https://pypi.org/project/runreporter/"
+}

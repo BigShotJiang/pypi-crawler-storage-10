@@ -1,11 +1,11 @@
 {
   "name": "eq1-core",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "summary": "EQ1 검사 시스템 핵심 라이브러리 - 카메라 제어, 통신, I/O 처리, 딥러닝 추론 기능 제공",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eq1_core-0.2.18.tar.gz",
-  "download_time": "2025-10-30T08:49:21.296281",
+  "download_filename": "eq1_core-0.2.19.tar.gz",
+  "download_time": "2025-10-31T08:25:36.850620",
   "package_url": "https://pypi.org/project/eq1-core/"
 }

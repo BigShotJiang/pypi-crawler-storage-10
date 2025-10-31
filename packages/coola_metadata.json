@@ -1,11 +1,11 @@
 {
   "name": "coola",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Library to check equality between two complex/nested objects",
   "author": "Thibaut Durand",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/durandtibo/coola",
-  "download_filename": "coola-0.9.0.tar.gz",
-  "download_time": "2025-10-30T14:31:51.233221",
+  "download_filename": "coola-0.9.1.tar.gz",
+  "download_time": "2025-10-31T08:25:24.903155",
   "package_url": "https://pypi.org/project/coola/"
 }

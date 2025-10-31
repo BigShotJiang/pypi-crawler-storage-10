@@ -1,0 +1,11 @@
+{
+  "name": "instadective",
+  "version": "1.0.0",
+  "summary": "Instadective is a tool that analyzes your Instagram account to show various useful insights.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "instadective-1.0.0.tar.gz",
+  "download_time": "2025-10-31T08:25:05.519856",
+  "package_url": "https://pypi.org/project/instadective/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "laia-gen-lib",
-  "version": "0.3.30",
+  "version": "0.3.32",
   "summary": "An AI application generator engine",
   "author": "Me",
   "license": null,
   "home_page": null,
-  "download_filename": "laia_gen_lib-0.3.30.tar.gz",
-  "download_time": "2025-10-31T07:24:35.637957",
+  "download_filename": "laia_gen_lib-0.3.32.tar.gz",
+  "download_time": "2025-10-31T08:25:22.838641",
   "package_url": "https://pypi.org/project/laia-gen-lib/"
 }
