@@ -1,0 +1,11 @@
+{
+  "name": "mcp-image-super-resolution",
+  "version": "0.1.0",
+  "summary": "MCP服务器：图像超分辨率工具，提供AI图像放大和清晰度增强功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_image_super_resolution-0.1.0.tar.gz",
+  "download_time": "2025-10-31T07:25:19.352415",
+  "package_url": "https://pypi.org/project/mcp-image-super-resolution/"
+}

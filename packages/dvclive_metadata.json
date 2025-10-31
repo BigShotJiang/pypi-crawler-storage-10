@@ -1,0 +1,11 @@
+{
+  "name": "dvclive",
+  "version": "3.49.0",
+  "summary": "Experiments logger for ML projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvclive-3.49.0.tar.gz",
+  "download_time": "2025-10-31T07:24:43.583340",
+  "package_url": "https://pypi.org/project/dvclive/"
+}

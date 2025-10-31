@@ -1,0 +1,11 @@
+{
+  "name": "stepwright",
+  "version": "1.0.0",
+  "summary": "A powerful web scraping library built with Playwright that provides a declarative, step-by-step approach to web automation and data extraction",
+  "author": "Muhammad Umer Farooq",
+  "license": null,
+  "home_page": "https://github.com/lablnet/stepwright",
+  "download_filename": "stepwright-1.0.0.tar.gz",
+  "download_time": "2025-10-31T07:25:03.463336",
+  "package_url": "https://pypi.org/project/stepwright/"
+}

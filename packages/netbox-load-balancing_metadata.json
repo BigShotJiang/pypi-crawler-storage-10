@@ -1,0 +1,11 @@
+{
+  "name": "netbox-load-balancing",
+  "version": "1.2.1",
+  "summary": "NetBox Load Balancing is a NetBox plugin that models a Load Balancing service based on the OpenStack SLB modelling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_load_balancing-1.2.1.tar.gz",
+  "download_time": "2025-10-31T07:24:36.242641",
+  "package_url": "https://pypi.org/project/netbox-load-balancing/"
+}

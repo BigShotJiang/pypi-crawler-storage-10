@@ -1,0 +1,11 @@
+{
+  "name": "publish-tar",
+  "version": "2.3.0",
+  "summary": "publish test results to tar.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "publish_tar-2.3.0.tar.gz",
+  "download_time": "2025-10-31T07:25:22.254488",
+  "package_url": "https://pypi.org/project/publish-tar/"
+}

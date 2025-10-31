@@ -1,0 +1,11 @@
+{
+  "name": "yacy-mcp",
+  "version": "0.1.0",
+  "summary": "MCP (Model Context Protocol) Server implementation that provides AI tools to search using YaCy web search API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yacy_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-31T07:25:12.407075",
+  "package_url": "https://pypi.org/project/yacy-mcp/"
+}
