@@ -1,0 +1,11 @@
+{
+  "name": "dpckan",
+  "version": "0.1.23",
+  "summary": "Funções para gestão de pacotes de dados no portal dados.mg.gov.br",
+  "author": "CONTROLADORIA GERAL DO ESTADO DE MINAS GERAIS - CGE/MG",
+  "license": null,
+  "home_page": "https://github.com/dados-mg/dpkgckanmg",
+  "download_filename": "dpckan-0.1.23-py3-none-any.whl",
+  "download_time": "2025-10-31T17:49:41.673599",
+  "package_url": "https://pypi.org/project/dpckan/"
+}

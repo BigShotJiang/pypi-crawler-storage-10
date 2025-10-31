@@ -1,0 +1,11 @@
+{
+  "name": "physics-tenpy",
+  "version": "1.0.7",
+  "summary": "Simulation of quantum many-body systems with tensor networks in Python",
+  "author": "TeNPy Developer Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physics_tenpy-1.0.7.tar.gz",
+  "download_time": "2025-10-31T17:49:44.308271",
+  "package_url": "https://pypi.org/project/physics-tenpy/"
+}

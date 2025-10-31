@@ -1,0 +1,11 @@
+{
+  "name": "mrfmsim",
+  "version": "0.4.0",
+  "summary": "Simulate magnetic resonance force microscopy experiments.",
+  "author": "Peter Sun",
+  "license": null,
+  "home_page": "https://www.github.com/Marohn-Group/mrfmsim",
+  "download_filename": "mrfmsim-0.4.0.tar.gz",
+  "download_time": "2025-10-31T17:49:57.739723",
+  "package_url": "https://pypi.org/project/mrfmsim/"
+}

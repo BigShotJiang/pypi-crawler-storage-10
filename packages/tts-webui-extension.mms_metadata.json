@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.mms",
+  "version": "0.0.5",
+  "summary": "MMS (Massively Multilingual Speech) is a text-to-speech model supporting over 1000 languages",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tts_webui_extension_mms-0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-31T17:50:04.407521",
+  "package_url": "https://pypi.org/project/tts-webui-extension.mms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sayi",
+  "version": "0.1.0",
+  "summary": "Sayi - A Vue.js-like framework for Python. Complete ecosystem installer.",
+  "author": "gedeon kayembe",
+  "license": "MIT",
+  "home_page": "https://github.com/sayijs/sayi",
+  "download_filename": "sayi-0.1.0.tar.gz",
+  "download_time": "2025-10-31T17:49:38.492323",
+  "package_url": "https://pypi.org/project/sayi/"
+}

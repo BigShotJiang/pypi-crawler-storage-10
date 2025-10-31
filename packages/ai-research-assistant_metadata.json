@@ -1,11 +1,11 @@
 {
   "name": "ai-research-assistant",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "AI-powered research assistant using LangGraph",
   "author": "Christian Contreras Campana",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_research_assistant-0.1.5.tar.gz",
-  "download_time": "2025-10-31T17:19:46.239915",
+  "download_filename": "ai_research_assistant-0.1.7.tar.gz",
+  "download_time": "2025-10-31T17:49:18.637865",
   "package_url": "https://pypi.org/project/ai-research-assistant/"
 }

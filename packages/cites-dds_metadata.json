@@ -1,11 +1,11 @@
 {
   "name": "cites-dds",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "CITES DDS factory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cites_dds-1.2.0.tar.gz",
-  "download_time": "2025-10-28T15:21:49.612900",
+  "download_filename": "cites_dds-1.2.2.tar.gz",
+  "download_time": "2025-10-31T17:50:02.365302",
   "package_url": "https://pypi.org/project/cites-dds/"
 }
