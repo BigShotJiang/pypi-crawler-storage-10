@@ -1,11 +1,11 @@
 {
   "name": "reg-my-ip-core",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "A small package targeting to help on python project packaging process",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reg_my_ip_core-0.0.12.tar.gz",
-  "download_time": "2025-10-31T08:48:49.788071",
+  "download_filename": "reg_my_ip_core-0.0.14.tar.gz",
+  "download_time": "2025-10-31T09:21:29.989463",
   "package_url": "https://pypi.org/project/reg-my-ip-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "probabilit",
+  "version": "0.2.0",
+  "summary": "A Python package for Monte Carlo sampling.",
+  "author": "Tommy, Knut, Feda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "probabilit-0.2.0.tar.gz",
+  "download_time": "2025-10-31T09:21:54.449341",
+  "package_url": "https://pypi.org/project/probabilit/"
+}

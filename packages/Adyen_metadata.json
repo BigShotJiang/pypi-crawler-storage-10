@@ -1,0 +1,11 @@
+{
+  "name": "Adyen",
+  "version": "14.0.0",
+  "summary": "Adyen Python Api",
+  "author": "Adyen",
+  "license": null,
+  "home_page": "https://github.com/Adyen/adyen-python-api-library",
+  "download_filename": "adyen-14.0.0.tar.gz",
+  "download_time": "2025-10-31T09:21:24.808239",
+  "package_url": "https://pypi.org/project/Adyen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cognite-typed-functions",
-  "version": "0.3.2.post18.dev0",
+  "version": "0.3.2.post21.dev0",
   "summary": "FastAPI-style framework for building type-safe Cognite Functions with automatic OpenAPI schema generation and MCP integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cognite_typed_functions-0.3.2.post18.dev0.tar.gz",
-  "download_time": "2025-10-30T16:23:47.982978",
+  "download_filename": "cognite_typed_functions-0.3.2.post21.dev0.tar.gz",
+  "download_time": "2025-10-31T09:21:14.828548",
   "package_url": "https://pypi.org/project/cognite-typed-functions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyslurm-prometheus-exporter",
+  "version": "0.1.2",
+  "summary": "基于PySlurm的Prometheus Exporter SDK",
+  "author": "PySlurm Contributors",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "pyslurm_prometheus_exporter-0.1.2.tar.gz",
+  "download_time": "2025-10-31T09:21:27.941990",
+  "package_url": "https://pypi.org/project/pyslurm-prometheus-exporter/"
+}

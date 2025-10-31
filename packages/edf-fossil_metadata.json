@@ -1,0 +1,11 @@
+{
+  "name": "edf-fossil",
+  "version": "1.0.0",
+  "summary": "A post-mortem analysis tool for raw disk images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edf_fossil-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-31T09:21:17.630427",
+  "package_url": "https://pypi.org/project/edf-fossil/"
+}

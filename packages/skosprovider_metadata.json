@@ -1,0 +1,11 @@
+{
+  "name": "skosprovider",
+  "version": "1.3.0",
+  "summary": "Abstraction layer for SKOS vocabularies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skosprovider-1.3.0.tar.gz",
+  "download_time": "2025-10-31T09:21:40.796748",
+  "package_url": "https://pypi.org/project/skosprovider/"
+}

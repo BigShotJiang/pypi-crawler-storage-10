@@ -1,11 +1,11 @@
 {
   "name": "timeback",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python client for the TimeBack API (OneRoster 1.2 implementation)",
   "author": "Casey Schmid",
   "license": null,
   "home_page": null,
-  "download_filename": "timeback-0.1.2.tar.gz",
-  "download_time": "2025-10-30T14:46:57.651452",
+  "download_filename": "timeback-0.1.3.tar.gz",
+  "download_time": "2025-10-31T09:21:37.710257",
   "package_url": "https://pypi.org/project/timeback/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dbanu",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "FastAPI SQL Query Engine",
   "author": "gofrendi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbanu-0.0.7.tar.gz",
-  "download_time": "2025-10-27T09:44:30.373656",
+  "download_filename": "dbanu-0.0.9.tar.gz",
+  "download_time": "2025-10-31T09:21:30.502105",
   "package_url": "https://pypi.org/project/dbanu/"
 }

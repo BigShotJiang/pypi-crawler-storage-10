@@ -1,11 +1,11 @@
 {
   "name": "grimoire-elk",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "GrimoireELK processes and stores software development data to ElasticSearch",
   "author": "GrimoireLab Developers",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/chaoss/grimoirelab-elk",
-  "download_filename": "grimoire_elk-1.5.0.tar.gz",
-  "download_time": "2025-10-30T17:17:58.394268",
+  "download_filename": "grimoire_elk-1.5.1.tar.gz",
+  "download_time": "2025-10-31T09:21:25.325994",
   "package_url": "https://pypi.org/project/grimoire-elk/"
 }

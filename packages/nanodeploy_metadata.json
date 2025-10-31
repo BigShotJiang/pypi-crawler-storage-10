@@ -1,0 +1,11 @@
+{
+  "name": "nanodeploy",
+  "version": "0.1.0",
+  "summary": "Declarative package & configuration manager aimed to be Distribution Independent",
+  "author": "pauljako",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanodeploy-0.1.0.tar.gz",
+  "download_time": "2025-10-31T09:21:50.868889",
+  "package_url": "https://pypi.org/project/nanodeploy/"
+}

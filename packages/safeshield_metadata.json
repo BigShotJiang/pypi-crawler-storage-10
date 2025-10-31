@@ -1,0 +1,11 @@
+{
+  "name": "safeshield",
+  "version": "1.6.4",
+  "summary": "Library for Help Validation Control",
+  "author": "Wunsun Tarniho",
+  "license": null,
+  "home_page": "https://github.com/WunsunTarniho/py-guard",
+  "download_filename": "safeshield-1.6.4.tar.gz",
+  "download_time": "2025-10-31T09:21:42.472611",
+  "package_url": "https://pypi.org/project/safeshield/"
+}
