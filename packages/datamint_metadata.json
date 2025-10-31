@@ -1,11 +1,11 @@
 {
   "name": "datamint",
-  "version": "2.3.5",
+  "version": "2.4.1",
   "summary": "A library for interacting with the Datamint API, designed for efficient data management, processing and Deep Learning workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datamint-2.3.5.tar.gz",
-  "download_time": "2025-10-27T16:22:43.666217",
+  "download_filename": "datamint-2.4.1.tar.gz",
+  "download_time": "2025-10-31T10:46:06.125293",
   "package_url": "https://pypi.org/project/datamint/"
 }

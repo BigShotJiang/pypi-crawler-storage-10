@@ -1,0 +1,11 @@
+{
+  "name": "adabmDCA",
+  "version": "0.6.0",
+  "summary": "Python implementation of Direct Coupling Analysis",
+  "author": "Lorenzo Rosset, Roberto Netti, Anna Paola Muntoni, Francesco Zamponi, Martin Weigt",
+  "license": null,
+  "home_page": "https://github.com/spqb/adabmDCA",
+  "download_filename": "adabmdca-0.6.0.tar.gz",
+  "download_time": "2025-10-31T10:45:48.972278",
+  "package_url": "https://pypi.org/project/adabmDCA/"
+}

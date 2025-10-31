@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.cli.core",
+  "version": "8.1.0",
+  "summary": "Provide extension module pytransform3 for Pyarmor",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_cli_core-8.1.0.tar.gz",
+  "download_time": "2025-10-31T10:46:00.647927",
+  "package_url": "https://pypi.org/project/pyarmor.cli.core/"
+}

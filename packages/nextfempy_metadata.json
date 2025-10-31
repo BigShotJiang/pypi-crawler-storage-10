@@ -1,0 +1,11 @@
+{
+  "name": "nextfempy",
+  "version": "0.3.4",
+  "summary": "NextFEM REST API wrapper in pure Python",
+  "author": "NextFEM",
+  "license": "MIT",
+  "home_page": "https://github.com/NextFEM/NextFEMpy",
+  "download_filename": "nextfempy-0.3.4.tar.gz",
+  "download_time": "2025-10-31T10:45:50.949534",
+  "package_url": "https://pypi.org/project/nextfempy/"
+}

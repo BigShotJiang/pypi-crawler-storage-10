@@ -1,0 +1,11 @@
+{
+  "name": "seatools-codegen-uv",
+  "version": "1.0.13",
+  "summary": "Cookiecutter-seatools-python 代码生成拓展包",
+  "author": "dragons96",
+  "license": "MIT license",
+  "home_page": "https://gitee.com/seatools-py/seatools-codegen/tree/uv/",
+  "download_filename": "seatools_codegen_uv-1.0.13.tar.gz",
+  "download_time": "2025-10-31T10:46:08.255690",
+  "package_url": "https://pypi.org/project/seatools-codegen-uv/"
+}

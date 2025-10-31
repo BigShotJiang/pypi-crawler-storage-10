@@ -1,11 +1,11 @@
 {
   "name": "stempeg",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Read and write stem/multistream audio files",
   "author": "Fabian-Robert Stoeter",
   "license": null,
   "home_page": "http://github.com/faroit/stempeg",
-  "download_filename": "stempeg-0.2.5.tar.gz",
-  "download_time": "2025-10-31T10:20:59.594053",
+  "download_filename": "stempeg-0.2.6.tar.gz",
+  "download_time": "2025-10-31T10:46:19.662066",
   "package_url": "https://pypi.org/project/stempeg/"
 }

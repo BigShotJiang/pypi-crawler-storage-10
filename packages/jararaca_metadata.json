@@ -1,11 +1,11 @@
 {
   "name": "jararaca",
-  "version": "0.3.18",
+  "version": "0.3.21",
   "summary": "A simple and fast API framework for Python",
   "author": "Lucas S",
   "license": null,
   "home_page": "https://github.com/LuscasLeo/jararaca",
-  "download_filename": "jararaca-0.3.18.tar.gz",
-  "download_time": "2025-10-29T04:48:23.596607",
+  "download_filename": "jararaca-0.3.21.tar.gz",
+  "download_time": "2025-10-31T10:45:55.790272",
   "package_url": "https://pypi.org/project/jararaca/"
 }
