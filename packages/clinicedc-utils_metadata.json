@@ -1,11 +1,11 @@
 {
   "name": "clinicedc-utils",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Add your description here",
   "author": "Erik van Widenfelt",
   "license": null,
   "home_page": null,
-  "download_filename": "clinicedc_utils-0.4.0.tar.gz",
-  "download_time": "2025-10-29T03:03:47.737581",
+  "download_filename": "clinicedc_utils-0.5.0.tar.gz",
+  "download_time": "2025-10-31T02:57:54.191275",
   "package_url": "https://pypi.org/project/clinicedc-utils/"
 }

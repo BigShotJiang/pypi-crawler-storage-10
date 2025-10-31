@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-spread-by-tag",
+  "version": "18.0.1.0.0.6",
+  "summary": "Account Analytic Spread by Tag",
+  "author": "Miquel Alzanillas (APSL-Nagarro), Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_spread_by_tag-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-10-31T02:57:55.733173",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-spread-by-tag/"
+}

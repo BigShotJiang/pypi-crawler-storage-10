@@ -1,0 +1,11 @@
+{
+  "name": "SCALECAST",
+  "version": "0.19.11",
+  "summary": "The practitioner's time series forecasting library",
+  "author": "Michael Keith",
+  "license": "MIT",
+  "home_page": "https://github.com/mikekeith52/scalecast",
+  "download_filename": "scalecast-0.19.11.tar.gz",
+  "download_time": "2025-10-31T02:57:33.484096",
+  "package_url": "https://pypi.org/project/SCALECAST/"
+}
