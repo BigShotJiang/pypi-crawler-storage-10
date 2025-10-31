@@ -1,11 +1,11 @@
 {
   "name": "opaiui",
-  "version": "0.14.1",
+  "version": "0.14.3",
   "summary": "Opinionated Pydantic.AI User Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opaiui-0.14.1.tar.gz",
-  "download_time": "2025-10-29T14:19:40.498174",
+  "download_filename": "opaiui-0.14.3.tar.gz",
+  "download_time": "2025-10-31T18:52:00.187471",
   "package_url": "https://pypi.org/project/opaiui/"
 }

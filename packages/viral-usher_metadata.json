@@ -1,0 +1,11 @@
+{
+  "name": "viral-usher",
+  "version": "0.10.0",
+  "summary": "Easily configure and run a pipeline to build a tree of virus genomes using UShER",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viral_usher-0.10.0.tar.gz",
+  "download_time": "2025-10-31T18:52:18.368182",
+  "package_url": "https://pypi.org/project/viral-usher/"
+}

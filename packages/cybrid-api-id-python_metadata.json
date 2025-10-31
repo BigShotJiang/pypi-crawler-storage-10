@@ -1,11 +1,11 @@
 {
   "name": "cybrid-api-id-python",
-  "version": "0.125.114",
+  "version": "0.125.115",
   "summary": "Cybrid Identity API",
   "author": "Cybrid Support",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Cybrid-app/cybrid-api-id-python/",
-  "download_filename": "cybrid_api_id_python-0.125.114.tar.gz",
-  "download_time": "2025-10-31T17:20:00.240181",
+  "download_filename": "cybrid_api_id_python-0.125.115.tar.gz",
+  "download_time": "2025-10-31T18:52:15.220710",
   "package_url": "https://pypi.org/project/cybrid-api-id-python/"
 }

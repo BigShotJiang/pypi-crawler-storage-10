@@ -1,0 +1,11 @@
+{
+  "name": "KickApi",
+  "version": "0.3.7",
+  "summary": "A Python package for interacting with the Kick API to retrieve channel and video data.",
+  "author": "Enmn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kickapi-0.3.7.tar.gz",
+  "download_time": "2025-10-31T18:52:14.666057",
+  "package_url": "https://pypi.org/project/KickApi/"
+}

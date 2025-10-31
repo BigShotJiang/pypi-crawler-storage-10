@@ -1,0 +1,11 @@
+{
+  "name": "nextflowpy",
+  "version": "0.12.1",
+  "summary": "A Python wrapper around Nextflow.",
+  "author": "Sam Ireland",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/goodwright/nextflow.py",
+  "download_filename": "nextflowpy-0.12.1-py3-none-any.whl",
+  "download_time": "2025-10-31T18:52:31.549789",
+  "package_url": "https://pypi.org/project/nextflowpy/"
+}

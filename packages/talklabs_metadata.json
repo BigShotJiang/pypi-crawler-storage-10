@@ -1,11 +1,11 @@
 {
   "name": "talklabs",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "summary": "TalkLabs SDK - Ultra-low latency Text-to-Speech with intelligent streaming and persistent sessions (ElevenLabs compatible)",
   "author": "Francisco Lima",
   "license": "MIT",
   "home_page": "https://talklabs.com.br",
-  "download_filename": "talklabs-2.1.0.tar.gz",
-  "download_time": "2025-10-31T18:27:10.700280",
+  "download_filename": "talklabs-2.1.2.tar.gz",
+  "download_time": "2025-10-31T18:52:08.788849",
   "package_url": "https://pypi.org/project/talklabs/"
 }

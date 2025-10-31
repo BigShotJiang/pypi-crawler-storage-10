@@ -1,11 +1,11 @@
 {
   "name": "timber-common",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Configuration-driven persistence library with automatic encryption, caching, vector search, and GDPR compliance for Python applications",
   "author": "Pumulo Sikaneta",
   "license": "MIT",
   "home_page": "https://github.com/pumulo/timber-common",
-  "download_filename": "timber_common-0.1.8.tar.gz",
-  "download_time": "2025-10-31T18:27:20.373642",
+  "download_filename": "timber_common-0.1.10.tar.gz",
+  "download_time": "2025-10-31T18:51:59.620424",
   "package_url": "https://pypi.org/project/timber-common/"
 }
