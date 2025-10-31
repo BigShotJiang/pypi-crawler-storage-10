@@ -1,11 +1,11 @@
 {
   "name": "pypomes-jwt",
-  "version": "1.3.9",
+  "version": "1.4.0",
   "summary": "A collection of Python pomes, penyeach (JWT module)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_jwt-1.3.9.tar.gz",
-  "download_time": "2025-10-31T16:50:06.035612",
+  "download_filename": "pypomes_jwt-1.4.0.tar.gz",
+  "download_time": "2025-10-31T22:18:32.516647",
   "package_url": "https://pypi.org/project/pypomes-jwt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tokenwise-optimizer",
+  "version": "1.0.0",
+  "summary": "Smart Context Optimization for LLMs - Reduce tokens by 70-90%",
+  "author": "TokenWise Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Naseem77/tokenWise",
+  "download_filename": "tokenwise_optimizer-1.0.0.tar.gz",
+  "download_time": "2025-10-31T22:18:44.891009",
+  "package_url": "https://pypi.org/project/tokenwise-optimizer/"
+}

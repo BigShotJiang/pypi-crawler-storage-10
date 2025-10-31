@@ -1,0 +1,11 @@
+{
+  "name": "PyGObject-stubs",
+  "version": "2.14.0",
+  "summary": "Typing stubs for PyGObject",
+  "author": "Christoph Reiter",
+  "license": "LGPL-2.1",
+  "home_page": null,
+  "download_filename": "pygobject_stubs-2.14.0.tar.gz",
+  "download_time": "2025-10-31T22:18:27.814953",
+  "package_url": "https://pypi.org/project/PyGObject-stubs/"
+}
