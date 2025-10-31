@@ -1,0 +1,11 @@
+{
+  "name": "nlltk",
+  "version": "1.0.0",
+  "summary": "A simple NLP toolkit with functions for plural words, text splitting, stemming, lemmatizing, stop word removal, sentence tokenization, edit distance calculation, n-gram models, bigram probability calculation, Kneser-Ney smoothing, sentiment analysis, text chunking, POS tagging, HMM POS tagging, Named Entity Recognition, Markov Chains, Thematic Role Labeling, PropBank lookup, FrameNet lookup, relation extraction, relation classification, and method listing",
+  "author": "M. Sai Sathvik Raj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlltk-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-31T19:53:13.783108",
+  "package_url": "https://pypi.org/project/nlltk/"
+}

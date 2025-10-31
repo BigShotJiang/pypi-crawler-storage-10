@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-core",
+  "version": "0.40.5",
+  "summary": "Deephaven Engine Python Package",
+  "author": "Deephaven Data Labs",
+  "license": "Deephaven Community License",
+  "home_page": "https://deephaven.io/",
+  "download_filename": "deephaven_core-0.40.5-py3-none-any.whl",
+  "download_time": "2025-10-31T19:52:32.904093",
+  "package_url": "https://pypi.org/project/deephaven-core/"
+}

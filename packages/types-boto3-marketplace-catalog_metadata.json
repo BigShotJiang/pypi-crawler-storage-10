@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-marketplace-catalog",
+  "version": "1.40.64",
+  "summary": "Type annotations for boto3 MarketplaceCatalog 1.40.64 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_marketplace_catalog-1.40.64.tar.gz",
+  "download_time": "2025-10-31T19:52:59.079887",
+  "package_url": "https://pypi.org/project/types-boto3-marketplace-catalog/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-lambda",
-  "version": "1.40.61",
-  "summary": "Type annotations for boto3 Lambda 1.40.61 service generated with mypy-boto3-builder 8.11.0",
+  "version": "1.40.64",
+  "summary": "Type annotations for boto3 Lambda 1.40.64 service generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_boto3_lambda-1.40.61.tar.gz",
-  "download_time": "2025-10-28T19:51:56.829345",
+  "download_filename": "types_boto3_lambda-1.40.64.tar.gz",
+  "download_time": "2025-10-31T19:53:00.146363",
   "package_url": "https://pypi.org/project/types-boto3-lambda/"
 }
