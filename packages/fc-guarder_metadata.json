@@ -1,11 +1,11 @@
 {
   "name": "fc-guarder",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": null,
   "author": "Larry Shen",
   "license": "MIT",
   "home_page": "https://fc.readthedocs.io/",
-  "download_filename": "fc_guarder-0.8.0.tar.gz",
-  "download_time": "2025-10-30T07:21:15.796730",
+  "download_filename": "fc_guarder-0.8.1.tar.gz",
+  "download_time": "2025-10-31T05:53:01.643562",
   "package_url": "https://pypi.org/project/fc-guarder/"
 }

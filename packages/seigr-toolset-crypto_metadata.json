@@ -1,11 +1,11 @@
 {
   "name": "seigr-toolset-crypto",
-  "version": "0.2.1",
-  "summary": "Post-classical cryptographic engine with entropy amplification and multi-path hashing",
+  "version": "0.3.0",
+  "summary": "Post-classical cryptographic engine with adaptive security and entropy health monitoring",
   "author": "Sergi Saldaña-Massó - Seigr Lab",
   "license": null,
   "home_page": "https://github.com/Seigr-lab/SeigrToolsetCrypto",
-  "download_filename": "seigr_toolset_crypto-0.2.1.tar.gz",
-  "download_time": "2025-10-30T11:16:43.162201",
+  "download_filename": "seigr_toolset_crypto-0.3.0.tar.gz",
+  "download_time": "2025-10-31T05:53:07.257517",
   "package_url": "https://pypi.org/project/seigr-toolset-crypto/"
 }
