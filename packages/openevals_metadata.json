@@ -1,0 +1,11 @@
+{
+  "name": "openevals",
+  "version": "0.1.1",
+  "summary": "Open-source evaluators for LLM applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openevals-0.1.1.tar.gz",
+  "download_time": "2025-10-31T20:22:20.056442",
+  "package_url": "https://pypi.org/project/openevals/"
+}

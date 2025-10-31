@@ -1,11 +1,11 @@
 {
   "name": "catocli",
-  "version": "3.0.30",
+  "version": "3.0.31",
   "summary": "Cato Networks cli wrapper for the GraphQL API.",
   "author": "Cato Networks",
   "license": null,
   "home_page": "https://github.com/Cato-Networks/cato-cli",
-  "download_filename": "catocli-3.0.30.tar.gz",
-  "download_time": "2025-10-29T06:54:18.952816",
+  "download_filename": "catocli-3.0.31.tar.gz",
+  "download_time": "2025-10-31T20:22:02.398393",
   "package_url": "https://pypi.org/project/catocli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "NiChart-DLMUSE",
+  "version": "1.0.10",
+  "summary": "Run NiChart_DLMUSE on your data (currently only structural pipeline is supported).",
+  "author": "Guray Erus, Wu Di, Kyunglok Baik, George Aidinis",
+  "license": "By installing/using DLMUSE, the user agrees to the following license: See https://www.med.upenn.edu/cbica/software-agreement-non-commercial.html",
+  "home_page": "https://github.com/CBICA/NiChart_DLMUSE",
+  "download_filename": "nichart_dlmuse-1.0.10.tar.gz",
+  "download_time": "2025-10-31T20:22:27.163646",
+  "package_url": "https://pypi.org/project/NiChart-DLMUSE/"
+}

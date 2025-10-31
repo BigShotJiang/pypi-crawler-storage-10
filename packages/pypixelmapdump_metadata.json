@@ -1,11 +1,11 @@
 {
   "name": "pypixelmapdump",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Python wrapper for Plexon's pixelmapdump utility, enabling querying of PL2 files for probe, bad channel information.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypixelmapdump-0.1.3.tar.gz",
-  "download_time": "2025-10-31T19:52:31.319251",
+  "download_filename": "pypixelmapdump-0.1.5.tar.gz",
+  "download_time": "2025-10-31T20:21:51.693999",
   "package_url": "https://pypi.org/project/pypixelmapdump/"
 }

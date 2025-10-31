@@ -1,0 +1,11 @@
+{
+  "name": "pyklb",
+  "version": "0.3.0",
+  "summary": "Python wrapper for the Keller Lab Block (KLB) file format - high-performance storage for 5D microscopy images",
+  "author": "Burkhard Hoeckendorf",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyklb-0.3.0.tar.gz",
+  "download_time": "2025-10-31T20:22:12.899852",
+  "package_url": "https://pypi.org/project/pyklb/"
+}

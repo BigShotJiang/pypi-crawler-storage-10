@@ -1,0 +1,11 @@
+{
+  "name": "bluesky-queueserver",
+  "version": "0.0.23",
+  "summary": "Server for queueing plans",
+  "author": "Brookhaven National Laboratory",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/bluesky/bluesky-queueserver",
+  "download_filename": "bluesky_queueserver-0.0.23.tar.gz",
+  "download_time": "2025-10-31T20:21:58.901945",
+  "package_url": "https://pypi.org/project/bluesky-queueserver/"
+}

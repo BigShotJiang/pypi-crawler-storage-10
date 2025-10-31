@@ -1,0 +1,11 @@
+{
+  "name": "nauert",
+  "version": "3.31",
+  "summary": "Nauert extends Abjad with tools for rhythm quantization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nauert-3.31.tar.gz",
+  "download_time": "2025-10-31T20:22:26.635816",
+  "package_url": "https://pypi.org/project/nauert/"
+}
