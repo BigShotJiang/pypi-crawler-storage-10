@@ -1,0 +1,11 @@
+{
+  "name": "whaller-client",
+  "version": "0.1.4",
+  "summary": "Python SDK for interacting with the Whaller API",
+  "author": "Whaller",
+  "license": "MIT",
+  "home_page": "https://github.com/whallerfr/client-python",
+  "download_filename": "whaller_client-0.1.4.tar.gz",
+  "download_time": "2025-10-31T13:49:14.682884",
+  "package_url": "https://pypi.org/project/whaller-client/"
+}

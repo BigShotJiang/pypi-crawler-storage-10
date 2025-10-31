@@ -1,0 +1,11 @@
+{
+  "name": "lsr-benchmark",
+  "version": "0.0.1rc5",
+  "summary": "The lsr-benchmark aims to support holisitc evaluations of the lexical sparse retrieval paradigm to contrast efficiency and effectiveness accross diverse retrieval scenarios.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/reneuir/lsr-benchmark",
+  "download_filename": "lsr_benchmark-0.0.1rc5.tar.gz",
+  "download_time": "2025-10-31T13:49:11.534333",
+  "package_url": "https://pypi.org/project/lsr-benchmark/"
+}

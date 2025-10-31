@@ -1,0 +1,11 @@
+{
+  "name": "ssb-timeseries",
+  "version": "0.7.1",
+  "summary": "SSB Timeseries",
+  "author": "Bernhard Ryeng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssb_timeseries-0.7.1.tar.gz",
+  "download_time": "2025-10-31T13:48:41.523702",
+  "package_url": "https://pypi.org/project/ssb-timeseries/"
+}

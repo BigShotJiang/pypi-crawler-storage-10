@@ -1,11 +1,11 @@
 {
   "name": "strique-proto-schema",
-  "version": "32.1.4",
+  "version": "32.1.5",
   "summary": "API contracts and Data Transfer Objects (DTO) in the form of Protocol Buffers for Strique binaries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strique_proto_schema-32.1.4.tar.gz",
-  "download_time": "2025-10-31T07:25:17.032054",
+  "download_filename": "strique_proto_schema-32.1.5.tar.gz",
+  "download_time": "2025-10-31T13:48:47.762135",
   "package_url": "https://pypi.org/project/strique-proto-schema/"
 }

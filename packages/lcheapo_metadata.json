@@ -1,0 +1,11 @@
+{
+  "name": "lcheapo",
+  "version": "2.2",
+  "summary": "LCHEAPO data routines",
+  "author": "Wayne Crawford",
+  "license": null,
+  "home_page": "https://github.com/WayneCrawford/lcheapo",
+  "download_filename": "lcheapo-2.2.tar.gz",
+  "download_time": "2025-10-31T13:49:16.281066",
+  "package_url": "https://pypi.org/project/lcheapo/"
+}

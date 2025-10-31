@@ -1,0 +1,11 @@
+{
+  "name": "tb-rest-client",
+  "version": "4.2.1",
+  "summary": "ThingsBoard REST API client",
+  "author": "ThingsBoard",
+  "license": "Apache-2.0",
+  "home_page": "https://thingsboard.io/docs/reference/python-rest-client/",
+  "download_filename": "tb_rest_client-4.2.1.tar.gz",
+  "download_time": "2025-10-31T13:49:01.097696",
+  "package_url": "https://pypi.org/project/tb-rest-client/"
+}

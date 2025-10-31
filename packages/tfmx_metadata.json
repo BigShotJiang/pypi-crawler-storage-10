@@ -1,0 +1,11 @@
+{
+  "name": "tfmx",
+  "version": "0.1",
+  "summary": "Serve Transformers in one line",
+  "author": "Hansimov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tfmx-0.1.tar.gz",
+  "download_time": "2025-10-31T13:48:48.802999",
+  "package_url": "https://pypi.org/project/tfmx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aura-compression",
-  "version": "1.1.4",
+  "version": "2.0.1",
   "summary": "AI-Optimized Hybrid Compression Protocol for Real-Time Communication",
   "author": "Todd Hendricks",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/hendrixx-cnc/AURA",
-  "download_filename": "aura_compression-1.1.4.tar.gz",
-  "download_time": "2025-10-30T15:56:26.970283",
+  "download_filename": "aura_compression-2.0.1.tar.gz",
+  "download_time": "2025-10-31T13:48:38.900724",
   "package_url": "https://pypi.org/project/aura-compression/"
 }
