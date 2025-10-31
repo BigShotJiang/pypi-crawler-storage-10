@@ -1,11 +1,11 @@
 {
   "name": "CustomModules",
-  "version": "1.0.2",
+  "version": "2.0.4",
   "summary": "A collection of custom Python modules for Discord bots and utilities",
   "author": "Serpensin",
   "license": null,
   "home_page": "https://github.com/Serpensin/CustomModules-Python",
-  "download_filename": "custommodules-1.0.2.tar.gz",
-  "download_time": "2025-10-29T23:18:07.138967",
+  "download_filename": "custommodules-2.0.4.tar.gz",
+  "download_time": "2025-10-31T23:18:51.145912",
   "package_url": "https://pypi.org/project/CustomModules/"
 }

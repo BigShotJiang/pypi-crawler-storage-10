@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client-directquery-snowflake",
+  "version": "0.9.10",
+  "summary": "Code to use DirectQuery on Snowflake",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client_directquery_snowflake-0.9.10-py3-none-any.whl",
+  "download_time": "2025-10-31T23:18:38.774782",
+  "package_url": "https://pypi.org/project/atoti-client-directquery-snowflake/"
+}

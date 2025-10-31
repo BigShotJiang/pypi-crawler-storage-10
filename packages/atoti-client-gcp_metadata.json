@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client-gcp",
+  "version": "0.9.10",
+  "summary": "Code to interact with Google Cloud Platform",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client_gcp-0.9.10-py3-none-any.whl",
+  "download_time": "2025-10-31T23:18:37.577215",
+  "package_url": "https://pypi.org/project/atoti-client-gcp/"
+}

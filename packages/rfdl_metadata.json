@@ -1,0 +1,11 @@
+{
+  "name": "rfdl",
+  "version": "1",
+  "summary": "A simple web scrapper tool wich downloads podcasts from radiofrance.",
+  "author": "Cosmow22",
+  "license": "MIT",
+  "home_page": "https://github.com/Cosmow22/radio-france-dl",
+  "download_filename": "rfdl-1.tar.gz",
+  "download_time": "2025-10-31T23:18:13.519275",
+  "package_url": "https://pypi.org/project/rfdl/"
+}

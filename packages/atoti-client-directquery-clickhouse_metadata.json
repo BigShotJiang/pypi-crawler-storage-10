@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client-directquery-clickhouse",
+  "version": "0.9.10",
+  "summary": "Code to use DirectQuery on ClickHouse",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client_directquery_clickhouse-0.9.10-py3-none-any.whl",
+  "download_time": "2025-10-31T23:18:41.735003",
+  "package_url": "https://pypi.org/project/atoti-client-directquery-clickhouse/"
+}
