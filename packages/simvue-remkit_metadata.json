@@ -1,0 +1,11 @@
+{
+  "name": "simvue-remkit",
+  "version": "1.0.0",
+  "summary": "Connector for viewing results from ReMKiT-1D simulations in Simvue.",
+  "author": "Matt Field",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simvue_remkit-1.0.0.tar.gz",
+  "download_time": "2025-10-31T15:53:28.913947",
+  "package_url": "https://pypi.org/project/simvue-remkit/"
+}

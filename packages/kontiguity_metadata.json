@@ -1,0 +1,11 @@
+{
+  "name": "kontiguity",
+  "version": "0.0.2",
+  "summary": "Eukaryotic contigs retrieval and classification tool.",
+  "author": null,
+  "license": "CC BY-NC 4.0",
+  "home_page": null,
+  "download_filename": "kontiguity-0.0.2.tar.gz",
+  "download_time": "2025-10-31T15:53:15.664714",
+  "package_url": "https://pypi.org/project/kontiguity/"
+}

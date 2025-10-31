@@ -1,11 +1,11 @@
 {
   "name": "tai-keycloak",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": null,
   "author": "MateoSaezMata",
   "license": null,
   "home_page": null,
-  "download_filename": "tai_keycloak-0.1.10.tar.gz",
-  "download_time": "2025-10-29T17:48:45.336782",
+  "download_filename": "tai_keycloak-0.1.13.tar.gz",
+  "download_time": "2025-10-31T15:53:25.594153",
   "package_url": "https://pypi.org/project/tai-keycloak/"
 }

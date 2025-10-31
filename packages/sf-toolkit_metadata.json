@@ -1,11 +1,11 @@
 {
   "name": "sf-toolkit",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "A Salesforce API Adapter for Python",
   "author": "David Culbreth",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sf_toolkit-0.5.1.tar.gz",
-  "download_time": "2025-10-29T17:18:40.584903",
+  "download_filename": "sf_toolkit-0.5.3.tar.gz",
+  "download_time": "2025-10-31T15:53:26.726225",
   "package_url": "https://pypi.org/project/sf-toolkit/"
 }
