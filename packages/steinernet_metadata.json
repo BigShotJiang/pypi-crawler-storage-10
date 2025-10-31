@@ -1,11 +1,11 @@
 {
   "name": "steinernet",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A SteinerTree library implementing several huristic and exact steiner methods.",
   "author": "Afshin Sadeghi",
   "license": null,
   "home_page": "https://github.com/afshinsadeghi/steinernetpy",
-  "download_filename": "steinernet-0.1.8.tar.gz",
-  "download_time": "2025-10-31T22:43:06.559910",
+  "download_filename": "steinernet-0.1.9.tar.gz",
+  "download_time": "2025-10-31T22:53:06.378546",
   "package_url": "https://pypi.org/project/steinernet/"
 }
