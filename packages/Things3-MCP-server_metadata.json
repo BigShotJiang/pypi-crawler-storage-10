@@ -1,0 +1,11 @@
+{
+  "name": "Things3-MCP-server",
+  "version": "2.0.7",
+  "summary": "MCP server for Things 3 with read/write support for tasks, projects, areas and tags.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "things3_mcp_server-2.0.7.tar.gz",
+  "download_time": "2025-10-31T21:17:17.875869",
+  "package_url": "https://pypi.org/project/Things3-MCP-server/"
+}

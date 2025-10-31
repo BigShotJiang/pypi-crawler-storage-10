@@ -1,11 +1,11 @@
 {
   "name": "geospace",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "Geospatial processing library based on GDAL and Google Earth Engine",
   "author": "Cody James",
   "license": null,
   "home_page": null,
-  "download_filename": "geospace-0.4.8.tar.gz",
-  "download_time": "2025-10-30T13:22:44.224462",
+  "download_filename": "geospace-0.4.9.tar.gz",
+  "download_time": "2025-10-31T21:16:51.510118",
   "package_url": "https://pypi.org/project/geospace/"
 }

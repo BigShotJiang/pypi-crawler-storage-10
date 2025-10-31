@@ -1,0 +1,11 @@
+{
+  "name": "nhl-api-py",
+  "version": "3.1.1",
+  "summary": "NHL API (Updated for 2025/2026) and EDGE Stats.  For standings, team stats, outcomes, player information.  Contains each individual API endpoint as well as convience methods as well as pythonic query builder for more indepth EDGE stats.",
+  "author": "Corey Schaf",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/coreyjs/nhl-api-py",
+  "download_filename": "nhl_api_py-3.1.1.tar.gz",
+  "download_time": "2025-10-31T21:16:49.953810",
+  "package_url": "https://pypi.org/project/nhl-api-py/"
+}

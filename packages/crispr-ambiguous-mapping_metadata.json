@@ -1,11 +1,11 @@
 {
   "name": "crispr-ambiguous-mapping",
-  "version": "0.0.234",
+  "version": "0.0.235",
   "summary": null,
   "author": "Basheer Becerra",
   "license": null,
   "home_page": null,
-  "download_filename": "crispr_ambiguous_mapping-0.0.234.tar.gz",
-  "download_time": "2025-10-31T20:53:51.531951",
+  "download_filename": "crispr_ambiguous_mapping-0.0.235.tar.gz",
+  "download_time": "2025-10-31T21:16:48.410771",
   "package_url": "https://pypi.org/project/crispr-ambiguous-mapping/"
 }

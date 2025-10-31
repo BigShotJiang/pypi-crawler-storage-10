@@ -1,11 +1,11 @@
 {
   "name": "spotpython",
-  "version": "0.33.6",
+  "version": "0.33.9",
   "summary": "spotpython - Sequential Parameter Optimization in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spotpython-0.33.6.tar.gz",
-  "download_time": "2025-10-28T19:40:34.259849",
+  "download_filename": "spotpython-0.33.9.tar.gz",
+  "download_time": "2025-10-31T21:17:11.093693",
   "package_url": "https://pypi.org/project/spotpython/"
 }

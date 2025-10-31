@@ -1,0 +1,11 @@
+{
+  "name": "splitapiclient",
+  "version": "3.5.6",
+  "summary": "This Python Library provides full support for Split REST Admin API, allow creating, deleting and editing Environments, Splits, Split Definitions, Segments, Segment Keys, Users, Groups, API Keys, Change Requests, Attributes and Identities",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "splitapiclient-3.5.6.tar.gz",
+  "download_time": "2025-10-31T21:17:10.055248",
+  "package_url": "https://pypi.org/project/splitapiclient/"
+}

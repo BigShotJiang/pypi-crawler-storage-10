@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nvtx-cu13",
+  "version": "0.0.1",
+  "summary": "DEPRECATED: Use nvidia-nvtx instead",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvidia_nvtx_cu13-0.0.1.tar.gz",
+  "download_time": "2025-10-31T21:17:20.981239",
+  "package_url": "https://pypi.org/project/nvidia-nvtx-cu13/"
+}

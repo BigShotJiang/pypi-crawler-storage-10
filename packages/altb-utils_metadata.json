@@ -1,0 +1,11 @@
+{
+  "name": "altb-utils",
+  "version": "0.0.12",
+  "summary": "Utilities for creating tasks for the cloud server asynchronous long task backend (ALTB)",
+  "author": "DeGirum Corp",
+  "license": null,
+  "home_page": "https://github.com/DeGirum/dg_long_tasks",
+  "download_filename": "altb_utils-0.0.12-py3-none-any.whl",
+  "download_time": "2025-10-31T21:16:56.662450",
+  "package_url": "https://pypi.org/project/altb-utils/"
+}

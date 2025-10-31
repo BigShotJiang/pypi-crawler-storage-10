@@ -1,11 +1,11 @@
 {
   "name": "residuals",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Instruction residuals (task vectors) for efficient LLM continuous pre-training",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "residuals-0.3.1.tar.gz",
-  "download_time": "2025-10-30T22:24:25.990184",
+  "download_filename": "residuals-0.3.2.tar.gz",
+  "download_time": "2025-10-31T21:17:06.933194",
   "package_url": "https://pypi.org/project/residuals/"
 }

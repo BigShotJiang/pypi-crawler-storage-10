@@ -1,11 +1,11 @@
 {
   "name": "needs-config-writer",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Sphinx extension to write Sphinx-Needs config to ubproject.toml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "needs_config_writer-0.2.3.tar.gz",
-  "download_time": "2025-10-29T21:17:21.625828",
+  "download_filename": "needs_config_writer-0.2.4.tar.gz",
+  "download_time": "2025-10-31T21:17:04.889471",
   "package_url": "https://pypi.org/project/needs-config-writer/"
 }

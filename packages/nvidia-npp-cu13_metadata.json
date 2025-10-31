@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-npp-cu13",
+  "version": "0.0.1",
+  "summary": "DEPRECATED: Use nvidia-npp instead",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvidia_npp_cu13-0.0.1.tar.gz",
+  "download_time": "2025-10-31T21:17:29.758197",
+  "package_url": "https://pypi.org/project/nvidia-npp-cu13/"
+}
