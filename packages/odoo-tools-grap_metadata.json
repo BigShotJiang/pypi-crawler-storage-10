@@ -1,0 +1,11 @@
+{
+  "name": "odoo-tools-grap",
+  "version": "1.3.7",
+  "summary": "Small CLI tool for Odoo",
+  "author": "Sylvain LE GAL",
+  "license": "AGPLv3+",
+  "home_page": "https://gitlab.com/grap-rhone-alpes/odoo-tools-grap",
+  "download_filename": "odoo_tools_grap-1.3.7.tar.gz",
+  "download_time": "2025-10-31T21:41:08.951826",
+  "package_url": "https://pypi.org/project/odoo-tools-grap/"
+}

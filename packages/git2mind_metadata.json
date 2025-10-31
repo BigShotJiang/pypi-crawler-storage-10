@@ -1,11 +1,11 @@
 {
   "name": "git2mind",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Turn repositories into AI-friendly summaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git2mind-0.3.0.tar.gz",
-  "download_time": "2025-10-28T13:20:44.923132",
+  "download_filename": "git2mind-0.4.0.tar.gz",
+  "download_time": "2025-10-31T21:40:47.341260",
   "package_url": "https://pypi.org/project/git2mind/"
 }

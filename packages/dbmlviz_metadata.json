@@ -1,0 +1,11 @@
+{
+  "name": "dbmlviz",
+  "version": "0.4.0",
+  "summary": "Converts DBML files to their graphviz representation in .dot format. It can also optionally do the additional conversion to an image format using graphviz.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbmlviz-0.4.0.tar.gz",
+  "download_time": "2025-10-31T21:41:07.921317",
+  "package_url": "https://pypi.org/project/dbmlviz/"
+}

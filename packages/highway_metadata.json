@@ -1,11 +1,11 @@
 {
   "name": "highway",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple hello world package.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "highway-0.0.1.tar.gz",
-  "download_time": "2025-10-31T21:16:56.150872",
+  "download_filename": "highway-0.0.2.tar.gz",
+  "download_time": "2025-10-31T21:41:15.305162",
   "package_url": "https://pypi.org/project/highway/"
 }

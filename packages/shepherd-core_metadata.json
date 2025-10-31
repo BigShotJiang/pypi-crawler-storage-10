@@ -1,0 +1,11 @@
+{
+  "name": "shepherd-core",
+  "version": "2025.10.1",
+  "summary": "Programming- and CLI-Interface for the h5-dataformat of the Shepherd-Testbed",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shepherd_core-2025.10.1.tar.gz",
+  "download_time": "2025-10-31T21:40:57.920200",
+  "package_url": "https://pypi.org/project/shepherd-core/"
+}

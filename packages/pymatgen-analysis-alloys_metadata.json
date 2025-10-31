@@ -1,0 +1,11 @@
+{
+  "name": "pymatgen-analysis-alloys",
+  "version": "0.0.8",
+  "summary": "A pymatgen add-on library with classes useful for describing alloy (disordered) systems.",
+  "author": "Rachel Woods-Robinson, Matthew Horton",
+  "license": null,
+  "home_page": "https://github.com/materialsproject/pymatgen-analysis-alloys",
+  "download_filename": "pymatgen_analysis_alloys-0.0.8.tar.gz",
+  "download_time": "2025-10-31T21:41:04.314610",
+  "package_url": "https://pypi.org/project/pymatgen-analysis-alloys/"
+}

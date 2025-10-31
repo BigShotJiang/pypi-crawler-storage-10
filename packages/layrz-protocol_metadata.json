@@ -1,11 +1,11 @@
 {
   "name": "layrz-protocol",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "Layrz Protocol wrapper, allows to send or translate the messages from and to the Layrz Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "layrz_protocol-3.0.2.tar.gz",
-  "download_time": "2025-10-31T21:17:01.297319",
+  "download_filename": "layrz_protocol-3.0.3.tar.gz",
+  "download_time": "2025-10-31T21:40:47.859744",
   "package_url": "https://pypi.org/project/layrz-protocol/"
 }
