@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-talklabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TalkLabs TTS plugin for LiveKit Agents",
   "author": "TalkLabs",
   "license": "MIT",
   "home_page": "https://github.com/talklabs/livekit-plugins-talklabs",
-  "download_filename": "livekit_plugins_talklabs-1.0.0.tar.gz",
-  "download_time": "2025-10-30T20:21:21.056554",
+  "download_filename": "livekit_plugins_talklabs-1.0.1.tar.gz",
+  "download_time": "2025-10-31T19:28:08.808388",
   "package_url": "https://pypi.org/project/livekit-plugins-talklabs/"
 }

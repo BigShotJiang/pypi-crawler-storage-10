@@ -1,0 +1,11 @@
+{
+  "name": "mindtrace-database",
+  "version": "0.5.0",
+  "summary": "Database functionality for Mindtrace",
+  "author": "Mindtrace Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mindtrace_database-0.5.0.tar.gz",
+  "download_time": "2025-10-31T19:28:01.896849",
+  "package_url": "https://pypi.org/project/mindtrace-database/"
+}

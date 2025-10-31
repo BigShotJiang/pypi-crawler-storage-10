@@ -1,11 +1,11 @@
 {
   "name": "hishel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Elegant HTTP Caching for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hishel-1.0.0.tar.gz",
-  "download_time": "2025-10-28T19:14:58.718097",
+  "download_filename": "hishel-1.1.0.tar.gz",
+  "download_time": "2025-10-31T19:28:33.731965",
   "package_url": "https://pypi.org/project/hishel/"
 }

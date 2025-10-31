@@ -1,0 +1,11 @@
+{
+  "name": "parsek",
+  "version": "2.3.1",
+  "summary": "Pure Python, no-dependency, single source file parser combinator library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parsek-2.3.1.tar.gz",
+  "download_time": "2025-10-31T19:28:06.241232",
+  "package_url": "https://pypi.org/project/parsek/"
+}

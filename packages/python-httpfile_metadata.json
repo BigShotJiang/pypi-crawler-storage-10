@@ -1,0 +1,11 @@
+{
+  "name": "python-httpfile",
+  "version": "0.0.5.4",
+  "summary": "Python httpfile.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-httpfile",
+  "download_filename": "python_httpfile-0.0.5.4.tar.gz",
+  "download_time": "2025-10-31T19:27:49.744172",
+  "package_url": "https://pypi.org/project/python-httpfile/"
+}

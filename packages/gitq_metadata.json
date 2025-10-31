@@ -1,0 +1,11 @@
+{
+  "name": "gitq",
+  "version": "0.0.4",
+  "summary": "git based patch manager",
+  "author": "Lawrence D'Anna",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gitq-0.0.4.tar.gz",
+  "download_time": "2025-10-31T19:28:16.964334",
+  "package_url": "https://pypi.org/project/gitq/"
+}
