@@ -1,11 +1,11 @@
 {
   "name": "beast-agent",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Base agent class for all Beast Mode agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beast_agent-0.1.3.tar.gz",
-  "download_time": "2025-10-31T03:45:06.178211",
+  "download_filename": "beast_agent-0.1.4.tar.gz",
+  "download_time": "2025-10-31T04:35:34.526202",
   "package_url": "https://pypi.org/project/beast-agent/"
 }

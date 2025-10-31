@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_github-chat-mcp",
+  "version": "0.1.0",
+  "summary": "GitHub Chat MCP server for analyzing GitHub repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_github_chat_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-31T04:35:30.919307",
+  "package_url": "https://pypi.org/project/iflow-mcp_github-chat-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nats-client-py",
+  "version": "0.3.3",
+  "summary": "NATS utilities for Python microservices with request/reply and pub/sub helpers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nats_client_py-0.3.3.tar.gz",
+  "download_time": "2025-10-31T04:35:15.425325",
+  "package_url": "https://pypi.org/project/nats-client-py/"
+}

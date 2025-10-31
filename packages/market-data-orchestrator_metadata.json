@@ -1,11 +1,11 @@
 {
   "name": "market-data-orchestrator",
-  "version": "0.8.70",
+  "version": "0.8.72",
   "summary": "Orchestration service that wires providers → pipeline → store",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "market_data_orchestrator-0.8.70.tar.gz",
-  "download_time": "2025-10-31T03:45:00.962993",
+  "download_filename": "market_data_orchestrator-0.8.72.tar.gz",
+  "download_time": "2025-10-31T04:35:26.808557",
   "package_url": "https://pypi.org/project/market-data-orchestrator/"
 }
