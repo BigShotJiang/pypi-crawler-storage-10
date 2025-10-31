@@ -1,11 +1,11 @@
 {
   "name": "easy-bitrix",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Python Library with easy API for Bitrix24 REST",
   "author": "Alexsander Pavlov",
   "license": null,
   "home_page": null,
-  "download_filename": "easy_bitrix-0.1.11.tar.gz",
-  "download_time": "2025-10-31T13:48:48.283152",
+  "download_filename": "easy_bitrix-0.1.12.tar.gz",
+  "download_time": "2025-10-31T15:43:36.431423",
   "package_url": "https://pypi.org/project/easy-bitrix/"
 }

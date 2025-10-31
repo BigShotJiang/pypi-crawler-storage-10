@@ -1,0 +1,11 @@
+{
+  "name": "egauge-async",
+  "version": "0.4.0",
+  "summary": "Async client for eGauge energy monitor (https://www.egauge.net)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "egauge_async-0.4.0.tar.gz",
+  "download_time": "2025-10-31T15:43:31.378733",
+  "package_url": "https://pypi.org/project/egauge-async/"
+}

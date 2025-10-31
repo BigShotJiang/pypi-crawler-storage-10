@@ -1,11 +1,11 @@
 {
   "name": "motorcortex-robot-control-python",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "summary": "Python bindings for Motorcortex Robot Control",
   "author": "Alexey Zakharov",
   "license": "MIT",
   "home_page": "https://www.motorcortex.io",
-  "download_filename": "motorcortex_robot_control_python-3.1.5.tar.gz",
-  "download_time": "2025-10-31T10:21:23.169026",
+  "download_filename": "motorcortex_robot_control_python-3.1.6.tar.gz",
+  "download_time": "2025-10-31T15:43:41.657846",
   "package_url": "https://pypi.org/project/motorcortex-robot-control-python/"
 }

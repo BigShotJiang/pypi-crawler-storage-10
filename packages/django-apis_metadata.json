@@ -1,0 +1,11 @@
+{
+  "name": "django-apis",
+  "version": "0.2.17",
+  "summary": "基于Django的API接口开发框架。使用pydantic做接口参数验证，自动生成swagger接口管理界面，支持多种返回体封装。",
+  "author": "rRR0VrFP",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "django_apis-0.2.17.tar.gz",
+  "download_time": "2025-10-31T15:43:58.217539",
+  "package_url": "https://pypi.org/project/django-apis/"
+}

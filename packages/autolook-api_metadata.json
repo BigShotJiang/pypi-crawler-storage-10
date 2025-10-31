@@ -1,0 +1,11 @@
+{
+  "name": "autolook-api",
+  "version": "0.1.5",
+  "summary": "Official API wrapper client for the autolook.al service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autolook_api-0.1.5.tar.gz",
+  "download_time": "2025-10-31T15:44:02.531448",
+  "package_url": "https://pypi.org/project/autolook-api/"
+}

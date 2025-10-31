@@ -1,0 +1,11 @@
+{
+  "name": "reqpy-M",
+  "version": "0.2.0",
+  "summary": "A Python module for spectral matching of earthquake records using CWT.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reqpy_m-0.2.0.tar.gz",
+  "download_time": "2025-10-31T15:44:04.665157",
+  "package_url": "https://pypi.org/project/reqpy-M/"
+}

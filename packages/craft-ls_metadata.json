@@ -1,0 +1,11 @@
+{
+  "name": "craft-ls",
+  "version": "0.3.3",
+  "summary": "A Language Server Protocol implementation for *craft files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "craft_ls-0.3.3.tar.gz",
+  "download_time": "2025-10-31T15:43:21.067266",
+  "package_url": "https://pypi.org/project/craft-ls/"
+}

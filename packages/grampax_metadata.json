@@ -1,0 +1,11 @@
+{
+  "name": "grampax",
+  "version": "0.1.0",
+  "summary": "Granular Automatic Mixed Precision for JAX",
+  "author": "David Marttila",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grampax-0.1.0.tar.gz",
+  "download_time": "2025-10-31T15:43:56.659229",
+  "package_url": "https://pypi.org/project/grampax/"
+}
