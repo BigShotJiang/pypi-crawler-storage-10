@@ -1,11 +1,11 @@
 {
   "name": "stocktrim-mcp-server",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Model Context Protocol (MCP) server for StockTrim Inventory Management API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stocktrim_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-10-29T22:43:36.163000",
+  "download_filename": "stocktrim_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-11-01T05:36:37.599218",
   "package_url": "https://pypi.org/project/stocktrim-mcp-server/"
 }

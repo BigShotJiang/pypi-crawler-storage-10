@@ -1,11 +1,11 @@
 {
   "name": "yta-editor-utils",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Youtube Autonomous Main Editor Utils module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_editor_utils-0.1.7.tar.gz",
-  "download_time": "2025-10-29T03:03:50.799585",
+  "download_filename": "yta_editor_utils-0.1.8.tar.gz",
+  "download_time": "2025-11-01T05:36:42.493340",
   "package_url": "https://pypi.org/project/yta-editor-utils/"
 }

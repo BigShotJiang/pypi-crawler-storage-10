@@ -1,8 +1,24 @@
 {
-  "download_time": "2025-11-01T05:18:46.509143",
-  "total_packages_downloaded": 44,
-  "total_size_mb": 2.79,
+  "download_time": "2025-11-01T05:37:05.044442",
+  "total_packages_downloaded": 57,
+  "total_size_mb": 5.89,
   "packages": [
+    "opendp",
+    "OneBotConnecter",
+    "polars-darwin-core",
+    "pulumi-alicloud",
+    "spear-python",
+    "stocktrim-mcp-server",
+    "switchport",
+    "c2cgeoportal-admin",
+    "c2cgeoportal-geoportal",
+    "c2cgeoportal-commons",
+    "nonebot-plugin-image-symmetry",
+    "pulumi-auth0",
+    "stok",
+    "pulumi-artifactory",
+    "yta-editor-utils",
+    "pulumi-archive",
     "pulumi-akamai",
     "c2cwsgiutils",
     "gui-creater",
@@ -35,7 +51,6 @@
     "highway-core",
     "jacobi-poly",
     "shadowpay",
-    "pulumi-alicloud",
     "pico-editor",
     "archaea-core",
     "win32more-Microsoft.WindowsAppSDK",
@@ -44,8 +59,6 @@
     "keras-hub-nightly",
     "nrel-elm",
     "win32more-Microsoft.Windows.SDK.Win32Metadata",
-    "win32more-Microsoft.Windows.SDK.Contracts",
-    "win32more-Microsoft.Web.WebView2",
-    "win32more-Microsoft.Graphics.Win2D"
+    "win32more-Microsoft.Windows.SDK.Contracts"
   ]
 }
