@@ -1,11 +1,11 @@
 {
   "name": "pdf-to-xls-vision",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Convert PDF and image tables to Excel using Claude Vision API with automatic validation and multi-page merging",
   "author": "Sze Wong",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/pdf-to-xls-vision",
-  "download_filename": "pdf_to_xls_vision-1.0.5.tar.gz",
-  "download_time": "2025-10-29T22:18:16.458512",
+  "download_filename": "pdf_to_xls_vision-1.0.6.tar.gz",
+  "download_time": "2025-11-01T03:44:36.955443",
   "package_url": "https://pypi.org/project/pdf-to-xls-vision/"
 }

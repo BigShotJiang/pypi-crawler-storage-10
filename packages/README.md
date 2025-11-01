@@ -1,11 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T02:58:59.644979
-- **Total Packages**: 80
-- **Total Size**: 56.21 MB
+- **Download Time**: 2025-11-01T03:44:48.630000
+- **Total Packages**: 77
+- **Total Size**: 20.04 MB
 
 ## Packages List
+- cqc-quam-state
+- stocktrim-openapi-client
+- cdktf-cdktf-provider-snowflake
+- pulumi-github
+- pulumi-mailgun
+- pulumi-opsgenie
+- mkdocs-nbsync
+- pulumi-spotinst
+- pulumi-aiven
+- l0n0lnat
+- pulumi-auth0
+- dp-ferret
+- pyjamas-rfglab
+- ast-roller
+- odoo-addon-payroll
+- pqsdk
+- keras-rs-nightly
+- nserver
+- cryptoowl
+- odoo-addon-openupgrade-scripts
+- odoo-addons-oca-multi-company
+- matlab-mcp-server
+- GANDLF
+- pyAgrum-nightly
+- odoo-addon-mis-builder
+- vigorvision
+- ersilia
+- logseq-python
+- claude-commit
+- ginkgo-tools
+- anemoi-env
+- odoo-addons-oca-l10n-spain
+- odoo-addon-l10n-es-facturae
+- iptables-graph
+- odoo-addons-oca-l10n-romania
+- waha-python
+- scrin
+- bhp-pro
+- mtbsync
+- langchain-dev-utils
+- pytextprinter
+- langgraph-checkpoint-amazon-dynamodb
+- lark-billing
+- nonebot-plugin-mcqq
+- types-hvac
+- types-Deprecated
+- types-decorator
+- types-pycurl
+- types-aws-xray-sdk
+- pywebtask
+- highway-dsl
+- zfx
+- celery-mongobeat
+- multi-puzzle-solver
+- pyconnora
+- aigroup-econ-mcp
+- pdf-to-xls-vision
+- j2subst
 - tooluniverse
 - kiui
 - specrypto
@@ -13,8 +71,6 @@
 - LaTeXCalculator
 - mkdocs-mermaid-to-svg
 - cdk-factory
-- highway-dsl
-- l0n0lnat
 - mns-common
 - streamshatter
 - dybuf
@@ -27,62 +83,3 @@
 - pillar
 - bioregistry
 - odoo-addon-account-banking-sepa-direct-debit
-- odoo-addon-account-banking-mandate
-- logistro
-- odoo-addons-oca-account-payment
-- hecaton
-- parquool
-- modelswrkpi
-- pyjamas-rfglab
-- vigorvision
-- awslabs.sagemaker-ai-mcp-server
-- odoo-addon-account-asset-compute-batch
-- certainpy
-- odoo-addon-account-financial-report
-- kittylog
-- nautobot-golden-config
-- odoo-addon-account-move-analytic-link
-- vercel-cli
-- jararaca
-- mnemex
-- pymammotion
-- jenkinsapi
-- browser-use
-- smartvideo
-- anada
-- rand-engine
-- celery-mongobeat
-- tmg-hmc
-- matlab-mcp-server
-- pysilica
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.attrs-utils
-- thds.core
-- thds.adls
-- exosphere-cli
-- KALKI-6
-- psnawp
-- genshin
-- static-dicomweb-creator
-- flask-openapi3-swagger
-- strix-agent
-- ttkbootstrap
-- iptw-survival
-- sap-ecs-azure-log-forwarder
-- vispipe
-- llme-cli
-- c2cciutils
-- crewai-tools
-- crewai
-- pymanuf
-- gns3-mcp
-- hathora
-- sutro
-- projen-modules
-- keywordsai-tracing
-- splurge-sql-generator
-- ry
-- mawo-slovnet
-- flowno

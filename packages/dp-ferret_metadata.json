@@ -1,0 +1,11 @@
+{
+  "name": "dp-ferret",
+  "version": "1.0.4",
+  "summary": "FERRET: Mutual-Information Differential Privacy via grouped sign updates.",
+  "author": "David Zagardo",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dp_ferret-1.0.4.tar.gz",
+  "download_time": "2025-11-01T03:44:11.684233",
+  "package_url": "https://pypi.org/project/dp-ferret/"
+}

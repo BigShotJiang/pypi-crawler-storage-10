@@ -1,0 +1,11 @@
+{
+  "name": "pytextprinter",
+  "version": "0.1.0",
+  "summary": "A Python library for advanced text printing utilities",
+  "author": "Irwan Darmawan",
+  "license": null,
+  "home_page": "https://github.com/ir1keren/pytextprinter",
+  "download_filename": "pytextprinter-0.1.0.tar.gz",
+  "download_time": "2025-11-01T03:44:28.220209",
+  "package_url": "https://pypi.org/project/pytextprinter/"
+}
