@@ -1,0 +1,11 @@
+{
+  "name": "wpp-whatsapp",
+  "version": "0.5.3",
+  "summary": "WPP_Whatsapp aim of exporting functions from WhatsApp Web to the python, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination",
+  "author": "Ammar Alkotb",
+  "license": null,
+  "home_page": "https://github.com/3mora2/WPP_Whatsapp",
+  "download_filename": "wpp_whatsapp-0.5.3.tar.gz",
+  "download_time": "2025-11-01T09:53:09.884425",
+  "package_url": "https://pypi.org/project/wpp-whatsapp/"
+}

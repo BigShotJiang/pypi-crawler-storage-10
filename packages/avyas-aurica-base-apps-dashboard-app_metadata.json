@@ -1,11 +1,11 @@
 {
   "name": "avyas-aurica-base-apps-dashboard-app",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Aurica app: dashboard-app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avyas_aurica_base_apps_dashboard_app-1.0.11.tar.gz",
-  "download_time": "2025-10-31T14:56:18.973587",
+  "download_filename": "avyas_aurica_base_apps_dashboard_app-1.0.12.tar.gz",
+  "download_time": "2025-11-01T09:53:15.180880",
   "package_url": "https://pypi.org/project/avyas-aurica-base-apps-dashboard-app/"
 }

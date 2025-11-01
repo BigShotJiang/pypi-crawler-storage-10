@@ -1,0 +1,11 @@
+{
+  "name": "snowoptics",
+  "version": "0.99.2",
+  "summary": "Set of functions to compute spectral albedo and extinction of snow, and to correct albedo measurements from slope distortion.",
+  "author": "Ghislain Picard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snowoptics-0.99.2.tar.gz",
+  "download_time": "2025-11-01T09:53:18.847349",
+  "package_url": "https://pypi.org/project/snowoptics/"
+}

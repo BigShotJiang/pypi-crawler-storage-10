@@ -1,0 +1,11 @@
+{
+  "name": "DrissionGet",
+  "version": "1.0.1",
+  "summary": "一个简洁易用的多线程文件下载工具。",
+  "author": "g1879",
+  "license": "BSD",
+  "home_page": "https://DrissionPage.cn/DrissionGet",
+  "download_filename": "drissionget-1.0.1.tar.gz",
+  "download_time": "2025-11-01T09:53:12.004088",
+  "package_url": "https://pypi.org/project/DrissionGet/"
+}

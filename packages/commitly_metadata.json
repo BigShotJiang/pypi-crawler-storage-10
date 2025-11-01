@@ -1,0 +1,11 @@
+{
+  "name": "commitly",
+  "version": "3.2.0",
+  "summary": "Generate a well-structured commit message based on staged changes",
+  "author": "Kouya Tosten",
+  "license": null,
+  "home_page": "https://github.com/Tostenn/Commitly",
+  "download_filename": "commitly-3.2.0.tar.gz",
+  "download_time": "2025-11-01T09:53:09.354274",
+  "package_url": "https://pypi.org/project/commitly/"
+}
