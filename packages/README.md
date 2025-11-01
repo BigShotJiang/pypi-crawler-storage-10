@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T04:01:53.938608
-- **Total Packages**: 70
-- **Total Size**: 12.69 MB
+- **Download Time**: 2025-11-01T04:28:38.826598
+- **Total Packages**: 48
+- **Total Size**: 20.5 MB
 
 ## Packages List
+- win32more-Microsoft.WindowsAppSDK
+- llms-py
+- keras-nlp-nightly
+- keras-hub-nightly
+- nrel-elm
+- win32more-Microsoft.Windows.SDK.Win32Metadata
+- win32more-Microsoft.Windows.SDK.Contracts
+- win32more-Microsoft.Web.WebView2
+- win32more-Microsoft.Graphics.Win2D
+- fastapi-async-storages
+- Sp-Neuron
+- win32more-core
+- win32more-appsdk
+- win32more
+- fetch-cpy-src
+- odoo-addons-oca-timesheet
+- odoo-addon-stock-partner-delivery-window
+- pulumi-alicloud
+- logseq-python
+- cdk8s-jenkins
+- l0n0lnat
+- django-cfg
+- pywebtask
+- routine-workflow
+- cb-events
+- odoo-addon-stock-available-to-promise-release-carrier-alternative
+- dsf-label-sdk
+- hyperquant
+- acycle
+- pico-editor
+- chromedriver-binary
+- odoo-addon-auth-oidc
+- pulumi-snowflake
 - odoo-addons-oca-sale-workflow
 - braindecode
 - farseer
@@ -14,7 +47,6 @@
 - typsphinx
 - openubmc-bingo
 - mkdocs-nbsync
-- dsf-label-sdk
 - pulumi-rancher2
 - pulumi-newrelic
 - odoo-addon-rma-sale
@@ -22,57 +54,3 @@
 - odoo-addon-rma-lot-autocreate
 - odoo-addons-oca-reporting-engine
 - odoo-addon-report-pdf-zip-download
-- odoo-addon-base-comment-template
-- spice-mcp
-- logseq-python
-- odoo-addons-oca-purchase-workflow
-- pulumi-snowflake
-- pyconnpg
-- siglab-py
-- pulumi-spotinst
-- fcs-order
-- pulumi-aiven
-- pulumi-auth0
-- gui-creater
-- vnpy
-- ginkgo-tools
-- odoo-addon-project-stock
-- cqc-quam-state
-- stocktrim-openapi-client
-- cdktf-cdktf-provider-snowflake
-- pulumi-github
-- pulumi-mailgun
-- pulumi-opsgenie
-- l0n0lnat
-- dp-ferret
-- pyjamas-rfglab
-- ast-roller
-- odoo-addon-payroll
-- pqsdk
-- keras-rs-nightly
-- nserver
-- cryptoowl
-- odoo-addon-openupgrade-scripts
-- odoo-addons-oca-multi-company
-- matlab-mcp-server
-- GANDLF
-- pyAgrum-nightly
-- odoo-addon-mis-builder
-- vigorvision
-- ersilia
-- claude-commit
-- anemoi-env
-- odoo-addons-oca-l10n-spain
-- odoo-addon-l10n-es-facturae
-- iptables-graph
-- odoo-addons-oca-l10n-romania
-- waha-python
-- scrin
-- bhp-pro
-- mtbsync
-- langchain-dev-utils
-- pytextprinter
-- langgraph-checkpoint-amazon-dynamodb
-- lark-billing
-- nonebot-plugin-mcqq
-- types-hvac

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-partner-delivery-window",
-  "version": "18.0.1.2.1",
+  "version": "18.0.1.2.1.1",
   "summary": "Define preferred delivery time windows for partners",
   "author": "Camptocamp, ACSONE SA/NV, BCIM, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-workflow",
-  "download_filename": "odoo_addon_stock_partner_delivery_window-18.0.1.2.1-py3-none-any.whl",
-  "download_time": "2025-10-31T15:44:06.252098",
+  "download_filename": "odoo_addon_stock_partner_delivery_window-18.0.1.2.1.1-py3-none-any.whl",
+  "download_time": "2025-11-01T04:28:22.190471",
   "package_url": "https://pypi.org/project/odoo-addon-stock-partner-delivery-window/"
 }
