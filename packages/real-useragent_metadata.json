@@ -1,0 +1,11 @@
+{
+  "name": "real-useragent",
+  "version": "1.0.91",
+  "summary": "Get Real user agent from auto update",
+  "author": "Mohammadreza (MMDRZA)",
+  "license": "MIT",
+  "home_page": "https://github.com/useragenter/real-useragent",
+  "download_filename": "real_useragent-1.0.91.tar.gz",
+  "download_time": "2025-11-01T01:23:07.082522",
+  "package_url": "https://pypi.org/project/real-useragent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "js-api",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "Custom API written in Python using FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "js_api-0.2.16.tar.gz",
-  "download_time": "2025-10-27T19:14:01.875272",
+  "download_filename": "js_api-0.2.17.tar.gz",
+  "download_time": "2025-11-01T01:23:10.195727",
   "package_url": "https://pypi.org/project/js-api/"
 }

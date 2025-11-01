@@ -1,0 +1,11 @@
+{
+  "name": "seamm-dashboard-client",
+  "version": "2025.10.31",
+  "summary": "A Python client for the SEAMM Dashboard RESTful API.",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/seamm_dashboard_client",
+  "download_filename": "seamm_dashboard_client-2025.10.31.tar.gz",
+  "download_time": "2025-11-01T01:23:45.749611",
+  "package_url": "https://pypi.org/project/seamm-dashboard-client/"
+}

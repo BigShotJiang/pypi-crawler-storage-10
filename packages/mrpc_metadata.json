@@ -1,0 +1,11 @@
+{
+  "name": "mrpc",
+  "version": "0.2",
+  "summary": "A Python RPC framework for mesh networks and multiple protocols",
+  "author": "Alex Sherman",
+  "license": null,
+  "home_page": "https://github.com/alex-sherman/python-mrpc",
+  "download_filename": "mrpc-0.2-py3-none-any.whl",
+  "download_time": "2025-11-01T01:23:12.769381",
+  "package_url": "https://pypi.org/project/mrpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-svg-to-png",
+  "version": "1.0.0",
+  "summary": "MkDocs plugin to convert SVG files to PNG images during build",
+  "author": "nuitsjp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_svg_to_png-1.0.0.tar.gz",
+  "download_time": "2025-11-01T01:23:27.282666",
+  "package_url": "https://pypi.org/project/mkdocs-svg-to-png/"
+}

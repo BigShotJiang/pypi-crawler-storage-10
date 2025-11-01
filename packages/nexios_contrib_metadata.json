@@ -1,11 +1,11 @@
 {
   "name": "nexios_contrib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Contributions for Nexios",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexios_contrib-0.1.0.tar.gz",
-  "download_time": "2025-10-31T18:27:02.348548",
+  "download_filename": "nexios_contrib-0.1.1.tar.gz",
+  "download_time": "2025-11-01T01:23:24.209732",
   "package_url": "https://pypi.org/project/nexios_contrib/"
 }

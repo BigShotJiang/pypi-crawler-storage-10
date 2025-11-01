@@ -1,0 +1,11 @@
+{
+  "name": "git-overview",
+  "version": "0.1",
+  "summary": "Quick and pretty overview of many git local repositories at once compared to their remotes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_overview-0.1.tar.gz",
+  "download_time": "2025-11-01T01:23:19.573711",
+  "package_url": "https://pypi.org/project/git-overview/"
+}
