@@ -1,9 +1,9 @@
 {
-  "download_time": "2025-11-01T08:56:07.809332",
+  "download_time": "2025-11-01T09:20:24.404819",
   "total_packages_downloaded": 88,
-  "total_size_mb": 0.96,
+  "total_size_mb": 0.03,
   "packages": [
-    "abstract-utilities",
+    "usb-plug-notification-darwin",
     "marinabox",
     "browserist",
     "adiumentum",

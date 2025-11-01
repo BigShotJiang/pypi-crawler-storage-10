@@ -1,0 +1,11 @@
+{
+  "name": "usb-plug-notification-darwin",
+  "version": "1.3.0",
+  "summary": "Python script to get plug/unplug events on Darwin (MacOS)",
+  "author": "Dick Marinus",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "usb_plug_notification_darwin-1.3.0.tar.gz",
+  "download_time": "2025-11-01T09:19:31.610721",
+  "package_url": "https://pypi.org/project/usb-plug-notification-darwin/"
+}
