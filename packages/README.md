@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T07:42:12.649927
-- **Total Packages**: 92
-- **Total Size**: 9.49 MB
+- **Download Time**: 2025-11-01T07:53:56.443398
+- **Total Packages**: 88
+- **Total Size**: 13.03 MB
 
 ## Packages List
+- notionary
+- nbsync
+- tensorwatchext
+- videobgremover
+- stok
+- askgpt
+- kittylog
+- fetch-cpy-src
+- structcfg-parser
+- speclike
+- OpenImageIO
 - aiohomematic-test-support
 - aigroup-econ-mcp
 - aiohomematic
@@ -14,7 +25,6 @@
 - yt-dlp
 - pulumi-oci
 - zebrazoom
-- tensorwatchext
 - backupchan-client-lib
 - digital-life
 - grid-enterprise
@@ -56,14 +66,12 @@
 - pulumi-sdwan
 - fly402client
 - onnxscript
-- askgpt
 - nonebot-adapter-yunhu
 - tritonparse
 - fly402core
 - testzeus-hercules
 - nagashi-somen
 - disko
-- stok
 - arthur-client
 - pyprint-cleaner
 - h5rdmtoolbox
@@ -86,15 +94,3 @@
 - pulumi-postgresql
 - proseka
 - pulumi-rabbitmq
-- fluent-mcp-server
-- scholar-flux
-- oect-infra
-- trading-models
-- yta-editor-nodes-gpu
-- oelint-data
-- pulumi-pagerduty
-- pulumi-okta
-- vigorvision
-- brainstate
-- beads-mcp
-- stats-code

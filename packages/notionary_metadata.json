@@ -1,11 +1,11 @@
 {
   "name": "notionary",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Python library for programmatic Notion workspace management - databases, pages, and content with advanced Markdown support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "notionary-0.4.1.tar.gz",
-  "download_time": "2025-11-01T06:48:52.046676",
+  "download_filename": "notionary-0.4.2.tar.gz",
+  "download_time": "2025-11-01T07:53:09.892187",
   "package_url": "https://pypi.org/project/notionary/"
 }
