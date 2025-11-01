@@ -1,0 +1,11 @@
+{
+  "name": "robin-logger",
+  "version": "0.2.1",
+  "summary": "Sistema de logging centralizado con retry automático, cache local y reintentos automáticos en background",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robin_logger-0.2.1.tar.gz",
+  "download_time": "2025-11-01T04:01:18.558726",
+  "package_url": "https://pypi.org/project/robin-logger/"
+}

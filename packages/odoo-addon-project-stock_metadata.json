@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-project-stock",
-  "version": "16.0.2.0.0.2",
+  "version": "16.0.2.0.0.3",
   "summary": "Project Stock",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/project",
-  "download_filename": "odoo_addon_project_stock-16.0.2.0.0.2-py3-none-any.whl",
-  "download_time": "2025-10-31T04:03:06.452136",
+  "download_filename": "odoo_addon_project_stock-16.0.2.0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-01T04:01:31.963409",
   "package_url": "https://pypi.org/project/odoo-addon-project-stock/"
 }

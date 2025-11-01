@@ -1,22 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T03:44:48.630000
-- **Total Packages**: 77
-- **Total Size**: 20.04 MB
+- **Download Time**: 2025-11-01T04:01:53.938608
+- **Total Packages**: 70
+- **Total Size**: 12.69 MB
 
 ## Packages List
+- odoo-addons-oca-sale-workflow
+- braindecode
+- farseer
+- cdktf-cdktf-provider-github
+- robin-logger
+- typsphinx
+- openubmc-bingo
+- mkdocs-nbsync
+- dsf-label-sdk
+- pulumi-rancher2
+- pulumi-newrelic
+- odoo-addon-rma-sale
+- odoo-addon-rma
+- odoo-addon-rma-lot-autocreate
+- odoo-addons-oca-reporting-engine
+- odoo-addon-report-pdf-zip-download
+- odoo-addon-base-comment-template
+- spice-mcp
+- logseq-python
+- odoo-addons-oca-purchase-workflow
+- pulumi-snowflake
+- pyconnpg
+- siglab-py
+- pulumi-spotinst
+- fcs-order
+- pulumi-aiven
+- pulumi-auth0
+- gui-creater
+- vnpy
+- ginkgo-tools
+- odoo-addon-project-stock
 - cqc-quam-state
 - stocktrim-openapi-client
 - cdktf-cdktf-provider-snowflake
 - pulumi-github
 - pulumi-mailgun
 - pulumi-opsgenie
-- mkdocs-nbsync
-- pulumi-spotinst
-- pulumi-aiven
 - l0n0lnat
-- pulumi-auth0
 - dp-ferret
 - pyjamas-rfglab
 - ast-roller
@@ -33,9 +60,7 @@
 - odoo-addon-mis-builder
 - vigorvision
 - ersilia
-- logseq-python
 - claude-commit
-- ginkgo-tools
 - anemoi-env
 - odoo-addons-oca-l10n-spain
 - odoo-addon-l10n-es-facturae
@@ -51,35 +76,3 @@
 - lark-billing
 - nonebot-plugin-mcqq
 - types-hvac
-- types-Deprecated
-- types-decorator
-- types-pycurl
-- types-aws-xray-sdk
-- pywebtask
-- highway-dsl
-- zfx
-- celery-mongobeat
-- multi-puzzle-solver
-- pyconnora
-- aigroup-econ-mcp
-- pdf-to-xls-vision
-- j2subst
-- tooluniverse
-- kiui
-- specrypto
-- svg-ultralight
-- LaTeXCalculator
-- mkdocs-mermaid-to-svg
-- cdk-factory
-- mns-common
-- streamshatter
-- dybuf
-- botrun-flow-lang
-- webl
-- grokipedia-api
-- SURE-tools
-- calcli
-- music-assistant-frontend
-- pillar
-- bioregistry
-- odoo-addon-account-banking-sepa-direct-debit

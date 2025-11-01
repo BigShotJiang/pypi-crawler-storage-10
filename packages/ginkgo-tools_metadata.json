@@ -1,11 +1,11 @@
 {
   "name": "ginkgo-tools",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "一套实用的 Python 工具库，包含日志、时间处理和多线程相关的工具函数",
-  "author": "Your Name",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/your-username/ginkgo-tools",
-  "download_filename": "ginkgo_tools-0.1.0.tar.gz",
-  "download_time": "2025-11-01T03:44:22.054623",
+  "home_page": null,
+  "download_filename": "ginkgo_tools-0.1.2.tar.gz",
+  "download_time": "2025-11-01T04:01:31.449171",
   "package_url": "https://pypi.org/project/ginkgo-tools/"
 }
