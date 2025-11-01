@@ -1,11 +1,11 @@
 {
   "name": "PaCS-Q",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "PaCS-Q is a Python toolkit designed to assist with Parallel Cascade Selection simulations (PaCS) for studying protein structural transitions in MD and QM/MM MD level.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pacs_q-1.2.3.tar.gz",
-  "download_time": "2025-11-01T07:18:50.691305",
+  "download_filename": "pacs_q-1.2.4.tar.gz",
+  "download_time": "2025-11-01T08:22:50.865553",
   "package_url": "https://pypi.org/project/PaCS-Q/"
 }

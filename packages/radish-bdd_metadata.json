@@ -1,0 +1,11 @@
+{
+  "name": "radish-bdd",
+  "version": "0.18.3",
+  "summary": "Behaviour-Driven-Development tool for Python",
+  "author": "Timo Furrer",
+  "license": "MIT",
+  "home_page": "https://radish-bdd.github.io",
+  "download_filename": "radish_bdd-0.18.3.tar.gz",
+  "download_time": "2025-11-01T08:22:30.215315",
+  "package_url": "https://pypi.org/project/radish-bdd/"
+}

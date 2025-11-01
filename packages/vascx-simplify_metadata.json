@@ -1,11 +1,11 @@
 {
   "name": "vascx-simplify",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A PyTorch library for vessel and fundus image analysis (simplified rewrite)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vascx_simplify-0.1.7.tar.gz",
-  "download_time": "2025-11-01T07:18:36.080865",
+  "download_filename": "vascx_simplify-0.1.9.tar.gz",
+  "download_time": "2025-11-01T08:22:19.850016",
   "package_url": "https://pypi.org/project/vascx-simplify/"
 }

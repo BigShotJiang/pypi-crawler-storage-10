@@ -1,0 +1,11 @@
+{
+  "name": "intelmq",
+  "version": "3.5.0",
+  "summary": "IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.",
+  "author": "IntelMQ Community",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/certtools/intelmq/",
+  "download_filename": "intelmq-3.5.0.tar.gz",
+  "download_time": "2025-11-01T08:22:13.124726",
+  "package_url": "https://pypi.org/project/intelmq/"
+}

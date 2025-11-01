@@ -1,11 +1,11 @@
 {
   "name": "structcfg-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Parser for Structured Configuration Language (SCL)",
   "author": "shareui",
   "license": "MIT",
   "home_page": "https://gitlab.com/shareui/scl",
-  "download_filename": "structcfg_parser-1.0.0.tar.gz",
-  "download_time": "2025-11-01T07:53:14.159692",
+  "download_filename": "structcfg_parser-1.0.1.tar.gz",
+  "download_time": "2025-11-01T08:22:35.357365",
   "package_url": "https://pypi.org/project/structcfg-parser/"
 }

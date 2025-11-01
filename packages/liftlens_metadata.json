@@ -1,0 +1,11 @@
+{
+  "name": "liftlens",
+  "version": "0.1.1",
+  "summary": "An Enterprise-grade A/B Testing Framework with CUPED, SRM, Sequential Testing, FastAPI, Streamlit",
+  "author": "Dare Afolabi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "liftlens-0.1.1.tar.gz",
+  "download_time": "2025-11-01T08:22:36.387261",
+  "package_url": "https://pypi.org/project/liftlens/"
+}
