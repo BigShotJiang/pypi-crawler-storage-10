@@ -1,0 +1,11 @@
+{
+  "name": "shadowpay",
+  "version": "1.0.0",
+  "summary": "Python SDK for ShadowPay - Privacy-preserving payments on Solana",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shadowpay-1.0.0.tar.gz",
+  "download_time": "2025-11-01T04:43:30.710713",
+  "package_url": "https://pypi.org/project/shadowpay/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jacobi-poly",
+  "version": "1.0.5",
+  "summary": "Compute Jacobi polynomial from order 0 to N efficiently in NumPy / PyTorch / JAX / array API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jacobi_poly-1.0.5.tar.gz",
+  "download_time": "2025-11-01T04:43:30.122491",
+  "package_url": "https://pypi.org/project/jacobi-poly/"
+}

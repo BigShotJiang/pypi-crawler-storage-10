@@ -1,11 +1,11 @@
 {
   "name": "pico-editor",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "A lightweight, nano-style text editor built in Python.",
   "author": "master629",
   "license": null,
-  "home_page": "https://github.com/Master629/pico-editor",
-  "download_filename": "pico_editor-0.1.1.tar.gz",
-  "download_time": "2025-11-01T04:28:29.044021",
+  "home_page": "https://github.com/master629/pico-editor",
+  "download_filename": "pico_editor-0.2.1.tar.gz",
+  "download_time": "2025-11-01T04:43:32.029365",
   "package_url": "https://pypi.org/project/pico-editor/"
 }
