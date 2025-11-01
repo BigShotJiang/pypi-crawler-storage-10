@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-lane-assist-system",
+  "version": "0.1.0",
+  "summary": "A small library for lane detection and basic image operations, refactored from scripts.",
+  "author": "SubhadipDas123",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autonomous_lane_assist_system-0.1.0.tar.gz",
+  "download_time": "2025-11-01T07:32:14.334587",
+  "package_url": "https://pypi.org/project/autonomous-lane-assist-system/"
+}
