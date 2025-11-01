@@ -1,50 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T09:20:24.404819
-- **Total Packages**: 88
-- **Total Size**: 0.03 MB
+- **Download Time**: 2025-11-01T09:40:26.556174
+- **Total Packages**: 86
+- **Total Size**: 0.01 MB
 
 ## Packages List
-- usb-plug-notification-darwin
-- marinabox
-- browserist
-- adiumentum
-- opty
-- mns-common
-- pycses
-- vega-framework
-- fastapps
-- tfp-nightly
-- pyeasyphd
-- earthcare-downloader
-- kib-lap
-- weakincentives
-- kittylog
-- msfabricutils
-- pybibtexer
-- SnakeScan
-- wooscloud
-- pyformatjson
-- bxson
-- iterabledata
-- lll-simple-ai-shared
-- validate-pyproject-schema-store
-- mqtt-rl-bridge
-- apitally
-- langfuse-mcp-better
-- pulse-framework
-- hhelper
-- optillm
-- mkdocs-mermaid-to-svg
-- hurodes
-- Blinter
-- SpectraFit
-- polylith-cli
-- poetry-polylith-plugin
-- django-powercrud
-- csf-crypto
-- sphinx-notionbuilder
 - sphinxcontrib-yamcs
 - intelmq
 - hyundai-kia-connect-api
@@ -90,7 +51,44 @@
 - liftlens
 - nvidia-nat-agno
 - nvidia-nat-opentelemetry
+- Blinter
 - nblm
 - nvidia-nat-ragaai
 - fcs-order
 - nvidia-nat-profiling
+- ant-ray-cpp-nightly
+- nvidia-nat-data-flywheel
+- nvidia-nat-langchain
+- aiqtoolkit-semantic-kernel
+- test-ylang
+- aiqtoolkit-weave
+- aiqtoolkit-mem0ai
+- aiqtoolkit-test
+- pulumi-gcp
+- csf-crypto
+- aiqtoolkit-llama-index
+- pro-craft
+- aiqtoolkit
+- aiqtoolkit-langchain
+- aiqtoolkit-crewai
+- fracnetics
+- backupchan-client-lib
+- aiqtoolkit-zep-cloud
+- moai-adk
+- seqmat
+- aiqtoolkit-agno
+- PaCS-Q
+- pywebtask
+- mos-pyqt-dialogs
+- notionary
+- nbsync
+- tensorwatchext
+- videobgremover
+- stok
+- kittylog
+- fetch-cpy-src
+- speclike
+- OpenImageIO
+- aiohomematic-test-support
+- aigroup-econ-mcp
+- aiohomematic
