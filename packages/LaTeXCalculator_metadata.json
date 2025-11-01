@@ -1,0 +1,11 @@
+{
+  "name": "LaTeXCalculator",
+  "version": "1.0.0",
+  "summary": "A Python package for performing mathematical calculations using LaTeX syntax.",
+  "author": "Zhu Chongjing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "latexcalculator-1.0.0.tar.gz",
+  "download_time": "2025-11-01T02:58:18.139500",
+  "package_url": "https://pypi.org/project/LaTeXCalculator/"
+}

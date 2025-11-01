@@ -1,11 +1,11 @@
 {
   "name": "hathora",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python SDK for Hathora Voice AI API - Speech-to-Text and Text-to-Speech",
   "author": "Hathora",
   "license": "MIT",
   "home_page": "https://github.com/hathora/yapp-sdk",
-  "download_filename": "hathora-0.3.0.tar.gz",
-  "download_time": "2025-10-29T20:44:56.670805",
+  "download_filename": "hathora-0.4.0.tar.gz",
+  "download_time": "2025-11-01T02:58:54.971998",
   "package_url": "https://pypi.org/project/hathora/"
 }

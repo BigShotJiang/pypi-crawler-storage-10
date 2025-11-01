@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-asset-compute-batch",
+  "version": "18.0.1.0.0.8",
+  "summary": "Assets - Compute Depre. in Batch",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_asset_compute_batch-18.0.1.0.0.8-py3-none-any.whl",
+  "download_time": "2025-11-01T02:58:32.251689",
+  "package_url": "https://pypi.org/project/odoo-addon-account-asset-compute-batch/"
+}

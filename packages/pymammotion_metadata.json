@@ -1,11 +1,11 @@
 {
   "name": "pymammotion",
-  "version": "0.5.40",
+  "version": "0.5.42",
   "summary": null,
   "author": "jLynx",
   "license": null,
   "home_page": null,
-  "download_filename": "pymammotion-0.5.40.tar.gz",
-  "download_time": "2025-10-31T21:52:56.545351",
+  "download_filename": "pymammotion-0.5.42.tar.gz",
+  "download_time": "2025-11-01T02:58:37.552168",
   "package_url": "https://pypi.org/project/pymammotion/"
 }

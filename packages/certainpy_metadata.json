@@ -1,0 +1,11 @@
+{
+  "name": "certainpy",
+  "version": "0.0.1",
+  "summary": "A library and interface for generating LaTeX representations of equations.",
+  "author": "Mikhail Novichonok, Jahan Rashidi, Kirll Zakharov",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "certainpy-0.0.1.tar.gz",
+  "download_time": "2025-11-01T02:58:32.764144",
+  "package_url": "https://pypi.org/project/certainpy/"
+}

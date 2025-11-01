@@ -1,11 +1,11 @@
 {
   "name": "browser-use",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "summary": "Make websites accessible for AI agents",
   "author": "Gregor Zunic",
   "license": null,
   "home_page": null,
-  "download_filename": "browser_use-0.9.4.tar.gz",
-  "download_time": "2025-10-29T04:48:31.301846",
+  "download_filename": "browser_use-0.9.5.tar.gz",
+  "download_time": "2025-11-01T02:58:38.586523",
   "package_url": "https://pypi.org/project/browser-use/"
 }
