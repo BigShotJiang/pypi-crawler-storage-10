@@ -1,0 +1,11 @@
+{
+  "name": "hypereda",
+  "version": "1.0.0",
+  "summary": "Automated and Interactive Exploratory Data Analysis with Visualization and Streamlit Interface",
+  "author": "Saurav Bhabak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypereda-1.0.0.tar.gz",
+  "download_time": "2025-11-01T04:52:39.192118",
+  "package_url": "https://pypi.org/project/hypereda/"
+}

@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-11-01T04:43:48.105256",
-  "total_packages_downloaded": 41,
-  "total_size_mb": 7.53,
+  "download_time": "2025-11-01T04:53:01.037841",
+  "total_packages_downloaded": 43,
+  "total_size_mb": 1.06,
   "packages": [
+    "stocktrim-openapi-client",
+    "hypereda",
+    "my-cli-utilities",
+    "gui-creater",
+    "iamdata",
+    "hya",
     "fluent-mcp-server",
     "dsf-label-sdk",
     "kittylog",
@@ -11,13 +17,11 @@
     "highway-core",
     "px6-proxy-fetcher",
     "py-wlcommands",
-    "stocktrim-openapi-client",
     "jacobi-poly",
     "shadowpay",
     "pulumi-alicloud",
     "pico-editor",
     "archaea-core",
-    "OneBotConnecter",
     "win32more-Microsoft.WindowsAppSDK",
     "llms-py",
     "keras-nlp-nightly",
@@ -41,8 +45,6 @@
     "django-cfg",
     "pywebtask",
     "routine-workflow",
-    "cb-events",
-    "odoo-addon-stock-available-to-promise-release-carrier-alternative",
-    "hyperquant"
+    "cb-events"
   ]
 }
