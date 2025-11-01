@@ -1,13 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T05:37:05.044442
-- **Total Packages**: 57
-- **Total Size**: 5.89 MB
+- **Download Time**: 2025-11-01T05:53:13.039813
+- **Total Packages**: 69
+- **Total Size**: 5.1 MB
 
 ## Packages List
-- opendp
+- testmcpy
+- pulumi-databricks
+- wayspiritmcp-enconly
+- pulumi-consul
+- beartype
+- pulumi-confluentcloud
 - OneBotConnecter
+- xllamacpp
+- pulumi-cloudngfwaws
+- pulumi-cloudinit
+- pulumi-azuread
+- ipyslides
+- askgpt
+- pulumi-azuredevops
+- hyperquant
+- pulumi-cloudamqp
+- opendp
 - polars-darwin-core
 - pulumi-alicloud
 - spear-python
@@ -60,6 +75,3 @@
 - llms-py
 - keras-nlp-nightly
 - keras-hub-nightly
-- nrel-elm
-- win32more-Microsoft.Windows.SDK.Win32Metadata
-- win32more-Microsoft.Windows.SDK.Contracts

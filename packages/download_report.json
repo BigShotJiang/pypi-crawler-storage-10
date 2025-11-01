@@ -1,10 +1,25 @@
 {
-  "download_time": "2025-11-01T05:37:05.044442",
-  "total_packages_downloaded": 57,
-  "total_size_mb": 5.89,
+  "download_time": "2025-11-01T05:53:13.039813",
+  "total_packages_downloaded": 69,
+  "total_size_mb": 5.1,
   "packages": [
-    "opendp",
+    "testmcpy",
+    "pulumi-databricks",
+    "wayspiritmcp-enconly",
+    "pulumi-consul",
+    "beartype",
+    "pulumi-confluentcloud",
     "OneBotConnecter",
+    "xllamacpp",
+    "pulumi-cloudngfwaws",
+    "pulumi-cloudinit",
+    "pulumi-azuread",
+    "ipyslides",
+    "askgpt",
+    "pulumi-azuredevops",
+    "hyperquant",
+    "pulumi-cloudamqp",
+    "opendp",
     "polars-darwin-core",
     "pulumi-alicloud",
     "spear-python",
@@ -56,9 +71,6 @@
     "win32more-Microsoft.WindowsAppSDK",
     "llms-py",
     "keras-nlp-nightly",
-    "keras-hub-nightly",
-    "nrel-elm",
-    "win32more-Microsoft.Windows.SDK.Win32Metadata",
-    "win32more-Microsoft.Windows.SDK.Contracts"
+    "keras-hub-nightly"
   ]
 }
