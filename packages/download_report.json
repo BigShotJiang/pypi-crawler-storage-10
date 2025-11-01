@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-11-01T08:45:58.858562",
+  "download_time": "2025-11-01T08:56:07.809332",
   "total_packages_downloaded": 88,
-  "total_size_mb": 12.06,
+  "total_size_mb": 0.96,
   "packages": [
+    "abstract-utilities",
+    "marinabox",
+    "browserist",
+    "adiumentum",
+    "opty",
+    "mns-common",
+    "pycses",
+    "vega-framework",
     "fastapps",
     "tfp-nightly",
     "pyeasyphd",
@@ -82,14 +90,6 @@
     "nblm",
     "nvidia-nat-ragaai",
     "fcs-order",
-    "nvidia-nat-profiling",
-    "ant-ray-cpp-nightly",
-    "nvidia-nat-data-flywheel",
-    "nvidia-nat-langchain",
-    "aiqtoolkit-semantic-kernel",
-    "test-ylang",
-    "aiqtoolkit-weave",
-    "aiqtoolkit-mem0ai",
-    "aiqtoolkit-test"
+    "nvidia-nat-profiling"
   ]
 }

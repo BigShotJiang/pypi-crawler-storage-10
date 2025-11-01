@@ -1,0 +1,11 @@
+{
+  "name": "opty",
+  "version": "1.5.0",
+  "summary": "Tool for optimizing dynamic systems using direct collocation.",
+  "author": "Jason K. Moore",
+  "license": "BSD-2-clause",
+  "home_page": "http://github.com/csu-hmc/opty",
+  "download_filename": "opty-1.5.0.tar.gz",
+  "download_time": "2025-11-01T08:55:21.241757",
+  "package_url": "https://pypi.org/project/opty/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "browserist",
+  "version": "1.7.12",
+  "summary": "Extension for the Selenium web driver that makes browser automation even easier",
+  "author": "Jakob Bagterp",
+  "license": "Apache-2.0",
+  "home_page": "https://jakob-bagterp.github.io/browserist/",
+  "download_filename": "browserist-1.7.12.tar.gz",
+  "download_time": "2025-11-01T08:55:20.186608",
+  "package_url": "https://pypi.org/project/browserist/"
+}

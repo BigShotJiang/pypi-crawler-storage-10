@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T08:45:58.858562
+- **Download Time**: 2025-11-01T08:56:07.809332
 - **Total Packages**: 88
-- **Total Size**: 12.06 MB
+- **Total Size**: 0.96 MB
 
 ## Packages List
+- abstract-utilities
+- marinabox
+- browserist
+- adiumentum
+- opty
+- mns-common
+- pycses
+- vega-framework
 - fastapps
 - tfp-nightly
 - pyeasyphd
@@ -86,11 +94,3 @@
 - nvidia-nat-ragaai
 - fcs-order
 - nvidia-nat-profiling
-- ant-ray-cpp-nightly
-- nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- test-ylang
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
