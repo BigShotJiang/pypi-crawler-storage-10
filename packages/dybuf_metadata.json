@@ -1,11 +1,11 @@
 {
   "name": "dybuf",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python bindings for the dybuf dynamic buffer library.",
   "author": null,
   "license": "GPL-2.0-only",
   "home_page": null,
-  "download_filename": "dybuf-0.4.0.tar.gz",
-  "download_time": "2025-11-01T02:58:21.797812",
+  "download_filename": "dybuf-0.4.1.tar.gz",
+  "download_time": "2025-11-01T07:18:51.205209",
   "package_url": "https://pypi.org/project/dybuf/"
 }
