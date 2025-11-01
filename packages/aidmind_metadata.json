@@ -1,0 +1,11 @@
+{
+  "name": "aidmind",
+  "version": "1.0.0",
+  "summary": "Unsupervised machine learning for humanitarian needs assessment and visualization",
+  "author": "AidMind Team",
+  "license": null,
+  "home_page": "https://github.com/yourorg/aidmind",
+  "download_filename": "aidmind-1.0.0.tar.gz",
+  "download_time": "2025-11-01T06:25:48.296417",
+  "package_url": "https://pypi.org/project/aidmind/"
+}

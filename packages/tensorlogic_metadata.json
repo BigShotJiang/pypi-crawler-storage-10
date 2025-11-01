@@ -1,0 +1,11 @@
+{
+  "name": "tensorlogic",
+  "version": "0.0.4",
+  "summary": "Tensor Logic: a named-index tensor language that unifies logic and tensor computation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorlogic-0.0.4.tar.gz",
+  "download_time": "2025-11-01T06:26:02.240156",
+  "package_url": "https://pypi.org/project/tensorlogic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wayspiritmcp-enconly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "enconly test",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wayspiritmcp_enconly-0.1.0.tar.gz",
-  "download_time": "2025-11-01T05:52:37.910136",
+  "download_filename": "wayspiritmcp_enconly-0.1.1.tar.gz",
+  "download_time": "2025-11-01T06:26:06.009379",
   "package_url": "https://pypi.org/project/wayspiritmcp-enconly/"
 }

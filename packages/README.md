@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T05:53:13.039813
-- **Total Packages**: 69
-- **Total Size**: 5.1 MB
+- **Download Time**: 2025-11-01T06:26:37.535686
+- **Total Packages**: 90
+- **Total Size**: 2.08 MB
 
 ## Packages List
+- aidmind
+- nonebot-plugin-multincm
+- omuserver
+- omuplugin-translator
+- omuplugin-obs
+- omuplugin-nyanya
+- omuplugin-emoji
+- flowno
+- omuplugin-discordrpc
+- omuplugin-archive
+- omu-chatprovider
+- omu-chat-youtube
+- omu-chat-twitch
+- omu-chat
+- omu
+- pulumi-external
+- duplifinder
+- pytest-pl-grader
+- finesse-benchmark
+- oect-infra
+- pulumi-dnsimple
+- openevolve
+- tensorlogic
+- pulumi-dbtcloud
+- easyresume
+- aibrix
+- git-commit-message
 - testmcpy
 - pulumi-databricks
 - wayspiritmcp-enconly
@@ -69,9 +96,3 @@
 - highway-core
 - jacobi-poly
 - shadowpay
-- pico-editor
-- archaea-core
-- win32more-Microsoft.WindowsAppSDK
-- llms-py
-- keras-nlp-nightly
-- keras-hub-nightly

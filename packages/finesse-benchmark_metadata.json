@@ -1,11 +1,11 @@
 {
   "name": "finesse-benchmark",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "summary": "sophisticated evaluation framework designed to assess the performance of long-context embedding models on semantic understanding and information retention",
   "author": "winter.sci.dev",
   "license": null,
   "home_page": null,
-  "download_filename": "finesse_benchmark-0.11.1.tar.gz",
-  "download_time": "2025-10-30T21:54:11.434319",
+  "download_filename": "finesse_benchmark-0.12.0.tar.gz",
+  "download_time": "2025-11-01T06:25:59.845516",
   "package_url": "https://pypi.org/project/finesse-benchmark/"
 }

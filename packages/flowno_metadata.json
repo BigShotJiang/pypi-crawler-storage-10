@@ -1,11 +1,11 @@
 {
   "name": "flowno",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A Python DSL for writing dataflow programs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flowno-0.1.9.tar.gz",
-  "download_time": "2025-11-01T02:58:59.144028",
+  "download_filename": "flowno-0.1.10.tar.gz",
+  "download_time": "2025-11-01T06:25:52.797131",
   "package_url": "https://pypi.org/project/flowno/"
 }
