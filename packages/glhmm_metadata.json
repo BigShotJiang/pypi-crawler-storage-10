@@ -1,0 +1,11 @@
+{
+  "name": "glhmm",
+  "version": "1.1.2",
+  "summary": "Gaussian Linear Hidden Markov Model",
+  "author": "Diego Vidaurre",
+  "license": null,
+  "home_page": "https://github.com/vidaurre/glhmm",
+  "download_filename": "glhmm-1.1.2.tar.gz",
+  "download_time": "2025-11-01T06:48:45.715932",
+  "package_url": "https://pypi.org/project/glhmm/"
+}

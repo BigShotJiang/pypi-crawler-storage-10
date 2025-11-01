@@ -1,0 +1,11 @@
+{
+  "name": "fpsboost3d",
+  "version": "0.1.0",
+  "summary": "Narzędzia do monitorowania i prostych optymalizacji wydajności gier 3D",
+  "author": "Nikodem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fpsboost3d-0.1.0.tar.gz",
+  "download_time": "2025-11-01T06:49:02.415919",
+  "package_url": "https://pypi.org/project/fpsboost3d/"
+}

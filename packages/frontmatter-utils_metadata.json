@@ -1,0 +1,11 @@
+{
+  "name": "frontmatter-utils",
+  "version": "0.15.0",
+  "summary": "A Python library and CLI tool for parsing and searching front matter in files",
+  "author": "Gerald Nguyen The Huy",
+  "license": null,
+  "home_page": "https://github.com/geraldnguyen/frontmatter-utils",
+  "download_filename": "frontmatter_utils-0.15.0.tar.gz",
+  "download_time": "2025-11-01T06:48:59.821820",
+  "package_url": "https://pypi.org/project/frontmatter-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ai-edge-litert-sdk-mediatek-nightly",
-  "version": "0.2.0.dev20251029",
+  "version": "0.2.0.dev20251031",
   "summary": "MediaTek NeuroPilot SDK for AI Edge LiteRT",
   "author": "Google AI Edge Authors",
   "license": "Apache 2.0",
   "home_page": "https://www.tensorflow.org/lite/",
-  "download_filename": "ai_edge_litert_sdk_mediatek_nightly-0.2.0.dev20251029.tar.gz",
-  "download_time": "2025-10-30T06:51:58.665075",
+  "download_filename": "ai_edge_litert_sdk_mediatek_nightly-0.2.0.dev20251031.tar.gz",
+  "download_time": "2025-11-01T06:48:49.361464",
   "package_url": "https://pypi.org/project/ai-edge-litert-sdk-mediatek-nightly/"
 }
