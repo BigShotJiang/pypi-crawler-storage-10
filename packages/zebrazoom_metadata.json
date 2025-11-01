@@ -1,0 +1,11 @@
+{
+  "name": "zebrazoom",
+  "version": "1.34.96",
+  "summary": "Track and analyze zebrafish and animal behavior",
+  "author": "Olivier Mirat",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/oliviermirat/ZebraZoom",
+  "download_filename": "zebrazoom-1.34.96.tar.gz",
+  "download_time": "2025-11-01T07:41:27.388475",
+  "package_url": "https://pypi.org/project/zebrazoom/"
+}

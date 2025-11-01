@@ -1,0 +1,11 @@
+{
+  "name": "math-bridge",
+  "version": "1.0.0",
+  "summary": "Biblioteka matematyczna",
+  "author": "Twoje Imię",
+  "license": "MIT",
+  "home_page": "https://github.com/twoj-username/math-bridge",
+  "download_filename": "math_bridge-1.0.0.tar.gz",
+  "download_time": "2025-11-01T07:41:30.758983",
+  "package_url": "https://pypi.org/project/math-bridge/"
+}
