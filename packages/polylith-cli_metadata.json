@@ -1,11 +1,11 @@
 {
   "name": "polylith-cli",
-  "version": "1.35.2",
+  "version": "1.36.0",
   "summary": "Python tooling support for the Polylith Architecture",
   "author": "David Vujic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polylith_cli-1.35.2.tar.gz",
-  "download_time": "2025-10-29T21:17:05.362788",
+  "download_filename": "polylith_cli-1.36.0.tar.gz",
+  "download_time": "2025-11-01T08:45:25.129370",
   "package_url": "https://pypi.org/project/polylith-cli/"
 }

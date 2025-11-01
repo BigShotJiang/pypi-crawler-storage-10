@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T08:22:57.507794
-- **Total Packages**: 85
-- **Total Size**: 24.55 MB
+- **Download Time**: 2025-11-01T08:45:58.858562
+- **Total Packages**: 88
+- **Total Size**: 12.06 MB
 
 ## Packages List
+- fastapps
+- tfp-nightly
+- pyeasyphd
+- earthcare-downloader
+- kib-lap
+- weakincentives
+- kittylog
+- msfabricutils
+- pybibtexer
+- SnakeScan
+- wooscloud
+- pyformatjson
+- bxson
+- iterabledata
+- lll-simple-ai-shared
+- validate-pyproject-schema-store
+- mqtt-rl-bridge
+- apitally
+- langfuse-mcp-better
+- pulse-framework
+- hhelper
+- optillm
+- mkdocs-mermaid-to-svg
+- hurodes
+- Blinter
+- SpectraFit
+- polylith-cli
+- poetry-polylith-plugin
 - django-powercrud
 - csf-crypto
 - sphinx-notionbuilder
@@ -54,7 +82,6 @@
 - liftlens
 - nvidia-nat-agno
 - nvidia-nat-opentelemetry
-- Blinter
 - nblm
 - nvidia-nat-ragaai
 - fcs-order
@@ -67,27 +94,3 @@
 - aiqtoolkit-weave
 - aiqtoolkit-mem0ai
 - aiqtoolkit-test
-- pulumi-gcp
-- aiqtoolkit-llama-index
-- pro-craft
-- aiqtoolkit
-- aiqtoolkit-langchain
-- aiqtoolkit-crewai
-- fracnetics
-- backupchan-client-lib
-- aiqtoolkit-zep-cloud
-- moai-adk
-- seqmat
-- aiqtoolkit-agno
-- PaCS-Q
-- pywebtask
-- mos-pyqt-dialogs
-- notionary
-- nbsync
-- tensorwatchext
-- videobgremover
-- stok
-- kittylog
-- fetch-cpy-src
-- speclike
-- OpenImageIO

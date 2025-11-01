@@ -1,0 +1,11 @@
+{
+  "name": "iterabledata",
+  "version": "1.0.6",
+  "summary": "Iterable data processing Python library",
+  "author": "Ivan Begtin",
+  "license": "MIT",
+  "home_page": "https://github.com/apicrafter/pyiterable/",
+  "download_filename": "iterabledata-1.0.6.tar.gz",
+  "download_time": "2025-11-01T08:45:17.832815",
+  "package_url": "https://pypi.org/project/iterabledata/"
+}

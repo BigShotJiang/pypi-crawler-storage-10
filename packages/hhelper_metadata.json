@@ -1,0 +1,11 @@
+{
+  "name": "hhelper",
+  "version": "0.3.0",
+  "summary": "Helper Functions for hledger plain text accounting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hhelper-0.3.0.tar.gz",
+  "download_time": "2025-11-01T08:45:21.475502",
+  "package_url": "https://pypi.org/project/hhelper/"
+}
