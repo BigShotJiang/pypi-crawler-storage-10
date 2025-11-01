@@ -1,11 +1,11 @@
 {
   "name": "px6-proxy-fetcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Fetch and export proxy listings from PROXY6.net.",
   "author": "Terence Dignon",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "px6_proxy_fetcher-0.1.0.tar.gz",
-  "download_time": "2025-11-01T04:43:28.329260",
+  "download_filename": "px6_proxy_fetcher-0.1.1.tar.gz",
+  "download_time": "2025-11-01T05:18:24.829652",
   "package_url": "https://pypi.org/project/px6-proxy-fetcher/"
 }
