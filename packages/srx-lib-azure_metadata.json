@@ -1,11 +1,11 @@
 {
   "name": "srx-lib-azure",
-  "version": "0.1.7",
-  "summary": "Azure helpers for SRX services: Blob, Email, Table",
+  "version": "0.2.0",
+  "summary": "Azure helpers for SRX services: Blob, Email, Table, Document Intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "srx_lib_azure-0.1.7.tar.gz",
-  "download_time": "2025-10-25T06:54:51.140745",
+  "download_filename": "srx_lib_azure-0.2.0.tar.gz",
+  "download_time": "2025-11-01T10:18:47.696864",
   "package_url": "https://pypi.org/project/srx-lib-azure/"
 }

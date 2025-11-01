@@ -1,0 +1,11 @@
+{
+  "name": "scikit-extensions",
+  "version": "0.1.1",
+  "summary": "A collection of Scikit-learn-compatible transformers for feature engineering, preprocessing, and pipeline utilities.",
+  "author": "sh99",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/scikit-extensions",
+  "download_filename": "scikit_extensions-0.1.1.tar.gz",
+  "download_time": "2025-11-01T10:19:15.547141",
+  "package_url": "https://pypi.org/project/scikit-extensions/"
+}
